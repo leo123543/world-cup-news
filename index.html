@@ -11,6 +11,7 @@
       --brand-blue: #165DFF;
       --grad-hero: linear-gradient(120deg, #3C5DFF 0%, #24A8FF 50%, #CE7FFF 100%);
       --green: #16C784;
+      --amber: #F5A524;
       --text-primary: #FFFFFF;
       --text-secondary: #8A92A3;
       --border: rgba(255,255,255,0.07);
@@ -32,172 +33,123 @@
     header {
       background: linear-gradient(160deg, #0d1a40 0%, #0B0D12 65%);
       border-bottom: 1px solid var(--border);
-      padding: 20px 40px;
+      padding: 18px 40px;
+      position: sticky; top: 0; z-index: 10;
+      backdrop-filter: blur(12px);
     }
     .header-inner {
-      max-width: 1200px;
-      margin: 0 auto;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 16px;
-      flex-wrap: wrap;
+      max-width: 1200px; margin: 0 auto;
+      display: flex; align-items: center;
+      justify-content: space-between; gap: 16px; flex-wrap: wrap;
     }
     .logo-area { display: flex; align-items: center; gap: 14px; }
-    .logo-divider { width: 1px; height: 24px; background: rgba(255,255,255,0.15); }
-    .site-label { font-size: 15px; font-weight: 600; letter-spacing: -0.01em; }
+    .logo-divider { width: 1px; height: 22px; background: rgba(255,255,255,0.15); }
+    .site-label { font-size: 14px; font-weight: 600; letter-spacing: -0.01em; }
+    .header-right { display: flex; align-items: center; gap: 16px; }
+
+    /* Live badge */
     .live-badge {
       display: flex; align-items: center; gap: 6px;
-      background: rgba(22,199,132,0.1);
-      color: var(--green);
-      border: 1px solid rgba(22,199,132,0.22);
-      border-radius: var(--r-pill);
-      padding: 4px 12px;
-      font-size: 11px; font-weight: 700;
+      background: rgba(22,199,132,0.1); color: var(--green);
+      border: 1px solid rgba(22,199,132,0.22); border-radius: var(--r-pill);
+      padding: 4px 12px; font-size: 11px; font-weight: 700;
       letter-spacing: 0.08em; text-transform: uppercase;
     }
-    .live-dot {
-      width: 6px; height: 6px; border-radius: 50%;
-      background: var(--green);
-      animation: blink 2s infinite;
-    }
+    .live-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--green); animation: blink 2s infinite; }
     @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0.25} }
 
+    /* Language toggle */
+    .lang-ctrl { display: flex; align-items: center; gap: 2px; background: rgba(255,255,255,0.05); border-radius: var(--r-pill); padding: 3px; }
+    .lang-btn {
+      background: none; border: none; cursor: pointer;
+      font-size: 12px; font-weight: 600; color: var(--text-secondary);
+      padding: 5px 14px; border-radius: var(--r-pill);
+      transition: all .15s ease; font-family: inherit;
+    }
+    .lang-btn.active { background: var(--brand-blue); color: #fff; }
+    .lang-btn:not(.active):hover { color: var(--text-primary); }
+
     /* ── Hero ── */
-    .hero {
-      background: var(--grad-hero);
-      padding: 52px 40px 48px;
-      text-align: center;
-    }
-    .hero-eyebrow {
-      font-size: 11px; font-weight: 700;
-      letter-spacing: 0.12em; text-transform: uppercase;
-      color: rgba(255,255,255,0.65);
-      margin-bottom: 14px;
-    }
-    .hero-title {
-      font-size: 52px; font-weight: 700;
-      letter-spacing: -0.04em; line-height: 1.05;
-      color: #fff; margin-bottom: 12px;
-    }
-    .hero-sub { font-size: 15px; color: rgba(255,255,255,0.7); }
+    .hero { background: var(--grad-hero); padding: 44px 40px 40px; text-align: center; }
+    .hero-eyebrow { font-size: 11px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: rgba(255,255,255,0.65); margin-bottom: 12px; }
+    .hero-title { font-size: 48px; font-weight: 700; letter-spacing: -0.04em; line-height: 1.05; color: #fff; margin-bottom: 10px; }
+    .hero-sub { font-size: 14px; color: rgba(255,255,255,0.7); }
 
     /* ── Main ── */
-    main {
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 32px 40px 72px;
-    }
+    main { max-width: 1200px; margin: 0 auto; padding: 28px 40px 72px; }
 
-    .status-bar {
-      display: flex; align-items: center;
-      justify-content: space-between;
-      margin-bottom: 22px; flex-wrap: wrap; gap: 8px;
-    }
-    .status-count { font-size: 14px; color: var(--text-secondary); }
+    .status-bar { display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px; flex-wrap: wrap; gap: 8px; }
+    .status-count { font-size: 13px; color: var(--text-secondary); }
     .status-count strong { color: var(--text-primary); }
-    .status-time { font-size: 13px; color: var(--text-secondary); }
+    .status-meta { display: flex; align-items: center; gap: 12px; font-size: 12px; color: var(--text-secondary); }
+    .status-window { background: rgba(22,93,255,0.12); color: #6B9FFF; border: 1px solid rgba(22,93,255,0.2); border-radius: var(--r-pill); padding: 2px 10px; font-size: 11px; font-weight: 600; }
 
     /* ── Grid ── */
-    .grid {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 14px;
-    }
+    .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
 
     /* ── Card ── */
     .card {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: var(--r-m);
-      padding: 18px 20px;
-      display: flex; flex-direction: column; gap: 10px;
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: var(--r-m); padding: 16px 18px;
+      display: flex; flex-direction: column; gap: 9px;
       text-decoration: none; color: inherit;
       transition: border-color .15s ease, transform .15s ease;
     }
-    .card:hover {
-      border-color: rgba(22,93,255,0.45);
-      transform: translateY(-2px);
-    }
-    .card-meta {
-      display: flex; align-items: center;
-      justify-content: space-between; gap: 8px;
-    }
-    .source-chip {
-      font-size: 10px; font-weight: 700;
-      letter-spacing: 0.05em; text-transform: uppercase;
-      padding: 3px 9px; border-radius: var(--r-pill);
-      background: rgba(22,93,255,0.14);
-      color: #6B9FFF;
-      border: 1px solid rgba(22,93,255,0.22);
-      white-space: nowrap;
-    }
-    .card-time { font-size: 12px; color: var(--text-secondary); white-space: nowrap; }
+    .card:hover { border-color: rgba(22,93,255,0.4); transform: translateY(-2px); }
+
+    .card-top { display: flex; align-items: center; justify-content: space-between; gap: 6px; flex-wrap: wrap; }
+    .card-badges { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+
+    /* Badges */
+    .badge { font-size: 10px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; padding: 2px 8px; border-radius: var(--r-pill); }
+    .badge-trending { background: rgba(245,165,36,0.15); color: var(--amber); border: 1px solid rgba(245,165,36,0.25); }
+    .badge-hot { background: rgba(234,57,67,0.12); color: #FF6B75; border: 1px solid rgba(234,57,67,0.2); }
+    .source-chip { font-size: 10px; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; padding: 2px 9px; border-radius: var(--r-pill); background: rgba(22,93,255,0.14); color: #6B9FFF; border: 1px solid rgba(22,93,255,0.22); }
+    .card-time { font-size: 11px; color: var(--text-secondary); white-space: nowrap; margin-left: auto; }
+
+    /* Title */
     .card-title {
-      font-size: 14px; font-weight: 600;
-      line-height: 1.5; color: var(--text-primary);
-      display: -webkit-box;
-      -webkit-line-clamp: 3;
-      -webkit-box-orient: vertical;
-      overflow: hidden;
+      font-size: 14px; font-weight: 600; line-height: 1.5; color: var(--text-primary);
+      display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
+      transition: opacity .2s ease;
     }
-    .card-desc {
-      font-size: 12px; color: var(--text-secondary);
-      line-height: 1.6; flex: 1;
-      display: -webkit-box;
-      -webkit-line-clamp: 2;
-      -webkit-box-orient: vertical;
-      overflow: hidden;
+    .card-title.translating { opacity: 0.35; }
+
+    /* SM Headline */
+    .sm-headline {
+      background: rgba(22,93,255,0.07); border-left: 2px solid rgba(22,93,255,0.5);
+      border-radius: 0 6px 6px 0; padding: 7px 10px;
+      display: flex; flex-direction: column; gap: 3px;
     }
-    .card-cta {
-      font-size: 12px; font-weight: 600;
-      color: var(--brand-blue);
-      margin-top: 2px;
-    }
+    .sm-label { font-size: 9px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: #6B9FFF; }
+    .sm-text { font-size: 12px; color: #B8C4FF; line-height: 1.5; font-style: italic; }
+
+    /* Team chips */
+    .team-chips { display: flex; flex-wrap: wrap; gap: 5px; }
+    .team-chip { font-size: 10px; font-weight: 600; padding: 2px 8px; border-radius: var(--r-pill); background: rgba(22,199,132,0.1); color: var(--green); border: 1px solid rgba(22,199,132,0.2); }
+
+    /* Description */
+    .card-desc { font-size: 12px; color: var(--text-secondary); line-height: 1.6; flex: 1; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+    .card-cta { font-size: 12px; font-weight: 600; color: var(--brand-blue); margin-top: 2px; }
 
     /* ── Skeleton ── */
-    @keyframes shimmer {
-      0%   { background-position: -200% 0; }
-      100% { background-position:  200% 0; }
-    }
-    .sk-card {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: var(--r-m);
-      padding: 18px 20px;
-      display: flex; flex-direction: column; gap: 12px;
-    }
-    .sk {
-      border-radius: 5px;
-      background: linear-gradient(90deg, #1a1d28 25%, #252a3a 50%, #1a1d28 75%);
-      background-size: 200% 100%;
-      animation: shimmer 1.6s infinite;
-    }
+    @keyframes shimmer { 0%{background-position:-200% 0} 100%{background-position:200% 0} }
+    .sk-card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--r-m); padding: 16px 18px; display: flex; flex-direction: column; gap: 10px; }
+    .sk { border-radius: 5px; background: linear-gradient(90deg,#1a1d28 25%,#252a3a 50%,#1a1d28 75%); background-size: 200% 100%; animation: shimmer 1.6s infinite; }
 
-    /* ── Error ── */
-    .error-msg {
-      grid-column: 1 / -1;
-      text-align: center; padding: 64px 20px;
-      color: var(--text-secondary);
-    }
+    /* ── Error / Empty ── */
+    .error-msg { grid-column: 1/-1; text-align: center; padding: 64px 20px; color: var(--text-secondary); }
     .error-msg h3 { color: var(--text-primary); margin-bottom: 8px; font-size: 18px; }
 
     /* ── Footer ── */
-    footer {
-      text-align: center; padding: 20px;
-      font-size: 11px; color: var(--text-secondary);
-      border-top: 1px solid var(--border);
-    }
+    footer { text-align: center; padding: 20px; font-size: 11px; color: var(--text-secondary); border-top: 1px solid var(--border); }
 
     /* ── Responsive ── */
-    @media (max-width: 960px) {
-      .grid { grid-template-columns: repeat(2, 1fr); }
-    }
+    @media (max-width: 960px) { .grid { grid-template-columns: repeat(2,1fr); } }
     @media (max-width: 600px) {
-      header { padding: 16px 20px; }
-      .hero { padding: 40px 20px 36px; }
-      .hero-title { font-size: 36px; }
-      main { padding: 24px 20px 56px; }
+      header { padding: 14px 20px; }
+      .hero { padding: 36px 20px 32px; } .hero-title { font-size: 32px; }
+      main { padding: 20px 16px 56px; }
       .grid { grid-template-columns: 1fr; }
     }
   </style>
@@ -207,8 +159,7 @@
 <header>
   <div class="header-inner">
     <div class="logo-area">
-      <!-- AInvest white logo -->
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="790 375 985 200" fill="none" height="24">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="790 375 985 200" fill="none" height="22">
         <g fill="#FFFFFF">
           <path d="M957.809 562.006H829.267L957.809 448.375V562.006ZM1014.94 562.006H972.091V489.589L1014.94 448.375V562.006ZM1042.58 422.153L1031.97 410.029L972.326 467.013V412.488L809.476 560.222H794.99L981.952 390.614V444.36L1025.55 402.703L1014.94 390.584L1054.93 381.362L1042.58 422.153Z"/>
           <path d="M1149.96 562.389L1141.88 534.277H1096.49L1088.41 562.389H1054.24L1098.88 430.65H1138.94L1184.14 562.389H1149.96ZM1127.18 481.912C1126.57 479.708 1125.71 476.768 1124.61 473.093C1123.63 469.296 1122.59 465.437 1121.48 461.518C1120.5 457.598 1119.71 454.291 1119.09 451.596C1118.6 454.291 1117.81 457.659 1116.71 461.701C1115.73 465.621 1114.75 469.48 1113.77 473.277C1112.79 476.952 1111.99 479.83 1111.38 481.912L1103.66 508.187H1134.9L1127.18 481.912Z"/>
@@ -223,9 +174,12 @@
       <div class="logo-divider"></div>
       <span class="site-label">World Cup 2026</span>
     </div>
-    <div class="live-badge">
-      <div class="live-dot"></div>
-      Live
+    <div class="header-right">
+      <div class="lang-ctrl">
+        <button class="lang-btn active" id="btnEN" onclick="setLang('en')">EN</button>
+        <button class="lang-btn" id="btnCN" onclick="setLang('cn')">中文</button>
+      </div>
+      <div class="live-badge"><div class="live-dot"></div>Live</div>
     </div>
   </div>
 </header>
@@ -239,7 +193,10 @@
 <main>
   <div class="status-bar">
     <div class="status-count" id="statusCount">Loading...</div>
-    <div class="status-time" id="statusTime"></div>
+    <div class="status-meta">
+      <span class="status-window">Last 12 hours</span>
+      <span id="statusTime"></span>
+    </div>
   </div>
   <div class="grid" id="grid"></div>
 </main>
@@ -249,6 +206,10 @@
 </footer>
 
 <script>
+  let currentItems = [];
+  let isCN = false;
+  const cnCache = {};
+
   function timeAgo(str) {
     const d = new Date(str);
     if (isNaN(d)) return '';
@@ -260,42 +221,133 @@
   }
 
   function esc(s) {
-    return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+    return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
   }
 
   function safeHref(url) {
     return url && url.startsWith('http') ? url : '#';
   }
 
-  function skeletons(n) {
-    const row = `
-      <div class="sk-card">
-        <div style="display:flex;justify-content:space-between">
-          <div class="sk" style="height:18px;width:72px;border-radius:99px"></div>
-          <div class="sk" style="height:12px;width:44px"></div>
-        </div>
-        <div class="sk" style="height:13px;width:100%"></div>
-        <div class="sk" style="height:13px;width:80%"></div>
-        <div class="sk" style="height:13px;width:65%"></div>
-        <div class="sk" style="height:11px;width:100%"></div>
-        <div class="sk" style="height:11px;width:55%"></div>
-      </div>`;
-    return Array(n).fill(row).join('');
+  // 在标题/描述中高亮球队名
+  function highlightTeams(text, teams) {
+    if (!teams || teams.length === 0) return esc(text);
+    let result = esc(text);
+    teams.forEach(team => {
+      const re = new RegExp(`\\b${esc(team)}\\b`, 'gi');
+      result = result.replace(re, `<mark class="team-hl">$&</mark>`);
+    });
+    return result;
   }
 
-  function renderCard(item) {
+  function renderCard(item, rank) {
+    const trendBadge = rank === 0 ? `<span class="badge badge-trending">#1 Trending</span>`
+      : rank <= 2 ? `<span class="badge badge-trending">#${rank + 1}</span>`
+      : rank <= 4 ? `<span class="badge badge-hot">Hot</span>`
+      : '';
+
+    const teamChips = item.teams && item.teams.length > 0
+      ? `<div class="team-chips">${item.teams.slice(0, 5).map(t => `<span class="team-chip">${esc(t)}</span>`).join('')}</div>`
+      : '';
+
+    const descHtml = item.description
+      ? `<div class="card-desc">${highlightTeams(item.description, item.teams)}</div>`
+      : '';
+
     return `
       <a class="card" href="${safeHref(item.link)}" target="_blank" rel="noopener noreferrer">
-        <div class="card-meta">
-          <span class="source-chip">${esc(item.source)}</span>
+        <div class="card-top">
+          <div class="card-badges">
+            ${trendBadge}
+            <span class="source-chip">${esc(item.source)}</span>
+          </div>
           <span class="card-time">${timeAgo(item.pubDate)}</span>
         </div>
-        <div class="card-title">${esc(item.title)}</div>
-        ${item.description ? `<div class="card-desc">${esc(item.description)}</div>` : ''}
+        <div class="card-title" data-en="${esc(item.title)}">${highlightTeams(item.title, item.teams)}</div>
+        <div class="sm-headline">
+          <span class="sm-label">Post-ready · ${countWords(item.smHeadline)} words</span>
+          <span class="sm-text">"${esc(item.smHeadline)}"</span>
+        </div>
+        ${teamChips}
+        ${descHtml}
         <div class="card-cta">Read article →</div>
       </a>`;
   }
 
+  function countWords(str) {
+    return str ? str.trim().split(/\s+/).length : 0;
+  }
+
+  function skeletons(n) {
+    const s = `
+      <div class="sk-card">
+        <div style="display:flex;justify-content:space-between;align-items:center">
+          <div style="display:flex;gap:6px">
+            <div class="sk" style="height:18px;width:60px;border-radius:99px"></div>
+            <div class="sk" style="height:18px;width:72px;border-radius:99px"></div>
+          </div>
+          <div class="sk" style="height:11px;width:44px"></div>
+        </div>
+        <div class="sk" style="height:14px;width:100%"></div>
+        <div class="sk" style="height:14px;width:80%"></div>
+        <div class="sk" style="height:52px;width:100%;border-radius:6px"></div>
+        <div style="display:flex;gap:5px">
+          <div class="sk" style="height:18px;width:56px;border-radius:99px"></div>
+          <div class="sk" style="height:18px;width:48px;border-radius:99px"></div>
+        </div>
+        <div class="sk" style="height:11px;width:100%"></div>
+        <div class="sk" style="height:11px;width:65%"></div>
+      </div>`;
+    return Array(n).fill(s).join('');
+  }
+
+  // ── Translation ──
+  async function translateOne(text) {
+    if (cnCache[text]) return cnCache[text];
+    try {
+      const ctrl = new AbortController();
+      const tid = setTimeout(() => ctrl.abort(), 4000);
+      const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=zh-CN&dt=t&q=${encodeURIComponent(text)}`;
+      const res = await fetch(url, { signal: ctrl.signal });
+      clearTimeout(tid);
+      const data = await res.json();
+      const translated = data[0].map(p => p[0]).join('');
+      cnCache[text] = translated || text;
+      return cnCache[text];
+    } catch {
+      cnCache[text] = text;
+      return text;
+    }
+  }
+
+  async function setLang(lang) {
+    isCN = lang === 'cn';
+    document.getElementById('btnEN').classList.toggle('active', !isCN);
+    document.getElementById('btnCN').classList.toggle('active', isCN);
+
+    const titleEls = Array.from(document.querySelectorAll('.card-title'));
+    if (!isCN) {
+      titleEls.forEach(el => {
+        el.innerHTML = highlightTeams(el.dataset.en, currentItems.find(i => esc(i.title) === el.dataset.en)?.teams || []);
+      });
+      return;
+    }
+
+    // Mark as translating
+    titleEls.forEach(el => el.classList.add('translating'));
+
+    // Translate in batches of 5
+    for (let i = 0; i < titleEls.length; i += 5) {
+      const batch = titleEls.slice(i, i + 5);
+      const translated = await Promise.all(batch.map(el => translateOne(el.dataset.en)));
+      batch.forEach((el, j) => {
+        const item = currentItems.find(it => esc(it.title) === el.dataset.en);
+        el.innerHTML = highlightTeams(translated[j], item?.teams || []);
+        el.classList.remove('translating');
+      });
+    }
+  }
+
+  // ── Data fetch ──
   async function load() {
     const grid = document.getElementById('grid');
     const countEl = document.getElementById('statusCount');
@@ -309,13 +361,14 @@
       const { items, fetchedAt } = await res.json();
 
       if (!items || items.length === 0) {
-        grid.innerHTML = '<div class="error-msg"><h3>No articles found</h3><p>Try refreshing the page.</p></div>';
+        grid.innerHTML = '<div class="error-msg"><h3>No articles in the last 12 hours</h3><p>Try refreshing the page.</p></div>';
         countEl.textContent = '0 articles';
         return;
       }
 
-      grid.innerHTML = items.map(renderCard).join('');
-      countEl.innerHTML = `<strong>${items.length}</strong> articles`;
+      currentItems = items;
+      grid.innerHTML = items.map((item, i) => renderCard(item, i)).join('');
+      countEl.innerHTML = `<strong>${items.length}</strong> articles · sorted by virality`;
       timeEl.textContent = 'Updated ' + timeAgo(fetchedAt);
     } catch (err) {
       grid.innerHTML = `<div class="error-msg"><h3>Could not load news</h3><p>${esc(err.message)}</p></div>`;
@@ -325,5 +378,16 @@
 
   load();
 </script>
+
+<style>
+  mark.team-hl {
+    background: rgba(22,199,132,0.18);
+    color: var(--green);
+    border-radius: 3px;
+    padding: 0 2px;
+    font-style: normal;
+  }
+</style>
+
 </body>
 </html>
