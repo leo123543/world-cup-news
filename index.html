@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>World Cup 2026 · Live Football News</title>
+  <style>
+    :root {
+      --bg: #0B0D12;
+      --surface: #13161F;
+      --brand-blue: #165DFF;
+      --grad-hero: linear-gradient(120deg, #3C5DFF 0%, #24A8FF 50%, #CE7FFF 100%);
+      --green: #16C784;
+      --text-primary: #FFFFFF;
+      --text-secondary: #8A92A3;
+      --border: rgba(255,255,255,0.07);
+      --r-m: 16px;
+      --r-pill: 999px;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text-primary);
+      font-family: -apple-system, 'SF Pro Display', 'SF Pro Text', 'Segoe UI', sans-serif;
+      min-height: 100vh;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* ── Header ── */
+    header {
+      background: linear-gradient(160deg, #0d1a40 0%, #0B0D12 65%);
+      border-bottom: 1px solid var(--border);
+      padding: 20px 40px;
+    }
+    .header-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+    .logo-area { display: flex; align-items: center; gap: 14px; }
+    .logo-divider { width: 1px; height: 24px; background: rgba(255,255,255,0.15); }
+    .site-label { font-size: 15px; font-weight: 600; letter-spacing: -0.01em; }
+    .live-badge {
+      display: flex; align-items: center; gap: 6px;
+      background: rgba(22,199,132,0.1);
+      color: var(--green);
+      border: 1px solid rgba(22,199,132,0.22);
+      border-radius: var(--r-pill);
+      padding: 4px 12px;
+      font-size: 11px; font-weight: 700;
+      letter-spacing: 0.08em; text-transform: uppercase;
+    }
+    .live-dot {
+      width: 6px; height: 6px; border-radius: 50%;
+      background: var(--green);
+      animation: blink 2s infinite;
+    }
+    @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0.25} }
+
+    /* ── Hero ── */
+    .hero {
+      background: var(--grad-hero);
+      padding: 52px 40px 48px;
+      text-align: center;
+    }
+    .hero-eyebrow {
+      font-size: 11px; font-weight: 700;
+      letter-spacing: 0.12em; text-transform: uppercase;
+      color: rgba(255,255,255,0.65);
+      margin-bottom: 14px;
+    }
+    .hero-title {
+      font-size: 52px; font-weight: 700;
+      letter-spacing: -0.04em; line-height: 1.05;
+      color: #fff; margin-bottom: 12px;
+    }
+    .hero-sub { font-size: 15px; color: rgba(255,255,255,0.7); }
+
+    /* ── Main ── */
+    main {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 32px 40px 72px;
+    }
+
+    .status-bar {
+      display: flex; align-items: center;
+      justify-content: space-between;
+      margin-bottom: 22px; flex-wrap: wrap; gap: 8px;
+    }
+    .status-count { font-size: 14px; color: var(--text-secondary); }
+    .status-count strong { color: var(--text-primary); }
+    .status-time { font-size: 13px; color: var(--text-secondary); }
+
+    /* ── Grid ── */
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 14px;
+    }
+
+    /* ── Card ── */
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--r-m);
+      padding: 18px 20px;
+      display: flex; flex-direction: column; gap: 10px;
+      text-decoration: none; color: inherit;
+      transition: border-color .15s ease, transform .15s ease;
+    }
+    .card:hover {
+      border-color: rgba(22,93,255,0.45);
+      transform: translateY(-2px);
+    }
+    .card-meta {
+      display: flex; align-items: center;
+      justify-content: space-between; gap: 8px;
+    }
+    .source-chip {
+      font-size: 10px; font-weight: 700;
+      letter-spacing: 0.05em; text-transform: uppercase;
+      padding: 3px 9px; border-radius: var(--r-pill);
+      background: rgba(22,93,255,0.14);
+      color: #6B9FFF;
+      border: 1px solid rgba(22,93,255,0.22);
+      white-space: nowrap;
+    }
+    .card-time { font-size: 12px; color: var(--text-secondary); white-space: nowrap; }
+    .card-title {
+      font-size: 14px; font-weight: 600;
+      line-height: 1.5; color: var(--text-primary);
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    .card-desc {
+      font-size: 12px; color: var(--text-secondary);
+      line-height: 1.6; flex: 1;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    .card-cta {
+      font-size: 12px; font-weight: 600;
+      color: var(--brand-blue);
+      margin-top: 2px;
+    }
+
+    /* ── Skeleton ── */
+    @keyframes shimmer {
+      0%   { background-position: -200% 0; }
+      100% { background-position:  200% 0; }
+    }
+    .sk-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--r-m);
+      padding: 18px 20px;
+      display: flex; flex-direction: column; gap: 12px;
+    }
+    .sk {
+      border-radius: 5px;
+      background: linear-gradient(90deg, #1a1d28 25%, #252a3a 50%, #1a1d28 75%);
+      background-size: 200% 100%;
+      animation: shimmer 1.6s infinite;
+    }
+
+    /* ── Error ── */
+    .error-msg {
+      grid-column: 1 / -1;
+      text-align: center; padding: 64px 20px;
+      color: var(--text-secondary);
+    }
+    .error-msg h3 { color: var(--text-primary); margin-bottom: 8px; font-size: 18px; }
+
+    /* ── Footer ── */
+    footer {
+      text-align: center; padding: 20px;
+      font-size: 11px; color: var(--text-secondary);
+      border-top: 1px solid var(--border);
+    }
+
+    /* ── Responsive ── */
+    @media (max-width: 960px) {
+      .grid { grid-template-columns: repeat(2, 1fr); }
+    }
+    @media (max-width: 600px) {
+      header { padding: 16px 20px; }
+      .hero { padding: 40px 20px 36px; }
+      .hero-title { font-size: 36px; }
+      main { padding: 24px 20px 56px; }
+      .grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div class="logo-area">
+      <!-- AInvest white logo -->
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="790 375 985 200" fill="none" height="24">
+        <g fill="#FFFFFF">
+          <path d="M957.809 562.006H829.267L957.809 448.375V562.006ZM1014.94 562.006H972.091V489.589L1014.94 448.375V562.006ZM1042.58 422.153L1031.97 410.029L972.326 467.013V412.488L809.476 560.222H794.99L981.952 390.614V444.36L1025.55 402.703L1014.94 390.584L1054.93 381.362L1042.58 422.153Z"/>
+          <path d="M1149.96 562.389L1141.88 534.277H1096.49L1088.41 562.389H1054.24L1098.88 430.65H1138.94L1184.14 562.389H1149.96ZM1127.18 481.912C1126.57 479.708 1125.71 476.768 1124.61 473.093C1123.63 469.296 1122.59 465.437 1121.48 461.518C1120.5 457.598 1119.71 454.291 1119.09 451.596C1118.6 454.291 1117.81 457.659 1116.71 461.701C1115.73 465.621 1114.75 469.48 1113.77 473.277C1112.79 476.952 1111.99 479.83 1111.38 481.912L1103.66 508.187H1134.9L1127.18 481.912Z"/>
+          <path d="M1253.96 562.389H1190.21V544.566H1206.37V449.023H1190.21V431.201H1253.96V449.023H1237.79V544.566H1253.96V562.389Z"/>
+          <path d="M1333.35 459.681C1344.01 459.681 1352.59 462.62 1359.08 468.5C1365.69 474.257 1369 483.628 1369 496.612V562.39H1338.13V505.247C1338.13 498.265 1336.97 492.998 1334.64 489.446C1332.31 485.894 1328.64 484.118 1323.62 484.118C1316.14 484.118 1311.06 486.935 1308.37 492.57C1305.67 498.082 1304.32 506.044 1304.32 516.455V562.39H1273.27V461.518H1301.02V474.563H1302.49C1305.67 469.664 1309.96 465.989 1315.35 463.539C1320.74 460.967 1326.74 459.681 1333.35 459.681Z"/>
+          <path d="M1420.28 562.39L1381.88 461.518H1414.21L1432.59 519.947C1433.2 522.029 1433.75 524.601 1434.24 527.663C1434.85 530.603 1435.22 533.298 1435.34 535.748H1436.08C1436.2 533.176 1436.51 530.481 1437 527.663C1437.61 524.846 1438.28 522.335 1439.02 520.13L1457.76 461.518H1489.91L1451.51 562.39H1420.28Z"/>
+          <path d="M1546.67 459.681C1560.88 459.681 1572.15 463.6 1580.47 471.44C1588.8 479.157 1592.97 490.548 1592.97 505.615V519.946H1529.21C1529.46 526.561 1531.6 531.828 1535.64 535.748C1539.68 539.667 1545.44 541.627 1552.91 541.627C1559.28 541.627 1565.1 541.015 1570.37 539.79C1575.76 538.565 1581.27 536.605 1586.91 533.91V556.877C1581.88 559.45 1576.55 561.287 1570.92 562.389C1565.41 563.614 1558.55 564.227 1550.34 564.227C1540.17 564.227 1531.11 562.389 1523.15 558.715C1515.31 555.04 1509.12 549.405 1504.59 541.811C1500.18 534.094 1497.98 524.356 1497.98 512.597C1497.98 500.715 1500 490.855 1504.04 483.015C1508.08 475.176 1513.72 469.357 1520.94 465.56C1528.29 461.64 1536.87 459.681 1546.67 459.681ZM1547.22 481.178C1542.44 481.178 1538.46 482.709 1535.28 485.771C1532.21 488.711 1530.38 493.427 1529.76 499.919H1564.49C1564.37 494.652 1562.9 490.242 1560.08 486.69C1557.26 483.015 1552.98 481.178 1547.22 481.178Z"/>
+          <path d="M1686.41 531.889C1686.41 541.811 1682.92 549.712 1675.93 555.591C1669.07 561.348 1658.29 564.227 1643.6 564.227C1636.49 564.227 1630.24 563.798 1624.85 562.941C1619.59 562.083 1614.26 560.552 1608.87 558.347V533.359C1614.75 536.054 1620.87 538.136 1627.24 539.606C1633.61 540.954 1639 541.627 1643.41 541.627C1648.07 541.627 1651.43 541.015 1653.52 539.79C1655.6 538.565 1656.64 536.85 1656.64 534.645C1656.64 533.053 1656.09 531.644 1654.99 530.419C1654.01 529.194 1651.92 527.847 1648.74 526.377C1645.68 524.785 1641.08 522.702 1634.96 520.13C1628.96 517.558 1624 514.924 1620.08 512.229C1616.28 509.535 1613.4 506.35 1611.44 502.675C1609.6 498.878 1608.69 494.162 1608.69 488.527C1608.69 478.973 1612.36 471.807 1619.71 467.03C1627.18 462.13 1637.04 459.681 1649.29 459.681C1655.78 459.681 1661.91 460.354 1667.66 461.702C1673.42 463.049 1679.36 465.131 1685.49 467.949L1676.67 488.895C1671.65 486.69 1666.75 484.914 1661.97 483.566C1657.31 482.219 1653.09 481.545 1649.29 481.545C1642.19 481.545 1638.63 483.383 1638.63 487.057C1638.63 488.405 1639.12 489.691 1640.1 490.916C1641.21 492.018 1643.23 493.243 1646.17 494.591C1649.23 495.938 1653.64 497.837 1659.4 500.286C1665.15 502.614 1670.05 505.125 1674.1 507.82C1678.14 510.392 1681.2 513.577 1683.28 517.374C1685.36 521.171 1686.41 526.01 1686.41 531.889Z"/>
+          <path d="M1752.52 539.605C1755.59 539.605 1758.47 539.299 1761.16 538.687C1763.98 538.074 1766.8 537.278 1769.61 536.298V559.081C1766.31 560.551 1762.51 561.776 1758.22 562.756C1753.93 563.736 1748.85 564.226 1742.97 564.226C1736.72 564.226 1731.15 563.246 1726.25 561.286C1721.47 559.204 1717.68 555.713 1714.86 550.813C1712.16 545.914 1710.82 538.993 1710.82 530.051V484.668H1697.96V461.885H1713.39V440.571H1741.68V461.517H1768.51V484.668H1741.68V528.949C1741.68 532.501 1742.66 535.196 1744.62 537.033C1746.58 538.748 1749.22 539.605 1752.52 539.605Z"/>
+        </g>
+      </svg>
+      <div class="logo-divider"></div>
+      <span class="site-label">World Cup 2026</span>
+    </div>
+    <div class="live-badge">
+      <div class="live-dot"></div>
+      Live
+    </div>
+  </div>
+</header>
+
+<div class="hero">
+  <div class="hero-eyebrow">FIFA World Cup 2026 · USA · Canada · Mexico</div>
+  <div class="hero-title">Football News Hub</div>
+  <div class="hero-sub">Real-time coverage · BBC Sport · The Guardian · Sky Sports</div>
+</div>
+
+<main>
+  <div class="status-bar">
+    <div class="status-count" id="statusCount">Loading...</div>
+    <div class="status-time" id="statusTime"></div>
+  </div>
+  <div class="grid" id="grid"></div>
+</main>
+
+<footer>
+  Powered by AInvest &nbsp;·&nbsp; Sources: BBC Sport, The Guardian, Sky Sports &nbsp;·&nbsp; Content © respective publishers
+</footer>
+
+<script>
+  function timeAgo(str) {
+    const d = new Date(str);
+    if (isNaN(d)) return '';
+    const s = Math.floor((Date.now() - d) / 1000);
+    if (s < 60) return 'Just now';
+    if (s < 3600) return Math.floor(s / 60) + 'm ago';
+    if (s < 86400) return Math.floor(s / 3600) + 'h ago';
+    return Math.floor(s / 86400) + 'd ago';
+  }
+
+  function esc(s) {
+    return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+
+  function safeHref(url) {
+    return url && url.startsWith('http') ? url : '#';
+  }
+
+  function skeletons(n) {
+    const row = `
+      <div class="sk-card">
+        <div style="display:flex;justify-content:space-between">
+          <div class="sk" style="height:18px;width:72px;border-radius:99px"></div>
+          <div class="sk" style="height:12px;width:44px"></div>
+        </div>
+        <div class="sk" style="height:13px;width:100%"></div>
+        <div class="sk" style="height:13px;width:80%"></div>
+        <div class="sk" style="height:13px;width:65%"></div>
+        <div class="sk" style="height:11px;width:100%"></div>
+        <div class="sk" style="height:11px;width:55%"></div>
+      </div>`;
+    return Array(n).fill(row).join('');
+  }
+
+  function renderCard(item) {
+    return `
+      <a class="card" href="${safeHref(item.link)}" target="_blank" rel="noopener noreferrer">
+        <div class="card-meta">
+          <span class="source-chip">${esc(item.source)}</span>
+          <span class="card-time">${timeAgo(item.pubDate)}</span>
+        </div>
+        <div class="card-title">${esc(item.title)}</div>
+        ${item.description ? `<div class="card-desc">${esc(item.description)}</div>` : ''}
+        <div class="card-cta">Read article →</div>
+      </a>`;
+  }
+
+  async function load() {
+    const grid = document.getElementById('grid');
+    const countEl = document.getElementById('statusCount');
+    const timeEl = document.getElementById('statusTime');
+
+    grid.innerHTML = skeletons(9);
+
+    try {
+      const res = await fetch('/api/fetch');
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      const { items, fetchedAt } = await res.json();
+
+      if (!items || items.length === 0) {
+        grid.innerHTML = '<div class="error-msg"><h3>No articles found</h3><p>Try refreshing the page.</p></div>';
+        countEl.textContent = '0 articles';
+        return;
+      }
+
+      grid.innerHTML = items.map(renderCard).join('');
+      countEl.innerHTML = `<strong>${items.length}</strong> articles`;
+      timeEl.textContent = 'Updated ' + timeAgo(fetchedAt);
+    } catch (err) {
+      grid.innerHTML = `<div class="error-msg"><h3>Could not load news</h3><p>${esc(err.message)}</p></div>`;
+      countEl.textContent = 'Error';
+    }
+  }
+
+  load();
+</script>
+</body>
+</html>
