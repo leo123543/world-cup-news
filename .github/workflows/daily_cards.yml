@@ -1,0 +1,42 @@
+name: Daily World Cup Cards
+
+on:
+  schedule:
+    - cron: '30 0 * * *'   # 8:30 AM HKT (UTC+8 → 00:30 UTC)
+    - cron: '30 13 * * *'  # 9:30 PM HKT (UTC+8 → 13:30 UTC)
+  workflow_dispatch:         # 手动触发用于测试
+
+jobs:
+  generate-cards:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies
+        run: pip install -r projects/world-cup-news/requirements.txt
+
+      - name: Install Playwright browsers
+        run: playwright install chromium --with-deps
+
+      - name: Generate cards
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          cd projects/world-cup-news
+          python scripts/main.py
+
+      - name: Commit generated cards and meta.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add projects/world-cup-news/cards/
+          git add projects/world-cup-news/processed_urls.txt
+          git diff --staged --quiet || git commit -m "chore: daily cards update $(date -u '+%Y-%m-%d %H:%M UTC') [skip ci]"
+          git push

@@ -2,3 +2,8 @@ node_modules/
 .env
 .vercel/
 *.log
+output/
+__pycache__/
+*.pyc
+# cards/ is committed to git (served by Vercel as static assets)
+# only ignore PNGs locally during development if needed

@@ -145,13 +145,134 @@
     /* ── Footer ── */
     footer { text-align: center; padding: 20px; font-size: 11px; color: var(--text-secondary); border-top: 1px solid var(--border); }
 
+    /* ── Daily Cards Gallery ── */
+    .cards-section {
+      background: linear-gradient(180deg, rgba(22,93,255,0.04) 0%, transparent 100%);
+      border-bottom: 1px solid var(--border);
+      padding: 36px 40px 40px;
+    }
+    .cards-inner { max-width: 1200px; margin: 0 auto; }
+
+    .cards-header {
+      display: flex; align-items: center; justify-content: space-between;
+      margin-bottom: 20px; flex-wrap: wrap; gap: 12px;
+    }
+    .cards-title-group { display: flex; align-items: center; gap: 14px; }
+    .cards-title { font-size: 18px; font-weight: 700; letter-spacing: -0.02em; }
+    .cards-meta { font-size: 12px; color: var(--text-secondary); }
+    .cards-updated { font-size: 11px; color: var(--text-secondary); }
+
+    .fmt-toggle {
+      display: flex; align-items: center; gap: 4px;
+      background: rgba(255,255,255,0.05); border-radius: var(--r-pill); padding: 3px;
+    }
+    .fmt-btn {
+      background: none; border: none; cursor: pointer;
+      font-size: 12px; font-weight: 600; color: var(--text-secondary);
+      padding: 5px 16px; border-radius: var(--r-pill);
+      transition: all .15s; font-family: inherit; letter-spacing: 0.04em;
+    }
+    .fmt-btn.active { background: var(--brand-blue); color: #fff; }
+    .fmt-btn:not(.active):hover { color: var(--text-primary); }
+
+    .cards-grid {
+      display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px;
+    }
+
+    .card-item {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: var(--r-m); overflow: hidden;
+      transition: border-color .15s, transform .15s;
+      display: flex; flex-direction: column;
+    }
+    .card-item:hover { border-color: rgba(22,93,255,0.45); transform: translateY(-2px); }
+
+    .card-img-wrap {
+      position: relative; overflow: hidden; background: #0d1020;
+      cursor: pointer;
+    }
+    /* 9:16 aspect ratio */
+    .card-img-wrap.fmt-916 { aspect-ratio: 9/16; }
+    /* 16:9 aspect ratio */
+    .card-img-wrap.fmt-169 { aspect-ratio: 16/9; }
+
+    .card-img-wrap img {
+      width: 100%; height: 100%; object-fit: cover;
+      display: block; transition: transform .3s ease;
+    }
+    .card-item:hover .card-img-wrap img { transform: scale(1.02); }
+
+    .card-img-placeholder {
+      width: 100%; height: 100%;
+      display: flex; align-items: center; justify-content: center;
+      background: linear-gradient(135deg, #0d1020 0%, #13161F 100%);
+    }
+    .card-img-placeholder-inner {
+      text-align: center; color: var(--text-secondary);
+    }
+    .card-img-placeholder-inner svg { opacity: 0.3; margin-bottom: 8px; }
+    .card-img-placeholder-inner p { font-size: 11px; }
+
+    .card-rank-overlay {
+      position: absolute; top: 10px; left: 10px;
+      background: #EA3943; color: #fff;
+      font-size: 10px; font-weight: 700; letter-spacing: 0.1em;
+      padding: 3px 10px; border-radius: 999px;
+      font-family: 'SF Mono', 'Fira Code', monospace;
+    }
+
+    .card-item-body { padding: 12px 14px; flex: 1; display: flex; flex-direction: column; gap: 8px; }
+    .card-item-title {
+      font-size: 12px; font-weight: 600; line-height: 1.5; color: var(--text-primary);
+      display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+    }
+    .card-item-meta { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+    .card-item-source { font-size: 10px; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; padding: 2px 8px; border-radius: var(--r-pill); background: rgba(22,93,255,0.14); color: #6B9FFF; border: 1px solid rgba(22,93,255,0.22); }
+    .card-item-score { font-size: 10px; color: #EA3943; font-weight: 600; }
+
+    .card-download-btn {
+      display: flex; align-items: center; justify-content: center; gap: 6px;
+      background: rgba(22,93,255,0.12); border: 1px solid rgba(22,93,255,0.3);
+      color: #6B9FFF; border-radius: var(--r-pill);
+      font-size: 11px; font-weight: 600; padding: 7px 14px;
+      text-decoration: none; transition: all .15s; margin-top: auto;
+      cursor: pointer; letter-spacing: 0.04em;
+    }
+    .card-download-btn:hover { background: var(--brand-blue); color: #fff; border-color: var(--brand-blue); }
+
+    .cards-empty {
+      grid-column: 1/-1; text-align: center; padding: 48px 20px;
+      color: var(--text-secondary);
+    }
+    .cards-empty-icon { font-size: 36px; margin-bottom: 12px; opacity: 0.4; }
+    .cards-empty p { font-size: 13px; }
+    .cards-empty strong { color: var(--text-primary); display: block; margin-bottom: 6px; font-size: 15px; }
+
+    /* Lightbox */
+    .lightbox {
+      display: none; position: fixed; inset: 0; z-index: 1000;
+      background: rgba(0,0,0,0.92); align-items: center; justify-content: center;
+    }
+    .lightbox.open { display: flex; }
+    .lightbox-img { max-width: 90vw; max-height: 90vh; object-fit: contain; border-radius: 8px; }
+    .lightbox-close {
+      position: fixed; top: 20px; right: 24px;
+      background: rgba(255,255,255,0.1); border: none; color: #fff;
+      font-size: 24px; cursor: pointer; width: 44px; height: 44px;
+      border-radius: 50%; display: flex; align-items: center; justify-content: center;
+      transition: background .15s;
+    }
+    .lightbox-close:hover { background: rgba(255,255,255,0.2); }
+
     /* ── Responsive ── */
-    @media (max-width: 960px) { .grid { grid-template-columns: repeat(2,1fr); } }
+    @media (max-width: 960px) { .grid { grid-template-columns: repeat(2,1fr); } .cards-grid { grid-template-columns: repeat(2,1fr); } }
     @media (max-width: 600px) {
       header { padding: 14px 20px; }
       .hero { padding: 36px 20px 32px; } .hero-title { font-size: 32px; }
       main { padding: 20px 16px 56px; }
       .grid { grid-template-columns: 1fr; }
+      .cards-section { padding: 28px 16px 32px; }
+      .cards-grid { grid-template-columns: 1fr; }
     }
   </style>
 </head>
@@ -189,6 +310,34 @@
   <div class="hero-eyebrow">FIFA World Cup 2026 · USA · Canada · Mexico</div>
   <div class="hero-title">Football News Hub</div>
   <div class="hero-sub">Real-time coverage · BBC Sport · The Guardian · Sky Sports</div>
+</div>
+
+<!-- ── Daily Cards Gallery ── -->
+<section class="cards-section" id="cardsSection">
+  <div class="cards-inner">
+    <div class="cards-header">
+      <div class="cards-title-group">
+        <div class="cards-title">Daily Top 3 Cards</div>
+        <div class="cards-meta" id="cardsMeta">Loading...</div>
+      </div>
+      <div style="display:flex;align-items:center;gap:12px;flex-wrap:wrap">
+        <span class="cards-updated" id="cardsUpdated"></span>
+        <div class="fmt-toggle">
+          <button class="fmt-btn active" id="btn916" onclick="setFmt('916')">9:16</button>
+          <button class="fmt-btn" id="btn169" onclick="setFmt('169')">16:9</button>
+        </div>
+      </div>
+    </div>
+    <div class="cards-grid" id="cardsGrid">
+      <!-- populated by JS -->
+    </div>
+  </div>
+</section>
+
+<!-- Lightbox -->
+<div class="lightbox" id="lightbox" onclick="closeLightbox()">
+  <button class="lightbox-close" onclick="closeLightbox()">✕</button>
+  <img class="lightbox-img" id="lightboxImg" src="" alt="">
 </div>
 
 <main>
@@ -378,6 +527,123 @@
   }
 
   load();
+
+  // ── Daily Cards Gallery ──
+  let currentFmt = '916';
+  let cardsData = null;
+
+  function setFmt(fmt) {
+    currentFmt = fmt;
+    document.getElementById('btn916').classList.toggle('active', fmt === '916');
+    document.getElementById('btn169').classList.toggle('active', fmt === '169');
+    if (cardsData) renderCardsGrid(cardsData);
+  }
+
+  function openLightbox(src) {
+    const lb = document.getElementById('lightbox');
+    document.getElementById('lightboxImg').src = src;
+    lb.classList.add('open');
+  }
+
+  function closeLightbox() {
+    document.getElementById('lightbox').classList.remove('open');
+  }
+
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') closeLightbox(); });
+
+  function downloadCard(url, filename) {
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = filename;
+    a.click();
+  }
+
+  function renderCardsGrid(data) {
+    const grid = document.getElementById('cardsGrid');
+    if (!data.cards || data.cards.length === 0) {
+      grid.innerHTML = `<div class="cards-empty">
+        <div class="cards-empty-icon">🎨</div>
+        <strong>Cards not yet generated</strong>
+        <p>Next generation: 8:30 AM or 9:30 PM HKT</p>
+      </div>`;
+      return;
+    }
+
+    const aspectClass = currentFmt === '916' ? 'fmt-916' : 'fmt-169';
+    const fmtLabel = currentFmt === '916' ? '9:16' : '16:9';
+
+    grid.innerHTML = data.cards.map(card => {
+      const imgUrl = card.files && card.files[currentFmt] ? card.files[currentFmt] : null;
+      const filename = imgUrl ? imgUrl.split('/').pop() : `card${card.rank}_${currentFmt}.png`;
+
+      const imgHtml = imgUrl
+        ? `<img src="${esc(imgUrl)}" alt="Card ${card.rank}" loading="lazy" onclick="openLightbox('${esc(imgUrl)}')" title="Click to enlarge">`
+        : `<div class="card-img-placeholder">
+            <div class="card-img-placeholder-inner">
+              <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                <rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/>
+                <path d="m21 15-5-5L5 21"/>
+              </svg>
+              <p>Image loading...</p>
+            </div>
+          </div>`;
+
+      const teamChips = card.teams && card.teams.length > 0
+        ? card.teams.slice(0, 3).map(t => `<span class="team-chip">${esc(t)}</span>`).join('')
+        : '';
+
+      return `<div class="card-item">
+        <div class="card-img-wrap ${aspectClass}">${imgHtml}
+          <div class="card-rank-overlay">#${card.rank} TOP</div>
+        </div>
+        <div class="card-item-body">
+          <div class="card-item-title">${esc(card.title)}</div>
+          <div class="card-item-meta">
+            <span class="card-item-source">${esc(card.source)}</span>
+            <span class="card-item-score">Score: ${card.virality_score}</span>
+          </div>
+          ${teamChips ? `<div class="team-chips">${teamChips}</div>` : ''}
+          ${imgUrl
+            ? `<a class="card-download-btn" href="${esc(imgUrl)}" download="${esc(filename)}">
+                ↓ Download ${fmtLabel}
+              </a>`
+            : `<span class="card-download-btn" style="opacity:.4;cursor:default">Not available</span>`
+          }
+        </div>
+      </div>`;
+    }).join('');
+  }
+
+  async function loadCards() {
+    const metaEl = document.getElementById('cardsMeta');
+    const updatedEl = document.getElementById('cardsUpdated');
+    const grid = document.getElementById('cardsGrid');
+
+    grid.innerHTML = `<div class="cards-empty"><p>Loading cards...</p></div>`;
+
+    try {
+      const res = await fetch('/cards/meta.json?t=' + Date.now());
+      if (!res.ok) throw new Error('not found');
+      const data = await res.json();
+      cardsData = data;
+
+      const count = data.cards ? data.cards.length : 0;
+      metaEl.textContent = `${count * 2} images · 9:16 + 16:9`;
+      updatedEl.textContent = 'Updated ' + (data.generated_at_display || '');
+
+      renderCardsGrid(data);
+    } catch {
+      cardsData = null;
+      metaEl.textContent = 'Not yet generated';
+      grid.innerHTML = `<div class="cards-empty">
+        <div class="cards-empty-icon">🎨</div>
+        <strong>No cards yet</strong>
+        <p>Cards are auto-generated daily at 8:30 AM and 9:30 PM HKT</p>
+      </div>`;
+    }
+  }
+
+  loadCards();
 </script>
 
 <style>

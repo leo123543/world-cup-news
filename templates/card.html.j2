@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1080">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&family=JetBrains+Mono:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    width: 1080px;
+    height: 1350px;
+    overflow: hidden;
+    background: #0B0D12;
+    font-family: 'Inter', sans-serif;
+    color: #FFFFFF;
+  }
+
+  .canvas {
+    width: 1080px;
+    height: 1350px;
+    padding: 48px 60px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    overflow: hidden;
+  }
+
+  /* 背景微元素：网格线 */
+  .canvas::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background-image:
+      linear-gradient(rgba(22, 93, 255, 0.04) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(22, 93, 255, 0.04) 1px, transparent 1px);
+    background-size: 60px 60px;
+    pointer-events: none;
+  }
+
+  /* 顶部品牌蓝光晕 */
+  .canvas::after {
+    content: '';
+    position: absolute;
+    top: -200px;
+    right: -100px;
+    width: 600px;
+    height: 600px;
+    background: radial-gradient(circle, rgba(22, 93, 255, 0.12) 0%, transparent 70%);
+    pointer-events: none;
+  }
+
+  /* ─── HEADER ─── */
+  .header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    flex-shrink: 0;
+    position: relative;
+    z-index: 1;
+  }
+
+  .logo-wrap {
+    display: flex;
+    align-items: center;
+    height: 28px;
+  }
+
+  .logo-wrap svg {
+    height: 28px;
+    width: auto;
+    max-width: 160px;
+  }
+
+  .live-badge {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 13px;
+    font-weight: 600;
+    color: #9AA3AF;
+    letter-spacing: 0.08em;
+  }
+
+  .live-dot {
+    width: 8px;
+    height: 8px;
+    background: #EA3943;
+    border-radius: 50%;
+    animation: none;
+  }
+
+  /* 品牌蓝分割线 */
+  .divider {
+    height: 2px;
+    background: linear-gradient(90deg, #165DFF 0%, #40B3FF 60%, transparent 100%);
+    margin-bottom: 32px;
+    flex-shrink: 0;
+    position: relative;
+    z-index: 1;
+  }
+
+  /* ─── RANK + SCORE ROW ─── */
+  .rank-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    flex-shrink: 0;
+    position: relative;
+    z-index: 1;
+  }
+
+  .rank-badge {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 13px;
+    font-weight: 700;
+    color: #FFFFFF;
+    background: #EA3943;
+    padding: 6px 16px;
+    border-radius: 999px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+
+  .viral-score {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 13px;
+    font-weight: 600;
+    color: #EA3943;
+    letter-spacing: 0.06em;
+  }
+
+  /* ─── EYEBROW ─── */
+  .eyebrow {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    font-weight: 600;
+    color: #165DFF;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    margin-bottom: 16px;
+    flex-shrink: 0;
+    position: relative;
+    z-index: 1;
+  }
+
+  /* ─── HEADLINE ─── */
+  .headline {
+    font-family: 'Inter', sans-serif;
+    font-size: 80px;
+    font-weight: 800;
+    line-height: 1.05;
+    color: #FFFFFF;
+    letter-spacing: -0.02em;
+    word-break: break-word;
+    overflow-wrap: break-word;
+    max-height: calc(4 * 1.05 * 80px);
+    overflow: hidden;
+    margin-bottom: 28px;
+    flex-shrink: 0;
+    position: relative;
+    z-index: 1;
+  }
+
+  /* ─── TEAMS ─── */
+  .teams {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 28px;
+    flex-shrink: 0;
+    position: relative;
+    z-index: 1;
+    min-height: 32px;
+  }
+
+  .team-chip {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 13px;
+    font-weight: 600;
+    color: #16C784;
+    background: rgba(22, 199, 132, 0.12);
+    border: 1px solid rgba(22, 199, 132, 0.4);
+    border-radius: 999px;
+    padding: 5px 16px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+
+  /* ─── AIME INSIGHT BOX ─── */
+  .insight-box {
+    background: linear-gradient(175deg, #07256D 0%, #021642 48%, #021437 100%);
+    border: 1px solid rgba(22, 93, 255, 0.5);
+    border-radius: 16px;
+    padding: 28px 32px;
+    margin-bottom: 24px;
+    flex-shrink: 0;
+    position: relative;
+    z-index: 1;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  /* 左侧蓝色竖线装饰 */
+  .insight-box::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 20px;
+    bottom: 20px;
+    width: 3px;
+    background: linear-gradient(180deg, #165DFF, #40B3FF);
+    border-radius: 999px;
+  }
+
+  .insight-label {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    font-weight: 700;
+    color: #165DFF;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    margin-bottom: 14px;
+  }
+
+  .insight-text {
+    font-family: 'Inter', sans-serif;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #E8ECFF;
+    font-style: italic;
+  }
+
+  .insight-text:empty::before {
+    content: 'Multi-agent analysis in progress...';
+    color: #4A5160;
+    font-style: italic;
+  }
+
+  /* ─── FOOTER ─── */
+  .footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-shrink: 0;
+    position: relative;
+    z-index: 1;
+    padding-top: 16px;
+    border-top: 1px solid rgba(255, 255, 255, 0.06);
+  }
+
+  .footer-left {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+
+  .source-chip {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    font-weight: 600;
+    color: #165DFF;
+    background: rgba(22, 93, 255, 0.12);
+    border: 1px solid rgba(22, 93, 255, 0.35);
+    border-radius: 999px;
+    padding: 4px 14px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+
+  .pub-time {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    color: #4A5160;
+    letter-spacing: 0.04em;
+  }
+
+  .footer-right {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    font-weight: 600;
+    color: #4A5160;
+    letter-spacing: 0.1em;
+    text-align: right;
+  }
+
+  .footer-right span {
+    color: #165DFF;
+  }
+
+  /* ─── 四角定位符 ─── */
+  .corner {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    z-index: 2;
+  }
+  .corner-tl { top: 20px; left: 20px; border-top: 2px solid rgba(22,93,255,0.4); border-left: 2px solid rgba(22,93,255,0.4); }
+  .corner-tr { top: 20px; right: 20px; border-top: 2px solid rgba(22,93,255,0.4); border-right: 2px solid rgba(22,93,255,0.4); }
+  .corner-bl { bottom: 20px; left: 20px; border-bottom: 2px solid rgba(22,93,255,0.4); border-left: 2px solid rgba(22,93,255,0.4); }
+  .corner-br { bottom: 20px; right: 20px; border-bottom: 2px solid rgba(22,93,255,0.4); border-right: 2px solid rgba(22,93,255,0.4); }
+</style>
+</head>
+<body>
+<div class="canvas">
+  <!-- 四角定位符 -->
+  <div class="corner corner-tl"></div>
+  <div class="corner corner-tr"></div>
+  <div class="corner corner-bl"></div>
+  <div class="corner corner-br"></div>
+
+  <!-- HEADER -->
+  <div class="header">
+    <div class="logo-wrap">{{ logo_svg | safe }}</div>
+    <div class="live-badge">
+      <div class="live-dot"></div>
+      LIVE · FIFA WC 2026
+    </div>
+  </div>
+
+  <!-- 品牌蓝分割线 -->
+  <div class="divider"></div>
+
+  <!-- RANK + SCORE -->
+  <div class="rank-row">
+    <div class="rank-badge">#{{ card_index }} TOP STORY</div>
+    <div class="viral-score">VIRAL SCORE: {{ virality_score }}</div>
+  </div>
+
+  <!-- EYEBROW -->
+  <div class="eyebrow">WORLD CUP BREAKING · {{ fetch_date_hkt }}</div>
+
+  <!-- HEADLINE -->
+  <h1 class="headline">{{ sm_headline }}</h1>
+
+  <!-- TEAMS -->
+  <div class="teams">
+    {% for team in teams %}
+    <div class="team-chip">{{ team }}</div>
+    {% endfor %}
+  </div>
+
+  <!-- AIME INSIGHT -->
+  <div class="insight-box">
+    <div class="insight-label">[ Aime Multi-Agent Insight ]</div>
+    <div class="insight-text">{{ insight }}</div>
+  </div>
+
+  <!-- FOOTER -->
+  <div class="footer">
+    <div class="footer-left">
+      <div class="source-chip">{{ source }}</div>
+      <div class="pub-time">{{ pub_ago }}</div>
+    </div>
+    <div class="footer-right">
+      ANALYZED BY <span>AIME</span>
+    </div>
+  </div>
+</div>
+</body>
+</html>
