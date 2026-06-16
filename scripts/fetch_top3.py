@@ -121,12 +121,17 @@ def detect_teams(title: str, desc: str) -> list[str]:
     return [t for t in TEAMS if re.search(rf"\b{re.escape(t)}\b", text, re.IGNORECASE)]
 
 
+_TRAIL_WORDS = {"and", "or", "but", "with", "to", "of", "in", "on", "at",
+                "the", "a", "an", "for", "as", "by", "from", "into", "over"}
+
 def to_sm_headline(title: str, pad_idx: int) -> str:
     clean = re.sub(r"\s*[-–|]\s*(BBC Sport|Guardian|Sky Sports|ESPN)[^\s]*", "", title, flags=re.IGNORECASE)
     clean = re.sub(r"^(WATCH|VIDEO|GALLERY|QUIZ|EXCLUSIVE):\s*", "", clean.strip(), flags=re.IGNORECASE)
-    # 不做 padding，原始标题更干净；超过 18 词时截断
-    words = clean.split()
-    return " ".join(words[:18])
+    words = clean.split()[:16]
+    # 去掉结尾的虚词，避免 "...WITH" / "...AND" 这类残缺感
+    while words and words[-1].lower().rstrip(";,:") in _TRAIL_WORDS:
+        words.pop()
+    return " ".join(words)
 
 
 def virality_score(item: dict) -> float:
