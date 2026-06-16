@@ -2,8 +2,8 @@ name: Daily World Cup Cards
 
 on:
   schedule:
-    - cron: '30 0 * * *'   # 8:30 AM HKT (UTC+8 → 00:30 UTC)
-    - cron: '30 13 * * *'  # 9:30 PM HKT (UTC+8 → 13:30 UTC)
+    - cron: '0 12 * * *'   # 8:00 AM EDT (UTC-4, 夏令时)
+    - cron: '0 0 * * *'    # 8:00 PM EDT (UTC-4, 次日 00:00 UTC)
   workflow_dispatch:         # 手动触发用于测试
 
 jobs:
@@ -32,11 +32,10 @@ jobs:
           cd projects/world-cup-news
           python scripts/main.py
 
-      - name: Commit generated cards and meta.json
+      - name: Commit generated cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add projects/world-cup-news/cards/
-          git add projects/world-cup-news/processed_urls.txt
           git diff --staged --quiet || git commit -m "chore: daily cards update $(date -u '+%Y-%m-%d %H:%M UTC') [skip ci]"
           git push

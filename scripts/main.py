@@ -53,13 +53,12 @@ def write_meta_json(
 
 def main() -> None:
     cards_dir = ROOT / "cards"
-    processed_urls_path = ROOT / "processed_urls.txt"
 
     print("=" * 50)
     print("[main] Daily Top 3 Cards 流水线启动")
 
-    # 1. 抓取 Top 3 文章
-    articles = fetch_top3(processed_urls_path)
+    # 1. 抓取当前 Top 3 文章
+    articles = fetch_top3()
     if not articles:
         print("[main] 无新文章，跳过本次运行")
         return

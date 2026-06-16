@@ -162,14 +162,6 @@ def dedup_key(title: str) -> str:
     return re.sub(r"\W", "", title[:40].lower())
 
 
-def load_processed_urls(path: Path) -> set[str]:
-    if not path.exists():
-        return set()
-    return {line.strip() for line in path.read_text(encoding="utf-8").splitlines() if line.strip()}
-
-
-def save_processed_urls(path: Path, urls: set[str]) -> None:
-    path.write_text("\n".join(sorted(urls)) + "\n", encoding="utf-8")
 
 
 def pub_time_ago(pub_dt: datetime) -> str:
@@ -184,13 +176,8 @@ def pub_time_ago(pub_dt: datetime) -> str:
     return f"{minutes}m ago"
 
 
-def fetch_top3(processed_urls_path: Path) -> list[dict]:
-    """
-    主入口：并发抓取 RSS，排序去重，返回前 3 篇未处理文章。
-    同时更新 processed_urls.txt。
-    """
-    processed = load_processed_urls(processed_urls_path)
-
+def fetch_top3() -> list[dict]:
+    """主入口：并发抓取 RSS，按病毒度排序，返回当前 Top 3。"""
     # 并发抓取
     all_items: list[dict] = []
     with ThreadPoolExecutor(max_workers=3) as executor:
@@ -241,15 +228,4 @@ def fetch_top3(processed_urls_path: Path) -> list[dict]:
             seen_keys.add(key)
             deduped.append(item)
 
-    # 过滤已处理 URL
-    new_items = [i for i in deduped if i["link"] not in processed]
-    print(f"[fetch] 过滤已处理后: {len(new_items)} 篇可用")
-
-    top3 = new_items[:3]
-
-    # 更新去重记录
-    for item in top3:
-        processed.add(item["link"])
-    save_processed_urls(processed_urls_path, processed)
-
-    return top3
+    return deduped[:3]
