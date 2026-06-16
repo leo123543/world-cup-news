@@ -1,0 +1,52 @@
+{
+  "generated_at": "2026-06-16T11:45:54.699557+08:00",
+  "generated_at_display": "Jun 16, 2026 · 11:45 AM HKT",
+  "cards": [
+    {
+      "rank": 1,
+      "title": "Iran fight back twice to rescue thrilling draw against New Zealand as the FIFA World Cup 2026 enters its most",
+      "source": "Sky Sports",
+      "virality_score": 68,
+      "pub_ago": "30m ago",
+      "teams": [
+        "Iran",
+        "New Zealand"
+      ],
+      "files": {
+        "916": "cards/20260616_1145_card1_916.png",
+        "169": "cards/20260616_1145_card1_169.png"
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Iran twice come from behind to claim draw in World Cup opener with New Zealand in a significant moment at",
+      "source": "The Guardian",
+      "virality_score": 67,
+      "pub_ago": "26m ago",
+      "teams": [
+        "France",
+        "Iran",
+        "New Zealand"
+      ],
+      "files": {
+        "916": "cards/20260616_1145_card2_916.png",
+        "169": "cards/20260616_1145_card2_169.png"
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Araújo to the rescue as Uruguay deny Saudi Arabia another World Cup shock as the FIFA World Cup 2026 enters",
+      "source": "The Guardian",
+      "virality_score": 62,
+      "pub_ago": "3h ago",
+      "teams": [
+        "Uruguay",
+        "Saudi Arabia"
+      ],
+      "files": {
+        "916": "cards/20260616_1145_card3_916.png",
+        "169": "cards/20260616_1145_card3_169.png"
+      }
+    }
+  ]
+}
