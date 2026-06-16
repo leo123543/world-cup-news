@@ -1,51 +1,49 @@
 {
-  "generated_at": "2026-06-16T11:45:54.699557+08:00",
-  "generated_at_display": "Jun 16, 2026 · 11:45 AM HKT",
+  "generated_at": "2026-06-16T11:52:38.272631+08:00",
+  "generated_at_display": "Jun 16, 2026 · 11:52 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Iran fight back twice to rescue thrilling draw against New Zealand as the FIFA World Cup 2026 enters its most",
-      "source": "Sky Sports",
-      "virality_score": 68,
-      "pub_ago": "30m ago",
+      "title": "Duck, duck, goal: bird dressed in Mexico’s World Cup jersey scores on social media with all the action from the",
+      "source": "The Guardian",
+      "virality_score": 49,
+      "pub_ago": "5h ago",
       "teams": [
-        "Iran",
-        "New Zealand"
+        "Mexico"
       ],
       "files": {
-        "916": "cards/20260616_1145_card1_916.png",
-        "169": "cards/20260616_1145_card1_169.png"
+        "916": "cards/20260616_1152_card1_916.png",
+        "169": "cards/20260616_1152_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Iran twice come from behind to claim draw in World Cup opener with New Zealand in a significant moment at",
-      "source": "The Guardian",
-      "virality_score": 67,
-      "pub_ago": "26m ago",
+      "title": "'Sensational!' - Wood and Just combine twice for New Zealand goals as the FIFA World Cup 2026 enters its most",
+      "source": "BBC Sport",
+      "virality_score": 48,
+      "pub_ago": "2h ago",
       "teams": [
-        "France",
         "Iran",
         "New Zealand"
       ],
       "files": {
-        "916": "cards/20260616_1145_card2_916.png",
-        "169": "cards/20260616_1145_card2_169.png"
+        "916": "cards/20260616_1152_card2_916.png",
+        "169": "cards/20260616_1152_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Araújo to the rescue as Uruguay deny Saudi Arabia another World Cup shock as the FIFA World Cup 2026 enters",
-      "source": "The Guardian",
-      "virality_score": 62,
-      "pub_ago": "3h ago",
+      "title": "Egypt denied first World Cup win in Belgium draw as Lukaku makes instant impact with all the action from the",
+      "source": "Sky Sports",
+      "virality_score": 47,
+      "pub_ago": "6h ago",
       "teams": [
-        "Uruguay",
-        "Saudi Arabia"
+        "Belgium",
+        "Egypt"
       ],
       "files": {
-        "916": "cards/20260616_1145_card3_916.png",
-        "169": "cards/20260616_1145_card3_169.png"
+        "916": "cards/20260616_1152_card3_916.png",
+        "169": "cards/20260616_1152_card3_169.png"
       }
     }
   ]
