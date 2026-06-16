@@ -1,49 +1,34 @@
 {
-  "generated_at": "2026-06-16T16:55:35.221936+08:00",
-  "generated_at_display": "Jun 16, 2026 · 04:55 PM HKT",
+  "generated_at": "2026-06-16T17:10:50.506411+08:00",
+  "generated_at_display": "Jun 16, 2026 · 05:10 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "History for Cape Verde as Spain start with a stutter | World Cup Daily",
-      "source": "The Guardian",
-      "virality_score": 62,
+      "title": "Football Daily",
+      "source": "BBC Sport",
+      "virality_score": 54,
       "pub_ago": "1h ago",
       "teams": [
         "Spain"
       ],
       "files": {
-        "916": "cards/20260616_1655_card1_916.png",
-        "169": "cards/20260616_1655_card1_169.png"
+        "916": "cards/20260616_1710_card1_916.png",
+        "169": "cards/20260616_1710_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Iran coach hits out at treatment of 'most oppressed team' at World Cup",
-      "source": "Sky Sports",
-      "virality_score": 62,
-      "pub_ago": "54m ago",
-      "teams": [
-        "United States",
-        "Iran"
-      ],
-      "files": {
-        "916": "cards/20260616_1655_card2_916.png",
-        "169": "cards/20260616_1655_card2_169.png"
-      }
-    },
-    {
-      "rank": 3,
-      "title": "More than the Score",
+      "title": "Listen: Will Clarke drop Shankland? What will McInnes bring Rangers?",
       "source": "BBC Sport",
-      "virality_score": 57,
-      "pub_ago": "3h ago",
+      "virality_score": 48,
+      "pub_ago": "2h ago",
       "teams": [
-        "France",
-        "Senegal"
+        "Morocco",
+        "Scotland"
       ],
       "files": {
-        "916": "cards/20260616_1655_card3_916.png",
-        "169": "cards/20260616_1655_card3_169.png"
+        "916": "cards/20260616_1710_card2_916.png",
+        "169": "cards/20260616_1710_card2_169.png"
       }
     }
   ]

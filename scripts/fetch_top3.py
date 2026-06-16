@@ -70,10 +70,19 @@ def _strip_html(text: str) -> str:
 
 
 def _unescape(text: str) -> str:
-    return (text
-            .replace("&lt;", "<").replace("&gt;", ">")
-            .replace("&amp;", "&").replace("&quot;", '"')
-            .replace("&#39;", "'"))
+    t = (text
+         .replace("&lt;", "<").replace("&gt;", ">")
+         .replace("&amp;", "&").replace("&quot;", '"')
+         .replace("&#39;", "'"))
+    # 修复 RSS double-encoding：UTF-8 弯引号被当作 Latin-1 读取后产生的乱码
+    try:
+        t = t.encode("latin-1").decode("utf-8")
+    except (UnicodeEncodeError, UnicodeDecodeError):
+        pass
+    # 规范化弯引号为直引号，避免 ALL CAPS 渲染异常
+    return (t.replace("’", "'").replace("‘", "'")
+             .replace("“", '"').replace("”", '"')
+             .replace("–", "-").replace("—", "-"))
 
 
 def _get_tag(block: str, tag: str) -> str:

@@ -1,4 +1,6 @@
 https://www.bbc.co.uk/sounds/play/p0ns4ykl?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/sounds/play/p0ns6ylk?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/sounds/play/p0ns744t?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c239jnlkpgvo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/clyer09rd1ro?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/sport/football/articles/c07yzv0pz98o?at_medium=RSS&at_campaign=rss
@@ -33,6 +35,7 @@ https://www.skysports.com/f1/news/12040/13554357/lewis-hamilton-whats-behind-fer
 https://www.skysports.com/football/belgium-vs-egypt/report/549778
 https://www.skysports.com/football/iran-vs-new-zealand/live/549779
 https://www.skysports.com/football/iran-vs-new-zealand/report/549779
+https://www.skysports.com/football/news/12040/13549736/world-cup-2026-lionel-messis-argentina-want-to-retain-trophy-but-history-suggests-the-holders-risk-spectacular-failure-in-2026
 https://www.skysports.com/football/news/12040/13554452/spain-0-0-cape-verde-african-nation-defying-one-of-biggest-mismatches-in-football-history-shows-beauty-of-the-game
 https://www.skysports.com/football/news/12040/13554511/england-vs-croatia-thomas-tuchels-selection-dilemmas-for-world-cup-analysed-four-positions-up-for-grabs
 https://www.skysports.com/football/news/12040/13554517/world-cup-2026-iran-the-most-oppressed-team-at-tournament-says-coach-amir-ghalenoei-after-opening-game-vs-new-zealand
@@ -48,6 +51,8 @@ https://www.theguardian.com/football/2026/jun/15/erling-haaland-norway-world-cup
 https://www.theguardian.com/football/2026/jun/15/kylian-is-kylian-deschamps-happy-to-shield-mbappe-amid-political-scrutiny
 https://www.theguardian.com/football/2026/jun/15/leicester-appoint-russell-martin-as-wolves-unveil-cesar-peixoto-as-coach
 https://www.theguardian.com/football/2026/jun/15/var-official-white-supremacy-gesture-fifa-world-cup-2026
+https://www.theguardian.com/football/2026/jun/16/algeria-lawrence-kansas-world-cup-fans-adopted-team
+https://www.theguardian.com/football/2026/jun/16/amir-ghalenoei-iran-coach-mehdi-taremi-fifa-us-world-cup
 https://www.theguardian.com/football/2026/jun/16/bleep-tests-alcohol-bans-gazza-italia-90-set-bar-england-sports-science
 https://www.theguardian.com/football/2026/jun/16/infantino-private-jet-world-cup-matches
 https://www.theguardian.com/football/2026/jun/16/iran-new-zealand-world-cup-2026-group-g-match-report
