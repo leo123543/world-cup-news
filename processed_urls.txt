@@ -1,3 +1,4 @@
+https://www.bbc.co.uk/sounds/play/p0ns4ykl?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c239jnlkpgvo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/clyer09rd1ro?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/sport/football/articles/c07yzv0pz98o?at_medium=RSS&at_campaign=rss
@@ -34,6 +35,7 @@ https://www.skysports.com/football/iran-vs-new-zealand/live/549779
 https://www.skysports.com/football/iran-vs-new-zealand/report/549779
 https://www.skysports.com/football/news/12040/13554452/spain-0-0-cape-verde-african-nation-defying-one-of-biggest-mismatches-in-football-history-shows-beauty-of-the-game
 https://www.skysports.com/football/news/12040/13554511/england-vs-croatia-thomas-tuchels-selection-dilemmas-for-world-cup-analysed-four-positions-up-for-grabs
+https://www.skysports.com/football/news/12040/13554517/world-cup-2026-iran-the-most-oppressed-team-at-tournament-says-coach-amir-ghalenoei-after-opening-game-vs-new-zealand
 https://www.skysports.com/football/saudi-arabia-vs-uruguay/report/549781
 https://www.skysports.com/golf/live-blog/12040/13554305/us-open-build-up-live-latest-major-updates-from-shinnecock-hills-as-scottie-scheffler-rory-mcilroy-feature-in-new-york
 https://www.skysports.com/golf/news/12040/13554424/us-open-2026-why-bryson-dechambeau-remains-dangerous-contender-despite-liv-golf-uncertainty-and-major-struggles
@@ -52,3 +54,4 @@ https://www.theguardian.com/football/2026/jun/16/iran-new-zealand-world-cup-2026
 https://www.theguardian.com/football/2026/jun/16/jordan-uzbekistan-debut-asia-world-cup-2026
 https://www.theguardian.com/football/2026/jun/16/saudi-arabia-uruguay-world-cup-match-report
 https://www.theguardian.com/football/live/2026/jun/16/world-cup-2026-news-france-enter-fray-iran-feel-oppressed-var-official-cleared-over-gesture-live
+https://www.theguardian.com/football/video/2026/jun/16/history-for-cape-verde-as-spain-start-with-a-stutter-world-cup-daily
