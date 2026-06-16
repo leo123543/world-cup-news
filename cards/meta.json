@@ -1,48 +1,48 @@
 {
-  "generated_at": "2026-06-16T17:25:53.169781+08:00",
-  "generated_at_display": "Jun 16, 2026 · 05:25 PM HKT",
+  "generated_at": "2026-06-16T18:57:38.480905+08:00",
+  "generated_at_display": "Jun 16, 2026 · 06:57 PM HKT",
   "cards": [
     {
       "rank": 1,
       "title": "Jordan's journey from Harry Redknapp to date with Messi",
       "source": "BBC Sport",
-      "virality_score": 81,
-      "pub_ago": "44m ago",
+      "virality_score": 75,
+      "pub_ago": "2h ago",
       "teams": [
         "Argentina"
       ],
       "files": {
-        "916": "cards/20260616_1725_card1_916.png",
-        "169": "cards/20260616_1725_card1_169.png"
+        "916": "cards/20260616_1857_card1_916.png",
+        "169": "cards/20260616_1857_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Why is retaining the World Cup so hard? Messiâ€™s Argentina out to buck trend",
+      "title": "Why is retaining the World Cup so hard? Messi's Argentina out to buck trend",
       "source": "Sky Sports",
-      "virality_score": 77,
-      "pub_ago": "24m ago",
+      "virality_score": 72,
+      "pub_ago": "56m ago",
       "teams": [
         "Argentina",
         "Brazil"
       ],
       "files": {
-        "916": "cards/20260616_1725_card2_916.png",
-        "169": "cards/20260616_1725_card2_169.png"
+        "916": "cards/20260616_1857_card2_916.png",
+        "169": "cards/20260616_1857_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "What does future hold for Rashford as deadline passes?",
+      "title": "Shamrock Rovers fans 'immensely proud' of Cape Verde hero Lopes",
       "source": "BBC Sport",
-      "virality_score": 70,
-      "pub_ago": "3h ago",
+      "virality_score": 68,
+      "pub_ago": "45m ago",
       "teams": [
-        "England"
+        "Spain"
       ],
       "files": {
-        "916": "cards/20260616_1725_card3_916.png",
-        "169": "cards/20260616_1725_card3_169.png"
+        "916": "cards/20260616_1857_card3_916.png",
+        "169": "cards/20260616_1857_card3_169.png"
       }
     }
   ]
