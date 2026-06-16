@@ -1,45 +1,43 @@
 {
-  "generated_at": "2026-06-16T13:59:30.030532+08:00",
-  "generated_at_display": "Jun 16, 2026 · 01:59 PM HKT",
+  "generated_at": "2026-06-16T14:47:16.274735+08:00",
+  "generated_at_display": "Jun 16, 2026 · 02:47 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "What's the score with watching Scotland in the World Cup? as the FIFA World Cup 2026 enters its most dramatic",
+      "title": "Tunisia sack Lamouchi just one game into World Cup",
       "source": "BBC Sport",
-      "virality_score": 32,
-      "pub_ago": "11h ago",
+      "virality_score": 71,
+      "pub_ago": "2m ago",
       "teams": [
-        "Scotland"
+        "Tunisia"
       ],
       "files": {
-        "916": "cards/20260616_1359_card1_916.png",
-        "169": "cards/20260616_1359_card1_169.png"
+        "916": "cards/20260616_1446_card1_916.png",
+        "169": "cards/20260616_1446_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "VAR official says hand gesture was 'involuntary, subconscious twitch' in a significant moment at the FIFA World Cup 2026 as",
+      "title": "Ex-Rangers boss Martin appointed as Leicester manager",
       "source": "BBC Sport",
-      "virality_score": 30,
-      "pub_ago": "7h ago",
+      "virality_score": 21,
+      "pub_ago": "10h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260616_1359_card2_916.png",
-        "169": "cards/20260616_1359_card2_169.png"
+        "916": "cards/20260616_1446_card2_916.png",
+        "169": "cards/20260616_1446_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "The 40-year-old keeper who inspired Cape Verde's historic debut against Spain amid all the drama at the FIFA World Cup",
-      "source": "BBC Sport",
-      "virality_score": 29,
+      "title": "Clark eyes US Open 'redemption' after 'deep regret' over behaviour",
+      "source": "Sky Sports",
+      "virality_score": 17,
       "pub_ago": "9h ago",
-      "teams": [
-        "Spain"
-      ],
+      "teams": [],
       "files": {
-        "916": "cards/20260616_1359_card3_916.png",
-        "169": "cards/20260616_1359_card3_169.png"
+        "916": "cards/20260616_1446_card3_916.png",
+        "169": "cards/20260616_1446_card3_169.png"
       }
     }
   ]

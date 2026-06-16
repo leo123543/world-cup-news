@@ -124,14 +124,9 @@ def detect_teams(title: str, desc: str) -> list[str]:
 def to_sm_headline(title: str, pad_idx: int) -> str:
     clean = re.sub(r"\s*[-–|]\s*(BBC Sport|Guardian|Sky Sports|ESPN)[^\s]*", "", title, flags=re.IGNORECASE)
     clean = re.sub(r"^(WATCH|VIDEO|GALLERY|QUIZ|EXCLUSIVE):\s*", "", clean.strip(), flags=re.IGNORECASE)
+    # 不做 padding，原始标题更干净；超过 18 词时截断
     words = clean.split()
-    if 16 <= len(words) <= 20:
-        return " ".join(words)
-    if len(words) > 20:
-        return " ".join(words[:20])
-    pad = SM_PADS[pad_idx % len(SM_PADS)].split()
-    combined = words + pad
-    return " ".join(combined[:20])
+    return " ".join(words[:18])
 
 
 def virality_score(item: dict) -> float:

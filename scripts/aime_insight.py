@@ -39,12 +39,13 @@ def generate_insight(article: dict, language: str = "en") -> str:
         "Output ONLY the 2 sentences, nothing else."
     )
 
+    # 单行格式：避免 Windows CMD 将 \n 截断为多条命令
     user_prompt = (
-        f"News article to analyze:\n"
-        f"Headline: {title}\n"
-        f"Source: {source}\n"
-        f"Summary: {description}\n\n"
-        f"Write 2 sentences of analytical insight about this story's significance."
+        f"Analyze this football news story: "
+        f"Headline: {title} | "
+        f"Source: {source} | "
+        f"Summary: {description} | "
+        f"Task: Write exactly 2 sentences of analytical insight."
     )
 
     try:
