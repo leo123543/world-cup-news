@@ -1,49 +1,45 @@
 {
-  "generated_at": "2026-06-16T11:52:38.272631+08:00",
-  "generated_at_display": "Jun 16, 2026 · 11:52 AM HKT",
+  "generated_at": "2026-06-16T13:59:30.030532+08:00",
+  "generated_at_display": "Jun 16, 2026 · 01:59 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Duck, duck, goal: bird dressed in Mexico’s World Cup jersey scores on social media with all the action from the",
-      "source": "The Guardian",
-      "virality_score": 49,
-      "pub_ago": "5h ago",
+      "title": "What's the score with watching Scotland in the World Cup? as the FIFA World Cup 2026 enters its most dramatic",
+      "source": "BBC Sport",
+      "virality_score": 32,
+      "pub_ago": "11h ago",
       "teams": [
-        "Mexico"
+        "Scotland"
       ],
       "files": {
-        "916": "cards/20260616_1152_card1_916.png",
-        "169": "cards/20260616_1152_card1_169.png"
+        "916": "cards/20260616_1359_card1_916.png",
+        "169": "cards/20260616_1359_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "'Sensational!' - Wood and Just combine twice for New Zealand goals as the FIFA World Cup 2026 enters its most",
+      "title": "VAR official says hand gesture was 'involuntary, subconscious twitch' in a significant moment at the FIFA World Cup 2026 as",
       "source": "BBC Sport",
-      "virality_score": 48,
-      "pub_ago": "2h ago",
-      "teams": [
-        "Iran",
-        "New Zealand"
-      ],
+      "virality_score": 30,
+      "pub_ago": "7h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260616_1152_card2_916.png",
-        "169": "cards/20260616_1152_card2_169.png"
+        "916": "cards/20260616_1359_card2_916.png",
+        "169": "cards/20260616_1359_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Egypt denied first World Cup win in Belgium draw as Lukaku makes instant impact with all the action from the",
-      "source": "Sky Sports",
-      "virality_score": 47,
-      "pub_ago": "6h ago",
+      "title": "The 40-year-old keeper who inspired Cape Verde's historic debut against Spain amid all the drama at the FIFA World Cup",
+      "source": "BBC Sport",
+      "virality_score": 29,
+      "pub_ago": "9h ago",
       "teams": [
-        "Belgium",
-        "Egypt"
+        "Spain"
       ],
       "files": {
-        "916": "cards/20260616_1152_card3_916.png",
-        "169": "cards/20260616_1152_card3_169.png"
+        "916": "cards/20260616_1359_card3_916.png",
+        "169": "cards/20260616_1359_card3_169.png"
       }
     }
   ]

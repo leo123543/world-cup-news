@@ -67,7 +67,7 @@ def main() -> None:
     print(f"[main] 抓取到 {len(articles)} 篇文章")
 
     # 2. Aime Insight 生成
-    insights = generate_insights_for_top3(articles, language="zh")
+    insights = generate_insights_for_top3(articles, language="en")
     print("[main] Aime Insight 生成完毕")
 
     # 3. 渲染 6 张 PNG（9:16 × 3 + 16:9 × 3）

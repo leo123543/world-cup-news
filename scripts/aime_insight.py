@@ -2,19 +2,8 @@ import os
 import subprocess
 import sys
 
-_SYSTEM_ZH = (
-    "你是 Aime Multi-Agent Intelligence，专注足球市场和战术分析的 AI 分析师。"
-    "针对提供的新闻，生成一句中文洞察（≤50 个汉字）。"
-    "揭示非显而易见的角度：战术影响、赔率波动、历史类比或转会市场涟漪效应。"
-    "不要重复标题内容。只输出洞察句本身，不加引号，不加解释。"
-)
-
-_SYSTEM_EN = (
-    "You are Aime Multi-Agent Intelligence, an AI analyst specializing in football tactics and markets. "
-    "Generate ONE sharp insight in English (≤80 chars) about the article. "
-    "Reveal non-obvious angles: tactical implications, odds shifts, historical echoes, transfer ripple effects. "
-    "Never restate the headline. Output only the insight, no quotes."
-)
+# claude -p 把整个参数当作用户消息，不支持单独的 system prompt
+# 所以用自包含格式：角色定义 + 任务 + 内容 + 输出要求 全部在一个字符串里
 
 
 def _claude_env() -> dict:
@@ -35,34 +24,49 @@ def _claude_cmd() -> list[str]:
     return ["claude"]
 
 
-def generate_insight(article: dict, language: str = "zh") -> str:
+def generate_insight(article: dict, language: str = "en") -> str:
     """用 claude -p CLI 为单篇文章生成 Aime 洞察句。失败时返回空字符串。"""
-    system = _SYSTEM_ZH if language == "zh" else _SYSTEM_EN
-    sm_headline = article.get("sm_headline", article.get("title", ""))
+    title = article.get("title", article.get("sm_headline", ""))
     source = article.get("source", "")
     description = article.get("description", "")[:300]
 
-    if language == "zh":
-        user_msg = f"Headline: {sm_headline}\nSource: {source}\nSummary: {description}\n\n生成一句 Aime 洞察（中文，≤50字）："
-    else:
-        user_msg = f"Headline: {sm_headline}\nSource: {source}\nSummary: {description}\n\nGenerate one Aime insight (English, ≤80 chars):"
+    system_prompt = (
+        "You are a football analyst AI. You will be given a news article headline and summary. "
+        "Your job is to write exactly 2 sentences of sharp analytical insight about the STORY itself — "
+        "its tactical implications, narrative significance, historical parallels, or tournament impact. "
+        "Do NOT answer any question posed in the headline. Treat the headline as a news topic, not a question to answer. "
+        "Write in plain English with no markdown, no bold, no bullet points. Never restate the headline. "
+        "Output ONLY the 2 sentences, nothing else."
+    )
 
-    prompt = f"{system}\n\n{user_msg}"
+    user_prompt = (
+        f"News article to analyze:\n"
+        f"Headline: {title}\n"
+        f"Source: {source}\n"
+        f"Summary: {description}\n\n"
+        f"Write 2 sentences of analytical insight about this story's significance."
+    )
 
     try:
         result = subprocess.run(
-            [*_claude_cmd(), "-p", prompt],
+            [*_claude_cmd(), "-p", user_prompt,
+             "--system-prompt", system_prompt,
+             "--no-session-persistence"],
             capture_output=True,
             text=True,
-            timeout=60,
+            timeout=90,
             env=_claude_env(),
+            cwd=os.path.expanduser("~"),
         )
         output = result.stdout.strip()
         if result.returncode != 0:
             err = output or result.stderr.strip()
             print(f"[aime_insight] CLI 错误 (code {result.returncode}): {err}")
             return ""
-        return output
+        # 去除 markdown，截取前 2 句
+        clean = output.replace("**", "").replace("__", "").replace("*", "")
+        sentences = [s.strip() for s in clean.replace("\n", " ").split(".") if s.strip()]
+        return ". ".join(sentences[:2]) + ("." if sentences else "")
     except FileNotFoundError:
         print("[aime_insight] claude CLI 未找到，跳过 Insight 生成")
         return ""

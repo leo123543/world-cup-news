@@ -49,7 +49,6 @@ def render_card_html(
     article: dict,
     insight: str,
     card_index: int,
-    logo_svg: str,
     template_env: Environment,
     size: Size,
 ) -> str:
@@ -58,7 +57,6 @@ def render_card_html(
 
     template = template_env.get_template(_TEMPLATES[size])
     return template.render(
-        logo_svg=logo_svg,
         card_index=card_index,
         sm_headline=article.get("sm_headline", article.get("title", "")),
         teams=article.get("teams", [])[:4],
@@ -90,7 +88,6 @@ def render_all_cards(
     articles: list[dict],
     insights: list[str],
     output_dir: Path,
-    logo_svg_path: Path = LOGO_SVG_PATH,
 ) -> dict[str, list[Path]]:
     """
     渲染全部卡片（9:16 和 16:9 各 3 张）。
@@ -100,14 +97,13 @@ def render_all_cards(
 
     templates_dir = Path(__file__).parent.parent / "templates"
     env = _make_env(templates_dir)
-    logo_svg = load_logo_svg(logo_svg_path)
 
     now_str = datetime.now(tz=HKT).strftime("%Y%m%d_%H%M")
     result: dict[str, list[Path]] = {"916": [], "169": []}
 
     for size in ("916", "169"):
         for i, (article, insight) in enumerate(zip(articles, insights), start=1):
-            html = render_card_html(article, insight, i, logo_svg, env, size)
+            html = render_card_html(article, insight, i, env, size)
             fname = f"{now_str}_card{i}_{size}.png"
             out_path = output_dir / fname
             html_to_png(html, out_path, size)
