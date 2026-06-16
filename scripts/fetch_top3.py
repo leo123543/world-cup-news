@@ -74,9 +74,10 @@ def _unescape(text: str) -> str:
          .replace("&lt;", "<").replace("&gt;", ">")
          .replace("&amp;", "&").replace("&quot;", '"')
          .replace("&#39;", "'"))
-    # 修复 RSS double-encoding：UTF-8 弯引号被当作 Latin-1 读取后产生的乱码
+    # 修复 Mojibake：UTF-8 字节被 cp1252 误读后产生的乱码（如 â€™ → '）
+    # latin-1 无法编码 € (U+20AC)，必须用 cp1252
     try:
-        t = t.encode("latin-1").decode("utf-8")
+        t = t.encode("cp1252").decode("utf-8")
     except (UnicodeEncodeError, UnicodeDecodeError):
         pass
     # 规范化弯引号为直引号，避免 ALL CAPS 渲染异常
