@@ -6,7 +6,7 @@ from zoneinfo import ZoneInfo
 
 sys.path.insert(0, str(Path(__file__).parent))
 
-from aime_insight import generate_insights_for_top3
+from aime_insight import generate_insights_for_top3, generate_sm_headlines_for_top3
 from fetch_top3 import fetch_top3
 from render_card import render_all_cards
 
@@ -65,16 +65,22 @@ def main() -> None:
 
     print(f"[main] 抓取到 {len(articles)} 篇文章")
 
-    # 2. Aime Insight 生成
+    # 2. 生成 post-ready 标题（16-20 词完整英文句子）
+    sm_headlines = generate_sm_headlines_for_top3(articles)
+    for article, headline in zip(articles, sm_headlines):
+        article["sm_headline"] = headline
+    print("[main] SM Headline 生成完毕")
+
+    # 3. Aime Insight 生成
     insights = generate_insights_for_top3(articles, language="en")
     print("[main] Aime Insight 生成完毕")
 
-    # 3. 渲染 6 张 PNG（9:16 × 3 + 16:9 × 3）
+    # 4. 渲染 6 张 PNG（9:16 × 3 + 16:9 × 3）
     png_paths = render_all_cards(articles, insights, cards_dir)
     total = sum(len(v) for v in png_paths.values())
     print(f"[main] 渲染完毕: 共 {total} 张 PNG")
 
-    # 4. 写入 meta.json
+    # 5. 写入 meta.json
     write_meta_json(articles, png_paths, cards_dir)
 
     print("[main] 流水线完成 ✓")

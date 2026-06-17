@@ -55,6 +55,7 @@ def generate_insight(article: dict, language: str = "en") -> str:
              "--no-session-persistence"],
             capture_output=True,
             text=True,
+            encoding="utf-8",
             timeout=90,
             env=_claude_env(),
             cwd=os.path.expanduser("~"),
@@ -79,5 +80,49 @@ def generate_insight(article: dict, language: str = "en") -> str:
         return ""
 
 
-def generate_insights_for_top3(articles: list[dict], language: str = "zh") -> list[str]:
+def generate_sm_headline(article: dict) -> str:
+    """用 Claude 把 RSS 原标题改写成 16-20 词的完整英文 post-ready 标题。失败时返回原标题。"""
+    title = article.get("title", "")
+    source = article.get("source", "")
+    description = article.get("description", "")[:200]
+
+    system_prompt = (
+        "You are a sports news editor for social media. "
+        "Rewrite the given headline into a punchy, complete English sentence of exactly 16-20 words. "
+        "Rules: must be a complete grammatical sentence, factual, no clickbait, no ellipsis, no truncation. "
+        "Output ONLY the rewritten headline, nothing else."
+    )
+
+    user_prompt = (
+        f"Rewrite this as a 16-20 word complete English headline: "
+        f"Original: {title} | Source: {source} | Context: {description}"
+    )
+
+    try:
+        result = subprocess.run(
+            [*_claude_cmd(), "-p", user_prompt,
+             "--system-prompt", system_prompt,
+             "--no-session-persistence"],
+            capture_output=True,
+            text=True,
+            encoding="utf-8",
+            timeout=60,
+            env=_claude_env(),
+            cwd=os.path.expanduser("~"),
+        )
+        output = result.stdout.strip()
+        if result.returncode != 0 or not output:
+            return title
+        # 去除引号包裹、markdown
+        clean = output.strip('"').strip("'").replace("**", "").replace("*", "")
+        return clean.split("\n")[0].strip()
+    except Exception:
+        return title
+
+
+def generate_sm_headlines_for_top3(articles: list[dict]) -> list[str]:
+    return [generate_sm_headline(article) for article in articles]
+
+
+def generate_insights_for_top3(articles: list[dict], language: str = "en") -> list[str]:
     return [generate_insight(article, language) for article in articles]
