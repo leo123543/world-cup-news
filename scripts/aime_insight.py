@@ -7,9 +7,10 @@ import sys
 
 
 def _claude_env() -> dict:
-    """剥离 ANTHROPIC_API_KEY，强制 CLI 使用 CC 订阅（OAuth）。"""
+    """本地剥离 ANTHROPIC_API_KEY 强制 CC OAuth；CI 保留 key 供 Claude CLI 认证。"""
     env = os.environ.copy()
-    env.pop("ANTHROPIC_API_KEY", None)
+    if not env.get("CI"):
+        env.pop("ANTHROPIC_API_KEY", None)
     return env
 
 
