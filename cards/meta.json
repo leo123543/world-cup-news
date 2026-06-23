@@ -1,47 +1,51 @@
 {
-  "generated_at": "2026-06-23T14:16:48.099247+08:00",
-  "generated_at_display": "Jun 23, 2026 · 02:16 PM HKT",
+  "generated_at": "2026-06-23T22:36:44.045648+08:00",
+  "generated_at_display": "Jun 23, 2026 · 10:36 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Messi in a class of his own and rain stops play in Philadelphia - World Cup Daily",
+      "title": "World Cup 2026: Jordan fan dies in crowd crush; criticism of Ronaldo and Portugal 'unfair'; England face Ghana - live",
       "source": "The Guardian",
-      "virality_score": 77,
-      "pub_ago": "17m ago",
+      "virality_score": 76,
+      "pub_ago": "16m ago",
       "teams": [
-        "France"
+        "England",
+        "Portugal",
+        "Ghana"
       ],
       "files": {
-        "916": "cards/20260623_1416_card1_916.png",
-        "169": "cards/20260623_1416_card1_169.png"
+        "916": "cards/20260623_2236_card1_916.png",
+        "169": "cards/20260623_2236_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Norway win five-goal thriller against Senegal to make last 32",
-      "source": "BBC Sport",
-      "virality_score": 70,
-      "pub_ago": "3h ago",
+      "title": "New Zealand eliminate Scotland with six-wicket victory",
+      "source": "Sky Sports",
+      "virality_score": 65,
+      "pub_ago": "21m ago",
       "teams": [
-        "Senegal"
+        "Scotland",
+        "New Zealand"
       ],
       "files": {
-        "916": "cards/20260623_1416_card2_916.png",
-        "169": "cards/20260623_1416_card2_169.png"
+        "916": "cards/20260623_2236_card2_916.png",
+        "169": "cards/20260623_2236_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Miami romance, Billy Gilmour and a mince and tattie hot dog",
+      "title": "Who are the Ghana players England should look out for?",
       "source": "BBC Sport",
-      "virality_score": 69,
-      "pub_ago": "24m ago",
+      "virality_score": 65,
+      "pub_ago": "1h ago",
       "teams": [
-        "Scotland"
+        "England",
+        "Ghana"
       ],
       "files": {
-        "916": "cards/20260623_1416_card3_916.png",
-        "169": "cards/20260623_1416_card3_169.png"
+        "916": "cards/20260623_2236_card3_916.png",
+        "169": "cards/20260623_2236_card3_169.png"
       }
     }
   ]
