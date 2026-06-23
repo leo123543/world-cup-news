@@ -20,7 +20,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install Python dependencies
-        run: pip install -r projects/world-cup-news/requirements.txt
+        run: pip install -r requirements.txt
 
       - name: Install Playwright browsers
         run: playwright install chromium --with-deps
@@ -31,14 +31,12 @@ jobs:
       - name: Generate cards
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: |
-          cd projects/world-cup-news
-          python scripts/main.py
+        run: python scripts/main.py
 
       - name: Commit generated cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add projects/world-cup-news/cards/
+          git add cards/
           git diff --staged --quiet || git commit -m "chore: daily cards update $(date -u '+%Y-%m-%d %H:%M UTC') [skip ci]"
           git push
