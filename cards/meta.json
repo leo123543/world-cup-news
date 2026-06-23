@@ -1,43 +1,47 @@
 {
-  "generated_at": "2026-06-17T09:56:58.035227+08:00",
-  "generated_at_display": "Jun 17, 2026 · 09:56 AM HKT",
+  "generated_at": "2026-06-23T14:16:48.099247+08:00",
+  "generated_at_display": "Jun 23, 2026 · 02:16 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Erling Haaland scored two goals as Norway thrashed Iraq 4-1 to open their 2026 World Cup campaign.",
-      "source": "BBC Sport",
-      "virality_score": 77,
-      "pub_ago": "1h ago",
-      "teams": [],
-      "files": {
-        "916": "cards/20260617_0956_card1_916.png",
-        "169": "cards/20260617_0956_card1_169.png"
-      }
-    },
-    {
-      "rank": 2,
-      "title": "Iraq goalkeeper Jalal Hassan's catastrophic error gifted Erling Haaland his second goal for Norway at the World Cup.",
-      "source": "BBC Sport",
-      "virality_score": 76,
-      "pub_ago": "2h ago",
-      "teams": [],
-      "files": {
-        "916": "cards/20260617_0956_card2_916.png",
-        "169": "cards/20260617_0956_card2_169.png"
-      }
-    },
-    {
-      "rank": 3,
-      "title": "Erling Haaland announced himself on the World Cup stage with two goals as Norway beat Iraq.",
+      "title": "Messi in a class of his own and rain stops play in Philadelphia - World Cup Daily",
       "source": "The Guardian",
-      "virality_score": 73,
-      "pub_ago": "1h ago",
+      "virality_score": 77,
+      "pub_ago": "17m ago",
       "teams": [
         "France"
       ],
       "files": {
-        "916": "cards/20260617_0956_card3_916.png",
-        "169": "cards/20260617_0956_card3_169.png"
+        "916": "cards/20260623_1416_card1_916.png",
+        "169": "cards/20260623_1416_card1_169.png"
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Norway win five-goal thriller against Senegal to make last 32",
+      "source": "BBC Sport",
+      "virality_score": 70,
+      "pub_ago": "3h ago",
+      "teams": [
+        "Senegal"
+      ],
+      "files": {
+        "916": "cards/20260623_1416_card2_916.png",
+        "169": "cards/20260623_1416_card2_169.png"
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Miami romance, Billy Gilmour and a mince and tattie hot dog",
+      "source": "BBC Sport",
+      "virality_score": 69,
+      "pub_ago": "24m ago",
+      "teams": [
+        "Scotland"
+      ],
+      "files": {
+        "916": "cards/20260623_1416_card3_916.png",
+        "169": "cards/20260623_1416_card3_169.png"
       }
     }
   ]
