@@ -1,44 +1,45 @@
 {
-  "generated_at": "2026-06-24T22:15:00.853120+08:00",
-  "generated_at_display": "Jun 24, 2026 · 10:15 PM HKT",
+  "generated_at": "2026-06-25T12:16:32.924241+08:00",
+  "generated_at_display": "Jun 25, 2026 · 12:16 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "World Cup 2026: Infantino says hydration breaks not commercial; attendances on track for record high - live",
+      "title": "World Cup becomes cult of the individual but ignores team complexity | Jonathan Liew",
       "source": "The Guardian",
-      "virality_score": 74,
-      "pub_ago": "6m ago",
+      "virality_score": 80,
+      "pub_ago": "16m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260624_2214_card1_916.png",
-        "169": "cards/20260624_2214_card1_169.png"
+        "916": "cards/20260625_1216_card1_916.png",
+        "169": "cards/20260625_1216_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "'Not much faith': the view from Brazil as they prepare to face Scotland",
-      "source": "The Guardian",
-      "virality_score": 64,
-      "pub_ago": "3h ago",
+      "title": "Mexico beat Czech Republic to maintain 100% winning record",
+      "source": "BBC Sport",
+      "virality_score": 74,
+      "pub_ago": "15m ago",
       "teams": [
-        "Brazil",
-        "Scotland"
+        "Mexico"
       ],
       "files": {
-        "916": "cards/20260624_2214_card2_916.png",
-        "169": "cards/20260624_2214_card2_169.png"
+        "916": "cards/20260625_1216_card2_916.png",
+        "169": "cards/20260625_1216_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Who has been eliminated from the World Cup?",
-      "source": "BBC Sport",
-      "virality_score": 64,
-      "pub_ago": "3h ago",
-      "teams": [],
+      "title": "Ochoa and Mora make World Cup history as Mexico down Czech Republic",
+      "source": "Sky Sports",
+      "virality_score": 71,
+      "pub_ago": "31m ago",
+      "teams": [
+        "Mexico"
+      ],
       "files": {
-        "916": "cards/20260624_2214_card3_916.png",
-        "169": "cards/20260624_2214_card3_169.png"
+        "916": "cards/20260625_1216_card3_916.png",
+        "169": "cards/20260625_1216_card3_169.png"
       }
     }
   ]
