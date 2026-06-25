@@ -1,45 +1,48 @@
 {
-  "generated_at": "2026-06-25T12:16:32.924241+08:00",
-  "generated_at_display": "Jun 25, 2026 · 12:16 PM HKT",
+  "generated_at": "2026-06-25T22:13:18.518952+08:00",
+  "generated_at_display": "Jun 25, 2026 · 10:13 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "World Cup becomes cult of the individual but ignores team complexity | Jonathan Liew",
-      "source": "The Guardian",
-      "virality_score": 80,
-      "pub_ago": "16m ago",
+      "title": "The games that show the flaws in a 48-team World Cup",
+      "source": "BBC Sport",
+      "virality_score": 72,
+      "pub_ago": "34m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260625_1216_card1_916.png",
-        "169": "cards/20260625_1216_card1_169.png"
+        "916": "cards/20260625_2212_card1_916.png",
+        "169": "cards/20260625_2212_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Mexico beat Czech Republic to maintain 100% winning record",
-      "source": "BBC Sport",
-      "virality_score": 74,
-      "pub_ago": "15m ago",
+      "title": "World Cup 2026: Car hits crowd in Mexico, Scotland face waiting game and more - live",
+      "source": "The Guardian",
+      "virality_score": 66,
+      "pub_ago": "23m ago",
       "teams": [
-        "Mexico"
+        "Mexico",
+        "Scotland"
       ],
       "files": {
-        "916": "cards/20260625_1216_card2_916.png",
-        "169": "cards/20260625_1216_card2_169.png"
+        "916": "cards/20260625_2212_card2_916.png",
+        "169": "cards/20260625_2212_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Ochoa and Mora make World Cup history as Mexico down Czech Republic",
-      "source": "Sky Sports",
-      "virality_score": 71,
-      "pub_ago": "31m ago",
+      "title": "Scotland on the brink after Brazil beating, Mexico march on | World Cup Daily",
+      "source": "The Guardian",
+      "virality_score": 64,
+      "pub_ago": "58m ago",
       "teams": [
-        "Mexico"
+        "Brazil",
+        "Mexico",
+        "Scotland"
       ],
       "files": {
-        "916": "cards/20260625_1216_card3_916.png",
-        "169": "cards/20260625_1216_card3_169.png"
+        "916": "cards/20260625_2212_card3_916.png",
+        "169": "cards/20260625_2212_card3_169.png"
       }
     }
   ]
