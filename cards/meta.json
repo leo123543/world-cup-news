@@ -1,49 +1,47 @@
 {
-  "generated_at": "2026-06-26T12:23:10.325365+08:00",
-  "generated_at_display": "Jun 26, 2026 · 12:23 PM HKT",
+  "generated_at": "2026-06-26T22:12:33.011850+08:00",
+  "generated_at_display": "Jun 26, 2026 · 10:12 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "What each team need to reach World Cup knockouts",
-      "source": "BBC Sport",
-      "virality_score": 72,
-      "pub_ago": "13m ago",
-      "teams": [],
+      "title": "World Cup 2026: Haaland v Mbappé; Schweinsteiger's 'African football' comments criticised; Ecuador's national holiday - live",
+      "source": "The Guardian",
+      "virality_score": 76,
+      "pub_ago": "21m ago",
+      "teams": [
+        "France",
+        "Ecuador"
+      ],
       "files": {
-        "916": "cards/20260626_1222_card1_916.png",
-        "169": "cards/20260626_1222_card1_169.png"
+        "916": "cards/20260626_2212_card1_916.png",
+        "169": "cards/20260626_2212_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Turkey 3-2 USA: World Cup 2026 - live",
-      "source": "The Guardian",
-      "virality_score": 66,
-      "pub_ago": "14m ago",
+      "title": "Start Rashford? Bring O'Reilly back? Pick your England XI to face Panama",
+      "source": "BBC Sport",
+      "virality_score": 76,
+      "pub_ago": "2h ago",
       "teams": [
-        "USA",
-        "Turkey"
+        "England",
+        "Panama"
       ],
       "files": {
-        "916": "cards/20260626_1222_card2_916.png",
-        "169": "cards/20260626_1222_card2_169.png"
+        "916": "cards/20260626_2212_card2_916.png",
+        "169": "cards/20260626_2212_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Paraguay 0-0 Australia: World Cup 2026 - live reaction",
-      "source": "The Guardian",
-      "virality_score": 66,
-      "pub_ago": "13m ago",
-      "teams": [
-        "USA",
-        "Australia",
-        "Turkey",
-        "Paraguay"
-      ],
+      "title": "All done deals in June 2026",
+      "source": "BBC Sport",
+      "virality_score": 65,
+      "pub_ago": "1h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260626_1222_card3_916.png",
-        "169": "cards/20260626_1222_card3_169.png"
+        "916": "cards/20260626_2212_card3_916.png",
+        "169": "cards/20260626_2212_card3_169.png"
       }
     }
   ]
