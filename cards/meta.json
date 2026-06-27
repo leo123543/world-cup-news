@@ -1,49 +1,50 @@
 {
-  "generated_at": "2026-06-27T12:09:27.568179+08:00",
-  "generated_at_display": "Jun 27, 2026 · 12:09 PM HKT",
+  "generated_at": "2026-06-27T21:20:54.442419+08:00",
+  "generated_at_display": "Jun 27, 2026 · 09:20 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Uruguay slump to shock early World Cup exit after Baena strike sends Spain through",
+      "title": "World Cup 2026: England through, Scotland wait goes on and joy for Cape Verde - live",
       "source": "The Guardian",
       "virality_score": 69,
-      "pub_ago": "1h ago",
+      "pub_ago": "10m ago",
+      "teams": [
+        "England",
+        "Iran",
+        "Scotland"
+      ],
+      "files": {
+        "916": "cards/20260627_2120_card1_916.png",
+        "169": "cards/20260627_2120_card1_169.png"
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Man Utd waiting on Ugarte injury after he leaves pitch on stretcher",
+      "source": "BBC Sport",
+      "virality_score": 65,
+      "pub_ago": "2h ago",
       "teams": [
         "Spain",
         "Uruguay"
       ],
       "files": {
-        "916": "cards/20260627_1209_card1_916.png",
-        "169": "cards/20260627_1209_card1_169.png"
-      }
-    },
-    {
-      "rank": 2,
-      "title": "How Cape Verde stunned World Cup to set up Argentina tie",
-      "source": "BBC Sport",
-      "virality_score": 68,
-      "pub_ago": "27m ago",
-      "teams": [
-        "Argentina"
-      ],
-      "files": {
-        "916": "cards/20260627_1209_card2_916.png",
-        "169": "cards/20260627_1209_card2_169.png"
+        "916": "cards/20260627_2120_card2_916.png",
+        "169": "cards/20260627_2120_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "England qualify for World Cup knockout stage",
-      "source": "BBC Sport",
-      "virality_score": 68,
-      "pub_ago": "1h ago",
+      "title": "'This must never happen again': Iran coach hits out at the US and tells Infantino to stand up against hosts",
+      "source": "The Guardian",
+      "virality_score": 63,
+      "pub_ago": "5h ago",
       "teams": [
-        "England",
-        "Panama"
+        "Iran"
       ],
       "files": {
-        "916": "cards/20260627_1209_card3_916.png",
-        "169": "cards/20260627_1209_card3_169.png"
+        "916": "cards/20260627_2120_card3_916.png",
+        "169": "cards/20260627_2120_card3_169.png"
       }
     }
   ]
