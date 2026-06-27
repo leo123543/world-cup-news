@@ -1,47 +1,49 @@
 {
-  "generated_at": "2026-06-26T22:12:33.011850+08:00",
-  "generated_at_display": "Jun 26, 2026 · 10:12 PM HKT",
+  "generated_at": "2026-06-27T12:09:27.568179+08:00",
+  "generated_at_display": "Jun 27, 2026 · 12:09 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "World Cup 2026: Haaland v Mbappé; Schweinsteiger's 'African football' comments criticised; Ecuador's national holiday - live",
+      "title": "Uruguay slump to shock early World Cup exit after Baena strike sends Spain through",
       "source": "The Guardian",
-      "virality_score": 76,
-      "pub_ago": "21m ago",
+      "virality_score": 69,
+      "pub_ago": "1h ago",
       "teams": [
-        "France",
-        "Ecuador"
+        "Spain",
+        "Uruguay"
       ],
       "files": {
-        "916": "cards/20260626_2212_card1_916.png",
-        "169": "cards/20260626_2212_card1_169.png"
+        "916": "cards/20260627_1209_card1_916.png",
+        "169": "cards/20260627_1209_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Start Rashford? Bring O'Reilly back? Pick your England XI to face Panama",
+      "title": "How Cape Verde stunned World Cup to set up Argentina tie",
       "source": "BBC Sport",
-      "virality_score": 76,
-      "pub_ago": "2h ago",
+      "virality_score": 68,
+      "pub_ago": "27m ago",
+      "teams": [
+        "Argentina"
+      ],
+      "files": {
+        "916": "cards/20260627_1209_card2_916.png",
+        "169": "cards/20260627_1209_card2_169.png"
+      }
+    },
+    {
+      "rank": 3,
+      "title": "England qualify for World Cup knockout stage",
+      "source": "BBC Sport",
+      "virality_score": 68,
+      "pub_ago": "1h ago",
       "teams": [
         "England",
         "Panama"
       ],
       "files": {
-        "916": "cards/20260626_2212_card2_916.png",
-        "169": "cards/20260626_2212_card2_169.png"
-      }
-    },
-    {
-      "rank": 3,
-      "title": "All done deals in June 2026",
-      "source": "BBC Sport",
-      "virality_score": 65,
-      "pub_ago": "1h ago",
-      "teams": [],
-      "files": {
-        "916": "cards/20260626_2212_card3_916.png",
-        "169": "cards/20260626_2212_card3_169.png"
+        "916": "cards/20260627_1209_card3_916.png",
+        "169": "cards/20260627_1209_card3_169.png"
       }
     }
   ]
