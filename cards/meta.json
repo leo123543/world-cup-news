@@ -1,50 +1,47 @@
 {
-  "generated_at": "2026-06-27T21:20:54.442419+08:00",
-  "generated_at_display": "Jun 27, 2026 · 09:20 PM HKT",
+  "generated_at": "2026-06-28T12:42:40.212697+08:00",
+  "generated_at_display": "Jun 28, 2026 · 12:42 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "World Cup 2026: England through, Scotland wait goes on and joy for Cape Verde - live",
-      "source": "The Guardian",
-      "virality_score": 69,
-      "pub_ago": "10m ago",
+      "title": "Maestro Messi scores again and breaks another record in the process",
+      "source": "BBC Sport",
+      "virality_score": 83,
+      "pub_ago": "35m ago",
       "teams": [
-        "England",
-        "Iran",
-        "Scotland"
+        "Argentina"
       ],
       "files": {
-        "916": "cards/20260627_2120_card1_916.png",
-        "169": "cards/20260627_2120_card1_169.png"
+        "916": "cards/20260628_1242_card1_916.png",
+        "169": "cards/20260628_1242_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Man Utd waiting on Ugarte injury after he leaves pitch on stretcher",
-      "source": "BBC Sport",
-      "virality_score": 65,
-      "pub_ago": "2h ago",
+      "title": "Jordan 1-3 Argentina: World Cup 2026 - as it happened",
+      "source": "The Guardian",
+      "virality_score": 77,
+      "pub_ago": "34m ago",
       "teams": [
-        "Spain",
-        "Uruguay"
+        "Argentina"
       ],
       "files": {
-        "916": "cards/20260627_2120_card2_916.png",
-        "169": "cards/20260627_2120_card2_169.png"
+        "916": "cards/20260628_1242_card2_916.png",
+        "169": "cards/20260628_1242_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "'This must never happen again': Iran coach hits out at the US and tells Infantino to stand up against hosts",
-      "source": "The Guardian",
-      "virality_score": 63,
-      "pub_ago": "5h ago",
+      "title": "Messi makes more history as Argentina beat Jordan",
+      "source": "Sky Sports",
+      "virality_score": 76,
+      "pub_ago": "42m ago",
       "teams": [
-        "Iran"
+        "Argentina"
       ],
       "files": {
-        "916": "cards/20260627_2120_card3_916.png",
-        "169": "cards/20260627_2120_card3_169.png"
+        "916": "cards/20260628_1242_card3_916.png",
+        "169": "cards/20260628_1242_card3_169.png"
       }
     }
   ]
