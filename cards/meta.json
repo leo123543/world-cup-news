@@ -1,47 +1,51 @@
 {
-  "generated_at": "2026-06-28T12:42:40.212697+08:00",
-  "generated_at_display": "Jun 28, 2026 · 12:42 PM HKT",
+  "generated_at": "2026-06-28T21:25:11.777540+08:00",
+  "generated_at_display": "Jun 28, 2026 · 09:25 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Maestro Messi scores again and breaks another record in the process",
-      "source": "BBC Sport",
-      "virality_score": 83,
-      "pub_ago": "35m ago",
+      "title": "World Cup 2026: England to face DRC, Clarke quits Scotland, South Korea president blasts team - live",
+      "source": "The Guardian",
+      "virality_score": 76,
+      "pub_ago": "14m ago",
       "teams": [
-        "Argentina"
+        "England",
+        "South Korea",
+        "Scotland"
       ],
       "files": {
-        "916": "cards/20260628_1242_card1_916.png",
-        "169": "cards/20260628_1242_card1_169.png"
+        "916": "cards/20260628_2124_card1_916.png",
+        "169": "cards/20260628_2124_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Jordan 1-3 Argentina: World Cup 2026 - as it happened",
+      "title": "World Cup glory could all come down to penalties. What's the best strategy?",
       "source": "The Guardian",
-      "virality_score": 77,
-      "pub_ago": "34m ago",
+      "virality_score": 65,
+      "pub_ago": "2h ago",
       "teams": [
-        "Argentina"
+        "Argentina",
+        "France"
       ],
       "files": {
-        "916": "cards/20260628_1242_card2_916.png",
-        "169": "cards/20260628_1242_card2_169.png"
+        "916": "cards/20260628_2124_card2_916.png",
+        "169": "cards/20260628_2124_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Messi makes more history as Argentina beat Jordan",
-      "source": "Sky Sports",
-      "virality_score": 76,
-      "pub_ago": "42m ago",
+      "title": "Derided by Leeds, snubbed by USA - but Marsch becoming Canada hero",
+      "source": "BBC Sport",
+      "virality_score": 64,
+      "pub_ago": "1h ago",
       "teams": [
-        "Argentina"
+        "USA",
+        "Canada"
       ],
       "files": {
-        "916": "cards/20260628_1242_card3_916.png",
-        "169": "cards/20260628_1242_card3_169.png"
+        "916": "cards/20260628_2124_card3_916.png",
+        "169": "cards/20260628_2124_card3_169.png"
       }
     }
   ]
