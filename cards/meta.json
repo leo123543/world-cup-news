@@ -1,48 +1,44 @@
 {
-  "generated_at": "2026-06-29T12:50:58.676416+08:00",
-  "generated_at_display": "Jun 29, 2026 · 12:50 PM HKT",
+  "generated_at": "2026-06-29T23:36:55.108730+08:00",
+  "generated_at_display": "Jun 29, 2026 · 11:36 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Morocco and the Netherlands look to move mountains in Monterrey matchup",
+      "title": "The World Cup's two competing realities: brilliant action and off-field injustices | Jonathan Wilson",
       "source": "The Guardian",
-      "virality_score": 63,
-      "pub_ago": "1h ago",
-      "teams": [
-        "Netherlands",
-        "Morocco"
-      ],
+      "virality_score": 67,
+      "pub_ago": "40m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260629_1250_card1_916.png",
-        "169": "cards/20260629_1250_card1_169.png"
+        "916": "cards/20260629_2336_card1_916.png",
+        "169": "cards/20260629_2336_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "O Canada! The knockouts begin with a win for Marsch's men: World Cup Daily - podcast",
+      "title": "Brazil v Japan: World Cup 2026 last 32 - live",
       "source": "The Guardian",
-      "virality_score": 58,
-      "pub_ago": "3h ago",
+      "virality_score": 66,
+      "pub_ago": "20m ago",
       "teams": [
-        "Canada"
+        "Brazil",
+        "Japan"
       ],
       "files": {
-        "916": "cards/20260629_1250_card2_916.png",
-        "169": "cards/20260629_1250_card2_169.png"
+        "916": "cards/20260629_2336_card2_916.png",
+        "169": "cards/20260629_2336_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "'You are Canadian heroes' - the forgotten hosts making World Cup history",
+      "title": "Africa's World Cup success leaves Asia looking for answers",
       "source": "BBC Sport",
-      "virality_score": 54,
-      "pub_ago": "4h ago",
-      "teams": [
-        "Canada"
-      ],
+      "virality_score": 66,
+      "pub_ago": "1h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260629_1250_card3_916.png",
-        "169": "cards/20260629_1250_card3_169.png"
+        "916": "cards/20260629_2336_card3_916.png",
+        "169": "cards/20260629_2336_card3_169.png"
       }
     }
   ]
