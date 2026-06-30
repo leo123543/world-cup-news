@@ -1,44 +1,50 @@
 {
-  "generated_at": "2026-06-29T23:36:55.108730+08:00",
-  "generated_at_display": "Jun 29, 2026 · 11:36 PM HKT",
+  "generated_at": "2026-06-30T12:17:39.371487+08:00",
+  "generated_at_display": "Jun 30, 2026 · 12:17 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "The World Cup's two competing realities: brilliant action and off-field injustices | Jonathan Wilson",
-      "source": "The Guardian",
-      "virality_score": 67,
-      "pub_ago": "40m ago",
-      "teams": [],
+      "title": "The end for Nagelsmann? Germany suffer their 'next football nightmare'",
+      "source": "BBC Sport",
+      "virality_score": 72,
+      "pub_ago": "1h ago",
+      "teams": [
+        "Germany",
+        "Paraguay"
+      ],
       "files": {
-        "916": "cards/20260629_2336_card1_916.png",
-        "169": "cards/20260629_2336_card1_169.png"
+        "916": "cards/20260630_1217_card1_916.png",
+        "169": "cards/20260630_1217_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Brazil v Japan: World Cup 2026 last 32 - live",
-      "source": "The Guardian",
-      "virality_score": 66,
-      "pub_ago": "20m ago",
+      "title": "Morocco beat Netherlands in dramatic penalty shootout to set up Canada clash",
+      "source": "Sky Sports",
+      "virality_score": 72,
+      "pub_ago": "12m ago",
       "teams": [
-        "Brazil",
-        "Japan"
+        "Netherlands",
+        "Morocco",
+        "Canada"
       ],
       "files": {
-        "916": "cards/20260629_2336_card2_916.png",
-        "169": "cards/20260629_2336_card2_169.png"
+        "916": "cards/20260630_1217_card2_916.png",
+        "169": "cards/20260630_1217_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Africa's World Cup success leaves Asia looking for answers",
+      "title": "Inside Paraguay's tears of joy over their seismic World Cup shock",
       "source": "BBC Sport",
-      "virality_score": 66,
+      "virality_score": 70,
       "pub_ago": "1h ago",
-      "teams": [],
+      "teams": [
+        "Paraguay"
+      ],
       "files": {
-        "916": "cards/20260629_2336_card3_916.png",
-        "169": "cards/20260629_2336_card3_169.png"
+        "916": "cards/20260630_1217_card3_916.png",
+        "169": "cards/20260630_1217_card3_169.png"
       }
     }
   ]
