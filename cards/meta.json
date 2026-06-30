@@ -1,50 +1,47 @@
 {
-  "generated_at": "2026-06-30T12:17:39.371487+08:00",
-  "generated_at_display": "Jun 30, 2026 · 12:17 PM HKT",
+  "generated_at": "2026-06-30T22:07:25.170228+08:00",
+  "generated_at_display": "Jun 30, 2026 · 10:07 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "The end for Nagelsmann? Germany suffer their 'next football nightmare'",
-      "source": "BBC Sport",
-      "virality_score": 72,
-      "pub_ago": "1h ago",
+      "title": "Australia bowl vs West Indies in Women's T20 World Cup semi-final LIVE!",
+      "source": "Sky Sports",
+      "virality_score": 70,
+      "pub_ago": "17m ago",
       "teams": [
-        "Germany",
-        "Paraguay"
+        "Australia"
       ],
       "files": {
-        "916": "cards/20260630_1217_card1_916.png",
-        "169": "cards/20260630_1217_card1_169.png"
+        "916": "cards/20260630_2207_card1_916.png",
+        "169": "cards/20260630_2207_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Morocco beat Netherlands in dramatic penalty shootout to set up Canada clash",
-      "source": "Sky Sports",
-      "virality_score": 72,
-      "pub_ago": "12m ago",
+      "title": "World Cup 2026: Klopp plays down Germany job links; Livramento has surgery - live",
+      "source": "The Guardian",
+      "virality_score": 69,
+      "pub_ago": "24m ago",
       "teams": [
-        "Netherlands",
-        "Morocco",
-        "Canada"
+        "Germany"
       ],
       "files": {
-        "916": "cards/20260630_1217_card2_916.png",
-        "169": "cards/20260630_1217_card2_169.png"
+        "916": "cards/20260630_2207_card2_916.png",
+        "169": "cards/20260630_2207_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Inside Paraguay's tears of joy over their seismic World Cup shock",
-      "source": "BBC Sport",
-      "virality_score": 70,
+      "title": "Mexico face up to their most terrifying opponent: the ghost of World Cup game four",
+      "source": "The Guardian",
+      "virality_score": 63,
       "pub_ago": "1h ago",
       "teams": [
-        "Paraguay"
+        "Mexico"
       ],
       "files": {
-        "916": "cards/20260630_1217_card3_916.png",
-        "169": "cards/20260630_1217_card3_169.png"
+        "916": "cards/20260630_2207_card3_916.png",
+        "169": "cards/20260630_2207_card3_169.png"
       }
     }
   ]
