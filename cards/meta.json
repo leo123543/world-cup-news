@@ -1,47 +1,49 @@
 {
-  "generated_at": "2026-06-30T22:07:25.170228+08:00",
-  "generated_at_display": "Jun 30, 2026 · 10:07 PM HKT",
+  "generated_at": "2026-07-01T12:46:06.823216+08:00",
+  "generated_at_display": "Jul 01, 2026 · 12:46 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Australia bowl vs West Indies in Women's T20 World Cup semi-final LIVE!",
-      "source": "Sky Sports",
-      "virality_score": 70,
-      "pub_ago": "17m ago",
+      "title": "'The Azteca erupts!' Quinones fires Mexico into lead",
+      "source": "BBC Sport",
+      "virality_score": 68,
+      "pub_ago": "44m ago",
       "teams": [
-        "Australia"
+        "Mexico",
+        "Ecuador"
       ],
       "files": {
-        "916": "cards/20260630_2207_card1_916.png",
-        "169": "cards/20260630_2207_card1_169.png"
+        "916": "cards/20260701_1245_card1_916.png",
+        "169": "cards/20260701_1245_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "World Cup 2026: Klopp plays down Germany job links; Livramento has surgery - live",
+      "title": "Mexico end World Cup knockout drought with last-32 win over Ecuador in Azteca cauldron",
       "source": "The Guardian",
-      "virality_score": 69,
-      "pub_ago": "24m ago",
+      "virality_score": 65,
+      "pub_ago": "35m ago",
       "teams": [
-        "Germany"
+        "Mexico",
+        "Ecuador"
       ],
       "files": {
-        "916": "cards/20260630_2207_card2_916.png",
-        "169": "cards/20260630_2207_card2_169.png"
+        "916": "cards/20260701_1245_card2_916.png",
+        "169": "cards/20260701_1245_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Mexico face up to their most terrifying opponent: the ghost of World Cup game four",
+      "title": "'There are holes in England': DR Congo ready to produce World Cup shock | Ed Aarons",
       "source": "The Guardian",
-      "virality_score": 63,
-      "pub_ago": "1h ago",
+      "virality_score": 64,
+      "pub_ago": "2h ago",
       "teams": [
-        "Mexico"
+        "England"
       ],
       "files": {
-        "916": "cards/20260630_2207_card3_916.png",
-        "169": "cards/20260630_2207_card3_169.png"
+        "916": "cards/20260701_1245_card3_916.png",
+        "169": "cards/20260701_1245_card3_169.png"
       }
     }
   ]
