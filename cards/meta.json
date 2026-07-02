@@ -1,45 +1,49 @@
 {
-  "generated_at": "2026-07-01T22:22:25.711478+08:00",
-  "generated_at_display": "Jul 01, 2026 · 10:22 PM HKT",
+  "generated_at": "2026-07-02T12:13:02.557623+08:00",
+  "generated_at_display": "Jul 02, 2026 · 12:13 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Sciver-Brunt confirms England return for South Africa semi-final",
-      "source": "Sky Sports",
-      "virality_score": 74,
-      "pub_ago": "7m ago",
+      "title": "USA march on but will Balogun red card prove costly?",
+      "source": "BBC Sport",
+      "virality_score": 72,
+      "pub_ago": "19m ago",
       "teams": [
-        "England"
+        "Belgium",
+        "USA"
       ],
       "files": {
-        "916": "cards/20260701_2222_card1_916.png",
-        "169": "cards/20260701_2222_card1_169.png"
+        "916": "cards/20260702_1212_card1_916.png",
+        "169": "cards/20260702_1212_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Who has been eliminated from the World Cup?",
-      "source": "BBC Sport",
+      "title": "Will Folarin Balogun's World Cup red card be struck off? No",
+      "source": "The Guardian",
       "virality_score": 69,
-      "pub_ago": "1h ago",
-      "teams": [],
+      "pub_ago": "18m ago",
+      "teams": [
+        "United States"
+      ],
       "files": {
-        "916": "cards/20260701_2222_card2_916.png",
-        "169": "cards/20260701_2222_card2_169.png"
+        "916": "cards/20260702_1212_card2_916.png",
+        "169": "cards/20260702_1212_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "England v DR Congo: World Cup 2026 last 32 - live",
-      "source": "The Guardian",
+      "title": "Balogun scores & sees red as USA beat Bosnia",
+      "source": "BBC Sport",
       "virality_score": 67,
-      "pub_ago": "6m ago",
+      "pub_ago": "1h ago",
       "teams": [
-        "England"
+        "USA",
+        "United States"
       ],
       "files": {
-        "916": "cards/20260701_2222_card3_916.png",
-        "169": "cards/20260701_2222_card3_169.png"
+        "916": "cards/20260702_1212_card3_916.png",
+        "169": "cards/20260702_1212_card3_169.png"
       }
     }
   ]
