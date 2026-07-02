@@ -1,49 +1,53 @@
 {
-  "generated_at": "2026-07-02T12:13:02.557623+08:00",
-  "generated_at_display": "Jul 02, 2026 · 12:13 PM HKT",
+  "generated_at": "2026-07-02T21:46:04.429602+08:00",
+  "generated_at_display": "Jul 02, 2026 · 09:46 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "USA march on but will Balogun red card prove costly?",
-      "source": "BBC Sport",
-      "virality_score": 72,
-      "pub_ago": "19m ago",
+      "title": "World Cup 2026: England, USA and Belgium through; Spain and Portugal face last-32 tests - live",
+      "source": "The Guardian",
+      "virality_score": 77,
+      "pub_ago": "15m ago",
       "teams": [
+        "England",
+        "Spain",
+        "Portugal",
         "Belgium",
         "USA"
       ],
       "files": {
-        "916": "cards/20260702_1212_card1_916.png",
-        "169": "cards/20260702_1212_card1_169.png"
+        "916": "cards/20260702_2145_card1_916.png",
+        "169": "cards/20260702_2145_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Will Folarin Balogun's World Cup red card be struck off? No",
+      "title": "World Cup Q&A: England reporter Jacob Steinberg answers your questions - live",
       "source": "The Guardian",
-      "virality_score": 69,
-      "pub_ago": "18m ago",
+      "virality_score": 76,
+      "pub_ago": "15m ago",
       "teams": [
-        "United States"
+        "England",
+        "Mexico"
       ],
       "files": {
-        "916": "cards/20260702_1212_card2_916.png",
-        "169": "cards/20260702_1212_card2_169.png"
+        "916": "cards/20260702_2145_card2_916.png",
+        "169": "cards/20260702_2145_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Balogun scores & sees red as USA beat Bosnia",
+      "title": "First Afcon, now World Cup - Senegal trapped in 'football hell'",
       "source": "BBC Sport",
-      "virality_score": 67,
+      "virality_score": 72,
       "pub_ago": "1h ago",
       "teams": [
-        "USA",
-        "United States"
+        "Belgium",
+        "Senegal"
       ],
       "files": {
-        "916": "cards/20260702_1212_card3_916.png",
-        "169": "cards/20260702_1212_card3_169.png"
+        "916": "cards/20260702_2145_card3_916.png",
+        "169": "cards/20260702_2145_card3_169.png"
       }
     }
   ]
