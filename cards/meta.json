@@ -1,53 +1,51 @@
 {
-  "generated_at": "2026-07-02T21:46:04.429602+08:00",
-  "generated_at_display": "Jul 02, 2026 · 09:46 PM HKT",
+  "generated_at": "2026-07-03T11:59:30.690256+08:00",
+  "generated_at_display": "Jul 03, 2026 · 11:59 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "World Cup 2026: England, USA and Belgium through; Spain and Portugal face last-32 tests - live",
-      "source": "The Guardian",
-      "virality_score": 77,
-      "pub_ago": "15m ago",
+      "title": "Late VAR drama as Portugal beat Croatia to keep Ronaldo's World Cup dreams alive",
+      "source": "Sky Sports",
+      "virality_score": 72,
+      "pub_ago": "1h ago",
       "teams": [
-        "England",
         "Spain",
         "Portugal",
-        "Belgium",
-        "USA"
+        "Croatia"
       ],
       "files": {
-        "916": "cards/20260702_2145_card1_916.png",
-        "169": "cards/20260702_2145_card1_169.png"
+        "916": "cards/20260703_1159_card1_916.png",
+        "169": "cards/20260703_1159_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "World Cup Q&A: England reporter Jacob Steinberg answers your questions - live",
-      "source": "The Guardian",
-      "virality_score": 76,
-      "pub_ago": "15m ago",
+      "title": "Tuchel wants young England fans to stay up for 1am World Cup clash - but should they?",
+      "source": "BBC Sport",
+      "virality_score": 68,
+      "pub_ago": "32m ago",
       "teams": [
         "England",
         "Mexico"
       ],
       "files": {
-        "916": "cards/20260702_2145_card2_916.png",
-        "169": "cards/20260702_2145_card2_169.png"
+        "916": "cards/20260703_1159_card2_916.png",
+        "169": "cards/20260703_1159_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "First Afcon, now World Cup - Senegal trapped in 'football hell'",
-      "source": "BBC Sport",
-      "virality_score": 72,
-      "pub_ago": "1h ago",
+      "title": "Switzerland v Algeria: World Cup 2026 last 32 - live",
+      "source": "The Guardian",
+      "virality_score": 66,
+      "pub_ago": "11m ago",
       "teams": [
-        "Belgium",
-        "Senegal"
+        "Switzerland",
+        "Algeria"
       ],
       "files": {
-        "916": "cards/20260702_2145_card3_916.png",
-        "169": "cards/20260702_2145_card3_169.png"
+        "916": "cards/20260703_1159_card3_916.png",
+        "169": "cards/20260703_1159_card3_169.png"
       }
     }
   ]
