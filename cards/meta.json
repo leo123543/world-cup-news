@@ -1,48 +1,48 @@
 {
-  "generated_at": "2026-07-04T11:53:18.876253+08:00",
-  "generated_at_display": "Jul 04, 2026 · 11:53 AM HKT",
+  "generated_at": "2026-07-04T21:11:03.820832+08:00",
+  "generated_at_display": "Jul 04, 2026 · 09:11 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "'Sensational' Messi finish gives Argentina the lead",
+      "title": "Listen: Sportsound with Levein, McLeish, Halliday, Lennon, Neilson & Naysmith",
       "source": "BBC Sport",
-      "virality_score": 71,
-      "pub_ago": "3h ago",
+      "virality_score": 79,
+      "pub_ago": "10m ago",
       "teams": [
-        "Argentina"
+        "Scotland"
       ],
       "files": {
-        "916": "cards/20260704_1152_card1_916.png",
-        "169": "cards/20260704_1152_card1_169.png"
+        "916": "cards/20260704_2110_card1_916.png",
+        "169": "cards/20260704_2110_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Farewell Cape Verde - the underdogs the World Cup will never forget",
-      "source": "BBC Sport",
+      "title": "World Cup 2026: England get hostile reception in Mexico City as last 16 begins; Cape Verde give huge scare to Argentina - live",
+      "source": "The Guardian",
       "virality_score": 69,
-      "pub_ago": "43m ago",
+      "pub_ago": "8m ago",
       "teams": [
-        "Argentina"
+        "Argentina",
+        "England",
+        "Mexico",
+        "Egypt"
       ],
       "files": {
-        "916": "cards/20260704_1152_card2_916.png",
-        "169": "cards/20260704_1152_card2_169.png"
+        "916": "cards/20260704_2110_card2_916.png",
+        "169": "cards/20260704_2110_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Jhon Arias goal sends Colombia into last 16 as Ghana bow out of World Cup",
-      "source": "The Guardian",
-      "virality_score": 68,
-      "pub_ago": "8m ago",
-      "teams": [
-        "Colombia",
-        "Ghana"
-      ],
+      "title": "World Cup quiz: How well do you remember the last 32?",
+      "source": "BBC Sport",
+      "virality_score": 65,
+      "pub_ago": "1h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260704_1152_card3_916.png",
-        "169": "cards/20260704_1152_card3_169.png"
+        "916": "cards/20260704_2110_card3_916.png",
+        "169": "cards/20260704_2110_card3_169.png"
       }
     }
   ]
