@@ -1,50 +1,48 @@
 {
-  "generated_at": "2026-07-03T21:51:14.501561+08:00",
-  "generated_at_display": "Jul 03, 2026 · 09:51 PM HKT",
+  "generated_at": "2026-07-04T11:53:18.876253+08:00",
+  "generated_at_display": "Jul 04, 2026 · 11:53 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Argentina v Cape Verde: Breaking down biggest World Cup knockout mismatch",
+      "title": "'Sensational' Messi finish gives Argentina the lead",
       "source": "BBC Sport",
-      "virality_score": 73,
-      "pub_ago": "2h ago",
+      "virality_score": 71,
+      "pub_ago": "3h ago",
       "teams": [
         "Argentina"
       ],
       "files": {
-        "916": "cards/20260703_2150_card1_916.png",
-        "169": "cards/20260703_2150_card1_169.png"
+        "916": "cards/20260704_1152_card1_916.png",
+        "169": "cards/20260704_1152_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Family ties and focus: Lamine Yamal carries burden of Spain's World Cup dream",
-      "source": "The Guardian",
-      "virality_score": 68,
-      "pub_ago": "3h ago",
+      "title": "Farewell Cape Verde - the underdogs the World Cup will never forget",
+      "source": "BBC Sport",
+      "virality_score": 69,
+      "pub_ago": "43m ago",
       "teams": [
-        "Spain",
-        "Austria"
+        "Argentina"
       ],
       "files": {
-        "916": "cards/20260703_2150_card2_916.png",
-        "169": "cards/20260703_2150_card2_169.png"
+        "916": "cards/20260704_1152_card2_916.png",
+        "169": "cards/20260704_1152_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "World Cup 2026: Germany hold Klopp talks after Nagelsmann quits; Portugal to face Spain after VAR drama - live",
+      "title": "Jhon Arias goal sends Colombia into last 16 as Ghana bow out of World Cup",
       "source": "The Guardian",
-      "virality_score": 67,
-      "pub_ago": "11m ago",
+      "virality_score": 68,
+      "pub_ago": "8m ago",
       "teams": [
-        "Spain",
-        "Germany",
-        "Portugal"
+        "Colombia",
+        "Ghana"
       ],
       "files": {
-        "916": "cards/20260703_2150_card3_916.png",
-        "169": "cards/20260703_2150_card3_169.png"
+        "916": "cards/20260704_1152_card3_916.png",
+        "169": "cards/20260704_1152_card3_169.png"
       }
     }
   ]
