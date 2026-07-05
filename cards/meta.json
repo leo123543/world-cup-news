@@ -1,48 +1,50 @@
 {
-  "generated_at": "2026-07-04T21:11:03.820832+08:00",
-  "generated_at_display": "Jul 04, 2026 · 09:11 PM HKT",
+  "generated_at": "2026-07-05T12:12:15.539223+08:00",
+  "generated_at_display": "Jul 05, 2026 · 12:12 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Listen: Sportsound with Levein, McLeish, Halliday, Lennon, Neilson & Naysmith",
+      "title": "France overcome resolute Paraguay to reach quarter-final",
       "source": "BBC Sport",
-      "virality_score": 79,
-      "pub_ago": "10m ago",
+      "virality_score": 74,
+      "pub_ago": "3h ago",
       "teams": [
-        "Scotland"
+        "France",
+        "Paraguay"
       ],
       "files": {
-        "916": "cards/20260704_2110_card1_916.png",
-        "169": "cards/20260704_2110_card1_169.png"
+        "916": "cards/20260705_1211_card1_916.png",
+        "169": "cards/20260705_1211_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "World Cup 2026: England get hostile reception in Mexico City as last 16 begins; Cape Verde give huge scare to Argentina - live",
-      "source": "The Guardian",
-      "virality_score": 69,
-      "pub_ago": "8m ago",
+      "title": "The Norway story - 28-year wait for their biggest-ever party",
+      "source": "BBC Sport",
+      "virality_score": 71,
+      "pub_ago": "32m ago",
       "teams": [
-        "Argentina",
-        "England",
-        "Mexico",
-        "Egypt"
+        "Brazil"
       ],
       "files": {
-        "916": "cards/20260704_2110_card2_916.png",
-        "169": "cards/20260704_2110_card2_169.png"
+        "916": "cards/20260705_1211_card2_916.png",
+        "169": "cards/20260705_1211_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "World Cup quiz: How well do you remember the last 32?",
-      "source": "BBC Sport",
-      "virality_score": 65,
-      "pub_ago": "1h ago",
-      "teams": [],
+      "title": "Mbappe scores again to send France past stubborn Paraguay",
+      "source": "Sky Sports",
+      "virality_score": 68,
+      "pub_ago": "4h ago",
+      "teams": [
+        "France",
+        "Morocco",
+        "Paraguay"
+      ],
       "files": {
-        "916": "cards/20260704_2110_card3_916.png",
-        "169": "cards/20260704_2110_card3_169.png"
+        "916": "cards/20260705_1211_card3_916.png",
+        "169": "cards/20260705_1211_card3_169.png"
       }
     }
   ]
