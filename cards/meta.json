@@ -1,50 +1,52 @@
 {
-  "generated_at": "2026-07-05T12:12:15.539223+08:00",
-  "generated_at_display": "Jul 05, 2026 · 12:12 PM HKT",
+  "generated_at": "2026-07-05T21:19:13.442174+08:00",
+  "generated_at_display": "Jul 05, 2026 · 09:19 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "France overcome resolute Paraguay to reach quarter-final",
-      "source": "BBC Sport",
-      "virality_score": 74,
-      "pub_ago": "3h ago",
+      "title": "World Cup 2026: Mexico v England buildup, France battle past Paraguay, Morocco march on - live",
+      "source": "The Guardian",
+      "virality_score": 77,
+      "pub_ago": "14m ago",
       "teams": [
         "France",
+        "England",
+        "Morocco",
+        "Mexico",
         "Paraguay"
       ],
       "files": {
-        "916": "cards/20260705_1211_card1_916.png",
-        "169": "cards/20260705_1211_card1_169.png"
+        "916": "cards/20260705_2118_card1_916.png",
+        "169": "cards/20260705_2118_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "The Norway story - 28-year wait for their biggest-ever party",
+      "title": "Stay humble - the Premier League feud about to hit world stage",
       "source": "BBC Sport",
-      "virality_score": 71,
-      "pub_ago": "32m ago",
+      "virality_score": 67,
+      "pub_ago": "3h ago",
       "teams": [
         "Brazil"
       ],
       "files": {
-        "916": "cards/20260705_1211_card2_916.png",
-        "169": "cards/20260705_1211_card2_169.png"
+        "916": "cards/20260705_2118_card2_916.png",
+        "169": "cards/20260705_2118_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Mbappe scores again to send France past stubborn Paraguay",
+      "title": "Women's T20 World Cup final LIVE! Build-up ahead of Australia vs England",
       "source": "Sky Sports",
-      "virality_score": 68,
-      "pub_ago": "4h ago",
+      "virality_score": 67,
+      "pub_ago": "18m ago",
       "teams": [
-        "France",
-        "Morocco",
-        "Paraguay"
+        "England",
+        "Australia"
       ],
       "files": {
-        "916": "cards/20260705_1211_card3_916.png",
-        "169": "cards/20260705_1211_card3_169.png"
+        "916": "cards/20260705_2118_card3_916.png",
+        "169": "cards/20260705_2118_card3_169.png"
       }
     }
   ]
