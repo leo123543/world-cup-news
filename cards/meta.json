@@ -1,49 +1,46 @@
 {
-  "generated_at": "2026-07-06T12:19:36.149115+08:00",
-  "generated_at_display": "Jul 06, 2026 · 12:19 PM HKT",
+  "generated_at": "2026-07-06T23:19:35.314152+08:00",
+  "generated_at_display": "Jul 06, 2026 · 11:19 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "The man England will fear most - Haaland fires Norway to history",
-      "source": "BBC Sport",
-      "virality_score": 85,
-      "pub_ago": "58m ago",
+      "title": "World Cup 2026: Trump admits lobbying Fifa over Balogun; Henderson out of tournament as England set up Norway quarter-final - live",
+      "source": "The Guardian",
+      "virality_score": 70,
+      "pub_ago": "7m ago",
       "teams": [
-        "England"
+        "England",
+        "Mexico"
       ],
       "files": {
-        "916": "cards/20260706_1219_card1_916.png",
-        "169": "cards/20260706_1219_card1_169.png"
+        "916": "cards/20260706_2319_card1_916.png",
+        "169": "cards/20260706_2319_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "England ratings: Bellingham shines but heroic defence secures QF spot",
-      "source": "Sky Sports",
-      "virality_score": 79,
-      "pub_ago": "49m ago",
+      "title": "Trump confirms he asked Fifa to review Balogun ban",
+      "source": "BBC Sport",
+      "virality_score": 68,
+      "pub_ago": "39m ago",
       "teams": [
-        "England",
-        "Mexico"
+        "United States"
       ],
       "files": {
-        "916": "cards/20260706_1219_card2_916.png",
-        "169": "cards/20260706_1219_card2_169.png"
+        "916": "cards/20260706_2319_card2_916.png",
+        "169": "cards/20260706_2319_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "England's 10 men hang on after Kane penalty to beat Mexico in World Cup thriller",
-      "source": "The Guardian",
-      "virality_score": 77,
-      "pub_ago": "1h ago",
-      "teams": [
-        "England",
-        "Mexico"
-      ],
+      "title": "'You've been trying to kill me for 23 years' - should Ronaldo start?",
+      "source": "BBC Sport",
+      "virality_score": 67,
+      "pub_ago": "3h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260706_1219_card3_916.png",
-        "169": "cards/20260706_1219_card3_169.png"
+        "916": "cards/20260706_2319_card3_916.png",
+        "169": "cards/20260706_2319_card3_169.png"
       }
     }
   ]
