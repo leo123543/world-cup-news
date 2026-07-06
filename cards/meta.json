@@ -1,52 +1,49 @@
 {
-  "generated_at": "2026-07-05T21:19:13.442174+08:00",
-  "generated_at_display": "Jul 05, 2026 · 09:19 PM HKT",
+  "generated_at": "2026-07-06T12:19:36.149115+08:00",
+  "generated_at_display": "Jul 06, 2026 · 12:19 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "World Cup 2026: Mexico v England buildup, France battle past Paraguay, Morocco march on - live",
-      "source": "The Guardian",
-      "virality_score": 77,
-      "pub_ago": "14m ago",
+      "title": "The man England will fear most - Haaland fires Norway to history",
+      "source": "BBC Sport",
+      "virality_score": 85,
+      "pub_ago": "58m ago",
       "teams": [
-        "France",
-        "England",
-        "Morocco",
-        "Mexico",
-        "Paraguay"
+        "England"
       ],
       "files": {
-        "916": "cards/20260705_2118_card1_916.png",
-        "169": "cards/20260705_2118_card1_169.png"
+        "916": "cards/20260706_1219_card1_916.png",
+        "169": "cards/20260706_1219_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Stay humble - the Premier League feud about to hit world stage",
-      "source": "BBC Sport",
-      "virality_score": 67,
-      "pub_ago": "3h ago",
+      "title": "England ratings: Bellingham shines but heroic defence secures QF spot",
+      "source": "Sky Sports",
+      "virality_score": 79,
+      "pub_ago": "49m ago",
       "teams": [
-        "Brazil"
+        "England",
+        "Mexico"
       ],
       "files": {
-        "916": "cards/20260705_2118_card2_916.png",
-        "169": "cards/20260705_2118_card2_169.png"
+        "916": "cards/20260706_1219_card2_916.png",
+        "169": "cards/20260706_1219_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Women's T20 World Cup final LIVE! Build-up ahead of Australia vs England",
-      "source": "Sky Sports",
-      "virality_score": 67,
-      "pub_ago": "18m ago",
+      "title": "England's 10 men hang on after Kane penalty to beat Mexico in World Cup thriller",
+      "source": "The Guardian",
+      "virality_score": 77,
+      "pub_ago": "1h ago",
       "teams": [
         "England",
-        "Australia"
+        "Mexico"
       ],
       "files": {
-        "916": "cards/20260705_2118_card3_916.png",
-        "169": "cards/20260705_2118_card3_169.png"
+        "916": "cards/20260706_1219_card3_916.png",
+        "169": "cards/20260706_1219_card3_169.png"
       }
     }
   ]
