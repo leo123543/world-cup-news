@@ -1,46 +1,46 @@
 {
-  "generated_at": "2026-07-06T23:19:35.314152+08:00",
-  "generated_at_display": "Jul 06, 2026 · 11:19 PM HKT",
+  "generated_at": "2026-07-07T12:09:00.996140+08:00",
+  "generated_at_display": "Jul 07, 2026 · 12:09 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "World Cup 2026: Trump admits lobbying Fifa over Balogun; Henderson out of tournament as England set up Norway quarter-final - live",
-      "source": "The Guardian",
-      "virality_score": 70,
-      "pub_ago": "7m ago",
-      "teams": [
-        "England",
-        "Mexico"
-      ],
+      "title": "Ronaldo's World Cup career ends in tears as 'pandering' Martinez departs",
+      "source": "BBC Sport",
+      "virality_score": 66,
+      "pub_ago": "4h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260706_2319_card1_916.png",
-        "169": "cards/20260706_2319_card1_169.png"
+        "916": "cards/20260707_1208_card1_916.png",
+        "169": "cards/20260707_1208_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Trump confirms he asked Fifa to review Balogun ban",
+      "title": "Spain's World Cup challenge built on record-breaking historic defence",
       "source": "BBC Sport",
-      "virality_score": 68,
-      "pub_ago": "39m ago",
+      "virality_score": 64,
+      "pub_ago": "4h ago",
       "teams": [
-        "United States"
+        "Spain"
       ],
       "files": {
-        "916": "cards/20260706_2319_card2_916.png",
-        "169": "cards/20260706_2319_card2_169.png"
+        "916": "cards/20260707_1208_card2_916.png",
+        "169": "cards/20260707_1208_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "'You've been trying to kill me for 23 years' - should Ronaldo start?",
+      "title": "Spain into quarter-finals after Merino's late winner against Portugal",
       "source": "BBC Sport",
-      "virality_score": 67,
-      "pub_ago": "3h ago",
-      "teams": [],
+      "virality_score": 64,
+      "pub_ago": "6h ago",
+      "teams": [
+        "Spain",
+        "Portugal"
+      ],
       "files": {
-        "916": "cards/20260706_2319_card3_916.png",
-        "169": "cards/20260706_2319_card3_169.png"
+        "916": "cards/20260707_1208_card3_916.png",
+        "169": "cards/20260707_1208_card3_169.png"
       }
     }
   ]
