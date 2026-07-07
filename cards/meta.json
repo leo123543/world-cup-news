@@ -1,46 +1,51 @@
 {
-  "generated_at": "2026-07-07T12:09:00.996140+08:00",
-  "generated_at_display": "Jul 07, 2026 · 12:09 PM HKT",
+  "generated_at": "2026-07-07T22:16:33.494943+08:00",
+  "generated_at_display": "Jul 07, 2026 · 10:16 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Ronaldo's World Cup career ends in tears as 'pandering' Martinez departs",
-      "source": "BBC Sport",
-      "virality_score": 66,
-      "pub_ago": "4h ago",
-      "teams": [],
+      "title": "Argentina v Egypt: World Cup 2026 last 16 - live",
+      "source": "The Guardian",
+      "virality_score": 76,
+      "pub_ago": "17m ago",
+      "teams": [
+        "Argentina",
+        "Egypt"
+      ],
       "files": {
-        "916": "cards/20260707_1208_card1_916.png",
-        "169": "cards/20260707_1208_card1_169.png"
+        "916": "cards/20260707_2216_card1_916.png",
+        "169": "cards/20260707_2216_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Spain's World Cup challenge built on record-breaking historic defence",
+      "title": "The superstar double act that became England's Wonderwall",
       "source": "BBC Sport",
-      "virality_score": 64,
-      "pub_ago": "4h ago",
+      "virality_score": 71,
+      "pub_ago": "3h ago",
       "teams": [
-        "Spain"
+        "England"
       ],
       "files": {
-        "916": "cards/20260707_1208_card2_916.png",
-        "169": "cards/20260707_1208_card2_169.png"
+        "916": "cards/20260707_2216_card2_916.png",
+        "169": "cards/20260707_2216_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Spain into quarter-finals after Merino's late winner against Portugal",
-      "source": "BBC Sport",
-      "virality_score": 64,
-      "pub_ago": "6h ago",
+      "title": "World Cup 2026: USA bounced out by Belgium after Balogun furore; backlash against Fifa builds - live",
+      "source": "The Guardian",
+      "virality_score": 69,
+      "pub_ago": "17m ago",
       "teams": [
-        "Spain",
-        "Portugal"
+        "England",
+        "Belgium",
+        "USA",
+        "Mexico"
       ],
       "files": {
-        "916": "cards/20260707_1208_card3_916.png",
-        "169": "cards/20260707_1208_card3_169.png"
+        "916": "cards/20260707_2216_card3_916.png",
+        "169": "cards/20260707_2216_card3_169.png"
       }
     }
   ]
