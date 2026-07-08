@@ -1,51 +1,50 @@
 {
-  "generated_at": "2026-07-07T22:16:33.494943+08:00",
-  "generated_at_display": "Jul 07, 2026 · 10:16 PM HKT",
+  "generated_at": "2026-07-08T11:34:02.145499+08:00",
+  "generated_at_display": "Jul 08, 2026 · 11:34 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Argentina v Egypt: World Cup 2026 last 16 - live",
-      "source": "The Guardian",
-      "virality_score": 76,
-      "pub_ago": "17m ago",
+      "title": "Egypt fume at 'injustice' and make Messi favouritism claims after exit",
+      "source": "BBC Sport",
+      "virality_score": 61,
+      "pub_ago": "6h ago",
+      "teams": [
+        "Egypt"
+      ],
+      "files": {
+        "916": "cards/20260708_1133_card1_916.png",
+        "169": "cards/20260708_1133_card1_169.png"
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Switzerland break Colombian hearts with first shoot-out success",
+      "source": "Sky Sports",
+      "virality_score": 59,
+      "pub_ago": "3h ago",
+      "teams": [
+        "Argentina",
+        "Colombia",
+        "Switzerland"
+      ],
+      "files": {
+        "916": "cards/20260708_1133_card2_916.png",
+        "169": "cards/20260708_1133_card2_169.png"
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Tears of relief? Messi adds another incredible chapter to World Cup career",
+      "source": "BBC Sport",
+      "virality_score": 59,
+      "pub_ago": "7h ago",
       "teams": [
         "Argentina",
         "Egypt"
       ],
       "files": {
-        "916": "cards/20260707_2216_card1_916.png",
-        "169": "cards/20260707_2216_card1_169.png"
-      }
-    },
-    {
-      "rank": 2,
-      "title": "The superstar double act that became England's Wonderwall",
-      "source": "BBC Sport",
-      "virality_score": 71,
-      "pub_ago": "3h ago",
-      "teams": [
-        "England"
-      ],
-      "files": {
-        "916": "cards/20260707_2216_card2_916.png",
-        "169": "cards/20260707_2216_card2_169.png"
-      }
-    },
-    {
-      "rank": 3,
-      "title": "World Cup 2026: USA bounced out by Belgium after Balogun furore; backlash against Fifa builds - live",
-      "source": "The Guardian",
-      "virality_score": 69,
-      "pub_ago": "17m ago",
-      "teams": [
-        "England",
-        "Belgium",
-        "USA",
-        "Mexico"
-      ],
-      "files": {
-        "916": "cards/20260707_2216_card3_916.png",
-        "169": "cards/20260707_2216_card3_169.png"
+        "916": "cards/20260708_1133_card3_916.png",
+        "169": "cards/20260708_1133_card3_169.png"
       }
     }
   ]
