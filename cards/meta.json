@@ -1,45 +1,46 @@
 {
-  "generated_at": "2026-07-09T12:03:20.771504+08:00",
-  "generated_at_display": "Jul 09, 2026 · 12:03 PM HKT",
+  "generated_at": "2026-07-09T22:44:11.159567+08:00",
+  "generated_at_display": "Jul 09, 2026 · 10:44 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Starmer hints at bank holiday if England win World Cup",
-      "source": "BBC Sport",
-      "virality_score": 64,
-      "pub_ago": "2h ago",
+      "title": "World Cup 2026: France v Morocco quarter-final buildup, Collina defends refereeing - live",
+      "source": "The Guardian",
+      "virality_score": 70,
+      "pub_ago": "8m ago",
       "teams": [
-        "England"
+        "France",
+        "Morocco"
       ],
       "files": {
-        "916": "cards/20260709_1203_card1_916.png",
-        "169": "cards/20260709_1203_card1_169.png"
+        "916": "cards/20260709_2243_card1_916.png",
+        "169": "cards/20260709_2243_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Chris Sutton's World Cup quarter-final predictions",
+      "title": "I've changed my mind, we might actually be able to win this thing - Shearer",
       "source": "BBC Sport",
-      "virality_score": 55,
-      "pub_ago": "5h ago",
+      "virality_score": 69,
+      "pub_ago": "24m ago",
       "teams": [
         "England"
       ],
       "files": {
-        "916": "cards/20260709_1203_card2_916.png",
-        "169": "cards/20260709_1203_card2_169.png"
+        "916": "cards/20260709_2243_card2_916.png",
+        "169": "cards/20260709_2243_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "White House's World Cup head defends Trump lobbying Fifa over red card",
-      "source": "The Guardian",
-      "virality_score": 51,
-      "pub_ago": "5h ago",
+      "title": "Football Daily",
+      "source": "BBC Sport",
+      "virality_score": 69,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260709_1203_card3_916.png",
-        "169": "cards/20260709_1203_card3_169.png"
+        "916": "cards/20260709_2243_card3_916.png",
+        "169": "cards/20260709_2243_card3_169.png"
       }
     }
   ]
