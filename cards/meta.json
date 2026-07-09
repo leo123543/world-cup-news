@@ -1,49 +1,45 @@
 {
-  "generated_at": "2026-07-08T21:49:58.421587+08:00",
-  "generated_at_display": "Jul 08, 2026 · 09:49 PM HKT",
+  "generated_at": "2026-07-09T12:03:20.771504+08:00",
+  "generated_at_display": "Jul 09, 2026 · 12:03 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "World Cup 2026: Egypt fury after Argentina win thriller, Croatia head coach Dalic quits - live",
-      "source": "The Guardian",
-      "virality_score": 79,
-      "pub_ago": "18m ago",
-      "teams": [
-        "Argentina",
-        "Croatia",
-        "Egypt"
-      ],
-      "files": {
-        "916": "cards/20260708_2149_card1_916.png",
-        "169": "cards/20260708_2149_card1_169.png"
-      }
-    },
-    {
-      "rank": 2,
-      "title": "Why Kane is safe from missing World Cup semi... but Bellingham is NOT",
-      "source": "Sky Sports",
-      "virality_score": 77,
-      "pub_ago": "25m ago",
+      "title": "Starmer hints at bank holiday if England win World Cup",
+      "source": "BBC Sport",
+      "virality_score": 64,
+      "pub_ago": "2h ago",
       "teams": [
         "England"
       ],
       "files": {
-        "916": "cards/20260708_2149_card2_916.png",
-        "169": "cards/20260708_2149_card2_169.png"
+        "916": "cards/20260709_1203_card1_916.png",
+        "169": "cards/20260709_1203_card1_169.png"
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Chris Sutton's World Cup quarter-final predictions",
+      "source": "BBC Sport",
+      "virality_score": 55,
+      "pub_ago": "5h ago",
+      "teams": [
+        "England"
+      ],
+      "files": {
+        "916": "cards/20260709_1203_card2_916.png",
+        "169": "cards/20260709_1203_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "No league tables, no trophies: how Norway made sport fun for kids - and built a football team that beat Brazil",
+      "title": "White House's World Cup head defends Trump lobbying Fifa over red card",
       "source": "The Guardian",
-      "virality_score": 75,
-      "pub_ago": "35m ago",
-      "teams": [
-        "Brazil"
-      ],
+      "virality_score": 51,
+      "pub_ago": "5h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260708_2149_card3_916.png",
-        "169": "cards/20260708_2149_card3_169.png"
+        "916": "cards/20260709_1203_card3_916.png",
+        "169": "cards/20260709_1203_card3_169.png"
       }
     }
   ]
