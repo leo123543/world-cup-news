@@ -1,46 +1,51 @@
 {
-  "generated_at": "2026-07-10T12:03:14.615645+08:00",
-  "generated_at_display": "Jul 10, 2026 · 12:03 PM HKT",
+  "generated_at": "2026-07-10T22:09:17.703376+08:00",
+  "generated_at_display": "Jul 10, 2026 · 10:09 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "France cruise into semi-finals - could this be the best Les Bleus ever?",
+      "title": "How do England stop Norway - and Haaland?",
       "source": "BBC Sport",
-      "virality_score": 67,
-      "pub_ago": "3h ago",
-      "teams": [
-        "France",
-        "Morocco"
-      ],
-      "files": {
-        "916": "cards/20260710_1202_card1_916.png",
-        "169": "cards/20260710_1202_card1_169.png"
-      }
-    },
-    {
-      "rank": 2,
-      "title": "Norway's Haaland calls for media pressure on England before quarter-final",
-      "source": "BBC Sport",
-      "virality_score": 63,
-      "pub_ago": "6h ago",
+      "virality_score": 78,
+      "pub_ago": "1h ago",
       "teams": [
         "England"
       ],
       "files": {
-        "916": "cards/20260710_1202_card2_916.png",
-        "169": "cards/20260710_1202_card2_169.png"
+        "916": "cards/20260710_2208_card1_916.png",
+        "169": "cards/20260710_2208_card1_169.png"
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Wing wizards or worries? England and Norway have choices to make out wide",
+      "source": "The Guardian",
+      "virality_score": 74,
+      "pub_ago": "1h ago",
+      "teams": [
+        "England"
+      ],
+      "files": {
+        "916": "cards/20260710_2208_card2_916.png",
+        "169": "cards/20260710_2208_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Mbappe mirrors Messi magic as World Cup's greatest storyline rolls on",
-      "source": "Sky Sports",
-      "virality_score": 62,
-      "pub_ago": "3h ago",
-      "teams": [],
+      "title": "World Cup 2026: 'violent disorder' in London after France's win over Morocco, Spain v Belgium buildup - live",
+      "source": "The Guardian",
+      "virality_score": 69,
+      "pub_ago": "19m ago",
+      "teams": [
+        "France",
+        "Spain",
+        "Belgium",
+        "Morocco",
+        "USA"
+      ],
       "files": {
-        "916": "cards/20260710_1202_card3_916.png",
-        "169": "cards/20260710_1202_card3_169.png"
+        "916": "cards/20260710_2208_card3_916.png",
+        "169": "cards/20260710_2208_card3_169.png"
       }
     }
   ]
