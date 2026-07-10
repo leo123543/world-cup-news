@@ -1,46 +1,46 @@
 {
-  "generated_at": "2026-07-09T22:44:11.159567+08:00",
-  "generated_at_display": "Jul 09, 2026 · 10:44 PM HKT",
+  "generated_at": "2026-07-10T12:03:14.615645+08:00",
+  "generated_at_display": "Jul 10, 2026 · 12:03 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "World Cup 2026: France v Morocco quarter-final buildup, Collina defends refereeing - live",
-      "source": "The Guardian",
-      "virality_score": 70,
-      "pub_ago": "8m ago",
+      "title": "France cruise into semi-finals - could this be the best Les Bleus ever?",
+      "source": "BBC Sport",
+      "virality_score": 67,
+      "pub_ago": "3h ago",
       "teams": [
         "France",
         "Morocco"
       ],
       "files": {
-        "916": "cards/20260709_2243_card1_916.png",
-        "169": "cards/20260709_2243_card1_169.png"
+        "916": "cards/20260710_1202_card1_916.png",
+        "169": "cards/20260710_1202_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "I've changed my mind, we might actually be able to win this thing - Shearer",
+      "title": "Norway's Haaland calls for media pressure on England before quarter-final",
       "source": "BBC Sport",
-      "virality_score": 69,
-      "pub_ago": "24m ago",
+      "virality_score": 63,
+      "pub_ago": "6h ago",
       "teams": [
         "England"
       ],
       "files": {
-        "916": "cards/20260709_2243_card2_916.png",
-        "169": "cards/20260709_2243_card2_169.png"
+        "916": "cards/20260710_1202_card2_916.png",
+        "169": "cards/20260710_1202_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Football Daily",
-      "source": "BBC Sport",
-      "virality_score": 69,
-      "pub_ago": "1h ago",
+      "title": "Mbappe mirrors Messi magic as World Cup's greatest storyline rolls on",
+      "source": "Sky Sports",
+      "virality_score": 62,
+      "pub_ago": "3h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260709_2243_card3_916.png",
-        "169": "cards/20260709_2243_card3_169.png"
+        "916": "cards/20260710_1202_card3_916.png",
+        "169": "cards/20260710_1202_card3_169.png"
       }
     }
   ]
