@@ -1,48 +1,46 @@
 {
-  "generated_at": "2026-07-11T11:29:55.886984+08:00",
-  "generated_at_display": "Jul 11, 2026 · 11:29 AM HKT",
+  "generated_at": "2026-07-11T21:05:40.770019+08:00",
+  "generated_at_display": "Jul 11, 2026 · 09:05 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Merino the unlikely hero again - as Spain wait for Lamine Yamal show",
-      "source": "BBC Sport",
-      "virality_score": 73,
-      "pub_ago": "3h ago",
+      "title": "World Cup 2026: Norway v England buildup, Kane's round of golf with Trump, Germany close on Klopp - live",
+      "source": "The Guardian",
+      "virality_score": 79,
+      "pub_ago": "23m ago",
       "teams": [
-        "Spain"
+        "England",
+        "Germany"
       ],
       "files": {
-        "916": "cards/20260711_1129_card1_916.png",
-        "169": "cards/20260711_1129_card1_169.png"
+        "916": "cards/20260711_2105_card1_916.png",
+        "169": "cards/20260711_2105_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Tuchel fears more Haaland heroics as England seek identity against Norway",
-      "source": "The Guardian",
-      "virality_score": 68,
-      "pub_ago": "3h ago",
+      "title": "Should Argentina take Messi off penalties?",
+      "source": "BBC Sport",
+      "virality_score": 76,
+      "pub_ago": "2h ago",
       "teams": [
-        "England"
+        "Argentina"
       ],
       "files": {
-        "916": "cards/20260711_1129_card2_916.png",
-        "169": "cards/20260711_1129_card2_169.png"
+        "916": "cards/20260711_2105_card2_916.png",
+        "169": "cards/20260711_2105_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "'Influential' Lamine Yamal has 'more to give' to Spain",
-      "source": "BBC Sport",
-      "virality_score": 61,
-      "pub_ago": "5h ago",
-      "teams": [
-        "Spain",
-        "Belgium"
-      ],
+      "title": "Tunnel vision: candid photos of World Cup 2026 stars",
+      "source": "The Guardian",
+      "virality_score": 70,
+      "pub_ago": "2h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260711_1129_card3_916.png",
-        "169": "cards/20260711_1129_card3_169.png"
+        "916": "cards/20260711_2105_card3_916.png",
+        "169": "cards/20260711_2105_card3_169.png"
       }
     }
   ]
