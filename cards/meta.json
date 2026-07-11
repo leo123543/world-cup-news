@@ -1,51 +1,48 @@
 {
-  "generated_at": "2026-07-10T22:09:17.703376+08:00",
-  "generated_at_display": "Jul 10, 2026 · 10:09 PM HKT",
+  "generated_at": "2026-07-11T11:29:55.886984+08:00",
+  "generated_at_display": "Jul 11, 2026 · 11:29 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "How do England stop Norway - and Haaland?",
+      "title": "Merino the unlikely hero again - as Spain wait for Lamine Yamal show",
       "source": "BBC Sport",
-      "virality_score": 78,
-      "pub_ago": "1h ago",
+      "virality_score": 73,
+      "pub_ago": "3h ago",
       "teams": [
-        "England"
+        "Spain"
       ],
       "files": {
-        "916": "cards/20260710_2208_card1_916.png",
-        "169": "cards/20260710_2208_card1_169.png"
+        "916": "cards/20260711_1129_card1_916.png",
+        "169": "cards/20260711_1129_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Wing wizards or worries? England and Norway have choices to make out wide",
+      "title": "Tuchel fears more Haaland heroics as England seek identity against Norway",
       "source": "The Guardian",
-      "virality_score": 74,
-      "pub_ago": "1h ago",
+      "virality_score": 68,
+      "pub_ago": "3h ago",
       "teams": [
         "England"
       ],
       "files": {
-        "916": "cards/20260710_2208_card2_916.png",
-        "169": "cards/20260710_2208_card2_169.png"
+        "916": "cards/20260711_1129_card2_916.png",
+        "169": "cards/20260711_1129_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "World Cup 2026: 'violent disorder' in London after France's win over Morocco, Spain v Belgium buildup - live",
-      "source": "The Guardian",
-      "virality_score": 69,
-      "pub_ago": "19m ago",
+      "title": "'Influential' Lamine Yamal has 'more to give' to Spain",
+      "source": "BBC Sport",
+      "virality_score": 61,
+      "pub_ago": "5h ago",
       "teams": [
-        "France",
         "Spain",
-        "Belgium",
-        "Morocco",
-        "USA"
+        "Belgium"
       ],
       "files": {
-        "916": "cards/20260710_2208_card3_916.png",
-        "169": "cards/20260710_2208_card3_169.png"
+        "916": "cards/20260711_1129_card3_916.png",
+        "169": "cards/20260711_1129_card3_169.png"
       }
     }
   ]
