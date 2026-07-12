@@ -1,46 +1,49 @@
 {
-  "generated_at": "2026-07-11T21:05:40.770019+08:00",
-  "generated_at_display": "Jul 11, 2026 · 09:05 PM HKT",
+  "generated_at": "2026-07-12T11:41:13.875498+08:00",
+  "generated_at_display": "Jul 12, 2026 · 11:41 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "World Cup 2026: Norway v England buildup, Kane's round of golf with Trump, Germany close on Klopp - live",
-      "source": "The Guardian",
-      "virality_score": 79,
-      "pub_ago": "23m ago",
+      "title": "Tuchel angry at 'lucky' and 'sloppy' England - can 'mentality' be enough?",
+      "source": "BBC Sport",
+      "virality_score": 83,
+      "pub_ago": "32m ago",
       "teams": [
-        "England",
-        "Germany"
+        "England"
       ],
       "files": {
-        "916": "cards/20260711_2105_card1_916.png",
-        "169": "cards/20260711_2105_card1_169.png"
+        "916": "cards/20260712_1140_card1_916.png",
+        "169": "cards/20260712_1140_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Should Argentina take Messi off penalties?",
+      "title": "Did ball hit spidercam before England goal? Snicko says not - Norway unsure",
       "source": "BBC Sport",
-      "virality_score": 76,
-      "pub_ago": "2h ago",
+      "virality_score": 81,
+      "pub_ago": "1h ago",
       "teams": [
-        "Argentina"
+        "England"
       ],
       "files": {
-        "916": "cards/20260711_2105_card2_916.png",
-        "169": "cards/20260711_2105_card2_169.png"
+        "916": "cards/20260712_1140_card2_916.png",
+        "169": "cards/20260712_1140_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Tunnel vision: candid photos of World Cup 2026 stars",
+      "title": "Argentina v Switzerland: World Cup 2026 quarter-final - live",
       "source": "The Guardian",
-      "virality_score": 70,
-      "pub_ago": "2h ago",
-      "teams": [],
+      "virality_score": 74,
+      "pub_ago": "12m ago",
+      "teams": [
+        "Argentina",
+        "England",
+        "Switzerland"
+      ],
       "files": {
-        "916": "cards/20260711_2105_card3_916.png",
-        "169": "cards/20260711_2105_card3_169.png"
+        "916": "cards/20260712_1140_card3_916.png",
+        "169": "cards/20260712_1140_card3_169.png"
       }
     }
   ]
