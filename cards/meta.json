@@ -1,49 +1,50 @@
 {
-  "generated_at": "2026-07-12T11:41:13.875498+08:00",
-  "generated_at_display": "Jul 12, 2026 · 11:41 AM HKT",
+  "generated_at": "2026-07-12T21:06:22.596698+08:00",
+  "generated_at_display": "Jul 12, 2026 · 09:06 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Tuchel angry at 'lucky' and 'sloppy' England - can 'mentality' be enough?",
+      "title": "Listen: Sunday Sportsound including Falkirk manager John McGlynn",
       "source": "BBC Sport",
       "virality_score": 83,
-      "pub_ago": "32m ago",
-      "teams": [
-        "England"
-      ],
+      "pub_ago": "5m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260712_1140_card1_916.png",
-        "169": "cards/20260712_1140_card1_169.png"
+        "916": "cards/20260712_2106_card1_916.png",
+        "169": "cards/20260712_2106_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Did ball hit spidercam before England goal? Snicko says not - Norway unsure",
-      "source": "BBC Sport",
-      "virality_score": 81,
-      "pub_ago": "1h ago",
+      "title": "World Cup 2026: England set up Argentina semi, Haaland's father says Norway 'robbed', Senegal sack Thiaw - live",
+      "source": "The Guardian",
+      "virality_score": 79,
+      "pub_ago": "10m ago",
       "teams": [
-        "England"
+        "Argentina",
+        "England",
+        "Senegal"
       ],
       "files": {
-        "916": "cards/20260712_1140_card2_916.png",
-        "169": "cards/20260712_1140_card2_169.png"
+        "916": "cards/20260712_2106_card2_916.png",
+        "169": "cards/20260712_2106_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Argentina v Switzerland: World Cup 2026 quarter-final - live",
-      "source": "The Guardian",
+      "title": "Big stars and old rivals - what to expect in semi-finals",
+      "source": "BBC Sport",
       "virality_score": 74,
-      "pub_ago": "12m ago",
+      "pub_ago": "36m ago",
       "teams": [
         "Argentina",
+        "France",
         "England",
-        "Switzerland"
+        "Spain"
       ],
       "files": {
-        "916": "cards/20260712_1140_card3_916.png",
-        "169": "cards/20260712_1140_card3_169.png"
+        "916": "cards/20260712_2106_card3_916.png",
+        "169": "cards/20260712_2106_card3_169.png"
       }
     }
   ]
