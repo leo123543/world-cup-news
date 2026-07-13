@@ -1,48 +1,47 @@
 {
-  "generated_at": "2026-07-13T11:43:31.679239+08:00",
-  "generated_at_display": "Jul 13, 2026 · 11:43 AM HKT",
+  "generated_at": "2026-07-13T22:18:36.418251+08:00",
+  "generated_at_display": "Jul 13, 2026 · 10:18 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "England on collision course with Messi and Argentina in World Cup semi-final grudge match",
+      "title": "World Cup 2026: England's James ready for semi-final, Bilic returns as Croatia coach - live",
       "source": "The Guardian",
-      "virality_score": 59,
-      "pub_ago": "7h ago",
+      "virality_score": 72,
+      "pub_ago": "21m ago",
       "teams": [
-        "Argentina",
-        "England"
+        "England",
+        "Croatia"
       ],
       "files": {
-        "916": "cards/20260713_1143_card1_916.png",
-        "169": "cards/20260713_1143_card1_169.png"
+        "916": "cards/20260713_2218_card1_916.png",
+        "169": "cards/20260713_2218_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Tuchel and Bellingham need to cool tension with England so close to history | Jacob Steinberg",
+      "title": "Rodri: 'France are one of the best teams here, in great form, but so are Spain. We can beat them'",
       "source": "The Guardian",
-      "virality_score": 52,
-      "pub_ago": "9h ago",
+      "virality_score": 72,
+      "pub_ago": "3h ago",
       "teams": [
-        "England"
+        "France",
+        "Spain"
       ],
       "files": {
-        "916": "cards/20260713_1143_card2_916.png",
-        "169": "cards/20260713_1143_card2_169.png"
+        "916": "cards/20260713_2218_card2_916.png",
+        "169": "cards/20260713_2218_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "'We have another level we can reach' - Kane defends frustrated Tuchel",
+      "title": "Who has your Premiership club brought in & let go this summer?",
       "source": "BBC Sport",
-      "virality_score": 49,
-      "pub_ago": "9h ago",
-      "teams": [
-        "England"
-      ],
+      "virality_score": 70,
+      "pub_ago": "2m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260713_1143_card3_916.png",
-        "169": "cards/20260713_1143_card3_169.png"
+        "916": "cards/20260713_2218_card3_916.png",
+        "169": "cards/20260713_2218_card3_169.png"
       }
     }
   ]
