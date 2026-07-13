@@ -1,50 +1,48 @@
 {
-  "generated_at": "2026-07-12T21:06:22.596698+08:00",
-  "generated_at_display": "Jul 12, 2026 · 09:06 PM HKT",
+  "generated_at": "2026-07-13T11:43:31.679239+08:00",
+  "generated_at_display": "Jul 13, 2026 · 11:43 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Listen: Sunday Sportsound including Falkirk manager John McGlynn",
-      "source": "BBC Sport",
-      "virality_score": 83,
-      "pub_ago": "5m ago",
-      "teams": [],
+      "title": "England on collision course with Messi and Argentina in World Cup semi-final grudge match",
+      "source": "The Guardian",
+      "virality_score": 59,
+      "pub_ago": "7h ago",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
       "files": {
-        "916": "cards/20260712_2106_card1_916.png",
-        "169": "cards/20260712_2106_card1_169.png"
+        "916": "cards/20260713_1143_card1_916.png",
+        "169": "cards/20260713_1143_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "World Cup 2026: England set up Argentina semi, Haaland's father says Norway 'robbed', Senegal sack Thiaw - live",
+      "title": "Tuchel and Bellingham need to cool tension with England so close to history | Jacob Steinberg",
       "source": "The Guardian",
-      "virality_score": 79,
-      "pub_ago": "10m ago",
+      "virality_score": 52,
+      "pub_ago": "9h ago",
       "teams": [
-        "Argentina",
-        "England",
-        "Senegal"
+        "England"
       ],
       "files": {
-        "916": "cards/20260712_2106_card2_916.png",
-        "169": "cards/20260712_2106_card2_169.png"
+        "916": "cards/20260713_1143_card2_916.png",
+        "169": "cards/20260713_1143_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Big stars and old rivals - what to expect in semi-finals",
+      "title": "'We have another level we can reach' - Kane defends frustrated Tuchel",
       "source": "BBC Sport",
-      "virality_score": 74,
-      "pub_ago": "36m ago",
+      "virality_score": 49,
+      "pub_ago": "9h ago",
       "teams": [
-        "Argentina",
-        "France",
-        "England",
-        "Spain"
+        "England"
       ],
       "files": {
-        "916": "cards/20260712_2106_card3_916.png",
-        "169": "cards/20260712_2106_card3_169.png"
+        "916": "cards/20260713_1143_card3_916.png",
+        "169": "cards/20260713_1143_card3_169.png"
       }
     }
   ]
