@@ -1,50 +1,50 @@
 {
-  "generated_at": "2026-07-14T11:18:39.465018+08:00",
-  "generated_at_display": "Jul 14, 2026 · 11:18 AM HKT",
+  "generated_at": "2026-07-14T21:19:51.034948+08:00",
+  "generated_at_display": "Jul 14, 2026 · 09:19 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "'Easy to create divisions' - Kane says England are 'completely together'",
+      "title": "Football Daily",
       "source": "BBC Sport",
-      "virality_score": 69,
-      "pub_ago": "5h ago",
+      "virality_score": 79,
+      "pub_ago": "2h ago",
       "teams": [
         "Argentina",
         "England"
       ],
       "files": {
-        "916": "cards/20260714_1118_card1_916.png",
-        "169": "cards/20260714_1118_card1_169.png"
+        "916": "cards/20260714_2119_card1_916.png",
+        "169": "cards/20260714_2119_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Deschamps predicts 'spectacular' France v Spain semi-final",
-      "source": "BBC Sport",
-      "virality_score": 66,
-      "pub_ago": "3h ago",
-      "teams": [
-        "France",
-        "Spain"
-      ],
-      "files": {
-        "916": "cards/20260714_1118_card2_916.png",
-        "169": "cards/20260714_1118_card2_169.png"
-      }
-    },
-    {
-      "rank": 3,
-      "title": "Declan Rice winning fitness battle to start for England against Argentina",
-      "source": "The Guardian",
-      "virality_score": 64,
-      "pub_ago": "5h ago",
+      "title": "Carra: England must exploit Messi in World Cup semi-final",
+      "source": "Sky Sports",
+      "virality_score": 78,
+      "pub_ago": "1h ago",
       "teams": [
         "Argentina",
         "England"
       ],
       "files": {
-        "916": "cards/20260714_1118_card3_916.png",
-        "169": "cards/20260714_1118_card3_169.png"
+        "916": "cards/20260714_2119_card2_916.png",
+        "169": "cards/20260714_2119_card2_169.png"
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Walked for 47% of the World Cup - the evolution of Messi",
+      "source": "BBC Sport",
+      "virality_score": 75,
+      "pub_ago": "2h ago",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "files": {
+        "916": "cards/20260714_2119_card3_916.png",
+        "169": "cards/20260714_2119_card3_169.png"
       }
     }
   ]
