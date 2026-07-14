@@ -1,47 +1,50 @@
 {
-  "generated_at": "2026-07-13T22:18:36.418251+08:00",
-  "generated_at_display": "Jul 13, 2026 · 10:18 PM HKT",
+  "generated_at": "2026-07-14T11:18:39.465018+08:00",
+  "generated_at_display": "Jul 14, 2026 · 11:18 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "World Cup 2026: England's James ready for semi-final, Bilic returns as Croatia coach - live",
-      "source": "The Guardian",
-      "virality_score": 72,
-      "pub_ago": "21m ago",
+      "title": "'Easy to create divisions' - Kane says England are 'completely together'",
+      "source": "BBC Sport",
+      "virality_score": 69,
+      "pub_ago": "5h ago",
       "teams": [
-        "England",
-        "Croatia"
+        "Argentina",
+        "England"
       ],
       "files": {
-        "916": "cards/20260713_2218_card1_916.png",
-        "169": "cards/20260713_2218_card1_169.png"
+        "916": "cards/20260714_1118_card1_916.png",
+        "169": "cards/20260714_1118_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Rodri: 'France are one of the best teams here, in great form, but so are Spain. We can beat them'",
-      "source": "The Guardian",
-      "virality_score": 72,
+      "title": "Deschamps predicts 'spectacular' France v Spain semi-final",
+      "source": "BBC Sport",
+      "virality_score": 66,
       "pub_ago": "3h ago",
       "teams": [
         "France",
         "Spain"
       ],
       "files": {
-        "916": "cards/20260713_2218_card2_916.png",
-        "169": "cards/20260713_2218_card2_169.png"
+        "916": "cards/20260714_1118_card2_916.png",
+        "169": "cards/20260714_1118_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Who has your Premiership club brought in & let go this summer?",
-      "source": "BBC Sport",
-      "virality_score": 70,
-      "pub_ago": "2m ago",
-      "teams": [],
+      "title": "Declan Rice winning fitness battle to start for England against Argentina",
+      "source": "The Guardian",
+      "virality_score": 64,
+      "pub_ago": "5h ago",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
       "files": {
-        "916": "cards/20260713_2218_card3_916.png",
-        "169": "cards/20260713_2218_card3_169.png"
+        "916": "cards/20260714_1118_card3_916.png",
+        "169": "cards/20260714_1118_card3_169.png"
       }
     }
   ]
