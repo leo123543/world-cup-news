@@ -1,50 +1,52 @@
 {
-  "generated_at": "2026-07-15T11:18:08.504703+08:00",
-  "generated_at_display": "Jul 15, 2026 · 11:18 AM HKT",
+  "generated_at": "2026-07-15T21:23:49.195335+08:00",
+  "generated_at_display": "Jul 15, 2026 · 09:23 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Mates, mate and freedom - how Argentina got the best out of Messi",
-      "source": "BBC Sport",
-      "virality_score": 82,
-      "pub_ago": "1h ago",
+      "title": "World Cup 2026: England v Argentina buildup, Spain stun listless France to reach final - live",
+      "source": "The Guardian",
+      "virality_score": 69,
+      "pub_ago": "13m ago",
       "teams": [
         "Argentina",
-        "England"
+        "France",
+        "England",
+        "Spain"
       ],
       "files": {
-        "916": "cards/20260715_1117_card1_916.png",
-        "169": "cards/20260715_1117_card1_169.png"
+        "916": "cards/20260715_2123_card1_916.png",
+        "169": "cards/20260715_2123_card1_169.png"
       }
     },
     {
       "rank": 2,
       "title": "England's biggest match since 1966 as Three Lions close in on immortality",
       "source": "BBC Sport",
-      "virality_score": 72,
-      "pub_ago": "1h ago",
+      "virality_score": 69,
+      "pub_ago": "2h ago",
       "teams": [
         "Argentina",
         "England"
       ],
       "files": {
-        "916": "cards/20260715_1117_card2_916.png",
-        "169": "cards/20260715_1117_card2_169.png"
+        "916": "cards/20260715_2123_card2_916.png",
+        "169": "cards/20260715_2123_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Thomas Tuchel: 'Argentina will be fuelled by history - but we are ready'",
+      "title": "'Collective failure': French press digests World Cup semi-final defeat by Spain",
       "source": "The Guardian",
-      "virality_score": 70,
-      "pub_ago": "3h ago",
+      "virality_score": 68,
+      "pub_ago": "1h ago",
       "teams": [
-        "Argentina",
-        "England"
+        "France",
+        "Spain"
       ],
       "files": {
-        "916": "cards/20260715_1117_card3_916.png",
-        "169": "cards/20260715_1117_card3_169.png"
+        "916": "cards/20260715_2123_card3_916.png",
+        "169": "cards/20260715_2123_card3_169.png"
       }
     }
   ]
