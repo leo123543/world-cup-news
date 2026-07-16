@@ -1,51 +1,50 @@
 {
-  "generated_at": "2026-07-16T11:25:09.795547+08:00",
-  "generated_at_display": "Jul 16, 2026 · 11:25 AM HKT",
+  "generated_at": "2026-07-16T21:29:53.591292+08:00",
+  "generated_at_display": "Jul 16, 2026 · 09:29 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Kane: Holding on was not enough against Argentina",
-      "source": "Sky Sports",
-      "virality_score": 71,
-      "pub_ago": "3h ago",
+      "title": "'Passive' and 'crumbled' - did Tuchel's defensive tactics cost England?",
+      "source": "BBC Sport",
+      "virality_score": 78,
+      "pub_ago": "14m ago",
       "teams": [
         "Argentina",
         "England"
       ],
       "files": {
-        "916": "cards/20260716_1124_card1_916.png",
-        "169": "cards/20260716_1124_card1_169.png"
+        "916": "cards/20260716_2129_card1_916.png",
+        "169": "cards/20260716_2129_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "'Gutted' Harry Kane on Messi, Argentina and devastation of World Cup exit - video",
-      "source": "The Guardian",
-      "virality_score": 71,
-      "pub_ago": "2h ago",
-      "teams": [
-        "Argentina",
-        "England",
-        "Spain"
-      ],
-      "files": {
-        "916": "cards/20260716_1124_card2_916.png",
-        "169": "cards/20260716_1124_card2_169.png"
-      }
-    },
-    {
-      "rank": 3,
-      "title": "'Passive' and 'crumbled' - did Tuchel's defensive tactics cost England?",
+      "title": "24m tune in to watch England-Argentina",
       "source": "BBC Sport",
-      "virality_score": 71,
-      "pub_ago": "2h ago",
+      "virality_score": 72,
+      "pub_ago": "1h ago",
       "teams": [
         "Argentina",
         "England"
       ],
       "files": {
-        "916": "cards/20260716_1124_card3_916.png",
-        "169": "cards/20260716_1124_card3_169.png"
+        "916": "cards/20260716_2129_card2_916.png",
+        "169": "cards/20260716_2129_card2_169.png"
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Bellingham slapped Argentina substitute after England exit",
+      "source": "BBC Sport",
+      "virality_score": 71,
+      "pub_ago": "4h ago",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "files": {
+        "916": "cards/20260716_2129_card3_916.png",
+        "169": "cards/20260716_2129_card3_169.png"
       }
     }
   ]
