@@ -1,52 +1,51 @@
 {
-  "generated_at": "2026-07-15T21:23:49.195335+08:00",
-  "generated_at_display": "Jul 15, 2026 · 09:23 PM HKT",
+  "generated_at": "2026-07-16T11:25:09.795547+08:00",
+  "generated_at_display": "Jul 16, 2026 · 11:25 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "World Cup 2026: England v Argentina buildup, Spain stun listless France to reach final - live",
-      "source": "The Guardian",
-      "virality_score": 69,
-      "pub_ago": "13m ago",
+      "title": "Kane: Holding on was not enough against Argentina",
+      "source": "Sky Sports",
+      "virality_score": 71,
+      "pub_ago": "3h ago",
       "teams": [
         "Argentina",
-        "France",
-        "England",
-        "Spain"
+        "England"
       ],
       "files": {
-        "916": "cards/20260715_2123_card1_916.png",
-        "169": "cards/20260715_2123_card1_169.png"
+        "916": "cards/20260716_1124_card1_916.png",
+        "169": "cards/20260716_1124_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "England's biggest match since 1966 as Three Lions close in on immortality",
+      "title": "'Gutted' Harry Kane on Messi, Argentina and devastation of World Cup exit - video",
+      "source": "The Guardian",
+      "virality_score": 71,
+      "pub_ago": "2h ago",
+      "teams": [
+        "Argentina",
+        "England",
+        "Spain"
+      ],
+      "files": {
+        "916": "cards/20260716_1124_card2_916.png",
+        "169": "cards/20260716_1124_card2_169.png"
+      }
+    },
+    {
+      "rank": 3,
+      "title": "'Passive' and 'crumbled' - did Tuchel's defensive tactics cost England?",
       "source": "BBC Sport",
-      "virality_score": 69,
+      "virality_score": 71,
       "pub_ago": "2h ago",
       "teams": [
         "Argentina",
         "England"
       ],
       "files": {
-        "916": "cards/20260715_2123_card2_916.png",
-        "169": "cards/20260715_2123_card2_169.png"
-      }
-    },
-    {
-      "rank": 3,
-      "title": "'Collective failure': French press digests World Cup semi-final defeat by Spain",
-      "source": "The Guardian",
-      "virality_score": 68,
-      "pub_ago": "1h ago",
-      "teams": [
-        "France",
-        "Spain"
-      ],
-      "files": {
-        "916": "cards/20260715_2123_card3_916.png",
-        "169": "cards/20260715_2123_card3_169.png"
+        "916": "cards/20260716_1124_card3_916.png",
+        "169": "cards/20260716_1124_card3_169.png"
       }
     }
   ]
