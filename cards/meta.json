@@ -1,43 +1,46 @@
 {
-  "generated_at": "2026-07-17T11:27:35.890876+08:00",
-  "generated_at_display": "Jul 17, 2026 · 11:27 AM HKT",
+  "generated_at": "2026-07-17T21:15:16.768210+08:00",
+  "generated_at_display": "Jul 17, 2026 · 09:15 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Romero's World Cup heroics for Argentina make him one of Messi's most trusted",
-      "source": "The Guardian",
-      "virality_score": 57,
-      "pub_ago": "6h ago",
+      "title": "Pele at the Azteca? England in '66? Ranking the best World Cup finals",
+      "source": "BBC Sport",
+      "virality_score": 79,
+      "pub_ago": "1h ago",
       "teams": [
-        "Argentina"
+        "Brazil",
+        "England"
       ],
       "files": {
-        "916": "cards/20260717_1127_card1_916.png",
-        "169": "cards/20260717_1127_card1_169.png"
+        "916": "cards/20260717_2114_card1_916.png",
+        "169": "cards/20260717_2114_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Arsenal to assess Saliba back injury with surgery an option",
+      "title": "How World Cup final could be pivotal in Ballon d'Or race",
       "source": "BBC Sport",
-      "virality_score": 55,
-      "pub_ago": "5h ago",
+      "virality_score": 74,
+      "pub_ago": "18m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260717_1127_card2_916.png",
-        "169": "cards/20260717_1127_card2_169.png"
+        "916": "cards/20260717_2114_card2_916.png",
+        "169": "cards/20260717_2114_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "New York issues air quality alert days before World Cup final",
-      "source": "BBC Sport",
-      "virality_score": 53,
-      "pub_ago": "5h ago",
-      "teams": [],
+      "title": "Pep's prediction correct as Rodri returns to dominant best",
+      "source": "Sky Sports",
+      "virality_score": 73,
+      "pub_ago": "1h ago",
+      "teams": [
+        "Spain"
+      ],
       "files": {
-        "916": "cards/20260717_1127_card3_916.png",
-        "169": "cards/20260717_1127_card3_169.png"
+        "916": "cards/20260717_2114_card3_916.png",
+        "169": "cards/20260717_2114_card3_169.png"
       }
     }
   ]
