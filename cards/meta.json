@@ -1,49 +1,51 @@
 {
-  "generated_at": "2026-07-18T21:01:13.699996+08:00",
-  "generated_at_display": "Jul 18, 2026 · 09:01 PM HKT",
+  "generated_at": "2026-07-19T11:38:00.072897+08:00",
+  "generated_at_display": "Jul 19, 2026 · 11:38 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "World Cup 2026 latest: Trump criticises Tuchel, buildup to France v England and Spain v Argentina final",
-      "source": "The Guardian",
+      "title": "England beat France in 10-goal thriller to win third-place play-off",
+      "source": "BBC Sport",
       "virality_score": 80,
-      "pub_ago": "5m ago",
+      "pub_ago": "2h ago",
       "teams": [
-        "Argentina",
         "France",
-        "England",
-        "Spain"
+        "England"
       ],
       "files": {
-        "916": "cards/20260718_2100_card1_916.png",
-        "169": "cards/20260718_2100_card1_169.png"
+        "916": "cards/20260719_1137_card1_916.png",
+        "169": "cards/20260719_1137_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Quiz: Name every men's World Cup final host city",
+      "title": "Bellingham breaks England World Cup goals record",
       "source": "BBC Sport",
-      "virality_score": 73,
-      "pub_ago": "5m ago",
-      "teams": [],
+      "virality_score": 76,
+      "pub_ago": "2h ago",
+      "teams": [
+        "France",
+        "England"
+      ],
       "files": {
-        "916": "cards/20260718_2100_card2_916.png",
-        "169": "cards/20260718_2100_card2_169.png"
+        "916": "cards/20260719_1137_card2_916.png",
+        "169": "cards/20260719_1137_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Messi and Brady in disbelief over 'prophetic' Lamine Yamal photo",
-      "source": "BBC Sport",
-      "virality_score": 70,
-      "pub_ago": "4h ago",
+      "title": "Hat-trick hero Saka: I'm fit and wanted to play more",
+      "source": "Sky Sports",
+      "virality_score": 73,
+      "pub_ago": "3h ago",
       "teams": [
         "Argentina",
-        "Spain"
+        "France",
+        "England"
       ],
       "files": {
-        "916": "cards/20260718_2100_card3_916.png",
-        "169": "cards/20260718_2100_card3_169.png"
+        "916": "cards/20260719_1137_card3_916.png",
+        "169": "cards/20260719_1137_card3_169.png"
       }
     }
   ]
