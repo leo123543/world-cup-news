@@ -1,47 +1,49 @@
 {
-  "generated_at": "2026-07-20T11:52:05.218909+08:00",
-  "generated_at_display": "Jul 20, 2026 · 11:52 AM HKT",
+  "generated_at": "2026-07-20T21:54:18.846113+08:00",
+  "generated_at_display": "Jul 20, 2026 · 09:54 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Lamine Yamal 'completes football' at 19 as Argentina betray Messi",
-      "source": "BBC Sport",
-      "virality_score": 73,
-      "pub_ago": "2h ago",
+      "title": "'Beyond reproach': Argentinian media praises Scaloni's team despite World Cup final defeat",
+      "source": "The Guardian",
+      "virality_score": 80,
+      "pub_ago": "23m ago",
       "teams": [
         "Argentina",
         "Spain"
       ],
       "files": {
-        "916": "cards/20260720_1151_card1_916.png",
-        "169": "cards/20260720_1151_card1_169.png"
+        "916": "cards/20260720_2153_card1_916.png",
+        "169": "cards/20260720_2153_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "World Cup quiz: Can you name every winner?",
+      "title": "World Cup final watched by 15.8m people on BBC",
       "source": "BBC Sport",
-      "virality_score": 66,
-      "pub_ago": "2h ago",
-      "teams": [],
+      "virality_score": 73,
+      "pub_ago": "19m ago",
+      "teams": [
+        "Spain"
+      ],
       "files": {
-        "916": "cards/20260720_1151_card2_916.png",
-        "169": "cards/20260720_1151_card2_169.png"
+        "916": "cards/20260720_2153_card2_916.png",
+        "169": "cards/20260720_2153_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Lionel Messi's World Cup fairytale ends with pitiful Argentina as final villains | Pablo Iglesias Maurer",
+      "title": "World Cup 2026: Spain's champions land in Madrid for heroes' welcome after beating Argentina - live",
       "source": "The Guardian",
-      "virality_score": 65,
-      "pub_ago": "4h ago",
+      "virality_score": 66,
+      "pub_ago": "10m ago",
       "teams": [
         "Argentina",
         "Spain"
       ],
       "files": {
-        "916": "cards/20260720_1151_card3_916.png",
-        "169": "cards/20260720_1151_card3_169.png"
+        "916": "cards/20260720_2153_card3_916.png",
+        "169": "cards/20260720_2153_card3_169.png"
       }
     }
   ]
