@@ -1,47 +1,47 @@
 {
-  "generated_at": "2026-07-19T21:03:42.318333+08:00",
-  "generated_at_display": "Jul 19, 2026 · 09:03 PM HKT",
+  "generated_at": "2026-07-20T11:52:05.218909+08:00",
+  "generated_at_display": "Jul 20, 2026 · 11:52 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Has Saka shown Tuchel he's too good to leave out?",
+      "title": "Lamine Yamal 'completes football' at 19 as Argentina betray Messi",
       "source": "BBC Sport",
-      "virality_score": 78,
-      "pub_ago": "3h ago",
+      "virality_score": 73,
+      "pub_ago": "2h ago",
       "teams": [
-        "France"
+        "Argentina",
+        "Spain"
       ],
       "files": {
-        "916": "cards/20260719_2103_card1_916.png",
-        "169": "cards/20260719_2103_card1_169.png"
+        "916": "cards/20260720_1151_card1_916.png",
+        "169": "cards/20260720_1151_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "'Legend' or 'regrets'? A final that will define Lamine Yamal's World Cup",
+      "title": "World Cup quiz: Can you name every winner?",
       "source": "BBC Sport",
-      "virality_score": 74,
+      "virality_score": 66,
       "pub_ago": "2h ago",
-      "teams": [
-        "Spain"
-      ],
+      "teams": [],
       "files": {
-        "916": "cards/20260719_2103_card2_916.png",
-        "169": "cards/20260719_2103_card2_169.png"
+        "916": "cards/20260720_1151_card2_916.png",
+        "169": "cards/20260720_1151_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Messi on the brink of history - will it be his last World Cup game?",
-      "source": "BBC Sport",
-      "virality_score": 73,
-      "pub_ago": "3h ago",
+      "title": "Lionel Messi's World Cup fairytale ends with pitiful Argentina as final villains | Pablo Iglesias Maurer",
+      "source": "The Guardian",
+      "virality_score": 65,
+      "pub_ago": "4h ago",
       "teams": [
-        "Argentina"
+        "Argentina",
+        "Spain"
       ],
       "files": {
-        "916": "cards/20260719_2103_card3_916.png",
-        "169": "cards/20260719_2103_card3_169.png"
+        "916": "cards/20260720_1151_card3_916.png",
+        "169": "cards/20260720_1151_card3_169.png"
       }
     }
   ]
