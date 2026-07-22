@@ -1,46 +1,43 @@
 {
-  "generated_at": "2026-07-21T21:25:11.080240+08:00",
-  "generated_at_display": "Jul 21, 2026 · 09:25 PM HKT",
+  "generated_at": "2026-07-22T11:30:24.031117+08:00",
+  "generated_at_display": "Jul 22, 2026 · 11:30 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Fernandez defends Argentina as Messi questions remain",
+      "title": "Chelsea, Arsenal and Spurs all want Rashford - Wednesday's gossip",
       "source": "BBC Sport",
-      "virality_score": 80,
-      "pub_ago": "5m ago",
-      "teams": [
-        "Argentina"
-      ],
+      "virality_score": 49,
+      "pub_ago": "4h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260721_2124_card1_916.png",
-        "169": "cards/20260721_2124_card1_169.png"
+        "916": "cards/20260722_1130_card1_916.png",
+        "169": "cards/20260722_1130_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Keeper Martinez may 'step aside' from Argentina",
-      "source": "BBC Sport",
-      "virality_score": 74,
-      "pub_ago": "23m ago",
+      "title": "Enzo Fernandez: Argentina played with 'pride' and 'humility'",
+      "source": "Sky Sports",
+      "virality_score": 48,
+      "pub_ago": "5h ago",
       "teams": [
-        "Argentina",
-        "Spain"
+        "Argentina"
       ],
       "files": {
-        "916": "cards/20260721_2124_card2_916.png",
-        "169": "cards/20260721_2124_card2_169.png"
+        "916": "cards/20260722_1130_card2_916.png",
+        "169": "cards/20260722_1130_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "More than the Score",
+      "title": "Iraola wants Mac Allister & Alisson to stay with Reds",
       "source": "BBC Sport",
-      "virality_score": 74,
-      "pub_ago": "1h ago",
+      "virality_score": 40,
+      "pub_ago": "4h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260721_2124_card3_916.png",
-        "169": "cards/20260721_2124_card3_169.png"
+        "916": "cards/20260722_1130_card3_916.png",
+        "169": "cards/20260722_1130_card3_169.png"
       }
     }
   ]
