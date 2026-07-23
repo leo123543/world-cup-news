@@ -1,43 +1,47 @@
 {
-  "generated_at": "2026-07-23T11:35:29.109785+08:00",
-  "generated_at_display": "Jul 23, 2026 · 11:35 AM HKT",
+  "generated_at": "2026-07-23T21:42:48.454686+08:00",
+  "generated_at_display": "Jul 23, 2026 · 09:42 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Arsenal reveal William Saliba out for 'extended period' with back injury",
-      "source": "The Guardian",
-      "virality_score": 54,
-      "pub_ago": "6h ago",
+      "title": "Norway consider complaint over Balogun World Cup ban suspension",
+      "source": "BBC Sport",
+      "virality_score": 67,
+      "pub_ago": "58m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260723_1135_card1_916.png",
-        "169": "cards/20260723_1135_card1_169.png"
+        "916": "cards/20260723_2142_card1_916.png",
+        "169": "cards/20260723_2142_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Who has your Premiership club brought in & let go this summer?",
-      "source": "BBC Sport",
-      "virality_score": 53,
-      "pub_ago": "5h ago",
-      "teams": [],
+      "title": "England men and women's cricket fixtures 2027",
+      "source": "Sky Sports",
+      "virality_score": 67,
+      "pub_ago": "22m ago",
+      "teams": [
+        "England",
+        "Australia",
+        "New Zealand"
+      ],
       "files": {
-        "916": "cards/20260723_1135_card2_916.png",
-        "169": "cards/20260723_1135_card2_169.png"
+        "916": "cards/20260723_2142_card2_916.png",
+        "169": "cards/20260723_2142_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Saliba to miss extended period with back injury",
-      "source": "BBC Sport",
-      "virality_score": 50,
-      "pub_ago": "7h ago",
+      "title": "Blow for Manchester City with Rodri out for extended period due to back injury",
+      "source": "The Guardian",
+      "virality_score": 65,
+      "pub_ago": "4h ago",
       "teams": [
-        "France"
+        "Spain"
       ],
       "files": {
-        "916": "cards/20260723_1135_card3_916.png",
-        "169": "cards/20260723_1135_card3_169.png"
+        "916": "cards/20260723_2142_card3_916.png",
+        "169": "cards/20260723_2142_card3_169.png"
       }
     }
   ]
