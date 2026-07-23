@@ -1,45 +1,43 @@
 {
-  "generated_at": "2026-07-22T21:29:59.428606+08:00",
-  "generated_at_display": "Jul 22, 2026 · 09:29 PM HKT",
+  "generated_at": "2026-07-23T11:35:29.109785+08:00",
+  "generated_at_display": "Jul 23, 2026 · 11:35 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "World Cup 2026 awards: the Guardian team give their final tournament verdicts",
+      "title": "Arsenal reveal William Saliba out for 'extended period' with back injury",
       "source": "The Guardian",
-      "virality_score": 71,
-      "pub_ago": "4h ago",
-      "teams": [
-        "Germany"
-      ],
+      "virality_score": 54,
+      "pub_ago": "6h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260722_2129_card1_916.png",
-        "169": "cards/20260722_2129_card1_169.png"
+        "916": "cards/20260723_1135_card1_916.png",
+        "169": "cards/20260723_1135_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "New faces, gulfs in class and flawed drama: how 48 teams changed the World Cup",
-      "source": "The Guardian",
-      "virality_score": 65,
-      "pub_ago": "1h ago",
+      "title": "Who has your Premiership club brought in & let go this summer?",
+      "source": "BBC Sport",
+      "virality_score": 53,
+      "pub_ago": "5h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260722_2129_card2_916.png",
-        "169": "cards/20260722_2129_card2_169.png"
+        "916": "cards/20260723_1135_card2_916.png",
+        "169": "cards/20260723_1135_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "England cannot afford trip to amputee World Cup - and the FA will not help",
-      "source": "The Guardian",
-      "virality_score": 65,
-      "pub_ago": "29m ago",
+      "title": "Saliba to miss extended period with back injury",
+      "source": "BBC Sport",
+      "virality_score": 50,
+      "pub_ago": "7h ago",
       "teams": [
-        "England"
+        "France"
       ],
       "files": {
-        "916": "cards/20260722_2129_card3_916.png",
-        "169": "cards/20260722_2129_card3_169.png"
+        "916": "cards/20260723_1135_card3_916.png",
+        "169": "cards/20260723_1135_card3_169.png"
       }
     }
   ]
