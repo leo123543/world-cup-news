@@ -1,47 +1,43 @@
 {
-  "generated_at": "2026-07-23T21:42:48.454686+08:00",
-  "generated_at_display": "Jul 23, 2026 · 09:42 PM HKT",
+  "generated_at": "2026-07-24T11:32:06.855165+08:00",
+  "generated_at_display": "Jul 24, 2026 · 11:32 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Norway consider complaint over Balogun World Cup ban suspension",
-      "source": "BBC Sport",
-      "virality_score": 67,
-      "pub_ago": "58m ago",
+      "title": "'Good luck to Dirk...': Littler dazzles in Blackpool as 'frightening' form continues",
+      "source": "Sky Sports",
+      "virality_score": 49,
+      "pub_ago": "4h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260723_2142_card1_916.png",
-        "169": "cards/20260723_2142_card1_169.png"
+        "916": "cards/20260724_1131_card1_916.png",
+        "169": "cards/20260724_1131_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "England men and women's cricket fixtures 2027",
+      "title": "Rodri to undergo back surgery and may miss start of Premier League season",
       "source": "Sky Sports",
-      "virality_score": 67,
-      "pub_ago": "22m ago",
-      "teams": [
-        "England",
-        "Australia",
-        "New Zealand"
-      ],
+      "virality_score": 41,
+      "pub_ago": "10h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260723_2142_card2_916.png",
-        "169": "cards/20260723_2142_card2_169.png"
+        "916": "cards/20260724_1131_card2_916.png",
+        "169": "cards/20260724_1131_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Blow for Manchester City with Rodri out for extended period due to back injury",
-      "source": "The Guardian",
-      "virality_score": 65,
-      "pub_ago": "4h ago",
+      "title": "Anderson's journey to England star and  Man City record signing",
+      "source": "BBC Sport",
+      "virality_score": 40,
+      "pub_ago": "10h ago",
       "teams": [
-        "Spain"
+        "England"
       ],
       "files": {
-        "916": "cards/20260723_2142_card3_916.png",
-        "169": "cards/20260723_2142_card3_169.png"
+        "916": "cards/20260724_1131_card3_916.png",
+        "169": "cards/20260724_1131_card3_169.png"
       }
     }
   ]
