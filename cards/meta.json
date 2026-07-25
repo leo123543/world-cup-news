@@ -1,43 +1,47 @@
 {
-  "generated_at": "2026-07-25T11:29:27.970715+08:00",
-  "generated_at_display": "Jul 25, 2026 · 11:29 AM HKT",
+  "generated_at": "2026-07-25T21:11:57.024632+08:00",
+  "generated_at_display": "Jul 25, 2026 · 09:11 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Real Madrid confident of signing Rodri  - Saturday's gossip",
+      "title": "All done deals in July 2026",
       "source": "BBC Sport",
-      "virality_score": 42,
-      "pub_ago": "6h ago",
+      "virality_score": 69,
+      "pub_ago": "15m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260725_1129_card1_916.png",
-        "169": "cards/20260725_1129_card1_169.png"
+        "916": "cards/20260725_2111_card1_916.png",
+        "169": "cards/20260725_2111_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Van Veen edges past Wade to book Price SF showdown in Blackpool",
-      "source": "Sky Sports",
-      "virality_score": 41,
-      "pub_ago": "4h ago",
-      "teams": [],
+      "title": "Missing a major football tournament? Fear not, Wafcon 2026 is about to start",
+      "source": "The Guardian",
+      "virality_score": 60,
+      "pub_ago": "2h ago",
+      "teams": [
+        "Morocco",
+        "Nigeria",
+        "Egypt"
+      ],
       "files": {
-        "916": "cards/20260725_1129_card2_916.png",
-        "169": "cards/20260725_1129_card2_169.png"
+        "916": "cards/20260725_2111_card2_916.png",
+        "169": "cards/20260725_2111_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Seven stars to watch at Wafcon 2026 and why",
+      "title": "Ipswich sign Japan forward Maeda from Celtic",
       "source": "BBC Sport",
-      "virality_score": 39,
-      "pub_ago": "9h ago",
+      "virality_score": 52,
+      "pub_ago": "50m ago",
       "teams": [
-        "Morocco"
+        "Japan"
       ],
       "files": {
-        "916": "cards/20260725_1129_card3_916.png",
-        "169": "cards/20260725_1129_card3_169.png"
+        "916": "cards/20260725_2111_card3_916.png",
+        "169": "cards/20260725_2111_card3_169.png"
       }
     }
   ]
