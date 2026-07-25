@@ -1,47 +1,43 @@
 {
-  "generated_at": "2026-07-24T21:25:17.972836+08:00",
-  "generated_at_display": "Jul 24, 2026 · 09:25 PM HKT",
+  "generated_at": "2026-07-25T11:29:27.970715+08:00",
+  "generated_at_display": "Jul 25, 2026 · 11:29 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Spain coach says Argentina behaviour 'intolerable' after World Cup final",
-      "source": "Sky Sports",
-      "virality_score": 65,
-      "pub_ago": "1h ago",
-      "teams": [
-        "Argentina",
-        "Spain"
-      ],
+      "title": "Real Madrid confident of signing Rodri  - Saturday's gossip",
+      "source": "BBC Sport",
+      "virality_score": 42,
+      "pub_ago": "6h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260724_2124_card1_916.png",
-        "169": "cards/20260724_2124_card1_169.png"
+        "916": "cards/20260725_1129_card1_916.png",
+        "169": "cards/20260725_1129_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Devlin opens up on 'too stressful' Hearts exit for Rangers",
-      "source": "BBC Sport",
-      "virality_score": 62,
-      "pub_ago": "2h ago",
+      "title": "Van Veen edges past Wade to book Price SF showdown in Blackpool",
+      "source": "Sky Sports",
+      "virality_score": 41,
+      "pub_ago": "4h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260724_2124_card2_916.png",
-        "169": "cards/20260724_2124_card2_169.png"
+        "916": "cards/20260725_1129_card2_916.png",
+        "169": "cards/20260725_1129_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Argentina behaviour after World Cup final was 'intolerable', says De la Fuente",
-      "source": "The Guardian",
-      "virality_score": 62,
-      "pub_ago": "2h ago",
+      "title": "Seven stars to watch at Wafcon 2026 and why",
+      "source": "BBC Sport",
+      "virality_score": 39,
+      "pub_ago": "9h ago",
       "teams": [
-        "Argentina",
-        "Spain"
+        "Morocco"
       ],
       "files": {
-        "916": "cards/20260724_2124_card3_916.png",
-        "169": "cards/20260724_2124_card3_169.png"
+        "916": "cards/20260725_1129_card3_916.png",
+        "169": "cards/20260725_1129_card3_169.png"
       }
     }
   ]
