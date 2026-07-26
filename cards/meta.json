@@ -1,47 +1,45 @@
 {
-  "generated_at": "2026-07-25T21:11:57.024632+08:00",
-  "generated_at_display": "Jul 25, 2026 · 09:11 PM HKT",
+  "generated_at": "2026-07-26T11:43:17.566783+08:00",
+  "generated_at_display": "Jul 26, 2026 · 11:43 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "All done deals in July 2026",
-      "source": "BBC Sport",
-      "virality_score": 69,
-      "pub_ago": "15m ago",
-      "teams": [],
+      "title": "From Haaland love to Mexico's Merlin: 26 memories from the 2026 World Cup",
+      "source": "The Guardian",
+      "virality_score": 48,
+      "pub_ago": "8h ago",
+      "teams": [
+        "Mexico",
+        "Turkey",
+        "Scotland"
+      ],
       "files": {
-        "916": "cards/20260725_2111_card1_916.png",
-        "169": "cards/20260725_2111_card1_169.png"
+        "916": "cards/20260726_1142_card1_916.png",
+        "169": "cards/20260726_1142_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Missing a major football tournament? Fear not, Wafcon 2026 is about to start",
+      "title": "Liverpool start Iraola era in style to beat Sunderland but Gomez injury deepens defensive worries",
       "source": "The Guardian",
-      "virality_score": 60,
+      "virality_score": 47,
       "pub_ago": "2h ago",
-      "teams": [
-        "Morocco",
-        "Nigeria",
-        "Egypt"
-      ],
+      "teams": [],
       "files": {
-        "916": "cards/20260725_2111_card2_916.png",
-        "169": "cards/20260725_2111_card2_169.png"
+        "916": "cards/20260726_1142_card2_916.png",
+        "169": "cards/20260726_1142_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Ipswich sign Japan forward Maeda from Celtic",
-      "source": "BBC Sport",
-      "virality_score": 52,
-      "pub_ago": "50m ago",
-      "teams": [
-        "Japan"
-      ],
+      "title": "Joshua devotes win to late friends as 'lovely treat' of Fury fight looms",
+      "source": "Sky Sports",
+      "virality_score": 44,
+      "pub_ago": "2h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260725_2111_card3_916.png",
-        "169": "cards/20260725_2111_card3_169.png"
+        "916": "cards/20260726_1142_card3_916.png",
+        "169": "cards/20260726_1142_card3_169.png"
       }
     }
   ]
