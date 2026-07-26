@@ -1,45 +1,45 @@
 {
-  "generated_at": "2026-07-26T11:43:17.566783+08:00",
-  "generated_at_display": "Jul 26, 2026 · 11:43 AM HKT",
+  "generated_at": "2026-07-26T21:07:13.350863+08:00",
+  "generated_at_display": "Jul 26, 2026 · 09:07 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "From Haaland love to Mexico's Merlin: 26 memories from the 2026 World Cup",
+      "title": "Inter enter talks with Tottenham over signing captain Cristian Romero",
       "source": "The Guardian",
-      "virality_score": 48,
-      "pub_ago": "8h ago",
+      "virality_score": 65,
+      "pub_ago": "1h ago",
       "teams": [
-        "Mexico",
-        "Turkey",
-        "Scotland"
+        "Argentina"
       ],
       "files": {
-        "916": "cards/20260726_1142_card1_916.png",
-        "169": "cards/20260726_1142_card1_169.png"
+        "916": "cards/20260726_2106_card1_916.png",
+        "169": "cards/20260726_2106_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Liverpool start Iraola era in style to beat Sunderland but Gomez injury deepens defensive worries",
-      "source": "The Guardian",
-      "virality_score": 47,
-      "pub_ago": "2h ago",
-      "teams": [],
+      "title": "Malaysia added to 2026 F1 calendar",
+      "source": "Sky Sports",
+      "virality_score": 60,
+      "pub_ago": "1h ago",
+      "teams": [
+        "Bahrain"
+      ],
       "files": {
-        "916": "cards/20260726_1142_card2_916.png",
-        "169": "cards/20260726_1142_card2_169.png"
+        "916": "cards/20260726_2106_card2_916.png",
+        "169": "cards/20260726_2106_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Joshua devotes win to late friends as 'lovely treat' of Fury fight looms",
-      "source": "Sky Sports",
-      "virality_score": 44,
+      "title": "Tottenham begin tour with victory over Auckland FC in front of record crowd",
+      "source": "The Guardian",
+      "virality_score": 50,
       "pub_ago": "2h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260726_1142_card3_916.png",
-        "169": "cards/20260726_1142_card3_169.png"
+        "916": "cards/20260726_2106_card3_916.png",
+        "169": "cards/20260726_2106_card3_169.png"
       }
     }
   ]
