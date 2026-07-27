@@ -1,45 +1,41 @@
 {
-  "generated_at": "2026-07-26T21:07:13.350863+08:00",
-  "generated_at_display": "Jul 26, 2026 · 09:07 PM HKT",
+  "generated_at": "2026-07-27T11:52:22.565432+08:00",
+  "generated_at_display": "Jul 27, 2026 · 11:52 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Inter enter talks with Tottenham over signing captain Cristian Romero",
-      "source": "The Guardian",
-      "virality_score": 65,
-      "pub_ago": "1h ago",
-      "teams": [
-        "Argentina"
-      ],
+      "title": "All done deals in July 2026",
+      "source": "BBC Sport",
+      "virality_score": 54,
+      "pub_ago": "4h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260726_2106_card1_916.png",
-        "169": "cards/20260726_2106_card1_169.png"
+        "916": "cards/20260727_1152_card1_916.png",
+        "169": "cards/20260727_1152_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Malaysia added to 2026 F1 calendar",
-      "source": "Sky Sports",
-      "virality_score": 60,
-      "pub_ago": "1h ago",
-      "teams": [
-        "Bahrain"
-      ],
+      "title": "PSG want £145m for Barcola - Monday's gossip",
+      "source": "BBC Sport",
+      "virality_score": 42,
+      "pub_ago": "6h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260726_2106_card2_916.png",
-        "169": "cards/20260726_2106_card2_169.png"
+        "916": "cards/20260727_1152_card2_916.png",
+        "169": "cards/20260727_1152_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Tottenham begin tour with victory over Auckland FC in front of record crowd",
-      "source": "The Guardian",
-      "virality_score": 50,
-      "pub_ago": "2h ago",
+      "title": "Littler: World Matchplay defence 'one of best weeks of my life'",
+      "source": "Sky Sports",
+      "virality_score": 37,
+      "pub_ago": "6h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260726_2106_card3_916.png",
-        "169": "cards/20260726_2106_card3_169.png"
+        "916": "cards/20260727_1152_card3_916.png",
+        "169": "cards/20260727_1152_card3_169.png"
       }
     }
   ]
