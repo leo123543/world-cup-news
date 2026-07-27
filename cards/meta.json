@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-07-27T11:52:22.565432+08:00",
-  "generated_at_display": "Jul 27, 2026 · 11:52 AM HKT",
+  "generated_at": "2026-07-27T22:18:32.590818+08:00",
+  "generated_at_display": "Jul 27, 2026 · 10:18 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "All done deals in July 2026",
-      "source": "BBC Sport",
-      "virality_score": 54,
-      "pub_ago": "4h ago",
+      "title": "Manchester City hope Rodri will sign new deal as Real Madrid weigh up offer",
+      "source": "The Guardian",
+      "virality_score": 77,
+      "pub_ago": "33m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260727_1152_card1_916.png",
-        "169": "cards/20260727_1152_card1_169.png"
+        "916": "cards/20260727_2218_card1_916.png",
+        "169": "cards/20260727_2218_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "PSG want £145m for Barcola - Monday's gossip",
+      "title": "Salah, Stones & Sancho - Premier League free agents",
       "source": "BBC Sport",
-      "virality_score": 42,
-      "pub_ago": "6h ago",
+      "virality_score": 64,
+      "pub_ago": "12m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260727_1152_card2_916.png",
-        "169": "cards/20260727_1152_card2_169.png"
+        "916": "cards/20260727_2218_card2_916.png",
+        "169": "cards/20260727_2218_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Littler: World Matchplay defence 'one of best weeks of my life'",
-      "source": "Sky Sports",
-      "virality_score": 37,
-      "pub_ago": "6h ago",
+      "title": "English football agrees trial to end goalkeeper tactical timeouts",
+      "source": "BBC Sport",
+      "virality_score": 53,
+      "pub_ago": "56m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260727_1152_card3_916.png",
-        "169": "cards/20260727_1152_card3_169.png"
+        "916": "cards/20260727_2218_card3_916.png",
+        "169": "cards/20260727_2218_card3_169.png"
       }
     }
   ]
