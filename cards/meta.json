@@ -1,43 +1,44 @@
 {
-  "generated_at": "2026-07-28T11:23:05.326421+08:00",
-  "generated_at_display": "Jul 28, 2026 · 11:23 AM HKT",
+  "generated_at": "2026-07-28T21:50:41.664837+08:00",
+  "generated_at_display": "Jul 28, 2026 · 09:50 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Fifa president Gianni Infantino called to appear before Congress over Trump ties",
-      "source": "The Guardian",
-      "virality_score": 48,
-      "pub_ago": "7h ago",
-      "teams": [],
+      "title": "Relive Zidane's World Cup masterclass as he's named France head coach",
+      "source": "BBC Sport",
+      "virality_score": 72,
+      "pub_ago": "13m ago",
+      "teams": [
+        "Brazil",
+        "France"
+      ],
       "files": {
-        "916": "cards/20260728_1122_card1_916.png",
-        "169": "cards/20260728_1122_card1_169.png"
+        "916": "cards/20260728_2150_card1_916.png",
+        "169": "cards/20260728_2150_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Man City brace for Rodri bid - Tuesday's gossip",
+      "title": "Can lightning strike twice? Cape Verde set for Wafcon debut",
       "source": "BBC Sport",
-      "virality_score": 47,
-      "pub_ago": "6h ago",
+      "virality_score": 64,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260728_1122_card2_916.png",
-        "169": "cards/20260728_1122_card2_169.png"
+        "916": "cards/20260728_2150_card2_916.png",
+        "169": "cards/20260728_2150_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "John Stones set for Inter move after shining for England at World Cup",
-      "source": "The Guardian",
-      "virality_score": 46,
-      "pub_ago": "6h ago",
-      "teams": [
-        "England"
-      ],
+      "title": "Rodri out for 'short period' after back surgery",
+      "source": "BBC Sport",
+      "virality_score": 59,
+      "pub_ago": "1h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260728_1122_card3_916.png",
-        "169": "cards/20260728_1122_card3_169.png"
+        "916": "cards/20260728_2150_card3_916.png",
+        "169": "cards/20260728_2150_card3_169.png"
       }
     }
   ]
