@@ -1,41 +1,43 @@
 {
-  "generated_at": "2026-07-29T11:24:33.390182+08:00",
-  "generated_at_display": "Jul 29, 2026 · 11:24 AM HKT",
+  "generated_at": "2026-07-29T21:55:33.355875+08:00",
+  "generated_at_display": "Jul 29, 2026 · 09:55 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Retaining Rodri is key to Manchester City success under Enzo Maresca",
-      "source": "The Guardian",
-      "virality_score": 49,
-      "pub_ago": "8h ago",
+      "title": "Fifa offers $40m if nations back controversial plan",
+      "source": "BBC Sport",
+      "virality_score": 72,
+      "pub_ago": "16m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260729_1124_card1_916.png",
-        "169": "cards/20260729_1124_card1_169.png"
+        "916": "cards/20260729_2155_card1_916.png",
+        "169": "cards/20260729_2155_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Barcola agrees Liverpool move - Wednesday's gossip",
+      "title": "Is World Cup sell-off plan a step too far by Infantino?",
       "source": "BBC Sport",
-      "virality_score": 45,
-      "pub_ago": "5h ago",
+      "virality_score": 70,
+      "pub_ago": "6m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260729_1124_card2_916.png",
-        "169": "cards/20260729_1124_card2_169.png"
+        "916": "cards/20260729_2155_card2_916.png",
+        "169": "cards/20260729_2155_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Are there already worrying signs for Vrancken's Hearts?",
-      "source": "BBC Sport",
-      "virality_score": 40,
-      "pub_ago": "4h ago",
-      "teams": [],
+      "title": "Real Madrid want Rodri - How would Man City cope without him?",
+      "source": "Sky Sports",
+      "virality_score": 69,
+      "pub_ago": "1h ago",
+      "teams": [
+        "Spain"
+      ],
       "files": {
-        "916": "cards/20260729_1124_card3_916.png",
-        "169": "cards/20260729_1124_card3_169.png"
+        "916": "cards/20260729_2155_card3_916.png",
+        "169": "cards/20260729_2155_card3_169.png"
       }
     }
   ]
