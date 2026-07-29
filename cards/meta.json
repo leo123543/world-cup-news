@@ -1,44 +1,41 @@
 {
-  "generated_at": "2026-07-28T21:50:41.664837+08:00",
-  "generated_at_display": "Jul 28, 2026 · 09:50 PM HKT",
+  "generated_at": "2026-07-29T11:24:33.390182+08:00",
+  "generated_at_display": "Jul 29, 2026 · 11:24 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Relive Zidane's World Cup masterclass as he's named France head coach",
-      "source": "BBC Sport",
-      "virality_score": 72,
-      "pub_ago": "13m ago",
-      "teams": [
-        "Brazil",
-        "France"
-      ],
+      "title": "Retaining Rodri is key to Manchester City success under Enzo Maresca",
+      "source": "The Guardian",
+      "virality_score": 49,
+      "pub_ago": "8h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260728_2150_card1_916.png",
-        "169": "cards/20260728_2150_card1_169.png"
+        "916": "cards/20260729_1124_card1_916.png",
+        "169": "cards/20260729_1124_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Can lightning strike twice? Cape Verde set for Wafcon debut",
+      "title": "Barcola agrees Liverpool move - Wednesday's gossip",
       "source": "BBC Sport",
-      "virality_score": 64,
-      "pub_ago": "1h ago",
+      "virality_score": 45,
+      "pub_ago": "5h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260728_2150_card2_916.png",
-        "169": "cards/20260728_2150_card2_169.png"
+        "916": "cards/20260729_1124_card2_916.png",
+        "169": "cards/20260729_1124_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Rodri out for 'short period' after back surgery",
+      "title": "Are there already worrying signs for Vrancken's Hearts?",
       "source": "BBC Sport",
-      "virality_score": 59,
-      "pub_ago": "1h ago",
+      "virality_score": 40,
+      "pub_ago": "4h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260728_2150_card3_916.png",
-        "169": "cards/20260728_2150_card3_169.png"
+        "916": "cards/20260729_1124_card3_916.png",
+        "169": "cards/20260729_1124_card3_169.png"
       }
     }
   ]
