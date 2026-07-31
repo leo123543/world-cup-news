@@ -1,41 +1,43 @@
 {
-  "generated_at": "2026-07-31T11:41:00.352357+08:00",
-  "generated_at_display": "Jul 31, 2026 · 11:41 AM HKT",
+  "generated_at": "2026-07-31T21:50:18.645945+08:00",
+  "generated_at_display": "Jul 31, 2026 · 09:50 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Britain's Norrie takes on Tomic for place in Los Cabos semi-finals",
-      "source": "Sky Sports",
-      "virality_score": 50,
-      "pub_ago": "1h ago",
-      "teams": [],
+      "title": "Why women's football is first casualty of Fifa plans",
+      "source": "BBC Sport",
+      "virality_score": 69,
+      "pub_ago": "24m ago",
+      "teams": [
+        "England"
+      ],
       "files": {
-        "916": "cards/20260731_1140_card1_916.png",
-        "169": "cards/20260731_1140_card1_169.png"
+        "916": "cards/20260731_2149_card1_916.png",
+        "169": "cards/20260731_2149_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Is Infantino finished? Could Uefa boycott World Cup? What happens now?",
+      "title": "Burnham says Infantino 'wrong man' to lead Fifa as criticism grows",
       "source": "BBC Sport",
-      "virality_score": 50,
-      "pub_ago": "6h ago",
+      "virality_score": 68,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260731_1140_card2_916.png",
-        "169": "cards/20260731_1140_card2_169.png"
+        "916": "cards/20260731_2149_card2_916.png",
+        "169": "cards/20260731_2149_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Uefa threatens full Fifa boycott over World Cup sale plans",
+      "title": "All done deals in July 2026",
       "source": "BBC Sport",
-      "virality_score": 44,
-      "pub_ago": "7h ago",
+      "virality_score": 64,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260731_1140_card3_916.png",
-        "169": "cards/20260731_1140_card3_169.png"
+        "916": "cards/20260731_2149_card3_916.png",
+        "169": "cards/20260731_2149_card3_169.png"
       }
     }
   ]
