@@ -1,43 +1,41 @@
 {
-  "generated_at": "2026-07-31T21:50:18.645945+08:00",
-  "generated_at_display": "Jul 31, 2026 · 09:50 PM HKT",
+  "generated_at": "2026-08-01T11:39:48.251458+08:00",
+  "generated_at_display": "Aug 01, 2026 · 11:39 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Why women's football is first casualty of Fifa plans",
+      "title": "Fifa scraps controversial World Cup investment plan",
       "source": "BBC Sport",
-      "virality_score": 69,
-      "pub_ago": "24m ago",
-      "teams": [
-        "England"
-      ],
+      "virality_score": 61,
+      "pub_ago": "3h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260731_2149_card1_916.png",
-        "169": "cards/20260731_2149_card1_169.png"
+        "916": "cards/20260801_1139_card1_916.png",
+        "169": "cards/20260801_1139_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Burnham says Infantino 'wrong man' to lead Fifa as criticism grows",
-      "source": "BBC Sport",
-      "virality_score": 68,
-      "pub_ago": "1h ago",
+      "title": "Fifa scraps proposal to sell off stakes in World Cup after widespread backlash",
+      "source": "The Guardian",
+      "virality_score": 58,
+      "pub_ago": "3h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260731_2149_card2_916.png",
-        "169": "cards/20260731_2149_card2_169.png"
+        "916": "cards/20260801_1139_card2_916.png",
+        "169": "cards/20260801_1139_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "All done deals in July 2026",
+      "title": "Infantino on the brink? Who might replace him if he goes?",
       "source": "BBC Sport",
-      "virality_score": 64,
-      "pub_ago": "1h ago",
+      "virality_score": 58,
+      "pub_ago": "3h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260731_2149_card3_916.png",
-        "169": "cards/20260731_2149_card3_169.png"
+        "916": "cards/20260801_1139_card3_916.png",
+        "169": "cards/20260801_1139_card3_169.png"
       }
     }
   ]
