@@ -1,41 +1,43 @@
 {
-  "generated_at": "2026-08-01T21:05:54.952755+08:00",
-  "generated_at_display": "Aug 01, 2026 · 09:05 PM HKT",
+  "generated_at": "2026-08-02T11:40:10.638487+08:00",
+  "generated_at_display": "Aug 02, 2026 · 11:40 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "The five dramatic days that shook Infantino and world football",
+      "title": "Oshoala revives Nigeria's Wafcon and World Cup bid",
       "source": "BBC Sport",
-      "virality_score": 69,
-      "pub_ago": "23m ago",
-      "teams": [],
+      "virality_score": 53,
+      "pub_ago": "5h ago",
+      "teams": [
+        "Nigeria"
+      ],
       "files": {
-        "916": "cards/20260801_2105_card1_916.png",
-        "169": "cards/20260801_2105_card1_169.png"
+        "916": "cards/20260802_1139_card1_916.png",
+        "169": "cards/20260802_1139_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Women's football continues to be used as a pawn in Gianni Infantino's Fifa tenure | Suzanne Wrack",
-      "source": "The Guardian",
-      "virality_score": 62,
-      "pub_ago": "1h ago",
+      "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
+      "source": "BBC Sport",
+      "virality_score": 52,
+      "pub_ago": "5h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260801_2105_card2_916.png",
-        "169": "cards/20260801_2105_card2_169.png"
+        "916": "cards/20260802_1139_card2_916.png",
+        "169": "cards/20260802_1139_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Courting controversy and befriending Trump - the story of Fifa boss Infantino",
+      "title": "Salah close to Trabzonspor move - Sunday's gossip",
       "source": "BBC Sport",
-      "virality_score": 61,
-      "pub_ago": "2h ago",
+      "virality_score": 44,
+      "pub_ago": "6h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260801_2105_card3_916.png",
-        "169": "cards/20260801_2105_card3_169.png"
+        "916": "cards/20260802_1139_card3_916.png",
+        "169": "cards/20260802_1139_card3_169.png"
       }
     }
   ]
