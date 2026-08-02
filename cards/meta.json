@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-08-02T11:40:10.638487+08:00",
-  "generated_at_display": "Aug 02, 2026 · 11:40 AM HKT",
+  "generated_at": "2026-08-02T21:07:28.088374+08:00",
+  "generated_at_display": "Aug 02, 2026 · 09:07 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Oshoala revives Nigeria's Wafcon and World Cup bid",
-      "source": "BBC Sport",
-      "virality_score": 53,
-      "pub_ago": "5h ago",
+      "title": "Robert Lewandowski strikes twice for Chicago Fire in MLS win over Charlotte",
+      "source": "The Guardian",
+      "virality_score": 58,
+      "pub_ago": "2h ago",
       "teams": [
-        "Nigeria"
+        "Poland"
       ],
       "files": {
-        "916": "cards/20260802_1139_card1_916.png",
-        "169": "cards/20260802_1139_card1_169.png"
+        "916": "cards/20260802_2107_card1_916.png",
+        "169": "cards/20260802_2107_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
+      "title": "Bournemouth close in on £11.1m Juanlu",
       "source": "BBC Sport",
-      "virality_score": 52,
-      "pub_ago": "5h ago",
+      "virality_score": 57,
+      "pub_ago": "22m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260802_1139_card2_916.png",
-        "169": "cards/20260802_1139_card2_169.png"
+        "916": "cards/20260802_2107_card2_916.png",
+        "169": "cards/20260802_2107_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Salah close to Trabzonspor move - Sunday's gossip",
+      "title": "Listen: Off the Ball with Stuart & Tam",
       "source": "BBC Sport",
-      "virality_score": 44,
-      "pub_ago": "6h ago",
+      "virality_score": 53,
+      "pub_ago": "37m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260802_1139_card3_916.png",
-        "169": "cards/20260802_1139_card3_169.png"
+        "916": "cards/20260802_2107_card3_916.png",
+        "169": "cards/20260802_2107_card3_169.png"
       }
     }
   ]
