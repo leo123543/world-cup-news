@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-08-02T21:07:28.088374+08:00",
-  "generated_at_display": "Aug 02, 2026 · 09:07 PM HKT",
+  "generated_at": "2026-08-03T11:41:46.496342+08:00",
+  "generated_at_display": "Aug 03, 2026 · 11:41 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Robert Lewandowski strikes twice for Chicago Fire in MLS win over Charlotte",
+      "title": "Pressure on Gianni Infantino increases as Uefa members prepare to oppose re-election",
       "source": "The Guardian",
-      "virality_score": 58,
-      "pub_ago": "2h ago",
-      "teams": [
-        "Poland"
-      ],
+      "virality_score": 41,
+      "pub_ago": "8h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260802_2107_card1_916.png",
-        "169": "cards/20260802_2107_card1_169.png"
+        "916": "cards/20260803_1141_card1_916.png",
+        "169": "cards/20260803_1141_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Bournemouth close in on £11.1m Juanlu",
+      "title": "Tale of two halves leaves Iraola with plenty to ponder",
       "source": "BBC Sport",
-      "virality_score": 57,
-      "pub_ago": "22m ago",
-      "teams": [],
+      "virality_score": 40,
+      "pub_ago": "4h ago",
+      "teams": [
+        "England"
+      ],
       "files": {
-        "916": "cards/20260802_2107_card2_916.png",
-        "169": "cards/20260802_2107_card2_169.png"
+        "916": "cards/20260803_1141_card2_916.png",
+        "169": "cards/20260803_1141_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Listen: Off the Ball with Stuart & Tam",
-      "source": "BBC Sport",
-      "virality_score": 53,
-      "pub_ago": "37m ago",
+      "title": "Leeds stage thrilling comeback to sink Liverpool in Chicago friendly",
+      "source": "The Guardian",
+      "virality_score": 35,
+      "pub_ago": "5h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260802_2107_card3_916.png",
-        "169": "cards/20260802_2107_card3_169.png"
+        "916": "cards/20260803_1141_card3_916.png",
+        "169": "cards/20260803_1141_card3_169.png"
       }
     }
   ]
