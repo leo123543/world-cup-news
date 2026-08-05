@@ -1,41 +1,43 @@
 {
-  "generated_at": "2026-08-05T11:21:42.593871+08:00",
-  "generated_at_display": "Aug 05, 2026 · 11:21 AM HKT",
+  "generated_at": "2026-08-05T21:53:21.711792+08:00",
+  "generated_at_display": "Aug 05, 2026 · 09:53 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Turkish club Trabzonspor begin talks to sign Salah",
+      "title": "Key questions as Infantino faces Fifa executives",
       "source": "BBC Sport",
-      "virality_score": 46,
-      "pub_ago": "5h ago",
+      "virality_score": 58,
+      "pub_ago": "3h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260805_1121_card1_916.png",
-        "169": "cards/20260805_1121_card1_169.png"
+        "916": "cards/20260805_2153_card1_916.png",
+        "169": "cards/20260805_2153_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Infantino calls executive meeting as criticism mounts",
+      "title": "Salah given hero's welcome before Trabzonspor move",
       "source": "BBC Sport",
-      "virality_score": 46,
-      "pub_ago": "7h ago",
-      "teams": [],
+      "virality_score": 55,
+      "pub_ago": "2h ago",
+      "teams": [
+        "Egypt"
+      ],
       "files": {
-        "916": "cards/20260805_1121_card2_916.png",
-        "169": "cards/20260805_1121_card2_169.png"
+        "916": "cards/20260805_2153_card2_916.png",
+        "169": "cards/20260805_2153_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "The Fifa family: which confederations could support Infantino or turn against him?",
-      "source": "The Guardian",
-      "virality_score": 45,
-      "pub_ago": "6h ago",
+      "title": "Football Daily",
+      "source": "BBC Sport",
+      "virality_score": 54,
+      "pub_ago": "7h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260805_1121_card3_916.png",
-        "169": "cards/20260805_1121_card3_169.png"
+        "916": "cards/20260805_2153_card3_916.png",
+        "169": "cards/20260805_2153_card3_169.png"
       }
     }
   ]
