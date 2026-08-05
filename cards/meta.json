@@ -1,44 +1,41 @@
 {
-  "generated_at": "2026-08-04T21:56:11.863470+08:00",
-  "generated_at_display": "Aug 04, 2026 · 09:56 PM HKT",
+  "generated_at": "2026-08-05T11:21:42.593871+08:00",
+  "generated_at_display": "Aug 05, 2026 · 11:21 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "New Zealand's tour of South Africa to be shown live on Sky Sports as part of new deal",
-      "source": "Sky Sports",
-      "virality_score": 65,
-      "pub_ago": "55m ago",
-      "teams": [
-        "Argentina",
-        "New Zealand"
-      ],
+      "title": "Turkish club Trabzonspor begin talks to sign Salah",
+      "source": "BBC Sport",
+      "virality_score": 46,
+      "pub_ago": "5h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260804_2155_card1_916.png",
-        "169": "cards/20260804_2155_card1_169.png"
+        "916": "cards/20260805_1121_card1_916.png",
+        "169": "cards/20260805_1121_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "David Squires on … Gianni Infantino clinging to power as his Fifa empire crumbles",
-      "source": "The Guardian",
-      "virality_score": 61,
-      "pub_ago": "1h ago",
+      "title": "Infantino calls executive meeting as criticism mounts",
+      "source": "BBC Sport",
+      "virality_score": 46,
+      "pub_ago": "7h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260804_2155_card2_916.png",
-        "169": "cards/20260804_2155_card2_169.png"
+        "916": "cards/20260805_1121_card2_916.png",
+        "169": "cards/20260805_1121_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Fifa private money plan had to be scrapped - Wenger",
-      "source": "BBC Sport",
-      "virality_score": 59,
-      "pub_ago": "3h ago",
+      "title": "The Fifa family: which confederations could support Infantino or turn against him?",
+      "source": "The Guardian",
+      "virality_score": 45,
+      "pub_ago": "6h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260804_2155_card3_916.png",
-        "169": "cards/20260804_2155_card3_169.png"
+        "916": "cards/20260805_1121_card3_916.png",
+        "169": "cards/20260805_1121_card3_169.png"
       }
     }
   ]
