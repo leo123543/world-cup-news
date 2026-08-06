@@ -1,43 +1,41 @@
 {
-  "generated_at": "2026-08-05T21:53:21.711792+08:00",
-  "generated_at_display": "Aug 05, 2026 · 09:53 PM HKT",
+  "generated_at": "2026-08-06T11:24:38.137847+08:00",
+  "generated_at_display": "Aug 06, 2026 · 11:24 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Key questions as Infantino faces Fifa executives",
+      "title": "Infantino sorry for errors but stays Fifa president",
       "source": "BBC Sport",
-      "virality_score": 58,
-      "pub_ago": "3h ago",
+      "virality_score": 54,
+      "pub_ago": "5h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260805_2153_card1_916.png",
-        "169": "cards/20260805_2153_card1_169.png"
+        "916": "cards/20260806_1124_card1_916.png",
+        "169": "cards/20260806_1124_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Salah given hero's welcome before Trabzonspor move",
-      "source": "BBC Sport",
-      "virality_score": 55,
-      "pub_ago": "2h ago",
-      "teams": [
-        "Egypt"
-      ],
+      "title": "Fifa insists Gianni Infantino will remain president after Rabat crisis meeting",
+      "source": "The Guardian",
+      "virality_score": 51,
+      "pub_ago": "4h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260805_2153_card2_916.png",
-        "169": "cards/20260805_2153_card2_169.png"
+        "916": "cards/20260806_1124_card2_916.png",
+        "169": "cards/20260806_1124_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Football Daily",
-      "source": "BBC Sport",
-      "virality_score": 54,
-      "pub_ago": "7h ago",
+      "title": "NWSL sets plans for early start, summer break next season to account for 2027 World Cup",
+      "source": "The Guardian",
+      "virality_score": 45,
+      "pub_ago": "6h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260805_2153_card3_916.png",
-        "169": "cards/20260805_2153_card3_169.png"
+        "916": "cards/20260806_1124_card3_916.png",
+        "169": "cards/20260806_1124_card3_169.png"
       }
     }
   ]
