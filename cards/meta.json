@@ -1,43 +1,46 @@
 {
-  "generated_at": "2026-08-07T11:11:18.761714+08:00",
-  "generated_at_display": "Aug 07, 2026 · 11:11 AM HKT",
+  "generated_at": "2026-08-07T20:48:58.979596+08:00",
+  "generated_at_display": "Aug 07, 2026 · 08:48 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
+      "title": "All done deals in August 2026",
       "source": "BBC Sport",
-      "virality_score": 67,
-      "pub_ago": "1h ago",
+      "virality_score": 70,
+      "pub_ago": "5m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260807_1110_card1_916.png",
-        "169": "cards/20260807_1110_card1_169.png"
+        "916": "cards/20260807_2048_card1_916.png",
+        "169": "cards/20260807_2048_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Old habits haunt Rangers in early McInnes tenure",
+      "title": "Norway call for Infantino to resign as Mexico and Argentina back president",
       "source": "BBC Sport",
-      "virality_score": 41,
-      "pub_ago": "4h ago",
+      "virality_score": 68,
+      "pub_ago": "44m ago",
       "teams": [
-        "Poland"
+        "Argentina",
+        "Mexico"
       ],
       "files": {
-        "916": "cards/20260807_1110_card2_916.png",
-        "169": "cards/20260807_1110_card2_169.png"
+        "916": "cards/20260807_2048_card2_916.png",
+        "169": "cards/20260807_2048_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Is red-hot Norrie now favourite to win Montreal? Brit dumps out third seed De Minaur",
-      "source": "Sky Sports",
-      "virality_score": 39,
-      "pub_ago": "3h ago",
-      "teams": [],
+      "title": "Man City reject Barcelona's £38.5m bid for Rodri",
+      "source": "BBC Sport",
+      "virality_score": 63,
+      "pub_ago": "27m ago",
+      "teams": [
+        "Spain"
+      ],
       "files": {
-        "916": "cards/20260807_1110_card3_916.png",
-        "169": "cards/20260807_1110_card3_169.png"
+        "916": "cards/20260807_2048_card3_916.png",
+        "169": "cards/20260807_2048_card3_169.png"
       }
     }
   ]
