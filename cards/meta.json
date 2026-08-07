@@ -1,47 +1,43 @@
 {
-  "generated_at": "2026-08-06T21:50:53.343400+08:00",
-  "generated_at_display": "Aug 06, 2026 · 09:50 PM HKT",
+  "generated_at": "2026-08-07T11:11:18.761714+08:00",
+  "generated_at_display": "Aug 07, 2026 · 11:11 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Argentina commemorate win against England at World Cup 2026 with special day",
-      "source": "The Guardian",
-      "virality_score": 68,
+      "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
+      "source": "BBC Sport",
+      "virality_score": 67,
       "pub_ago": "1h ago",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
+      "teams": [],
       "files": {
-        "916": "cards/20260806_2150_card1_916.png",
-        "169": "cards/20260806_2150_card1_169.png"
+        "916": "cards/20260807_1110_card1_916.png",
+        "169": "cards/20260807_1110_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "The Carabao Cup is BACK! Bristol City host Walsall in first round tonight",
-      "source": "Sky Sports",
-      "virality_score": 66,
-      "pub_ago": "36m ago",
-      "teams": [],
+      "title": "Old habits haunt Rangers in early McInnes tenure",
+      "source": "BBC Sport",
+      "virality_score": 41,
+      "pub_ago": "4h ago",
+      "teams": [
+        "Poland"
+      ],
       "files": {
-        "916": "cards/20260806_2150_card2_916.png",
-        "169": "cards/20260806_2150_card2_169.png"
+        "916": "cards/20260807_1110_card2_916.png",
+        "169": "cards/20260807_1110_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Argentina mark World Cup win over England with 'National Football Teams Day'",
-      "source": "BBC Sport",
-      "virality_score": 64,
+      "title": "Is red-hot Norrie now favourite to win Montreal? Brit dumps out third seed De Minaur",
+      "source": "Sky Sports",
+      "virality_score": 39,
       "pub_ago": "3h ago",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
+      "teams": [],
       "files": {
-        "916": "cards/20260806_2150_card3_916.png",
-        "169": "cards/20260806_2150_card3_169.png"
+        "916": "cards/20260807_1110_card3_916.png",
+        "169": "cards/20260807_1110_card3_169.png"
       }
     }
   ]
