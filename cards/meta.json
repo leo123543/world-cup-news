@@ -1,46 +1,43 @@
 {
-  "generated_at": "2026-08-07T20:48:58.979596+08:00",
-  "generated_at_display": "Aug 07, 2026 · 08:48 PM HKT",
+  "generated_at": "2026-08-08T10:07:51.168036+08:00",
+  "generated_at_display": "Aug 08, 2026 · 10:07 AM HKT",
   "cards": [
     {
       "rank": 1,
       "title": "All done deals in August 2026",
       "source": "BBC Sport",
-      "virality_score": 70,
-      "pub_ago": "5m ago",
+      "virality_score": 55,
+      "pub_ago": "4h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260807_2048_card1_916.png",
-        "169": "cards/20260807_2048_card1_169.png"
+        "916": "cards/20260808_1007_card1_916.png",
+        "169": "cards/20260808_1007_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Norway call for Infantino to resign as Mexico and Argentina back president",
+      "title": "Infantino denies claims Uefa paid off alleged 'lover'",
       "source": "BBC Sport",
-      "virality_score": 68,
-      "pub_ago": "44m ago",
-      "teams": [
-        "Argentina",
-        "Mexico"
-      ],
+      "virality_score": 44,
+      "pub_ago": "3h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260807_2048_card2_916.png",
-        "169": "cards/20260807_2048_card2_169.png"
+        "916": "cards/20260808_1007_card2_916.png",
+        "169": "cards/20260808_1007_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Man City reject Barcelona's £38.5m bid for Rodri",
+      "title": "Liverpool close to signing Barcelona's Araujo on loan",
       "source": "BBC Sport",
-      "virality_score": 63,
-      "pub_ago": "27m ago",
+      "virality_score": 44,
+      "pub_ago": "3h ago",
       "teams": [
-        "Spain"
+        "Uruguay"
       ],
       "files": {
-        "916": "cards/20260807_2048_card3_916.png",
-        "169": "cards/20260807_2048_card3_169.png"
+        "916": "cards/20260808_1007_card3_916.png",
+        "169": "cards/20260808_1007_card3_169.png"
       }
     }
   ]
