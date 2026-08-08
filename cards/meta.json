@@ -1,43 +1,41 @@
 {
-  "generated_at": "2026-08-08T10:07:51.168036+08:00",
-  "generated_at_display": "Aug 08, 2026 · 10:07 AM HKT",
+  "generated_at": "2026-08-08T20:35:10.557301+08:00",
+  "generated_at_display": "Aug 08, 2026 · 08:35 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "All done deals in August 2026",
-      "source": "BBC Sport",
-      "virality_score": 55,
-      "pub_ago": "4h ago",
+      "title": "Fifa president Gianni Infantino denies claims Uefa paid off alleged 'lover'",
+      "source": "The Guardian",
+      "virality_score": 57,
+      "pub_ago": "3h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260808_1007_card1_916.png",
-        "169": "cards/20260808_1007_card1_169.png"
+        "916": "cards/20260808_2034_card1_916.png",
+        "169": "cards/20260808_2034_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Infantino denies claims Uefa paid off alleged 'lover'",
+      "title": "Listen: Off the Ball with guests Conor Sammon and Cammy Lynn",
       "source": "BBC Sport",
-      "virality_score": 44,
-      "pub_ago": "3h ago",
+      "virality_score": 56,
+      "pub_ago": "34m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260808_1007_card2_916.png",
-        "169": "cards/20260808_1007_card2_169.png"
+        "916": "cards/20260808_2034_card2_916.png",
+        "169": "cards/20260808_2034_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Liverpool close to signing Barcelona's Araujo on loan",
-      "source": "BBC Sport",
-      "virality_score": 44,
-      "pub_ago": "3h ago",
-      "teams": [
-        "Uruguay"
-      ],
+      "title": "QPR host Millwall with ALL Carabao Cup first-round games on Sky LIVE!",
+      "source": "Sky Sports",
+      "virality_score": 53,
+      "pub_ago": "4m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260808_1007_card3_916.png",
-        "169": "cards/20260808_1007_card3_169.png"
+        "916": "cards/20260808_2034_card3_916.png",
+        "169": "cards/20260808_2034_card3_169.png"
       }
     }
   ]
