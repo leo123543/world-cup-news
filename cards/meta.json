@@ -1,41 +1,43 @@
 {
-  "generated_at": "2026-08-09T10:19:58.119449+08:00",
-  "generated_at_display": "Aug 09, 2026 · 10:19 AM HKT",
+  "generated_at": "2026-08-09T20:37:48.877230+08:00",
+  "generated_at_display": "Aug 09, 2026 · 08:37 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Fifa criticises campaign to oust president Infantino",
-      "source": "BBC Sport",
-      "virality_score": 56,
-      "pub_ago": "4h ago",
+      "title": "Five-time Super League winner Makinson to retire at end of 2026 campaign",
+      "source": "Sky Sports",
+      "virality_score": 67,
+      "pub_ago": "54m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260809_1019_card1_916.png",
-        "169": "cards/20260809_1019_card1_169.png"
+        "916": "cards/20260809_2037_card1_916.png",
+        "169": "cards/20260809_2037_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Fifa launches new attack on media over alleged 'concerted effort' to undermine Gianni Infantino",
+      "title": "How Trabzonspor shocked Turkish rivals to make Mohamed Salah their Black Sea saviour",
       "source": "The Guardian",
-      "virality_score": 54,
-      "pub_ago": "4h ago",
+      "virality_score": 62,
+      "pub_ago": "5h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260809_1019_card2_916.png",
-        "169": "cards/20260809_1019_card2_169.png"
+        "916": "cards/20260809_2037_card2_916.png",
+        "169": "cards/20260809_2037_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Barca make second bid for Rodri - Sunday's gossip",
+      "title": "Sevilla close to signing Scottish striker Ure in £7.9m deal",
       "source": "BBC Sport",
-      "virality_score": 46,
-      "pub_ago": "5h ago",
-      "teams": [],
+      "virality_score": 55,
+      "pub_ago": "8m ago",
+      "teams": [
+        "Scotland"
+      ],
       "files": {
-        "916": "cards/20260809_1019_card3_916.png",
-        "169": "cards/20260809_1019_card3_169.png"
+        "916": "cards/20260809_2037_card3_916.png",
+        "169": "cards/20260809_2037_card3_169.png"
       }
     }
   ]
