@@ -1,43 +1,46 @@
 {
-  "generated_at": "2026-08-09T20:37:48.877230+08:00",
-  "generated_at_display": "Aug 09, 2026 · 08:37 PM HKT",
+  "generated_at": "2026-08-10T10:24:51.584133+08:00",
+  "generated_at_display": "Aug 10, 2026 · 10:24 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Five-time Super League winner Makinson to retire at end of 2026 campaign",
-      "source": "Sky Sports",
-      "virality_score": 67,
-      "pub_ago": "54m ago",
-      "teams": [],
+      "title": "African quartet secure Women's World Cup places",
+      "source": "BBC Sport",
+      "virality_score": 62,
+      "pub_ago": "4h ago",
+      "teams": [
+        "Brazil",
+        "Morocco",
+        "Algeria",
+        "Cameroon"
+      ],
       "files": {
-        "916": "cards/20260809_2037_card1_916.png",
-        "169": "cards/20260809_2037_card1_169.png"
+        "916": "cards/20260810_1024_card1_916.png",
+        "169": "cards/20260810_1024_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "How Trabzonspor shocked Turkish rivals to make Mohamed Salah their Black Sea saviour",
+      "title": "Premier League 2026-27 preview No 1: Arsenal",
       "source": "The Guardian",
-      "virality_score": 62,
-      "pub_ago": "5h ago",
+      "virality_score": 56,
+      "pub_ago": "3h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260809_2037_card2_916.png",
-        "169": "cards/20260809_2037_card2_169.png"
+        "916": "cards/20260810_1024_card2_916.png",
+        "169": "cards/20260810_1024_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Sevilla close to signing Scottish striker Ure in £7.9m deal",
+      "title": "Messi misses Miami defeat after death of father",
       "source": "BBC Sport",
-      "virality_score": 55,
-      "pub_ago": "8m ago",
-      "teams": [
-        "Scotland"
-      ],
+      "virality_score": 51,
+      "pub_ago": "4h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260809_2037_card3_916.png",
-        "169": "cards/20260809_2037_card3_169.png"
+        "916": "cards/20260810_1024_card3_916.png",
+        "169": "cards/20260810_1024_card3_169.png"
       }
     }
   ]
