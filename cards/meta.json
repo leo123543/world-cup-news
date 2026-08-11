@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-08-10T20:54:55.945536+08:00",
-  "generated_at_display": "Aug 10, 2026 · 08:54 PM HKT",
+  "generated_at": "2026-08-11T10:17:07.449230+08:00",
+  "generated_at_display": "Aug 11, 2026 · 10:17 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Premier League 2026-27 preview No 2: Aston Villa",
+      "title": "Premier League 2026-27 preview No 3: Bournemouth",
       "source": "The Guardian",
-      "virality_score": 63,
-      "pub_ago": "1h ago",
+      "virality_score": 56,
+      "pub_ago": "3h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260810_2054_card1_916.png",
-        "169": "cards/20260810_2054_card1_169.png"
+        "916": "cards/20260811_1016_card1_916.png",
+        "169": "cards/20260811_1016_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Stella issues rivals warning over McLaren 'momentum' in title battles",
-      "source": "Sky Sports",
-      "virality_score": 61,
-      "pub_ago": "1h ago",
+      "title": "Who could Arsenal sign after missing out on Vinicius Jr?",
+      "source": "BBC Sport",
+      "virality_score": 46,
+      "pub_ago": "5h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260810_2054_card2_916.png",
-        "169": "cards/20260810_2054_card2_169.png"
+        "916": "cards/20260811_1016_card2_916.png",
+        "169": "cards/20260811_1016_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Infantino broke trust 'through deception' - confederation presidents",
+      "title": "Man City close in on Bouaddi - Tuesday's gossip",
       "source": "BBC Sport",
-      "virality_score": 58,
-      "pub_ago": "4h ago",
+      "virality_score": 46,
+      "pub_ago": "5h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260810_2054_card3_916.png",
-        "169": "cards/20260810_2054_card3_169.png"
+        "916": "cards/20260811_1016_card3_916.png",
+        "169": "cards/20260811_1016_card3_169.png"
       }
     }
   ]
