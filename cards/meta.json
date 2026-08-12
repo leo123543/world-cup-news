@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-08-11T20:50:17.813233+08:00",
-  "generated_at_display": "Aug 11, 2026 · 08:50 PM HKT",
+  "generated_at": "2026-08-12T10:32:50.646943+08:00",
+  "generated_at_display": "Aug 12, 2026 · 10:32 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "The map showing world's division over Infantino",
+      "title": "Doku 'not against' journalist who criticised him at World Cup",
       "source": "BBC Sport",
-      "virality_score": 64,
-      "pub_ago": "1h ago",
-      "teams": [],
+      "virality_score": 56,
+      "pub_ago": "4h ago",
+      "teams": [
+        "Belgium"
+      ],
       "files": {
-        "916": "cards/20260811_2049_card1_916.png",
-        "169": "cards/20260811_2049_card1_169.png"
+        "916": "cards/20260812_1032_card1_916.png",
+        "169": "cards/20260812_1032_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Premier League 2026-27 preview No 4: Brentford",
+      "title": "Premier League 2026-27 preview No 5: Brighton",
       "source": "The Guardian",
-      "virality_score": 61,
-      "pub_ago": "1h ago",
+      "virality_score": 55,
+      "pub_ago": "3h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260811_2049_card2_916.png",
-        "169": "cards/20260811_2049_card2_169.png"
+        "916": "cards/20260812_1032_card2_916.png",
+        "169": "cards/20260812_1032_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Man City have signed Anderson - why do they also want Bouaddi?",
-      "source": "Sky Sports",
-      "virality_score": 61,
-      "pub_ago": "1h ago",
-      "teams": [
-        "Morocco"
-      ],
+      "title": "Coventry eye Mudryk on loan - Wednesday's gossip",
+      "source": "BBC Sport",
+      "virality_score": 51,
+      "pub_ago": "4h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260811_2049_card3_916.png",
-        "169": "cards/20260811_2049_card3_169.png"
+        "916": "cards/20260812_1032_card3_916.png",
+        "169": "cards/20260812_1032_card3_169.png"
       }
     }
   ]
