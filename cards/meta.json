@@ -1,43 +1,41 @@
 {
-  "generated_at": "2026-08-12T10:32:50.646943+08:00",
-  "generated_at_display": "Aug 12, 2026 · 10:32 AM HKT",
+  "generated_at": "2026-08-12T20:55:31.274718+08:00",
+  "generated_at_display": "Aug 12, 2026 · 08:55 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Doku 'not against' journalist who criticised him at World Cup",
+      "title": "Kick It Out chair Bhandari to step down from role",
       "source": "BBC Sport",
-      "virality_score": 56,
-      "pub_ago": "4h ago",
-      "teams": [
-        "Belgium"
-      ],
+      "virality_score": 66,
+      "pub_ago": "1h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260812_1032_card1_916.png",
-        "169": "cards/20260812_1032_card1_169.png"
+        "916": "cards/20260812_2055_card1_916.png",
+        "169": "cards/20260812_2055_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Premier League 2026-27 preview No 5: Brighton",
-      "source": "The Guardian",
-      "virality_score": 55,
-      "pub_ago": "3h ago",
+      "title": "All done deals in August 2026",
+      "source": "BBC Sport",
+      "virality_score": 62,
+      "pub_ago": "2h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260812_1032_card2_916.png",
-        "169": "cards/20260812_1032_card2_169.png"
+        "916": "cards/20260812_2055_card2_916.png",
+        "169": "cards/20260812_2055_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Coventry eye Mudryk on loan - Wednesday's gossip",
-      "source": "BBC Sport",
-      "virality_score": 51,
-      "pub_ago": "4h ago",
+      "title": "Premier League 2026-27 preview No 6: Chelsea",
+      "source": "The Guardian",
+      "virality_score": 61,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260812_1032_card3_916.png",
-        "169": "cards/20260812_1032_card3_169.png"
+        "916": "cards/20260812_2055_card3_916.png",
+        "169": "cards/20260812_2055_card3_169.png"
       }
     }
   ]
