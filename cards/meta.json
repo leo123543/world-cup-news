@@ -1,41 +1,46 @@
 {
-  "generated_at": "2026-08-13T20:56:31.718417+08:00",
-  "generated_at_display": "Aug 13, 2026 · 08:56 PM HKT",
+  "generated_at": "2026-08-14T10:32:56.546959+08:00",
+  "generated_at_display": "Aug 14, 2026 · 10:32 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "The Hundred Eliminators and Finals: All you need to know",
-      "source": "Sky Sports",
-      "virality_score": 66,
-      "pub_ago": "35m ago",
-      "teams": [],
+      "title": "Nigeria to miss Women's World Cup after South Africa and Ghana win play-offs",
+      "source": "BBC Sport",
+      "virality_score": 58,
+      "pub_ago": "3h ago",
+      "teams": [
+        "Nigeria",
+        "Ghana"
+      ],
       "files": {
-        "916": "cards/20260813_2056_card1_916.png",
-        "169": "cards/20260813_2056_card1_169.png"
+        "916": "cards/20260814_1032_card1_916.png",
+        "169": "cards/20260814_1032_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "FAI withdraws Infantino support as IFA backs Uefa",
-      "source": "BBC Sport",
-      "virality_score": 65,
-      "pub_ago": "1h ago",
+      "title": "Premier League 2026-27 preview No 9: Everton",
+      "source": "The Guardian",
+      "virality_score": 55,
+      "pub_ago": "3h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260813_2056_card2_916.png",
-        "169": "cards/20260813_2056_card2_169.png"
+        "916": "cards/20260814_1032_card2_916.png",
+        "169": "cards/20260814_1032_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Premier League 2026-27 preview No 8: Crystal Palace",
-      "source": "The Guardian",
-      "virality_score": 61,
-      "pub_ago": "1h ago",
-      "teams": [],
+      "title": "'Dad rang and I was like: What's happening?' - England U20s boss on Uefa threat",
+      "source": "BBC Sport",
+      "virality_score": 52,
+      "pub_ago": "5h ago",
+      "teams": [
+        "England"
+      ],
       "files": {
-        "916": "cards/20260813_2056_card3_916.png",
-        "169": "cards/20260813_2056_card3_169.png"
+        "916": "cards/20260814_1032_card3_916.png",
+        "169": "cards/20260814_1032_card3_169.png"
       }
     }
   ]
