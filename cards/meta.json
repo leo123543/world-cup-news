@@ -1,46 +1,43 @@
 {
-  "generated_at": "2026-08-14T10:32:56.546959+08:00",
-  "generated_at_display": "Aug 14, 2026 · 10:32 AM HKT",
+  "generated_at": "2026-08-14T20:52:41.261908+08:00",
+  "generated_at_display": "Aug 14, 2026 · 08:52 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Nigeria to miss Women's World Cup after South Africa and Ghana win play-offs",
+      "title": "All done deals in August 2026",
       "source": "BBC Sport",
-      "virality_score": 58,
-      "pub_ago": "3h ago",
-      "teams": [
-        "Nigeria",
-        "Ghana"
-      ],
+      "virality_score": 70,
+      "pub_ago": "6m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260814_1032_card1_916.png",
-        "169": "cards/20260814_1032_card1_169.png"
+        "916": "cards/20260814_2052_card1_916.png",
+        "169": "cards/20260814_2052_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Premier League 2026-27 preview No 9: Everton",
+      "title": "Arsenal in talks over deal for Quansah; transfer latest; Championship kicks off; Fifa news: football - live",
       "source": "The Guardian",
-      "virality_score": 55,
-      "pub_ago": "3h ago",
-      "teams": [],
-      "files": {
-        "916": "cards/20260814_1032_card2_916.png",
-        "169": "cards/20260814_1032_card2_169.png"
-      }
-    },
-    {
-      "rank": 3,
-      "title": "'Dad rang and I was like: What's happening?' - England U20s boss on Uefa threat",
-      "source": "BBC Sport",
-      "virality_score": 52,
-      "pub_ago": "5h ago",
+      "virality_score": 66,
+      "pub_ago": "12m ago",
       "teams": [
         "England"
       ],
       "files": {
-        "916": "cards/20260814_1032_card3_916.png",
-        "169": "cards/20260814_1032_card3_169.png"
+        "916": "cards/20260814_2052_card2_916.png",
+        "169": "cards/20260814_2052_card2_169.png"
+      }
+    },
+    {
+      "rank": 3,
+      "title": "VAR, timewasting and subs - new rules for the new season",
+      "source": "BBC Sport",
+      "virality_score": 64,
+      "pub_ago": "1h ago",
+      "teams": [],
+      "files": {
+        "916": "cards/20260814_2052_card3_916.png",
+        "169": "cards/20260814_2052_card3_169.png"
       }
     }
   ]
