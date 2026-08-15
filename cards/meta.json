@@ -1,43 +1,41 @@
 {
-  "generated_at": "2026-08-14T20:52:41.261908+08:00",
-  "generated_at_display": "Aug 14, 2026 · 08:52 PM HKT",
+  "generated_at": "2026-08-15T09:42:43.499859+08:00",
+  "generated_at_display": "Aug 15, 2026 · 09:42 AM HKT",
   "cards": [
     {
       "rank": 1,
       "title": "All done deals in August 2026",
       "source": "BBC Sport",
-      "virality_score": 70,
-      "pub_ago": "6m ago",
+      "virality_score": 51,
+      "pub_ago": "5h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260814_2052_card1_916.png",
-        "169": "cards/20260814_2052_card1_169.png"
+        "916": "cards/20260815_0942_card1_916.png",
+        "169": "cards/20260815_0942_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Arsenal in talks over deal for Quansah; transfer latest; Championship kicks off; Fifa news: football - live",
-      "source": "The Guardian",
-      "virality_score": 66,
-      "pub_ago": "12m ago",
-      "teams": [
-        "England"
-      ],
+      "title": "Arsenal lead Hinshelwood race - Saturday's gossip",
+      "source": "BBC Sport",
+      "virality_score": 50,
+      "pub_ago": "4h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260814_2052_card2_916.png",
-        "169": "cards/20260814_2052_card2_169.png"
+        "916": "cards/20260815_0942_card2_916.png",
+        "169": "cards/20260815_0942_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "VAR, timewasting and subs - new rules for the new season",
-      "source": "BBC Sport",
-      "virality_score": 64,
-      "pub_ago": "1h ago",
+      "title": "'It's such a BIG call!' | Controversial late Wolves penalty decision ANALYSED",
+      "source": "Sky Sports",
+      "virality_score": 45,
+      "pub_ago": "3h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260814_2052_card3_916.png",
-        "169": "cards/20260814_2052_card3_169.png"
+        "916": "cards/20260815_0942_card3_916.png",
+        "169": "cards/20260815_0942_card3_169.png"
       }
     }
   ]
