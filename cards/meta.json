@@ -1,43 +1,41 @@
 {
-  "generated_at": "2026-08-16T09:50:09.509647+08:00",
-  "generated_at_display": "Aug 16, 2026 · 09:50 AM HKT",
+  "generated_at": "2026-08-16T20:26:46.332239+08:00",
+  "generated_at_display": "Aug 16, 2026 · 08:26 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Scheffler retains lead in Memphis as Burns stars and McIlroy toils again",
-      "source": "Sky Sports",
-      "virality_score": 45,
-      "pub_ago": "2h ago",
+      "title": "Maguire wants 'huge threat' Rashford to stay at Man Utd",
+      "source": "BBC Sport",
+      "virality_score": 60,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260816_0949_card1_916.png",
-        "169": "cards/20260816_0949_card1_169.png"
+        "916": "cards/20260816_2026_card1_916.png",
+        "169": "cards/20260816_2026_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Rashford returns as Amorim's Milan highlight issues for Carrick",
-      "source": "BBC Sport",
-      "virality_score": 45,
-      "pub_ago": "6h ago",
-      "teams": [
-        "Poland"
-      ],
+      "title": "Premier League fans' previews: our club-by-club guide to 2026-27",
+      "source": "The Guardian",
+      "virality_score": 55,
+      "pub_ago": "5h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260816_0949_card2_916.png",
-        "169": "cards/20260816_0949_card2_169.png"
+        "916": "cards/20260816_2026_card2_916.png",
+        "169": "cards/20260816_2026_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Djokovic knocked out early in Cincinnati after struggling in sapping heat",
-      "source": "Sky Sports",
-      "virality_score": 41,
-      "pub_ago": "3h ago",
+      "title": "Coventry agree deal for Forest striker Awoniyi",
+      "source": "BBC Sport",
+      "virality_score": 54,
+      "pub_ago": "22m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260816_0949_card3_916.png",
-        "169": "cards/20260816_0949_card3_169.png"
+        "916": "cards/20260816_2026_card3_916.png",
+        "169": "cards/20260816_2026_card3_169.png"
       }
     }
   ]
