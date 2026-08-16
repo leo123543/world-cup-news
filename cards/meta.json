@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-08-15T20:24:55.953210+08:00",
-  "generated_at_display": "Aug 15, 2026 · 08:24 PM HKT",
+  "generated_at": "2026-08-16T09:50:09.509647+08:00",
+  "generated_at_display": "Aug 16, 2026 · 09:50 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Cardiff secure return of Liverpool loanee Scanlon",
-      "source": "BBC Sport",
-      "virality_score": 66,
-      "pub_ago": "1h ago",
+      "title": "Scheffler retains lead in Memphis as Burns stars and McIlroy toils again",
+      "source": "Sky Sports",
+      "virality_score": 45,
+      "pub_ago": "2h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260815_2024_card1_916.png",
-        "169": "cards/20260815_2024_card1_169.png"
+        "916": "cards/20260816_0949_card1_916.png",
+        "169": "cards/20260816_0949_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "PSG sign World Cup winner Torres from Barcelona",
+      "title": "Rashford returns as Amorim's Milan highlight issues for Carrick",
       "source": "BBC Sport",
-      "virality_score": 64,
-      "pub_ago": "2h ago",
+      "virality_score": 45,
+      "pub_ago": "6h ago",
       "teams": [
-        "Spain"
+        "Poland"
       ],
       "files": {
-        "916": "cards/20260815_2024_card2_916.png",
-        "169": "cards/20260815_2024_card2_169.png"
+        "916": "cards/20260816_0949_card2_916.png",
+        "169": "cards/20260816_0949_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Women's U20 World Cup boycott may hurt in short term but can send Fifa a vital message | Tom Garry",
-      "source": "The Guardian",
-      "virality_score": 62,
-      "pub_ago": "1h ago",
+      "title": "Djokovic knocked out early in Cincinnati after struggling in sapping heat",
+      "source": "Sky Sports",
+      "virality_score": 41,
+      "pub_ago": "3h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260815_2024_card3_916.png",
-        "169": "cards/20260815_2024_card3_169.png"
+        "916": "cards/20260816_0949_card3_916.png",
+        "169": "cards/20260816_0949_card3_169.png"
       }
     }
   ]
