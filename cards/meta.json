@@ -1,41 +1,43 @@
 {
-  "generated_at": "2026-08-17T09:48:12.921586+08:00",
-  "generated_at_display": "Aug 17, 2026 · 09:48 AM HKT",
+  "generated_at": "2026-08-17T20:31:45.695847+08:00",
+  "generated_at_display": "Aug 17, 2026 · 08:31 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Premier League 2026-27 preview No 11: Hull City",
+      "title": "Premier League 2026-27 preview No 12: Ipswich",
       "source": "The Guardian",
-      "virality_score": 60,
-      "pub_ago": "2h ago",
+      "virality_score": 62,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260817_0947_card1_916.png",
-        "169": "cards/20260817_0947_card1_169.png"
+        "916": "cards/20260817_2031_card1_916.png",
+        "169": "cards/20260817_2031_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Watch the best of Rodri's Manchester City journey",
+      "title": "Pocognoli 'feels connection' with 'passionate' Scotland",
       "source": "BBC Sport",
-      "virality_score": 50,
-      "pub_ago": "4h ago",
-      "teams": [],
+      "virality_score": 51,
+      "pub_ago": "1h ago",
+      "teams": [
+        "Scotland"
+      ],
       "files": {
-        "916": "cards/20260817_0947_card2_916.png",
-        "169": "cards/20260817_0947_card2_169.png"
+        "916": "cards/20260817_2031_card2_916.png",
+        "169": "cards/20260817_2031_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Rodri set to complete Barcelona move after Manchester City accept £65.4m bid",
+      "title": "Tottenham goalkeeper Guglielmo Vicario to leave for Juventus in loan deal",
       "source": "The Guardian",
-      "virality_score": 45,
-      "pub_ago": "5h ago",
+      "virality_score": 50,
+      "pub_ago": "49m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260817_0947_card3_916.png",
-        "169": "cards/20260817_0947_card3_169.png"
+        "916": "cards/20260817_2031_card3_916.png",
+        "169": "cards/20260817_2031_card3_169.png"
       }
     }
   ]
