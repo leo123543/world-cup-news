@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-08-17T20:31:45.695847+08:00",
-  "generated_at_display": "Aug 17, 2026 · 08:31 PM HKT",
+  "generated_at": "2026-08-18T20:33:48.294490+08:00",
+  "generated_at_display": "Aug 18, 2026 · 08:33 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Premier League 2026-27 preview No 12: Ipswich",
+      "title": "Premier League 2026-27 preview No 14: Liverpool",
       "source": "The Guardian",
-      "virality_score": 62,
+      "virality_score": 72,
       "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260817_2031_card1_916.png",
-        "169": "cards/20260817_2031_card1_169.png"
+        "916": "cards/20260818_2033_card1_916.png",
+        "169": "cards/20260818_2033_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Pocognoli 'feels connection' with 'passionate' Scotland",
-      "source": "BBC Sport",
-      "virality_score": 51,
-      "pub_ago": "1h ago",
-      "teams": [
-        "Scotland"
-      ],
+      "title": "What next for LIV Golf? Timeline from big beginnings to uncertain future",
+      "source": "Sky Sports",
+      "virality_score": 62,
+      "pub_ago": "48m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260817_2031_card2_916.png",
-        "169": "cards/20260817_2031_card2_169.png"
+        "916": "cards/20260818_2033_card2_916.png",
+        "169": "cards/20260818_2033_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Tottenham goalkeeper Guglielmo Vicario to leave for Juventus in loan deal",
-      "source": "The Guardian",
-      "virality_score": 50,
-      "pub_ago": "49m ago",
-      "teams": [],
+      "title": "US Amateur champion Whaley and Poulter's son named in GB&I Walker Cup team",
+      "source": "Sky Sports",
+      "virality_score": 56,
+      "pub_ago": "2h ago",
+      "teams": [
+        "USA"
+      ],
       "files": {
-        "916": "cards/20260817_2031_card3_916.png",
-        "169": "cards/20260817_2031_card3_169.png"
+        "916": "cards/20260818_2033_card3_916.png",
+        "169": "cards/20260818_2033_card3_169.png"
       }
     }
   ]
