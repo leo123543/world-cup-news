@@ -1,43 +1,45 @@
 {
-  "generated_at": "2026-08-18T20:33:48.294490+08:00",
-  "generated_at_display": "Aug 18, 2026 · 08:33 PM HKT",
+  "generated_at": "2026-08-19T09:45:06.116258+08:00",
+  "generated_at_display": "Aug 19, 2026 · 09:45 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Premier League 2026-27 preview No 14: Liverpool",
+      "title": "Premier League 2026-27 preview No 15: Manchester City",
       "source": "The Guardian",
-      "virality_score": 72,
-      "pub_ago": "1h ago",
+      "virality_score": 68,
+      "pub_ago": "2h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260818_2033_card1_916.png",
-        "169": "cards/20260818_2033_card1_169.png"
+        "916": "cards/20260819_0944_card1_916.png",
+        "169": "cards/20260819_0944_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "What next for LIV Golf? Timeline from big beginnings to uncertain future",
-      "source": "Sky Sports",
-      "virality_score": 62,
-      "pub_ago": "48m ago",
-      "teams": [],
+      "title": "Barcelona steal Rodri away from Real Madrid and plan to make him new Busquets",
+      "source": "The Guardian",
+      "virality_score": 57,
+      "pub_ago": "5h ago",
+      "teams": [
+        "Spain"
+      ],
       "files": {
-        "916": "cards/20260818_2033_card2_916.png",
-        "169": "cards/20260818_2033_card2_169.png"
+        "916": "cards/20260819_0944_card2_916.png",
+        "169": "cards/20260819_0944_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "US Amateur champion Whaley and Poulter's son named in GB&I Walker Cup team",
-      "source": "Sky Sports",
-      "virality_score": 56,
-      "pub_ago": "2h ago",
+      "title": "Rodri ready for 'excitement again' after Barca complete £65m deal",
+      "source": "BBC Sport",
+      "virality_score": 55,
+      "pub_ago": "7h ago",
       "teams": [
-        "USA"
+        "Spain"
       ],
       "files": {
-        "916": "cards/20260818_2033_card3_916.png",
-        "169": "cards/20260818_2033_card3_169.png"
+        "916": "cards/20260819_0944_card3_916.png",
+        "169": "cards/20260819_0944_card3_169.png"
       }
     }
   ]
