@@ -1,45 +1,43 @@
 {
-  "generated_at": "2026-08-19T09:45:06.116258+08:00",
-  "generated_at_display": "Aug 19, 2026 · 09:45 AM HKT",
+  "generated_at": "2026-08-19T20:34:13.855060+08:00",
+  "generated_at_display": "Aug 19, 2026 · 08:34 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Premier League 2026-27 preview No 15: Manchester City",
-      "source": "The Guardian",
-      "virality_score": 68,
+      "title": "Welsh FA chief calls for Infantino to step down",
+      "source": "BBC Sport",
+      "virality_score": 63,
       "pub_ago": "2h ago",
-      "teams": [],
+      "teams": [
+        "Wales"
+      ],
       "files": {
-        "916": "cards/20260819_0944_card1_916.png",
-        "169": "cards/20260819_0944_card1_169.png"
+        "916": "cards/20260819_2033_card1_916.png",
+        "169": "cards/20260819_2033_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Barcelona steal Rodri away from Real Madrid and plan to make him new Busquets",
+      "title": "Premier League 2026-27 preview No 16: Manchester United",
       "source": "The Guardian",
-      "virality_score": 57,
-      "pub_ago": "5h ago",
-      "teams": [
-        "Spain"
-      ],
+      "virality_score": 62,
+      "pub_ago": "1h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260819_0944_card2_916.png",
-        "169": "cards/20260819_0944_card2_169.png"
+        "916": "cards/20260819_2033_card2_916.png",
+        "169": "cards/20260819_2033_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Rodri ready for 'excitement again' after Barca complete £65m deal",
+      "title": "Is Haaland worth the £15.5m price tag on FPL?",
       "source": "BBC Sport",
-      "virality_score": 55,
-      "pub_ago": "7h ago",
-      "teams": [
-        "Spain"
-      ],
+      "virality_score": 62,
+      "pub_ago": "1h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260819_0944_card3_916.png",
-        "169": "cards/20260819_0944_card3_169.png"
+        "916": "cards/20260819_2033_card3_916.png",
+        "169": "cards/20260819_2033_card3_169.png"
       }
     }
   ]
