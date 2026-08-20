@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-08-19T20:34:13.855060+08:00",
-  "generated_at_display": "Aug 19, 2026 · 08:34 PM HKT",
+  "generated_at": "2026-08-20T09:43:39.925817+08:00",
+  "generated_at_display": "Aug 20, 2026 · 09:43 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Welsh FA chief calls for Infantino to step down",
+      "title": "Algorithms amplified World Cup racism, says report",
       "source": "BBC Sport",
-      "virality_score": 63,
+      "virality_score": 61,
       "pub_ago": "2h ago",
       "teams": [
-        "Wales"
+        "England"
       ],
       "files": {
-        "916": "cards/20260819_2033_card1_916.png",
-        "169": "cards/20260819_2033_card1_169.png"
+        "916": "cards/20260820_0943_card1_916.png",
+        "169": "cards/20260820_0943_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Premier League 2026-27 preview No 16: Manchester United",
+      "title": "Premier League 2026-27 preview No 17: Newcastle",
       "source": "The Guardian",
-      "virality_score": 62,
-      "pub_ago": "1h ago",
+      "virality_score": 60,
+      "pub_ago": "2h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260819_2033_card2_916.png",
-        "169": "cards/20260819_2033_card2_169.png"
+        "916": "cards/20260820_0943_card2_916.png",
+        "169": "cards/20260820_0943_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Is Haaland worth the £15.5m price tag on FPL?",
-      "source": "BBC Sport",
-      "virality_score": 62,
-      "pub_ago": "1h ago",
+      "title": "'Believe your eyes': Masters says Premier League's integrity cannot be doubted",
+      "source": "The Guardian",
+      "virality_score": 52,
+      "pub_ago": "4h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260819_2033_card3_916.png",
-        "169": "cards/20260819_2033_card3_169.png"
+        "916": "cards/20260820_0943_card3_916.png",
+        "169": "cards/20260820_0943_card3_169.png"
       }
     }
   ]
