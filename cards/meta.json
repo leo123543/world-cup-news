@@ -1,41 +1,43 @@
 {
-  "generated_at": "2026-08-21T09:48:53.520458+08:00",
-  "generated_at_display": "Aug 21, 2026 · 09:48 AM HKT",
+  "generated_at": "2026-08-21T20:34:42.409234+08:00",
+  "generated_at_display": "Aug 21, 2026 · 08:34 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Premier League 2026-27 preview No 19: Sunderland",
-      "source": "The Guardian",
-      "virality_score": 58,
-      "pub_ago": "2h ago",
+      "title": "All done deals in August 2026",
+      "source": "BBC Sport",
+      "virality_score": 68,
+      "pub_ago": "27m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260821_0948_card1_916.png",
-        "169": "cards/20260821_0948_card1_169.png"
+        "916": "cards/20260821_2034_card1_916.png",
+        "169": "cards/20260821_2034_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "All done deals in August 2026",
-      "source": "BBC Sport",
-      "virality_score": 57,
-      "pub_ago": "4h ago",
+      "title": "Arsenal complete £51m Konsa deal, Wan-Bissaka joins Villa, Iraola on Liverpool's 'thin squad': football - live",
+      "source": "The Guardian",
+      "virality_score": 63,
+      "pub_ago": "13m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260821_0948_card2_916.png",
-        "169": "cards/20260821_0948_card2_169.png"
+        "916": "cards/20260821_2034_card2_916.png",
+        "169": "cards/20260821_2034_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Gianni Infantino eyes junior tournament in Dominican Republic as potential route out of crisis",
-      "source": "The Guardian",
-      "virality_score": 44,
-      "pub_ago": "6h ago",
-      "teams": [],
+      "title": "Hanley and Savala added to England performance squad ahead of Rugby League World Cup",
+      "source": "Sky Sports",
+      "virality_score": 63,
+      "pub_ago": "34m ago",
+      "teams": [
+        "England"
+      ],
       "files": {
-        "916": "cards/20260821_0948_card3_916.png",
-        "169": "cards/20260821_0948_card3_169.png"
+        "916": "cards/20260821_2034_card3_916.png",
+        "169": "cards/20260821_2034_card3_169.png"
       }
     }
   ]
