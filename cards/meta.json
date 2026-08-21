@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-08-20T20:35:53.857003+08:00",
-  "generated_at_display": "Aug 20, 2026 · 08:35 PM HKT",
+  "generated_at": "2026-08-21T09:48:53.520458+08:00",
+  "generated_at_display": "Aug 21, 2026 · 09:48 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Premier League reset: Record manager upheaval leaves 2026/27 wide open",
-      "source": "Sky Sports",
-      "virality_score": 70,
-      "pub_ago": "35m ago",
+      "title": "Premier League 2026-27 preview No 19: Sunderland",
+      "source": "The Guardian",
+      "virality_score": 58,
+      "pub_ago": "2h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260820_2035_card1_916.png",
-        "169": "cards/20260820_2035_card1_169.png"
+        "916": "cards/20260821_0948_card1_916.png",
+        "169": "cards/20260821_0948_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Premier League 2026-27 preview No 18: Nottingham Forest",
-      "source": "The Guardian",
-      "virality_score": 62,
-      "pub_ago": "1h ago",
+      "title": "All done deals in August 2026",
+      "source": "BBC Sport",
+      "virality_score": 57,
+      "pub_ago": "4h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260820_2035_card2_916.png",
-        "169": "cards/20260820_2035_card2_169.png"
+        "916": "cards/20260821_0948_card2_916.png",
+        "169": "cards/20260821_0948_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Can a managerial merry-go-round in Serie A stop Inter's dominance?",
+      "title": "Gianni Infantino eyes junior tournament in Dominican Republic as potential route out of crisis",
       "source": "The Guardian",
-      "virality_score": 62,
-      "pub_ago": "1h ago",
+      "virality_score": 44,
+      "pub_ago": "6h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260820_2035_card3_916.png",
-        "169": "cards/20260820_2035_card3_169.png"
+        "916": "cards/20260821_0948_card3_916.png",
+        "169": "cards/20260821_0948_card3_169.png"
       }
     }
   ]
