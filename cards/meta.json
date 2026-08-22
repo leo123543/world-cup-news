@@ -1,43 +1,41 @@
 {
-  "generated_at": "2026-08-21T20:34:42.409234+08:00",
-  "generated_at_display": "Aug 21, 2026 · 08:34 PM HKT",
+  "generated_at": "2026-08-22T09:42:00.936263+08:00",
+  "generated_at_display": "Aug 22, 2026 · 09:42 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "All done deals in August 2026",
-      "source": "BBC Sport",
-      "virality_score": 68,
-      "pub_ago": "27m ago",
+      "title": "Women's Super League 2026-27 preview No 1: Arsenal",
+      "source": "The Guardian",
+      "virality_score": 58,
+      "pub_ago": "2h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260821_2034_card1_916.png",
-        "169": "cards/20260821_2034_card1_169.png"
+        "916": "cards/20260822_0941_card1_916.png",
+        "169": "cards/20260822_0941_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Arsenal complete £51m Konsa deal, Wan-Bissaka joins Villa, Iraola on Liverpool's 'thin squad': football - live",
-      "source": "The Guardian",
-      "virality_score": 63,
-      "pub_ago": "13m ago",
+      "title": "'Liverpool's best XI is still better than Man Utd's' | Carra and Nev clash on who is looking better!",
+      "source": "Sky Sports",
+      "virality_score": 56,
+      "pub_ago": "2h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260821_2034_card2_916.png",
-        "169": "cards/20260821_2034_card2_169.png"
+        "916": "cards/20260822_0941_card2_916.png",
+        "169": "cards/20260822_0941_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Hanley and Savala added to England performance squad ahead of Rugby League World Cup",
-      "source": "Sky Sports",
-      "virality_score": 63,
-      "pub_ago": "34m ago",
-      "teams": [
-        "England"
-      ],
+      "title": "Arsenal start title defence with comfortable win over Coventry",
+      "source": "BBC Sport",
+      "virality_score": 52,
+      "pub_ago": "4h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260821_2034_card3_916.png",
-        "169": "cards/20260821_2034_card3_169.png"
+        "916": "cards/20260822_0941_card3_916.png",
+        "169": "cards/20260822_0941_card3_169.png"
       }
     }
   ]
