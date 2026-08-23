@@ -1,41 +1,43 @@
 {
-  "generated_at": "2026-08-22T20:26:40.427671+08:00",
-  "generated_at_display": "Aug 22, 2026 · 08:26 PM HKT",
+  "generated_at": "2026-08-23T09:51:58.352265+08:00",
+  "generated_at_display": "Aug 23, 2026 · 09:51 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Dutch Grand Prix | Sprint Highlights",
-      "source": "Sky Sports",
-      "virality_score": 62,
-      "pub_ago": "45m ago",
+      "title": "Women's Super League 2026-27 preview No 2: Aston Villa",
+      "source": "The Guardian",
+      "virality_score": 59,
+      "pub_ago": "2h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260822_2026_card1_916.png",
-        "169": "cards/20260822_2026_card1_169.png"
+        "916": "cards/20260823_0951_card1_916.png",
+        "169": "cards/20260823_0951_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Off the Ball take petty & ill-informed look at Scottish football",
+      "title": "Man City will 'try to find the new Rodri' - Maresca",
       "source": "BBC Sport",
-      "virality_score": 57,
-      "pub_ago": "26m ago",
-      "teams": [],
+      "virality_score": 50,
+      "pub_ago": "4h ago",
+      "teams": [
+        "Spain"
+      ],
       "files": {
-        "916": "cards/20260822_2026_card2_916.png",
-        "169": "cards/20260822_2026_card2_169.png"
+        "916": "cards/20260823_0951_card2_916.png",
+        "169": "cards/20260823_0951_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "US soccer wants excitement after the World Cup - the Open Cup provides it",
+      "title": "Enzo Maresca searches for 'new Rodri' and expects Manchester City reaction",
       "source": "The Guardian",
-      "virality_score": 56,
-      "pub_ago": "3h ago",
+      "virality_score": 48,
+      "pub_ago": "4h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260822_2026_card3_916.png",
-        "169": "cards/20260822_2026_card3_169.png"
+        "916": "cards/20260823_0951_card3_916.png",
+        "169": "cards/20260823_0951_card3_169.png"
       }
     }
   ]
