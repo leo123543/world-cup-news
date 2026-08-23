@@ -1,43 +1,45 @@
 {
-  "generated_at": "2026-08-23T09:51:58.352265+08:00",
-  "generated_at_display": "Aug 23, 2026 · 09:51 AM HKT",
+  "generated_at": "2026-08-23T20:27:14.583776+08:00",
+  "generated_at_display": "Aug 23, 2026 · 08:27 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Women's Super League 2026-27 preview No 2: Aston Villa",
+      "title": "Mateta's Palace dispute deepens after losing appeals to end contract early",
       "source": "The Guardian",
-      "virality_score": 59,
-      "pub_ago": "2h ago",
+      "virality_score": 65,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260823_0951_card1_916.png",
-        "169": "cards/20260823_0951_card1_169.png"
+        "916": "cards/20260823_2026_card1_916.png",
+        "169": "cards/20260823_2026_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Man City will 'try to find the new Rodri' - Maresca",
+      "title": "Mourinho urges 'bullied' Vinicius Jr to control emotions when being provoked",
       "source": "BBC Sport",
-      "virality_score": 50,
-      "pub_ago": "4h ago",
+      "virality_score": 62,
+      "pub_ago": "46m ago",
       "teams": [
-        "Spain"
+        "Brazil"
       ],
       "files": {
-        "916": "cards/20260823_0951_card2_916.png",
-        "169": "cards/20260823_0951_card2_169.png"
+        "916": "cards/20260823_2026_card2_916.png",
+        "169": "cards/20260823_2026_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Enzo Maresca searches for 'new Rodri' and expects Manchester City reaction",
-      "source": "The Guardian",
-      "virality_score": 48,
-      "pub_ago": "4h ago",
-      "teams": [],
+      "title": "Man City agree record-breaking deal with Lille to sign Bouaddi",
+      "source": "Sky Sports",
+      "virality_score": 58,
+      "pub_ago": "24m ago",
+      "teams": [
+        "Morocco"
+      ],
       "files": {
-        "916": "cards/20260823_0951_card3_916.png",
-        "169": "cards/20260823_0951_card3_169.png"
+        "916": "cards/20260823_2026_card3_916.png",
+        "169": "cards/20260823_2026_card3_169.png"
       }
     }
   ]
