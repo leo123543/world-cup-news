@@ -1,45 +1,41 @@
 {
-  "generated_at": "2026-08-23T20:27:14.583776+08:00",
-  "generated_at_display": "Aug 23, 2026 · 08:27 PM HKT",
+  "generated_at": "2026-08-24T09:49:30.217766+08:00",
+  "generated_at_display": "Aug 24, 2026 · 09:49 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Mateta's Palace dispute deepens after losing appeals to end contract early",
-      "source": "The Guardian",
-      "virality_score": 65,
-      "pub_ago": "1h ago",
+      "title": "Infantino must remember he is European - Ceferin",
+      "source": "BBC Sport",
+      "virality_score": 62,
+      "pub_ago": "2h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260823_2026_card1_916.png",
-        "169": "cards/20260823_2026_card1_169.png"
+        "916": "cards/20260824_0949_card1_916.png",
+        "169": "cards/20260824_0949_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Mourinho urges 'bullied' Vinicius Jr to control emotions when being provoked",
-      "source": "BBC Sport",
-      "virality_score": 62,
-      "pub_ago": "46m ago",
-      "teams": [
-        "Brazil"
-      ],
+      "title": "Ceferin brands Infantino's failed World Cup plan as 'even worse than the Super League'",
+      "source": "The Guardian",
+      "virality_score": 58,
+      "pub_ago": "2h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260823_2026_card2_916.png",
-        "169": "cards/20260823_2026_card2_169.png"
+        "916": "cards/20260824_0949_card2_916.png",
+        "169": "cards/20260824_0949_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Man City agree record-breaking deal with Lille to sign Bouaddi",
-      "source": "Sky Sports",
+      "title": "Women's Super League 2026-27 preview No 3: Birmingham City",
+      "source": "The Guardian",
       "virality_score": 58,
-      "pub_ago": "24m ago",
-      "teams": [
-        "Morocco"
-      ],
+      "pub_ago": "2h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260823_2026_card3_916.png",
-        "169": "cards/20260823_2026_card3_169.png"
+        "916": "cards/20260824_0949_card3_916.png",
+        "169": "cards/20260824_0949_card3_169.png"
       }
     }
   ]
