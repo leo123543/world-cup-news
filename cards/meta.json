@@ -1,43 +1,41 @@
 {
-  "generated_at": "2026-08-24T20:36:47.068854+08:00",
-  "generated_at_display": "Aug 24, 2026 · 08:36 PM HKT",
+  "generated_at": "2026-08-25T09:44:13.382291+08:00",
+  "generated_at_display": "Aug 25, 2026 · 09:44 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Carabao Cup second round: 11 PL teams are in - watch EVERY match live",
-      "source": "Sky Sports",
-      "virality_score": 68,
-      "pub_ago": "11m ago",
+      "title": "Women's Super League 2026-27 preview No 4: Brighton",
+      "source": "The Guardian",
+      "virality_score": 61,
+      "pub_ago": "2h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260824_2036_card1_916.png",
-        "169": "cards/20260824_2036_card1_169.png"
+        "916": "cards/20260825_0943_card1_916.png",
+        "169": "cards/20260825_0943_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Maradona's 'Hand of God' ball sells for £2.5m",
-      "source": "BBC Sport",
-      "virality_score": 56,
-      "pub_ago": "5h ago",
-      "teams": [
-        "England"
-      ],
+      "title": "Champions? Relegated? One to watch? Carra and Neville's season predictions!",
+      "source": "Sky Sports",
+      "virality_score": 60,
+      "pub_ago": "1h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260824_2036_card2_916.png",
-        "169": "cards/20260824_2036_card2_169.png"
+        "916": "cards/20260825_0943_card2_916.png",
+        "169": "cards/20260825_0943_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "F1 2026 team-mate head-to-heads after Dutch GP",
-      "source": "Sky Sports",
-      "virality_score": 55,
+      "title": "Three reasons Chelsea could challenge for title - and one they may not",
+      "source": "BBC Sport",
+      "virality_score": 47,
       "pub_ago": "2h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260824_2036_card3_916.png",
-        "169": "cards/20260824_2036_card3_169.png"
+        "916": "cards/20260825_0943_card3_916.png",
+        "169": "cards/20260825_0943_card3_169.png"
       }
     }
   ]
