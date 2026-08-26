@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-08-25T20:36:55.287904+08:00",
-  "generated_at_display": "Aug 25, 2026 · 08:36 PM HKT",
+  "generated_at": "2026-08-26T09:49:48.168235+08:00",
+  "generated_at_display": "Aug 26, 2026 · 09:49 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Littler and Van Gerwen to headline World Series of Darts Finals",
-      "source": "Sky Sports",
-      "virality_score": 64,
-      "pub_ago": "1h ago",
+      "title": "Women's Super League 2026-27 preview No 5: Charlton Athletic",
+      "source": "The Guardian",
+      "virality_score": 58,
+      "pub_ago": "2h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260825_2036_card1_916.png",
-        "169": "cards/20260825_2036_card1_169.png"
+        "916": "cards/20260826_0949_card1_916.png",
+        "169": "cards/20260826_0949_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Dalglish and Carney win PFA merit awards",
+      "title": "'I'm very proud of this' - Fernandes wins PFA player of the year",
       "source": "BBC Sport",
-      "virality_score": 61,
-      "pub_ago": "2h ago",
-      "teams": [
-        "Scotland"
-      ],
+      "virality_score": 56,
+      "pub_ago": "4h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260825_2036_card2_916.png",
-        "169": "cards/20260825_2036_card2_169.png"
+        "916": "cards/20260826_0949_card2_916.png",
+        "169": "cards/20260826_0949_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Baumgardner to face undefeated Turhan as blockbuster Dubois showdown nears",
-      "source": "Sky Sports",
-      "virality_score": 52,
-      "pub_ago": "36m ago",
-      "teams": [],
+      "title": "'A huge award' - O'Reilly named PFA young player of the year",
+      "source": "BBC Sport",
+      "virality_score": 54,
+      "pub_ago": "4h ago",
+      "teams": [
+        "England"
+      ],
       "files": {
-        "916": "cards/20260825_2036_card3_916.png",
-        "169": "cards/20260825_2036_card3_169.png"
+        "916": "cards/20260826_0949_card3_916.png",
+        "169": "cards/20260826_0949_card3_169.png"
       }
     }
   ]
