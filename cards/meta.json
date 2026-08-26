@@ -1,43 +1,41 @@
 {
-  "generated_at": "2026-08-26T09:49:48.168235+08:00",
-  "generated_at_display": "Aug 26, 2026 · 09:49 AM HKT",
+  "generated_at": "2026-08-26T20:39:58.112935+08:00",
+  "generated_at_display": "Aug 26, 2026 · 08:39 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Women's Super League 2026-27 preview No 5: Charlton Athletic",
+      "title": "Uefa poised to lift boycott threat after Fifa promises no World Cup sale repeat",
       "source": "The Guardian",
-      "virality_score": 58,
-      "pub_ago": "2h ago",
+      "virality_score": 62,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260826_0949_card1_916.png",
-        "169": "cards/20260826_0949_card1_169.png"
+        "916": "cards/20260826_2039_card1_916.png",
+        "169": "cards/20260826_2039_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "'I'm very proud of this' - Fernandes wins PFA player of the year",
+      "title": "When is the Champions League draw and who is in each pot?",
       "source": "BBC Sport",
-      "virality_score": 56,
-      "pub_ago": "4h ago",
+      "virality_score": 60,
+      "pub_ago": "3h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260826_0949_card2_916.png",
-        "169": "cards/20260826_0949_card2_169.png"
+        "916": "cards/20260826_2039_card2_916.png",
+        "169": "cards/20260826_2039_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "'A huge award' - O'Reilly named PFA young player of the year",
+      "title": "Postecoglou subs off Ronaldo to spark dramatic Al-Nassr comeback",
       "source": "BBC Sport",
-      "virality_score": 54,
-      "pub_ago": "4h ago",
-      "teams": [
-        "England"
-      ],
+      "virality_score": 58,
+      "pub_ago": "2h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260826_0949_card3_916.png",
-        "169": "cards/20260826_0949_card3_169.png"
+        "916": "cards/20260826_2039_card3_916.png",
+        "169": "cards/20260826_2039_card3_169.png"
       }
     }
   ]
