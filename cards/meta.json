@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-08-26T20:39:58.112935+08:00",
-  "generated_at_display": "Aug 26, 2026 · 08:39 PM HKT",
+  "generated_at": "2026-08-27T16:56:16.818511+08:00",
+  "generated_at_display": "Aug 27, 2026 · 04:56 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Uefa poised to lift boycott threat after Fifa promises no World Cup sale repeat",
-      "source": "The Guardian",
-      "virality_score": 62,
+      "title": "Who is in the Europa League draw and who is in each pot?",
+      "source": "BBC Sport",
+      "virality_score": 68,
       "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260826_2039_card1_916.png",
-        "169": "cards/20260826_2039_card1_169.png"
+        "916": "cards/20260827_1655_card1_916.png",
+        "169": "cards/20260827_1655_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "When is the Champions League draw and who is in each pot?",
-      "source": "BBC Sport",
-      "virality_score": 60,
-      "pub_ago": "3h ago",
+      "title": "Are Mercedes in title trouble after 'front-loading' upgrades?",
+      "source": "Sky Sports",
+      "virality_score": 59,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260826_2039_card2_916.png",
-        "169": "cards/20260826_2039_card2_169.png"
+        "916": "cards/20260827_1655_card2_916.png",
+        "169": "cards/20260827_1655_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Postecoglou subs off Ronaldo to spark dramatic Al-Nassr comeback",
+      "title": "Uefa to push to remove Infantino after dropping boycott",
       "source": "BBC Sport",
-      "virality_score": 58,
-      "pub_ago": "2h ago",
+      "virality_score": 59,
+      "pub_ago": "3h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260826_2039_card3_916.png",
-        "169": "cards/20260826_2039_card3_169.png"
+        "916": "cards/20260827_1655_card3_916.png",
+        "169": "cards/20260827_1655_card3_169.png"
       }
     }
   ]
