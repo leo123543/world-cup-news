@@ -1,43 +1,41 @@
 {
-  "generated_at": "2026-08-28T05:36:18.908891+08:00",
-  "generated_at_display": "Aug 28, 2026 · 05:36 AM HKT",
+  "generated_at": "2026-08-28T19:08:50.624000+08:00",
+  "generated_at_display": "Aug 28, 2026 · 07:08 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Ipswich sign Argentina World Cup winner Palacios",
-      "source": "BBC Sport",
-      "virality_score": 70,
-      "pub_ago": "41m ago",
-      "teams": [
-        "Argentina"
-      ],
+      "title": "Europa League and Conference League draws; transfer latest; Premier League news: football - live",
+      "source": "The Guardian",
+      "virality_score": 53,
+      "pub_ago": "6m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260828_0535_card1_916.png",
-        "169": "cards/20260828_0535_card1_169.png"
+        "916": "cards/20260828_1908_card1_916.png",
+        "169": "cards/20260828_1908_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Who is in the Europa League draw and who is in each pot?",
-      "source": "BBC Sport",
-      "virality_score": 68,
-      "pub_ago": "47m ago",
+      "title": "Mercedes confirm Russell grid penalty - but where will he take it?",
+      "source": "Sky Sports",
+      "virality_score": 53,
+      "pub_ago": "58m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260828_0535_card2_916.png",
-        "169": "cards/20260828_0535_card2_169.png"
+        "916": "cards/20260828_1908_card2_916.png",
+        "169": "cards/20260828_1908_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Who is in the Conference League draw and who is in each pot?",
-      "source": "BBC Sport",
-      "virality_score": 62,
-      "pub_ago": "2h ago",
+      "title": "Frustrated O'Sullivan knocked out of Wuhan Open semi-finals",
+      "source": "Sky Sports",
+      "virality_score": 53,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260828_0535_card3_916.png",
-        "169": "cards/20260828_0535_card3_169.png"
+        "916": "cards/20260828_1908_card3_916.png",
+        "169": "cards/20260828_1908_card3_169.png"
       }
     }
   ]
