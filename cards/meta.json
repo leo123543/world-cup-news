@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-08-28T19:08:50.624000+08:00",
-  "generated_at_display": "Aug 28, 2026 · 07:08 PM HKT",
+  "generated_at": "2026-08-29T05:40:03.766058+08:00",
+  "generated_at_display": "Aug 29, 2026 · 05:40 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Europa League and Conference League draws; transfer latest; Premier League news: football - live",
-      "source": "The Guardian",
-      "virality_score": 53,
-      "pub_ago": "6m ago",
+      "title": "Arsenal & Barca monitor Rashford - Saturday's gossip",
+      "source": "BBC Sport",
+      "virality_score": 62,
+      "pub_ago": "50m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260828_1908_card1_916.png",
-        "169": "cards/20260828_1908_card1_169.png"
+        "916": "cards/20260829_0539_card1_916.png",
+        "169": "cards/20260829_0539_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Mercedes confirm Russell grid penalty - but where will he take it?",
+      "title": "Cherki magic inspires vintage Man City victory at Palace",
       "source": "Sky Sports",
-      "virality_score": 53,
-      "pub_ago": "58m ago",
+      "virality_score": 61,
+      "pub_ago": "54m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260828_1908_card2_916.png",
-        "169": "cards/20260828_1908_card2_169.png"
+        "916": "cards/20260829_0539_card2_916.png",
+        "169": "cards/20260829_0539_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Frustrated O'Sullivan knocked out of Wuhan Open semi-finals",
-      "source": "Sky Sports",
-      "virality_score": 53,
-      "pub_ago": "1h ago",
+      "title": "Cherki and Haaland double up in Manchester City cruise at Crystal Palace",
+      "source": "The Guardian",
+      "virality_score": 60,
+      "pub_ago": "39m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260828_1908_card3_916.png",
-        "169": "cards/20260828_1908_card3_169.png"
+        "916": "cards/20260829_0539_card3_916.png",
+        "169": "cards/20260829_0539_card3_169.png"
       }
     }
   ]
