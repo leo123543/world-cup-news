@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-08-29T05:40:03.766058+08:00",
-  "generated_at_display": "Aug 29, 2026 · 05:40 AM HKT",
+  "generated_at": "2026-08-29T14:53:29.294558+08:00",
+  "generated_at_display": "Aug 29, 2026 · 02:53 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Arsenal & Barca monitor Rashford - Saturday's gossip",
+      "title": "Trippier praises Miley's 'big presence' as Newcastle face Tonali reunion",
       "source": "BBC Sport",
-      "virality_score": 62,
-      "pub_ago": "50m ago",
+      "virality_score": 53,
+      "pub_ago": "41m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260829_0539_card1_916.png",
-        "169": "cards/20260829_0539_card1_169.png"
+        "916": "cards/20260829_1453_card1_916.png",
+        "169": "cards/20260829_1453_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Cherki magic inspires vintage Man City victory at Palace",
-      "source": "Sky Sports",
-      "virality_score": 61,
-      "pub_ago": "54m ago",
+      "title": "The 50-year-old amateur footballer who became a viral inspiration",
+      "source": "BBC Sport",
+      "virality_score": 53,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260829_0539_card2_916.png",
-        "169": "cards/20260829_0539_card2_169.png"
+        "916": "cards/20260829_1453_card2_916.png",
+        "169": "cards/20260829_1453_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Cherki and Haaland double up in Manchester City cruise at Crystal Palace",
-      "source": "The Guardian",
-      "virality_score": 60,
-      "pub_ago": "39m ago",
+      "title": "Scaffolding returns to site of viral O'Sullivan 'zombie-like' mural in Sheffield",
+      "source": "Sky Sports",
+      "virality_score": 52,
+      "pub_ago": "32m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260829_0539_card3_916.png",
-        "169": "cards/20260829_0539_card3_169.png"
+        "916": "cards/20260829_1453_card3_916.png",
+        "169": "cards/20260829_1453_card3_169.png"
       }
     }
   ]
