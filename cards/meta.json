@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-08-29T14:53:29.294558+08:00",
-  "generated_at_display": "Aug 29, 2026 · 02:53 PM HKT",
+  "generated_at": "2026-08-30T00:04:01.592926+08:00",
+  "generated_at_display": "Aug 30, 2026 · 12:04 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Trippier praises Miley's 'big presence' as Newcastle face Tonali reunion",
-      "source": "BBC Sport",
-      "virality_score": 53,
-      "pub_ago": "41m ago",
+      "title": "Tottenham v Newcastle: Premier League - live",
+      "source": "The Guardian",
+      "virality_score": 61,
+      "pub_ago": "14m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260829_1453_card1_916.png",
-        "169": "cards/20260829_1453_card1_169.png"
+        "916": "cards/20260830_0003_card1_916.png",
+        "169": "cards/20260830_0003_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "The 50-year-old amateur footballer who became a viral inspiration",
+      "title": "Three-week international break a concern - Mourinho",
       "source": "BBC Sport",
-      "virality_score": 53,
-      "pub_ago": "1h ago",
+      "virality_score": 59,
+      "pub_ago": "3h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260829_1453_card2_916.png",
-        "169": "cards/20260829_1453_card2_169.png"
+        "916": "cards/20260830_0003_card2_916.png",
+        "169": "cards/20260830_0003_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Scaffolding returns to site of viral O'Sullivan 'zombie-like' mural in Sheffield",
-      "source": "Sky Sports",
-      "virality_score": 52,
-      "pub_ago": "32m ago",
+      "title": "'That trust isn't there' - how does Iraola get best out of Isak?",
+      "source": "BBC Sport",
+      "virality_score": 56,
+      "pub_ago": "13m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260829_1453_card3_916.png",
-        "169": "cards/20260829_1453_card3_169.png"
+        "916": "cards/20260830_0003_card3_916.png",
+        "169": "cards/20260830_0003_card3_169.png"
       }
     }
   ]
