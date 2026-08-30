@@ -1,43 +1,41 @@
 {
-  "generated_at": "2026-08-30T13:07:22.777657+08:00",
-  "generated_at_display": "Aug 30, 2026 · 01:07 PM HKT",
+  "generated_at": "2026-08-30T23:53:06.261254+08:00",
+  "generated_at_display": "Aug 30, 2026 · 11:53 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Women's Super League 2026-27 preview No 9: Liverpool",
-      "source": "The Guardian",
-      "virality_score": 47,
-      "pub_ago": "6h ago",
-      "teams": [
-        "Germany"
-      ],
+      "title": "All done deals in August 2026",
+      "source": "BBC Sport",
+      "virality_score": 69,
+      "pub_ago": "16m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260830_1307_card1_916.png",
-        "169": "cards/20260830_1307_card1_169.png"
+        "916": "cards/20260830_2352_card1_916.png",
+        "169": "cards/20260830_2352_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "All done deals in August 2026",
-      "source": "BBC Sport",
-      "virality_score": 42,
-      "pub_ago": "8h ago",
+      "title": "Manchester United v Ipswich Town: Premier League - live",
+      "source": "The Guardian",
+      "virality_score": 61,
+      "pub_ago": "18m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260830_1307_card2_916.png",
-        "169": "cards/20260830_1307_card2_169.png"
+        "916": "cards/20260830_2352_card2_916.png",
+        "169": "cards/20260830_2352_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Europe's hopes fade at FM Championship as Maguire impresses in Ireland",
-      "source": "Sky Sports",
-      "virality_score": 39,
-      "pub_ago": "4h ago",
+      "title": "Barcelona close to deal for Arsenal's Jesus",
+      "source": "BBC Sport",
+      "virality_score": 54,
+      "pub_ago": "21m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260830_1307_card3_916.png",
-        "169": "cards/20260830_1307_card3_169.png"
+        "916": "cards/20260830_2352_card3_916.png",
+        "169": "cards/20260830_2352_card3_169.png"
       }
     }
   ]
