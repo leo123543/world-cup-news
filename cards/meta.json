@@ -1,41 +1,43 @@
 {
-  "generated_at": "2026-08-30T00:04:01.592926+08:00",
-  "generated_at_display": "Aug 30, 2026 · 12:04 AM HKT",
+  "generated_at": "2026-08-30T13:07:22.777657+08:00",
+  "generated_at_display": "Aug 30, 2026 · 01:07 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Tottenham v Newcastle: Premier League - live",
+      "title": "Women's Super League 2026-27 preview No 9: Liverpool",
       "source": "The Guardian",
-      "virality_score": 61,
-      "pub_ago": "14m ago",
-      "teams": [],
+      "virality_score": 47,
+      "pub_ago": "6h ago",
+      "teams": [
+        "Germany"
+      ],
       "files": {
-        "916": "cards/20260830_0003_card1_916.png",
-        "169": "cards/20260830_0003_card1_169.png"
+        "916": "cards/20260830_1307_card1_916.png",
+        "169": "cards/20260830_1307_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Three-week international break a concern - Mourinho",
+      "title": "All done deals in August 2026",
       "source": "BBC Sport",
-      "virality_score": 59,
-      "pub_ago": "3h ago",
+      "virality_score": 42,
+      "pub_ago": "8h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260830_0003_card2_916.png",
-        "169": "cards/20260830_0003_card2_169.png"
+        "916": "cards/20260830_1307_card2_916.png",
+        "169": "cards/20260830_1307_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "'That trust isn't there' - how does Iraola get best out of Isak?",
-      "source": "BBC Sport",
-      "virality_score": 56,
-      "pub_ago": "13m ago",
+      "title": "Europe's hopes fade at FM Championship as Maguire impresses in Ireland",
+      "source": "Sky Sports",
+      "virality_score": 39,
+      "pub_ago": "4h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260830_0003_card3_916.png",
-        "169": "cards/20260830_0003_card3_169.png"
+        "916": "cards/20260830_1307_card3_916.png",
+        "169": "cards/20260830_1307_card3_169.png"
       }
     }
   ]
