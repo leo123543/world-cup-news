@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-08-30T23:53:06.261254+08:00",
-  "generated_at_display": "Aug 30, 2026 · 11:53 PM HKT",
+  "generated_at": "2026-08-31T13:15:27.756030+08:00",
+  "generated_at_display": "Aug 31, 2026 · 01:15 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "All done deals in August 2026",
-      "source": "BBC Sport",
-      "virality_score": 69,
-      "pub_ago": "16m ago",
+      "title": "'My body started to collapse' - Djokovic falls at first hurdle in shock US Open exit",
+      "source": "Sky Sports",
+      "virality_score": 59,
+      "pub_ago": "18m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260830_2352_card1_916.png",
-        "169": "cards/20260830_2352_card1_169.png"
+        "916": "cards/20260831_1315_card1_916.png",
+        "169": "cards/20260831_1315_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Manchester United v Ipswich Town: Premier League - live",
-      "source": "The Guardian",
-      "virality_score": 61,
-      "pub_ago": "18m ago",
+      "title": "What could trigger driver-market drama after new Verstappen, Norris deals?",
+      "source": "Sky Sports",
+      "virality_score": 52,
+      "pub_ago": "15m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260830_2352_card2_916.png",
-        "169": "cards/20260830_2352_card2_169.png"
+        "916": "cards/20260831_1315_card2_916.png",
+        "169": "cards/20260831_1315_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Barcelona close to deal for Arsenal's Jesus",
-      "source": "BBC Sport",
-      "virality_score": 54,
-      "pub_ago": "21m ago",
+      "title": "Women's Super League 2026-27 preview No 10: London City Lionesses",
+      "source": "The Guardian",
+      "virality_score": 48,
+      "pub_ago": "6h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260830_2352_card3_916.png",
-        "169": "cards/20260830_2352_card3_169.png"
+        "916": "cards/20260831_1315_card3_916.png",
+        "169": "cards/20260831_1315_card3_169.png"
       }
     }
   ]
