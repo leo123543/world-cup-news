@@ -1,41 +1,46 @@
 {
-  "generated_at": "2026-08-31T13:15:27.756030+08:00",
-  "generated_at_display": "Aug 31, 2026 · 01:15 PM HKT",
+  "generated_at": "2026-09-01T02:37:06.699465+08:00",
+  "generated_at_display": "Sep 01, 2026 · 02:37 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "'My body started to collapse' - Djokovic falls at first hurdle in shock US Open exit",
-      "source": "Sky Sports",
-      "virality_score": 59,
-      "pub_ago": "18m ago",
-      "teams": [],
+      "title": "Argentina's Lionel Messi retires from international football: 'This hurts me a lot'",
+      "source": "The Guardian",
+      "virality_score": 69,
+      "pub_ago": "3h ago",
+      "teams": [
+        "Argentina",
+        "Spain"
+      ],
       "files": {
-        "916": "cards/20260831_1315_card1_916.png",
-        "169": "cards/20260831_1315_card1_169.png"
+        "916": "cards/20260901_0236_card1_916.png",
+        "169": "cards/20260901_0236_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "What could trigger driver-market drama after new Verstappen, Norris deals?",
-      "source": "Sky Sports",
-      "virality_score": 52,
-      "pub_ago": "15m ago",
+      "title": "Goals, records, tears ... Messi's most iconic moments",
+      "source": "BBC Sport",
+      "virality_score": 67,
+      "pub_ago": "50m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260831_1315_card2_916.png",
-        "169": "cards/20260831_1315_card2_169.png"
+        "916": "cards/20260901_0236_card2_916.png",
+        "169": "cards/20260901_0236_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Women's Super League 2026-27 preview No 10: London City Lionesses",
-      "source": "The Guardian",
-      "virality_score": 48,
-      "pub_ago": "6h ago",
-      "teams": [],
+      "title": "How Messi's decade of dominance almost never happened",
+      "source": "BBC Sport",
+      "virality_score": 64,
+      "pub_ago": "12m ago",
+      "teams": [
+        "Argentina"
+      ],
       "files": {
-        "916": "cards/20260831_1315_card3_916.png",
-        "169": "cards/20260831_1315_card3_169.png"
+        "916": "cards/20260901_0236_card3_916.png",
+        "169": "cards/20260901_0236_card3_169.png"
       }
     }
   ]
