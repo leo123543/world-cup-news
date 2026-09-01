@@ -1,46 +1,41 @@
 {
-  "generated_at": "2026-09-01T02:37:06.699465+08:00",
-  "generated_at_display": "Sep 01, 2026 · 02:37 AM HKT",
+  "generated_at": "2026-09-01T12:50:39.846157+08:00",
+  "generated_at_display": "Sep 01, 2026 · 12:50 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Argentina's Lionel Messi retires from international football: 'This hurts me a lot'",
-      "source": "The Guardian",
-      "virality_score": 69,
-      "pub_ago": "3h ago",
-      "teams": [
-        "Argentina",
-        "Spain"
-      ],
+      "title": "Osaka channels NBA legend Iverson inspired look for US Open",
+      "source": "Sky Sports",
+      "virality_score": 62,
+      "pub_ago": "26m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260901_0236_card1_916.png",
-        "169": "cards/20260901_0236_card1_169.png"
+        "916": "cards/20260901_1250_card1_916.png",
+        "169": "cards/20260901_1250_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Goals, records, tears ... Messi's most iconic moments",
-      "source": "BBC Sport",
-      "virality_score": 67,
-      "pub_ago": "50m ago",
+      "title": "Women's Super League 2026-27 preview No 11: Manchester City",
+      "source": "The Guardian",
+      "virality_score": 48,
+      "pub_ago": "5h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260901_0236_card2_916.png",
-        "169": "cards/20260901_0236_card2_169.png"
+        "916": "cards/20260901_1250_card2_916.png",
+        "169": "cards/20260901_1250_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "How Messi's decade of dominance almost never happened",
+      "title": "Lamine Yamal and Raphinha score twice as Barcelona hit five",
       "source": "BBC Sport",
-      "virality_score": 64,
-      "pub_ago": "12m ago",
-      "teams": [
-        "Argentina"
-      ],
+      "virality_score": 44,
+      "pub_ago": "6h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260901_0236_card3_916.png",
-        "169": "cards/20260901_0236_card3_169.png"
+        "916": "cards/20260901_1250_card3_916.png",
+        "169": "cards/20260901_1250_card3_169.png"
       }
     }
   ]
