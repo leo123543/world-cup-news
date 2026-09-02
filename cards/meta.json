@@ -1,41 +1,43 @@
 {
-  "generated_at": "2026-09-02T12:11:52.484755+08:00",
-  "generated_at_display": "Sep 02, 2026 · 12:11 PM HKT",
+  "generated_at": "2026-09-02T23:48:46.420000+08:00",
+  "generated_at_display": "Sep 02, 2026 · 11:48 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "'I know what I have to work on' - Fery ready to take on best despite US Open exit",
-      "source": "Sky Sports",
-      "virality_score": 52,
-      "pub_ago": "26m ago",
+      "title": "Who are the free agents after transfer deadline day?",
+      "source": "BBC Sport",
+      "virality_score": 64,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260902_1211_card1_916.png",
-        "169": "cards/20260902_1211_card1_169.png"
+        "916": "cards/20260902_2348_card1_916.png",
+        "169": "cards/20260902_2348_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Women's Super League 2026-27 preview No 12: Manchester United",
-      "source": "The Guardian",
-      "virality_score": 50,
-      "pub_ago": "5h ago",
-      "teams": [],
+      "title": "Carse left out of England squad for third Pakistan Test",
+      "source": "Sky Sports",
+      "virality_score": 53,
+      "pub_ago": "6m ago",
+      "teams": [
+        "England"
+      ],
       "files": {
-        "916": "cards/20260902_1211_card2_916.png",
-        "169": "cards/20260902_1211_card2_169.png"
+        "916": "cards/20260902_2348_card2_916.png",
+        "169": "cards/20260902_2348_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Gauff makes storming start while Serena eyes revenge against Joint in doubles",
-      "source": "Sky Sports",
-      "virality_score": 46,
+      "title": "Late-night transfer fallout sparks Chelsea-Monaco row",
+      "source": "BBC Sport",
+      "virality_score": 52,
       "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260902_1211_card3_916.png",
-        "169": "cards/20260902_1211_card3_169.png"
+        "916": "cards/20260902_2348_card3_916.png",
+        "169": "cards/20260902_2348_card3_169.png"
       }
     }
   ]
