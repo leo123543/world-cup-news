@@ -1,43 +1,41 @@
 {
-  "generated_at": "2026-09-01T23:56:20.397093+08:00",
-  "generated_at_display": "Sep 01, 2026 · 11:56 PM HKT",
+  "generated_at": "2026-09-02T12:11:52.484755+08:00",
+  "generated_at_display": "Sep 02, 2026 · 12:11 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "'In my heart until I die': Argentina says a tearful thank you to Lionel Messi",
-      "source": "The Guardian",
-      "virality_score": 74,
-      "pub_ago": "50m ago",
-      "teams": [
-        "Argentina"
-      ],
+      "title": "'I know what I have to work on' - Fery ready to take on best despite US Open exit",
+      "source": "Sky Sports",
+      "virality_score": 52,
+      "pub_ago": "26m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260901_2355_card1_916.png",
-        "169": "cards/20260901_2355_card1_169.png"
+        "916": "cards/20260902_1211_card1_916.png",
+        "169": "cards/20260902_1211_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Celtic working on up to four signings - Maloney",
-      "source": "BBC Sport",
-      "virality_score": 57,
-      "pub_ago": "10m ago",
+      "title": "Women's Super League 2026-27 preview No 12: Manchester United",
+      "source": "The Guardian",
+      "virality_score": 50,
+      "pub_ago": "5h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260901_2355_card2_916.png",
-        "169": "cards/20260901_2355_card2_169.png"
+        "916": "cards/20260902_1211_card2_916.png",
+        "169": "cards/20260902_1211_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Men's transfer window summer 2026: all deals from Europe's top five leagues",
-      "source": "The Guardian",
-      "virality_score": 55,
-      "pub_ago": "3h ago",
+      "title": "Gauff makes storming start while Serena eyes revenge against Joint in doubles",
+      "source": "Sky Sports",
+      "virality_score": 46,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260901_2355_card3_916.png",
-        "169": "cards/20260901_2355_card3_169.png"
+        "916": "cards/20260902_1211_card3_916.png",
+        "169": "cards/20260902_1211_card3_169.png"
       }
     }
   ]
