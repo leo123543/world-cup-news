@@ -1,41 +1,43 @@
 {
-  "generated_at": "2026-09-03T12:08:07.162820+08:00",
-  "generated_at_display": "Sep 03, 2026 · 12:08 PM HKT",
+  "generated_at": "2026-09-03T23:38:38.317540+08:00",
+  "generated_at_display": "Sep 03, 2026 · 11:38 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Women's Super League 2026-27 preview No 13: Tottenham Hotspur",
-      "source": "The Guardian",
-      "virality_score": 54,
-      "pub_ago": "5h ago",
-      "teams": [],
+      "title": "Ex-Man Utd assistant Queiroz returns as Ghana boss",
+      "source": "BBC Sport",
+      "virality_score": 57,
+      "pub_ago": "3h ago",
+      "teams": [
+        "Ghana"
+      ],
       "files": {
-        "916": "cards/20260903_1207_card1_916.png",
-        "169": "cards/20260903_1207_card1_169.png"
+        "916": "cards/20260903_2338_card1_916.png",
+        "169": "cards/20260903_2338_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "'Think before you say stuff' - Sabalenka annoyed with party line of questioning",
-      "source": "Sky Sports",
-      "virality_score": 52,
-      "pub_ago": "23m ago",
+      "title": "Leeds' Rodon out for up to 10 weeks with hamstring injury",
+      "source": "BBC Sport",
+      "virality_score": 55,
+      "pub_ago": "58m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260903_1207_card2_916.png",
-        "169": "cards/20260903_1207_card2_169.png"
+        "916": "cards/20260903_2338_card2_916.png",
+        "169": "cards/20260903_2338_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Spanish wonderkid Jodar involved in testy exchange following shock US Open exit",
-      "source": "Sky Sports",
-      "virality_score": 50,
-      "pub_ago": "2h ago",
+      "title": "Every done deal on transfer deadline day",
+      "source": "BBC Sport",
+      "virality_score": 55,
+      "pub_ago": "4m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260903_1207_card3_916.png",
-        "169": "cards/20260903_1207_card3_169.png"
+        "916": "cards/20260903_2338_card3_916.png",
+        "169": "cards/20260903_2338_card3_169.png"
       }
     }
   ]
