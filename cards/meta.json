@@ -1,43 +1,41 @@
 {
-  "generated_at": "2026-09-02T23:48:46.420000+08:00",
-  "generated_at_display": "Sep 02, 2026 · 11:48 PM HKT",
+  "generated_at": "2026-09-03T12:08:07.162820+08:00",
+  "generated_at_display": "Sep 03, 2026 · 12:08 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Who are the free agents after transfer deadline day?",
-      "source": "BBC Sport",
-      "virality_score": 64,
-      "pub_ago": "1h ago",
+      "title": "Women's Super League 2026-27 preview No 13: Tottenham Hotspur",
+      "source": "The Guardian",
+      "virality_score": 54,
+      "pub_ago": "5h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260902_2348_card1_916.png",
-        "169": "cards/20260902_2348_card1_169.png"
+        "916": "cards/20260903_1207_card1_916.png",
+        "169": "cards/20260903_1207_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Carse left out of England squad for third Pakistan Test",
+      "title": "'Think before you say stuff' - Sabalenka annoyed with party line of questioning",
       "source": "Sky Sports",
-      "virality_score": 53,
-      "pub_ago": "6m ago",
-      "teams": [
-        "England"
-      ],
+      "virality_score": 52,
+      "pub_ago": "23m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260902_2348_card2_916.png",
-        "169": "cards/20260902_2348_card2_169.png"
+        "916": "cards/20260903_1207_card2_916.png",
+        "169": "cards/20260903_1207_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Late-night transfer fallout sparks Chelsea-Monaco row",
-      "source": "BBC Sport",
-      "virality_score": 52,
-      "pub_ago": "1h ago",
+      "title": "Spanish wonderkid Jodar involved in testy exchange following shock US Open exit",
+      "source": "Sky Sports",
+      "virality_score": 50,
+      "pub_ago": "2h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260902_2348_card3_916.png",
-        "169": "cards/20260902_2348_card3_169.png"
+        "916": "cards/20260903_1207_card3_916.png",
+        "169": "cards/20260903_1207_card3_169.png"
       }
     }
   ]
