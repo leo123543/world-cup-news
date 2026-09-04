@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-09-04T12:14:30.573025+08:00",
-  "generated_at_display": "Sep 04, 2026 · 12:14 PM HKT",
+  "generated_at": "2026-09-04T23:36:36.010358+08:00",
+  "generated_at_display": "Sep 04, 2026 · 11:36 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Women's Super League 2026-27 preview No 14: West Ham",
-      "source": "The Guardian",
-      "virality_score": 50,
-      "pub_ago": "5h ago",
+      "title": "Richarlison omission not my decision - De Zerbi",
+      "source": "BBC Sport",
+      "virality_score": 55,
+      "pub_ago": "3m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260904_1214_card1_916.png",
-        "169": "cards/20260904_1214_card1_169.png"
+        "916": "cards/20260904_2336_card1_916.png",
+        "169": "cards/20260904_2336_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Kyrgios accepts one-month suspension after positive cocaine test",
-      "source": "Sky Sports",
-      "virality_score": 43,
-      "pub_ago": "2h ago",
+      "title": "How 'unique' Bellingham is thriving in Mourinho's system",
+      "source": "BBC Sport",
+      "virality_score": 55,
+      "pub_ago": "7h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260904_1214_card2_916.png",
-        "169": "cards/20260904_1214_card2_169.png"
+        "916": "cards/20260904_2336_card2_916.png",
+        "169": "cards/20260904_2336_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Is Hearts' McPake poised to gatecrash Pocognoli's Scotland squad?",
-      "source": "BBC Sport",
-      "virality_score": 40,
-      "pub_ago": "4h ago",
+      "title": "Crocombe and Donald called up for England white-ball series",
+      "source": "Sky Sports",
+      "virality_score": 54,
+      "pub_ago": "36m ago",
       "teams": [
-        "Scotland"
+        "England"
       ],
       "files": {
-        "916": "cards/20260904_1214_card3_916.png",
-        "169": "cards/20260904_1214_card3_169.png"
+        "916": "cards/20260904_2336_card3_916.png",
+        "169": "cards/20260904_2336_card3_169.png"
       }
     }
   ]
