@@ -1,43 +1,44 @@
 {
-  "generated_at": "2026-09-05T12:10:27.948197+08:00",
-  "generated_at_display": "Sep 05, 2026 · 12:10 PM HKT",
+  "generated_at": "2026-09-05T22:24:12.459822+08:00",
+  "generated_at_display": "Sep 05, 2026 · 10:24 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Parrott fires Real Betis to win over Real Madrid",
+      "title": "Modric plans to play for Croatia past 41st birthday",
       "source": "BBC Sport",
-      "virality_score": 52,
-      "pub_ago": "6h ago",
-      "teams": [],
+      "virality_score": 63,
+      "pub_ago": "38m ago",
+      "teams": [
+        "England",
+        "Croatia"
+      ],
       "files": {
-        "916": "cards/20260905_1210_card1_916.png",
-        "169": "cards/20260905_1210_card1_169.png"
+        "916": "cards/20260905_2223_card1_916.png",
+        "169": "cards/20260905_2223_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Serena and Venus Williams suffer agonising US Open doubles defeat",
-      "source": "Sky Sports",
-      "virality_score": 48,
-      "pub_ago": "50m ago",
+      "title": "Clarke gave SFA 'a little shove' over new contract",
+      "source": "BBC Sport",
+      "virality_score": 59,
+      "pub_ago": "4h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260905_1210_card2_916.png",
-        "169": "cards/20260905_1210_card2_169.png"
+        "916": "cards/20260905_2223_card2_916.png",
+        "169": "cards/20260905_2223_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "FA to canvass England players in World Cup review",
+      "title": "Clarke gave Scottish FA 'a little shove' over new contract",
       "source": "BBC Sport",
-      "virality_score": 48,
-      "pub_ago": "6h ago",
-      "teams": [
-        "England"
-      ],
+      "virality_score": 59,
+      "pub_ago": "4h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260905_1210_card3_916.png",
-        "169": "cards/20260905_1210_card3_169.png"
+        "916": "cards/20260905_2223_card3_916.png",
+        "169": "cards/20260905_2223_card3_169.png"
       }
     }
   ]
