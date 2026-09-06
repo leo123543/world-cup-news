@@ -1,44 +1,41 @@
 {
-  "generated_at": "2026-09-05T22:24:12.459822+08:00",
-  "generated_at_display": "Sep 05, 2026 · 10:24 PM HKT",
+  "generated_at": "2026-09-06T12:18:44.289678+08:00",
+  "generated_at_display": "Sep 06, 2026 · 12:18 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Modric plans to play for Croatia past 41st birthday",
-      "source": "BBC Sport",
+      "title": "Osaka takes care of business while Jovic ends Eala Mania in US Open thriller",
+      "source": "Sky Sports",
       "virality_score": 63,
-      "pub_ago": "38m ago",
-      "teams": [
-        "England",
-        "Croatia"
-      ],
+      "pub_ago": "28m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260905_2223_card1_916.png",
-        "169": "cards/20260905_2223_card1_169.png"
+        "916": "cards/20260906_1218_card1_916.png",
+        "169": "cards/20260906_1218_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Clarke gave SFA 'a little shove' over new contract",
+      "title": "Haaland header maintains perfect winning start for Man City",
       "source": "BBC Sport",
-      "virality_score": 59,
-      "pub_ago": "4h ago",
+      "virality_score": 38,
+      "pub_ago": "9h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260905_2223_card2_916.png",
-        "169": "cards/20260905_2223_card2_169.png"
+        "916": "cards/20260906_1218_card2_916.png",
+        "169": "cards/20260906_1218_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Clarke gave Scottish FA 'a little shove' over new contract",
+      "title": "How Crystal Palace exposed Fulham's defence",
       "source": "BBC Sport",
-      "virality_score": 59,
-      "pub_ago": "4h ago",
+      "virality_score": 38,
+      "pub_ago": "5h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260905_2223_card3_916.png",
-        "169": "cards/20260905_2223_card3_169.png"
+        "916": "cards/20260906_1218_card3_916.png",
+        "169": "cards/20260906_1218_card3_169.png"
       }
     }
   ]
