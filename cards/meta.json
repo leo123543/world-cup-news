@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-09-06T12:18:44.289678+08:00",
-  "generated_at_display": "Sep 06, 2026 · 12:18 PM HKT",
+  "generated_at": "2026-09-06T22:46:34.636146+08:00",
+  "generated_at_display": "Sep 06, 2026 · 10:46 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Osaka takes care of business while Jovic ends Eala Mania in US Open thriller",
-      "source": "Sky Sports",
-      "virality_score": 63,
-      "pub_ago": "28m ago",
+      "title": "Embattled Fifa president Infantino declares intention to stand for re-election",
+      "source": "The Guardian",
+      "virality_score": 65,
+      "pub_ago": "42m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260906_1218_card1_916.png",
-        "169": "cards/20260906_1218_card1_169.png"
+        "916": "cards/20260906_2246_card1_916.png",
+        "169": "cards/20260906_2246_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Haaland header maintains perfect winning start for Man City",
+      "title": "Fifa president Infantino will stand for re-election",
       "source": "BBC Sport",
-      "virality_score": 38,
-      "pub_ago": "9h ago",
+      "virality_score": 64,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260906_1218_card2_916.png",
-        "169": "cards/20260906_1218_card2_169.png"
+        "916": "cards/20260906_2246_card2_916.png",
+        "169": "cards/20260906_2246_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "How Crystal Palace exposed Fulham's defence",
-      "source": "BBC Sport",
-      "virality_score": 38,
-      "pub_ago": "5h ago",
+      "title": "Infantino to stand for re-election as FIFA president",
+      "source": "Sky Sports",
+      "virality_score": 59,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260906_1218_card3_916.png",
-        "169": "cards/20260906_1218_card3_169.png"
+        "916": "cards/20260906_2246_card3_916.png",
+        "169": "cards/20260906_2246_card3_169.png"
       }
     }
   ]
