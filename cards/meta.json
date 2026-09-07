@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-09-06T22:46:34.636146+08:00",
-  "generated_at_display": "Sep 06, 2026 · 10:46 PM HKT",
+  "generated_at": "2026-09-07T12:17:38.842655+08:00",
+  "generated_at_display": "Sep 07, 2026 · 12:17 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Embattled Fifa president Infantino declares intention to stand for re-election",
-      "source": "The Guardian",
-      "virality_score": 65,
-      "pub_ago": "42m ago",
+      "title": "Young praises Rashford and Shaw chemistry",
+      "source": "BBC Sport",
+      "virality_score": 49,
+      "pub_ago": "5h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260906_2246_card1_916.png",
-        "169": "cards/20260906_2246_card1_169.png"
+        "916": "cards/20260907_1217_card1_916.png",
+        "169": "cards/20260907_1217_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Fifa president Infantino will stand for re-election",
-      "source": "BBC Sport",
-      "virality_score": 64,
-      "pub_ago": "1h ago",
+      "title": "European football: Lamine Yamal's double powers Barcelona to rout of Valencia",
+      "source": "The Guardian",
+      "virality_score": 40,
+      "pub_ago": "6h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260906_2246_card2_916.png",
-        "169": "cards/20260906_2246_card2_169.png"
+        "916": "cards/20260907_1217_card2_916.png",
+        "169": "cards/20260907_1217_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Infantino to stand for re-election as FIFA president",
-      "source": "Sky Sports",
-      "virality_score": 59,
-      "pub_ago": "1h ago",
+      "title": "Gabriel was 'extremely lucky' to avoid red - Rooney",
+      "source": "BBC Sport",
+      "virality_score": 37,
+      "pub_ago": "5h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260906_2246_card3_916.png",
-        "169": "cards/20260906_2246_card3_169.png"
+        "916": "cards/20260907_1217_card3_916.png",
+        "169": "cards/20260907_1217_card3_169.png"
       }
     }
   ]
