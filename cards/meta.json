@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-09-07T12:17:38.842655+08:00",
-  "generated_at_display": "Sep 07, 2026 · 12:17 PM HKT",
+  "generated_at": "2026-09-08T01:03:14.941671+08:00",
+  "generated_at_display": "Sep 08, 2026 · 01:03 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Young praises Rashford and Shaw chemistry",
+      "title": "All the goals from the opening weekend of the WSL",
       "source": "BBC Sport",
-      "virality_score": 49,
-      "pub_ago": "5h ago",
+      "virality_score": 65,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260907_1217_card1_916.png",
-        "169": "cards/20260907_1217_card1_169.png"
+        "916": "cards/20260908_0102_card1_916.png",
+        "169": "cards/20260908_0102_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "European football: Lamine Yamal's double powers Barcelona to rout of Valencia",
-      "source": "The Guardian",
-      "virality_score": 40,
-      "pub_ago": "6h ago",
+      "title": "Can Kane buck history and win Ballon d'Or?",
+      "source": "BBC Sport",
+      "virality_score": 64,
+      "pub_ago": "59m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260907_1217_card2_916.png",
-        "169": "cards/20260907_1217_card2_169.png"
+        "916": "cards/20260908_0102_card2_916.png",
+        "169": "cards/20260908_0102_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Gabriel was 'extremely lucky' to avoid red - Rooney",
+      "title": "Edu leaves Nottingham Forest after turbulent spell",
       "source": "BBC Sport",
-      "virality_score": 37,
-      "pub_ago": "5h ago",
+      "virality_score": 54,
+      "pub_ago": "17m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260907_1217_card3_916.png",
-        "169": "cards/20260907_1217_card3_169.png"
+        "916": "cards/20260908_0102_card3_916.png",
+        "169": "cards/20260908_0102_card3_169.png"
       }
     }
   ]
