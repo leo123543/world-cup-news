@@ -1,43 +1,41 @@
 {
-  "generated_at": "2026-09-08T23:50:14.923041+08:00",
-  "generated_at_display": "Sep 08, 2026 · 11:50 PM HKT",
+  "generated_at": "2026-09-09T12:24:33.616952+08:00",
+  "generated_at_display": "Sep 09, 2026 · 12:24 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Favourite Kane makes Ballon d'Or shortlist",
-      "source": "BBC Sport",
-      "virality_score": 79,
-      "pub_ago": "22m ago",
-      "teams": [
-        "England"
-      ],
+      "title": "Osaka's US Open fashion ensemble: Which outfit was your favourite?",
+      "source": "Sky Sports",
+      "virality_score": 42,
+      "pub_ago": "5h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260908_2349_card1_916.png",
-        "169": "cards/20260908_2349_card1_169.png"
+        "916": "cards/20260909_1224_card1_916.png",
+        "169": "cards/20260909_1224_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Kane, Rice, Bellingham among Ballon d'Or nominees but no Ronaldo",
+      "title": "Mbappe and Valverde on target as Real Madrid beat Inter Milan",
       "source": "Sky Sports",
-      "virality_score": 76,
-      "pub_ago": "49m ago",
+      "virality_score": 41,
+      "pub_ago": "5h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260908_2349_card2_916.png",
-        "169": "cards/20260908_2349_card2_169.png"
+        "916": "cards/20260909_1224_card2_916.png",
+        "169": "cards/20260909_1224_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Legal action against Fifa includes 'abusive conduct' towards women's game",
-      "source": "BBC Sport",
-      "virality_score": 62,
-      "pub_ago": "2h ago",
+      "title": "Haaland double gives Manchester City ideal Champions League start in Porto",
+      "source": "The Guardian",
+      "virality_score": 39,
+      "pub_ago": "7h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260908_2349_card3_916.png",
-        "169": "cards/20260908_2349_card3_169.png"
+        "916": "cards/20260909_1224_card3_916.png",
+        "169": "cards/20260909_1224_card3_169.png"
       }
     }
   ]
