@@ -1,43 +1,41 @@
 {
-  "generated_at": "2026-09-09T23:46:25.033628+08:00",
-  "generated_at_display": "Sep 09, 2026 · 11:46 PM HKT",
+  "generated_at": "2026-09-10T12:21:33.612923+08:00",
+  "generated_at_display": "Sep 10, 2026 · 12:21 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Men's Ballon d'Or 2026 power rankings: will there be an English winner for the first time in 25 years?",
-      "source": "The Guardian",
-      "virality_score": 71,
-      "pub_ago": "2h ago",
-      "teams": [
-        "England"
-      ],
+      "title": "Zverev's US Open rocky road turns into smooth sailing to the semi-finals",
+      "source": "Sky Sports",
+      "virality_score": 55,
+      "pub_ago": "12m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260909_2346_card1_916.png",
-        "169": "cards/20260909_2346_card1_169.png"
+        "916": "cards/20260910_1221_card1_916.png",
+        "169": "cards/20260910_1221_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "NFL 2026 predictions: Super Bowl, MVP and more",
+      "title": "Top four in the world set for US Open semi-finals showdown",
       "source": "Sky Sports",
-      "virality_score": 60,
-      "pub_ago": "1h ago",
+      "virality_score": 46,
+      "pub_ago": "3h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260909_2346_card2_916.png",
-        "169": "cards/20260909_2346_card2_169.png"
+        "916": "cards/20260910_1221_card2_916.png",
+        "169": "cards/20260910_1221_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Rosario 'grabbed my bottom' during Manchester City's win at Porto, claims Haaland",
-      "source": "The Guardian",
-      "virality_score": 58,
-      "pub_ago": "1h ago",
+      "title": "Haaland strikes twice as Manchester City secure win at Porto",
+      "source": "BBC Sport",
+      "virality_score": 42,
+      "pub_ago": "7h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260909_2346_card3_916.png",
-        "169": "cards/20260909_2346_card3_169.png"
+        "916": "cards/20260910_1221_card3_916.png",
+        "169": "cards/20260910_1221_card3_169.png"
       }
     }
   ]
