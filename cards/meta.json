@@ -1,43 +1,41 @@
 {
-  "generated_at": "2026-09-10T23:40:54.651852+08:00",
-  "generated_at_display": "Sep 10, 2026 · 11:40 PM HKT",
+  "generated_at": "2026-09-11T12:21:23.856288+08:00",
+  "generated_at_display": "Sep 11, 2026 · 12:21 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Gordon a better fit for Barca than Rashford - Deco",
-      "source": "BBC Sport",
-      "virality_score": 64,
-      "pub_ago": "9m ago",
+      "title": "Rybakina denies Gauff to set up blockbuster US Open final with Sabalenka",
+      "source": "Sky Sports",
+      "virality_score": 54,
+      "pub_ago": "55m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260910_2340_card1_916.png",
-        "169": "cards/20260910_2340_card1_169.png"
+        "916": "cards/20260911_1221_card1_916.png",
+        "169": "cards/20260911_1221_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "France wants to transform Fifa after withdrawing Infantino support",
-      "source": "BBC Sport",
-      "virality_score": 62,
-      "pub_ago": "2h ago",
-      "teams": [
-        "France"
-      ],
+      "title": "Premier League: 10 things to look out for this weekend",
+      "source": "The Guardian",
+      "virality_score": 50,
+      "pub_ago": "5h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260910_2340_card2_916.png",
-        "169": "cards/20260910_2340_card2_169.png"
+        "916": "cards/20260911_1221_card2_916.png",
+        "169": "cards/20260911_1221_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Hearts 'have to be above emotions' as big favourites in cup",
-      "source": "BBC Sport",
-      "virality_score": 59,
-      "pub_ago": "34m ago",
+      "title": "Britain's Skupski reaches US Open doubles final",
+      "source": "Sky Sports",
+      "virality_score": 45,
+      "pub_ago": "2h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260910_2340_card3_916.png",
-        "169": "cards/20260910_2340_card3_169.png"
+        "916": "cards/20260911_1221_card3_916.png",
+        "169": "cards/20260911_1221_card3_169.png"
       }
     }
   ]
