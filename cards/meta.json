@@ -1,41 +1,43 @@
 {
-  "generated_at": "2026-09-11T23:42:10.673630+08:00",
-  "generated_at_display": "Sep 11, 2026 · 11:42 PM HKT",
+  "generated_at": "2026-09-12T12:19:27.235523+08:00",
+  "generated_at_display": "Sep 12, 2026 · 12:19 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "All done deals in September 2026",
-      "source": "BBC Sport",
-      "virality_score": 68,
-      "pub_ago": "36m ago",
-      "teams": [],
+      "title": "'Let's do this for the USA' - Shelton sets up Zverev test in US Open final",
+      "source": "Sky Sports",
+      "virality_score": 57,
+      "pub_ago": "54m ago",
+      "teams": [
+        "USA"
+      ],
       "files": {
-        "916": "cards/20260911_2341_card1_916.png",
-        "169": "cards/20260911_2341_card1_169.png"
+        "916": "cards/20260912_1219_card1_916.png",
+        "169": "cards/20260912_1219_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Champions League opening data shows English dominance and too few shocks",
-      "source": "The Guardian",
-      "virality_score": 65,
-      "pub_ago": "2h ago",
+      "title": "US Open scores: Sabalenka takes on Rybakina in the women's final from 9pm",
+      "source": "Sky Sports",
+      "virality_score": 53,
+      "pub_ago": "59m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260911_2341_card2_916.png",
-        "169": "cards/20260911_2341_card2_169.png"
+        "916": "cards/20260912_1219_card2_916.png",
+        "169": "cards/20260912_1219_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Gray has no issue with flak as Hibs eye semi-final",
+      "title": "Like Benzema & as good as Haaland - Alonso on Joao Pedro",
       "source": "BBC Sport",
-      "virality_score": 60,
-      "pub_ago": "17m ago",
+      "virality_score": 42,
+      "pub_ago": "6h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260911_2341_card3_916.png",
-        "169": "cards/20260911_2341_card3_169.png"
+        "916": "cards/20260912_1219_card3_916.png",
+        "169": "cards/20260912_1219_card3_169.png"
       }
     }
   ]
