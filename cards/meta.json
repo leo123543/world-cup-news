@@ -1,43 +1,41 @@
 {
-  "generated_at": "2026-09-12T12:19:27.235523+08:00",
-  "generated_at_display": "Sep 12, 2026 · 12:19 PM HKT",
+  "generated_at": "2026-09-12T22:49:41.845074+08:00",
+  "generated_at_display": "Sep 12, 2026 · 10:49 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "'Let's do this for the USA' - Shelton sets up Zverev test in US Open final",
-      "source": "Sky Sports",
-      "virality_score": 57,
-      "pub_ago": "54m ago",
-      "teams": [
-        "USA"
-      ],
+      "title": "Febrile Manchester derby awaits amid growing rift between United fans and club",
+      "source": "The Guardian",
+      "virality_score": 54,
+      "pub_ago": "3h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260912_1219_card1_916.png",
-        "169": "cards/20260912_1219_card1_169.png"
+        "916": "cards/20260912_2249_card1_916.png",
+        "169": "cards/20260912_2249_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "US Open scores: Sabalenka takes on Rybakina in the women's final from 9pm",
-      "source": "Sky Sports",
+      "title": "Liverpool v Fulham, Chelsea v Hull City, and more: football clockwatch - live",
+      "source": "The Guardian",
       "virality_score": 53,
-      "pub_ago": "59m ago",
+      "pub_ago": "4m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260912_1219_card2_916.png",
-        "169": "cards/20260912_1219_card2_169.png"
+        "916": "cards/20260912_2249_card2_916.png",
+        "169": "cards/20260912_2249_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Like Benzema & as good as Haaland - Alonso on Joao Pedro",
-      "source": "BBC Sport",
-      "virality_score": 42,
-      "pub_ago": "6h ago",
+      "title": "Tottenham vs Everton team news LIVE!",
+      "source": "Sky Sports",
+      "virality_score": 53,
+      "pub_ago": "8m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260912_1219_card3_916.png",
-        "169": "cards/20260912_1219_card3_169.png"
+        "916": "cards/20260912_2249_card3_916.png",
+        "169": "cards/20260912_2249_card3_169.png"
       }
     }
   ]
