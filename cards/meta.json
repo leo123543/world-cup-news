@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-09-12T22:49:41.845074+08:00",
-  "generated_at_display": "Sep 12, 2026 · 10:49 PM HKT",
+  "generated_at": "2026-09-13T12:32:58.819281+08:00",
+  "generated_at_display": "Sep 13, 2026 · 12:32 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Febrile Manchester derby awaits amid growing rift between United fans and club",
-      "source": "The Guardian",
-      "virality_score": 54,
-      "pub_ago": "3h ago",
+      "title": "Arsenal hold off energetic Sunderland to continue perfect title defence",
+      "source": "BBC Sport",
+      "virality_score": 46,
+      "pub_ago": "6h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260912_2249_card1_916.png",
-        "169": "cards/20260912_2249_card1_169.png"
+        "916": "cards/20260913_1232_card1_916.png",
+        "169": "cards/20260913_1232_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Liverpool v Fulham, Chelsea v Hull City, and more: football clockwatch - live",
+      "title": "Guimarães and Saka fire Arsenal to win at Sunderland after Raya spot-kick save",
       "source": "The Guardian",
-      "virality_score": 53,
-      "pub_ago": "4m ago",
+      "virality_score": 41,
+      "pub_ago": "7h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260912_2249_card2_916.png",
-        "169": "cards/20260912_2249_card2_169.png"
+        "916": "cards/20260913_1232_card2_916.png",
+        "169": "cards/20260913_1232_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Tottenham vs Everton team news LIVE!",
-      "source": "Sky Sports",
-      "virality_score": 53,
-      "pub_ago": "8m ago",
+      "title": "Referee 'completely wrong' to award penalty - Williams",
+      "source": "BBC Sport",
+      "virality_score": 40,
+      "pub_ago": "5h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260912_2249_card3_916.png",
-        "169": "cards/20260912_2249_card3_169.png"
+        "916": "cards/20260913_1232_card3_916.png",
+        "169": "cards/20260913_1232_card3_169.png"
       }
     }
   ]
