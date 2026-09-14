@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-09-13T23:27:36.390483+08:00",
-  "generated_at_display": "Sep 13, 2026 · 11:27 PM HKT",
+  "generated_at": "2026-09-14T12:38:31.497895+08:00",
+  "generated_at_display": "Sep 14, 2026 · 12:38 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Antonelli wins Spanish GP after luckless Norris loses out",
-      "source": "Sky Sports",
-      "virality_score": 66,
-      "pub_ago": "42m ago",
+      "title": "Getting goal decision so wrong is 'baffling' - Rooney",
+      "source": "BBC Sport",
+      "virality_score": 50,
+      "pub_ago": "5h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260913_2327_card1_916.png",
-        "169": "cards/20260913_2327_card1_169.png"
+        "916": "cards/20260914_1238_card1_916.png",
+        "169": "cards/20260914_1238_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Cristiano Ronaldo calls for lifetime bans in Saudi Pro League after Diogo Jota chants",
-      "source": "The Guardian",
-      "virality_score": 60,
-      "pub_ago": "34m ago",
+      "title": "'I am the best in the world right now' - Zverev sends warning to Sinner and Alcaraz",
+      "source": "Sky Sports",
+      "virality_score": 49,
+      "pub_ago": "38m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260913_2327_card2_916.png",
-        "169": "cards/20260913_2327_card2_169.png"
+        "916": "cards/20260914_1238_card2_916.png",
+        "169": "cards/20260914_1238_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Ronaldo demands lifetime bans over Jota chants",
-      "source": "BBC Sport",
-      "virality_score": 59,
-      "pub_ago": "1h ago",
+      "title": "European football: Kane helps Bayern edge Elversberg, Sassuolo stun Juventus",
+      "source": "The Guardian",
+      "virality_score": 44,
+      "pub_ago": "5h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260913_2327_card3_916.png",
-        "169": "cards/20260913_2327_card3_169.png"
+        "916": "cards/20260914_1238_card3_916.png",
+        "169": "cards/20260914_1238_card3_169.png"
       }
     }
   ]
