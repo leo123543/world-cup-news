@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-09-14T12:38:31.497895+08:00",
-  "generated_at_display": "Sep 14, 2026 · 12:38 PM HKT",
+  "generated_at": "2026-09-15T01:26:07.890485+08:00",
+  "generated_at_display": "Sep 15, 2026 · 01:26 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Getting goal decision so wrong is 'baffling' - Rooney",
-      "source": "BBC Sport",
-      "virality_score": 50,
-      "pub_ago": "5h ago",
+      "title": "'Very weak. Very bad': how Rodri's verdict exposed woeful Valencia's crisis | Sid Lowe",
+      "source": "The Guardian",
+      "virality_score": 75,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260914_1238_card1_916.png",
-        "169": "cards/20260914_1238_card1_169.png"
+        "916": "cards/20260915_0125_card1_916.png",
+        "169": "cards/20260915_0125_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "'I am the best in the world right now' - Zverev sends warning to Sinner and Alcaraz",
-      "source": "Sky Sports",
-      "virality_score": 49,
-      "pub_ago": "38m ago",
+      "title": "VARs who wrongly confirmed Haaland's goal at Manchester United are stood down",
+      "source": "The Guardian",
+      "virality_score": 59,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260914_1238_card2_916.png",
-        "169": "cards/20260914_1238_card2_169.png"
+        "916": "cards/20260915_0125_card2_916.png",
+        "169": "cards/20260915_0125_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "European football: Kane helps Bayern edge Elversberg, Sassuolo stun Juventus",
-      "source": "The Guardian",
-      "virality_score": 44,
-      "pub_ago": "5h ago",
+      "title": "Does derby semi add 'more spice' or simply 'nice for fans'?",
+      "source": "BBC Sport",
+      "virality_score": 57,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260914_1238_card3_916.png",
-        "169": "cards/20260914_1238_card3_169.png"
+        "916": "cards/20260915_0125_card3_916.png",
+        "169": "cards/20260915_0125_card3_169.png"
       }
     }
   ]
