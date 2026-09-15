@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-09-15T12:39:12.764908+08:00",
-  "generated_at_display": "Sep 15, 2026 · 12:39 PM HKT",
+  "generated_at": "2026-09-16T00:03:16.885046+08:00",
+  "generated_at_display": "Sep 16, 2026 · 12:03 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "'Unplayable' & 'almost perfect' - Calvert-Lewin set for England recall?",
+      "title": "VAR missed Fernandez offside in Manchester derby - Webb",
       "source": "BBC Sport",
-      "virality_score": 36,
-      "pub_ago": "5h ago",
-      "teams": [
-        "England"
-      ],
+      "virality_score": 56,
+      "pub_ago": "2m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260915_1238_card1_916.png",
-        "169": "cards/20260915_1238_card1_169.png"
+        "916": "cards/20260916_0002_card1_916.png",
+        "169": "cards/20260916_0002_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Madueke a target for Euro loans - Tuesday's gossip",
-      "source": "BBC Sport",
-      "virality_score": 35,
-      "pub_ago": "5h ago",
-      "teams": [],
+      "title": "From Segura to Maltby: six breakout stars from the Women's Under-20 World Cup",
+      "source": "The Guardian",
+      "virality_score": 54,
+      "pub_ago": "4h ago",
+      "teams": [
+        "Poland"
+      ],
       "files": {
-        "916": "cards/20260915_1238_card2_916.png",
-        "169": "cards/20260915_1238_card2_169.png"
+        "916": "cards/20260916_0002_card2_916.png",
+        "169": "cards/20260916_0002_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Haaland goal should not have stood but VAR made the right call with Sunderland penalty | Chris Foy",
-      "source": "The Guardian",
-      "virality_score": 34,
-      "pub_ago": "9h ago",
+      "title": "Webb: Foden red justified but Fernandes escaped yellow for 'petulant' kick",
+      "source": "Sky Sports",
+      "virality_score": 53,
+      "pub_ago": "2m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260915_1238_card3_916.png",
-        "169": "cards/20260915_1238_card3_169.png"
+        "916": "cards/20260916_0002_card3_916.png",
+        "169": "cards/20260916_0002_card3_169.png"
       }
     }
   ]
