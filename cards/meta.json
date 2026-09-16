@@ -1,45 +1,41 @@
 {
-  "generated_at": "2026-09-16T12:34:34.167017+08:00",
-  "generated_at_display": "Sep 16, 2026 · 12:34 PM HKT",
+  "generated_at": "2026-09-16T23:56:42.119778+08:00",
+  "generated_at_display": "Sep 16, 2026 · 11:56 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Messi in Argentina squad for farewell friendly",
+      "title": "'Let's go, let's go' - inside catastrophic derby VAR mistake",
       "source": "BBC Sport",
-      "virality_score": 46,
-      "pub_ago": "5h ago",
-      "teams": [
-        "Argentina"
-      ],
+      "virality_score": 64,
+      "pub_ago": "52m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260916_1234_card1_916.png",
-        "169": "cards/20260916_1234_card1_169.png"
+        "916": "cards/20260916_2356_card1_916.png",
+        "169": "cards/20260916_2356_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "NI squad only picked on merit - O'Neill",
+      "title": "What next for Gabriel and Man Utd?",
       "source": "BBC Sport",
-      "virality_score": 45,
-      "pub_ago": "7h ago",
+      "virality_score": 55,
+      "pub_ago": "8m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260916_1234_card2_916.png",
-        "169": "cards/20260916_1234_card2_169.png"
+        "916": "cards/20260916_2356_card2_916.png",
+        "169": "cards/20260916_2356_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Lionel Messi called up by Argentina to make farewell ⁠appearance in friendly",
-      "source": "The Guardian",
-      "virality_score": 42,
-      "pub_ago": "6h ago",
-      "teams": [
-        "Argentina"
-      ],
+      "title": "Maresca criticises focus on controversial winner",
+      "source": "BBC Sport",
+      "virality_score": 54,
+      "pub_ago": "4h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260916_1234_card3_916.png",
-        "169": "cards/20260916_1234_card3_169.png"
+        "916": "cards/20260916_2356_card3_916.png",
+        "169": "cards/20260916_2356_card3_169.png"
       }
     }
   ]
