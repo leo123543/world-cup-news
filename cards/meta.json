@@ -1,43 +1,45 @@
 {
-  "generated_at": "2026-09-16T00:03:16.885046+08:00",
-  "generated_at_display": "Sep 16, 2026 · 12:03 AM HKT",
+  "generated_at": "2026-09-16T12:34:34.167017+08:00",
+  "generated_at_display": "Sep 16, 2026 · 12:34 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "VAR missed Fernandez offside in Manchester derby - Webb",
+      "title": "Messi in Argentina squad for farewell friendly",
       "source": "BBC Sport",
-      "virality_score": 56,
-      "pub_ago": "2m ago",
-      "teams": [],
+      "virality_score": 46,
+      "pub_ago": "5h ago",
+      "teams": [
+        "Argentina"
+      ],
       "files": {
-        "916": "cards/20260916_0002_card1_916.png",
-        "169": "cards/20260916_0002_card1_169.png"
+        "916": "cards/20260916_1234_card1_916.png",
+        "169": "cards/20260916_1234_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "From Segura to Maltby: six breakout stars from the Women's Under-20 World Cup",
-      "source": "The Guardian",
-      "virality_score": 54,
-      "pub_ago": "4h ago",
-      "teams": [
-        "Poland"
-      ],
+      "title": "NI squad only picked on merit - O'Neill",
+      "source": "BBC Sport",
+      "virality_score": 45,
+      "pub_ago": "7h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260916_0002_card2_916.png",
-        "169": "cards/20260916_0002_card2_169.png"
+        "916": "cards/20260916_1234_card2_916.png",
+        "169": "cards/20260916_1234_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Webb: Foden red justified but Fernandes escaped yellow for 'petulant' kick",
-      "source": "Sky Sports",
-      "virality_score": 53,
-      "pub_ago": "2m ago",
-      "teams": [],
+      "title": "Lionel Messi called up by Argentina to make farewell ⁠appearance in friendly",
+      "source": "The Guardian",
+      "virality_score": 42,
+      "pub_ago": "6h ago",
+      "teams": [
+        "Argentina"
+      ],
       "files": {
-        "916": "cards/20260916_0002_card3_916.png",
-        "169": "cards/20260916_0002_card3_169.png"
+        "916": "cards/20260916_1234_card3_916.png",
+        "169": "cards/20260916_1234_card3_169.png"
       }
     }
   ]
