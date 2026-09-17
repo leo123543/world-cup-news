@@ -1,46 +1,43 @@
 {
-  "generated_at": "2026-09-17T12:39:45.953053+08:00",
-  "generated_at_display": "Sep 17, 2026 · 12:39 PM HKT",
+  "generated_at": "2026-09-18T00:02:41.748301+08:00",
+  "generated_at_display": "Sep 18, 2026 · 12:02 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "'My scar, not your scar': Tuchel stands by England semi-final subs but admits wrong timing",
-      "source": "The Guardian",
-      "virality_score": 49,
-      "pub_ago": "7h ago",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
+      "title": "FA chair demands Infantino release World Cup sell-off documents",
+      "source": "BBC Sport",
+      "virality_score": 68,
+      "pub_ago": "1h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260917_1239_card1_916.png",
-        "169": "cards/20260917_1239_card1_169.png"
+        "916": "cards/20260918_0002_card1_916.png",
+        "169": "cards/20260918_0002_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "De la Fuente extends Spain contract to 2032",
+      "title": "Why will September international break last three weeks?",
       "source": "BBC Sport",
-      "virality_score": 48,
-      "pub_ago": "6h ago",
-      "teams": [
-        "Spain"
-      ],
+      "virality_score": 68,
+      "pub_ago": "32m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260917_1239_card2_916.png",
-        "169": "cards/20260917_1239_card2_169.png"
+        "916": "cards/20260918_0002_card2_916.png",
+        "169": "cards/20260918_0002_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Raphinha cashes in against Santander with hat-trick as Barça hit seven",
-      "source": "The Guardian",
-      "virality_score": 43,
-      "pub_ago": "6h ago",
-      "teams": [],
+      "title": "Will Palmer, Foden and Trent be recalled to England squad?",
+      "source": "Sky Sports",
+      "virality_score": 67,
+      "pub_ago": "32m ago",
+      "teams": [
+        "England"
+      ],
       "files": {
-        "916": "cards/20260917_1239_card3_916.png",
-        "169": "cards/20260917_1239_card3_169.png"
+        "916": "cards/20260918_0002_card3_916.png",
+        "169": "cards/20260918_0002_card3_169.png"
       }
     }
   ]
