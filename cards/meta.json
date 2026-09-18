@@ -1,44 +1,43 @@
 {
-  "generated_at": "2026-09-18T12:25:01.351554+08:00",
-  "generated_at_display": "Sep 18, 2026 · 12:25 PM HKT",
+  "generated_at": "2026-09-18T23:38:07.850794+08:00",
+  "generated_at_display": "Sep 18, 2026 · 11:38 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "World Series of Darts Finals: Schedule with Littler, Humphries, Price in action",
-      "source": "Sky Sports",
-      "virality_score": 48,
-      "pub_ago": "6h ago",
-      "teams": [],
+      "title": "Will England boss Tuchel 'embrace the chaos'?",
+      "source": "BBC Sport",
+      "virality_score": 67,
+      "pub_ago": "1h ago",
+      "teams": [
+        "England"
+      ],
       "files": {
-        "916": "cards/20260918_1224_card1_916.png",
-        "169": "cards/20260918_1224_card1_169.png"
+        "916": "cards/20260918_2337_card1_916.png",
+        "169": "cards/20260918_2337_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Socceroos captain Maty Ryan axed for Brazil friendlies",
-      "source": "The Guardian",
-      "virality_score": 43,
-      "pub_ago": "3h ago",
-      "teams": [
-        "Brazil",
-        "Australia"
-      ],
+      "title": "Sorensen to join Republic of Ireland coaching staff",
+      "source": "BBC Sport",
+      "virality_score": 66,
+      "pub_ago": "1h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260918_1224_card2_916.png",
-        "169": "cards/20260918_1224_card2_169.png"
+        "916": "cards/20260918_2337_card2_916.png",
+        "169": "cards/20260918_2337_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Leaden, stale, disheartening - where do Celtic & O'Neill go from here?",
+      "title": "I have experienced racism a thousand times - Lamine Yamal",
       "source": "BBC Sport",
-      "virality_score": 41,
-      "pub_ago": "4h ago",
+      "virality_score": 63,
+      "pub_ago": "44m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260918_1224_card3_916.png",
-        "169": "cards/20260918_1224_card3_169.png"
+        "916": "cards/20260918_2337_card3_916.png",
+        "169": "cards/20260918_2337_card3_169.png"
       }
     }
   ]
