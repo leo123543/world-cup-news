@@ -1,43 +1,41 @@
 {
-  "generated_at": "2026-09-18T23:38:07.850794+08:00",
-  "generated_at_display": "Sep 18, 2026 · 11:38 PM HKT",
+  "generated_at": "2026-09-19T12:22:30.827405+08:00",
+  "generated_at_display": "Sep 19, 2026 · 12:22 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Will England boss Tuchel 'embrace the chaos'?",
+      "title": "Kane makes history and Olise nets hat-trick as Bayern thrash Union Berlin",
       "source": "BBC Sport",
-      "virality_score": 67,
-      "pub_ago": "1h ago",
-      "teams": [
-        "England"
-      ],
+      "virality_score": 50,
+      "pub_ago": "5h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260918_2337_card1_916.png",
-        "169": "cards/20260918_2337_card1_169.png"
+        "916": "cards/20260919_1222_card1_916.png",
+        "169": "cards/20260919_1222_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Sorensen to join Republic of Ireland coaching staff",
-      "source": "BBC Sport",
-      "virality_score": 66,
-      "pub_ago": "1h ago",
+      "title": "World Series of Darts Finals: Schedule with Littler, Humphries, Price in action",
+      "source": "Sky Sports",
+      "virality_score": 48,
+      "pub_ago": "5h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260918_2337_card2_916.png",
-        "169": "cards/20260918_2337_card2_169.png"
+        "916": "cards/20260919_1222_card2_916.png",
+        "169": "cards/20260919_1222_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "I have experienced racism a thousand times - Lamine Yamal",
-      "source": "BBC Sport",
-      "virality_score": 63,
-      "pub_ago": "44m ago",
+      "title": "Harry Kane smashes record for fastest to 100 Bundesliga goals in 98th game",
+      "source": "The Guardian",
+      "virality_score": 46,
+      "pub_ago": "6h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260918_2337_card3_916.png",
-        "169": "cards/20260918_2337_card3_169.png"
+        "916": "cards/20260919_1222_card3_916.png",
+        "169": "cards/20260919_1222_card3_169.png"
       }
     }
   ]
