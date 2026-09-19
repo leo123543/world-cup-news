@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-09-19T12:22:30.827405+08:00",
-  "generated_at_display": "Sep 19, 2026 · 12:22 PM HKT",
+  "generated_at": "2026-09-19T23:11:21.776421+08:00",
+  "generated_at_display": "Sep 19, 2026 · 11:11 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Kane makes history and Olise nets hat-trick as Bayern thrash Union Berlin",
-      "source": "BBC Sport",
-      "virality_score": 50,
-      "pub_ago": "5h ago",
+      "title": "Cardiff beat Charlton to record first win of the season",
+      "source": "Sky Sports",
+      "virality_score": 56,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260919_1222_card1_916.png",
-        "169": "cards/20260919_1222_card1_169.png"
+        "916": "cards/20260919_2311_card1_916.png",
+        "169": "cards/20260919_2311_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "World Series of Darts Finals: Schedule with Littler, Humphries, Price in action",
-      "source": "Sky Sports",
-      "virality_score": 48,
-      "pub_ago": "5h ago",
+      "title": "Ratcliffe 'must go' says Man Utd Muslim fan group",
+      "source": "BBC Sport",
+      "virality_score": 54,
+      "pub_ago": "18m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260919_1222_card2_916.png",
-        "169": "cards/20260919_1222_card2_169.png"
+        "916": "cards/20260919_2311_card2_916.png",
+        "169": "cards/20260919_2311_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Harry Kane smashes record for fastest to 100 Bundesliga goals in 98th game",
-      "source": "The Guardian",
-      "virality_score": 46,
-      "pub_ago": "6h ago",
+      "title": "Emery praises Jackson & Suzuki after 'fantastic' win at Spurs",
+      "source": "BBC Sport",
+      "virality_score": 54,
+      "pub_ago": "53m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260919_1222_card3_916.png",
-        "169": "cards/20260919_1222_card3_169.png"
+        "916": "cards/20260919_2311_card3_916.png",
+        "169": "cards/20260919_2311_card3_169.png"
       }
     }
   ]
