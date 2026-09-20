@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-09-19T23:11:21.776421+08:00",
-  "generated_at_display": "Sep 19, 2026 · 11:11 PM HKT",
+  "generated_at": "2026-09-20T12:40:40.831559+08:00",
+  "generated_at_display": "Sep 20, 2026 · 12:40 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Cardiff beat Charlton to record first win of the season",
-      "source": "Sky Sports",
-      "virality_score": 56,
-      "pub_ago": "1h ago",
+      "title": "Arsenal may move for Endrick in January - Sunday's gossip",
+      "source": "BBC Sport",
+      "virality_score": 42,
+      "pub_ago": "7h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260919_2311_card1_916.png",
-        "169": "cards/20260919_2311_card1_169.png"
+        "916": "cards/20260920_1240_card1_916.png",
+        "169": "cards/20260920_1240_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Ratcliffe 'must go' says Man Utd Muslim fan group",
-      "source": "BBC Sport",
-      "virality_score": 54,
-      "pub_ago": "18m ago",
+      "title": "European football: Martínez double gives Inter comeback draw at Roma",
+      "source": "The Guardian",
+      "virality_score": 41,
+      "pub_ago": "7h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260919_2311_card2_916.png",
-        "169": "cards/20260919_2311_card2_169.png"
+        "916": "cards/20260920_1240_card2_916.png",
+        "169": "cards/20260920_1240_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Emery praises Jackson & Suzuki after 'fantastic' win at Spurs",
+      "title": "Raphinha nets hat-trick in Sevilla win to keep Barcelona top",
       "source": "BBC Sport",
-      "virality_score": 54,
-      "pub_ago": "53m ago",
+      "virality_score": 37,
+      "pub_ago": "6h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260919_2311_card3_916.png",
-        "169": "cards/20260919_2311_card3_169.png"
+        "916": "cards/20260920_1240_card3_916.png",
+        "169": "cards/20260920_1240_card3_169.png"
       }
     }
   ]
