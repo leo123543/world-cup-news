@@ -1,41 +1,45 @@
 {
-  "generated_at": "2026-09-22T12:35:31.929554+08:00",
-  "generated_at_display": "Sep 22, 2026 · 12:35 PM HKT",
+  "generated_at": "2026-09-23T00:06:28.985041+08:00",
+  "generated_at_display": "Sep 23, 2026 · 12:06 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "'Constant bombardment' - fans shown 65,000 junk food ads at World Cup",
+      "title": "I was close to joining Liverpool in 2016 - Mbappe",
       "source": "BBC Sport",
-      "virality_score": 52,
-      "pub_ago": "5h ago",
+      "virality_score": 65,
+      "pub_ago": "7m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260922_1235_card1_916.png",
-        "169": "cards/20260922_1235_card1_169.png"
+        "916": "cards/20260923_0006_card1_916.png",
+        "169": "cards/20260923_0006_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Infantino proposes an 'independent external review' of Fifa governance",
-      "source": "The Guardian",
-      "virality_score": 42,
-      "pub_ago": "7h ago",
-      "teams": [],
+      "title": "Welsh football chief Mooney challenges Infantino's Fifa reform claims",
+      "source": "BBC Sport",
+      "virality_score": 62,
+      "pub_ago": "2h ago",
+      "teams": [
+        "Wales"
+      ],
       "files": {
-        "916": "cards/20260922_1235_card2_916.png",
-        "169": "cards/20260922_1235_card2_169.png"
+        "916": "cards/20260923_0006_card2_916.png",
+        "169": "cards/20260923_0006_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Infantino says he is open to talks over Fifa reform",
-      "source": "BBC Sport",
-      "virality_score": 41,
-      "pub_ago": "8h ago",
-      "teams": [],
+      "title": "Football Daily | Klopp, Xavi, Zidane, Mancini: big nations ready to unleash bigger dogs",
+      "source": "The Guardian",
+      "virality_score": 55,
+      "pub_ago": "53m ago",
+      "teams": [
+        "England"
+      ],
       "files": {
-        "916": "cards/20260922_1235_card3_916.png",
-        "169": "cards/20260922_1235_card3_169.png"
+        "916": "cards/20260923_0006_card3_916.png",
+        "169": "cards/20260923_0006_card3_169.png"
       }
     }
   ]
