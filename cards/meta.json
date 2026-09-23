@@ -1,45 +1,41 @@
 {
-  "generated_at": "2026-09-23T00:06:28.985041+08:00",
-  "generated_at_display": "Sep 23, 2026 · 12:06 AM HKT",
+  "generated_at": "2026-09-23T12:31:38.974455+08:00",
+  "generated_at_display": "Sep 23, 2026 · 12:31 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "I was close to joining Liverpool in 2016 - Mbappe",
-      "source": "BBC Sport",
-      "virality_score": 65,
-      "pub_ago": "7m ago",
+      "title": "Snedeker wants Spaun to 'make me look like an idiot' after Presidents Cup snub",
+      "source": "Sky Sports",
+      "virality_score": 35,
+      "pub_ago": "4h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260923_0006_card1_916.png",
-        "169": "cards/20260923_0006_card1_169.png"
+        "916": "cards/20260923_1231_card1_916.png",
+        "169": "cards/20260923_1231_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Welsh football chief Mooney challenges Infantino's Fifa reform claims",
-      "source": "BBC Sport",
-      "virality_score": 62,
-      "pub_ago": "2h ago",
-      "teams": [
-        "Wales"
-      ],
+      "title": "Will anyone topple Infantino? How Fifa president is trying to cling on after World Cup sell-off debacle",
+      "source": "The Guardian",
+      "virality_score": 35,
+      "pub_ago": "9h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260923_0006_card2_916.png",
-        "169": "cards/20260923_0006_card2_169.png"
+        "916": "cards/20260923_1231_card2_916.png",
+        "169": "cards/20260923_1231_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Football Daily | Klopp, Xavi, Zidane, Mancini: big nations ready to unleash bigger dogs",
+      "title": "Mariona Caldentey penalty provides late WCL relief for Arsenal against Køge",
       "source": "The Guardian",
-      "virality_score": 55,
-      "pub_ago": "53m ago",
-      "teams": [
-        "England"
-      ],
+      "virality_score": 33,
+      "pub_ago": "7h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260923_0006_card3_916.png",
-        "169": "cards/20260923_0006_card3_169.png"
+        "916": "cards/20260923_1231_card3_916.png",
+        "169": "cards/20260923_1231_card3_169.png"
       }
     }
   ]
