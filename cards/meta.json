@@ -1,41 +1,46 @@
 {
-  "generated_at": "2026-09-23T12:31:38.974455+08:00",
-  "generated_at_display": "Sep 23, 2026 · 12:31 PM HKT",
+  "generated_at": "2026-09-23T23:56:35.526721+08:00",
+  "generated_at_display": "Sep 23, 2026 · 11:56 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Snedeker wants Spaun to 'make me look like an idiot' after Presidents Cup snub",
-      "source": "Sky Sports",
-      "virality_score": 35,
-      "pub_ago": "4h ago",
-      "teams": [],
+      "title": "England players carrying World Cup scar - Saka",
+      "source": "BBC Sport",
+      "virality_score": 82,
+      "pub_ago": "1h ago",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
       "files": {
-        "916": "cards/20260923_1231_card1_916.png",
-        "169": "cards/20260923_1231_card1_169.png"
+        "916": "cards/20260923_2356_card1_916.png",
+        "169": "cards/20260923_2356_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Will anyone topple Infantino? How Fifa president is trying to cling on after World Cup sell-off debacle",
+      "title": "Manchester United report seventh straight annual loss despite record revenue",
       "source": "The Guardian",
-      "virality_score": 35,
-      "pub_ago": "9h ago",
+      "virality_score": 64,
+      "pub_ago": "2h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260923_1231_card2_916.png",
-        "169": "cards/20260923_1231_card2_169.png"
+        "916": "cards/20260923_2356_card2_916.png",
+        "169": "cards/20260923_2356_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Mariona Caldentey penalty provides late WCL relief for Arsenal against Køge",
-      "source": "The Guardian",
-      "virality_score": 33,
-      "pub_ago": "7h ago",
-      "teams": [],
+      "title": "Scots recall 'versatile' Kerr & Thomas for World Cup play-offs",
+      "source": "BBC Sport",
+      "virality_score": 59,
+      "pub_ago": "3h ago",
+      "teams": [
+        "Scotland"
+      ],
       "files": {
-        "916": "cards/20260923_1231_card3_916.png",
-        "169": "cards/20260923_1231_card3_169.png"
+        "916": "cards/20260923_2356_card3_916.png",
+        "169": "cards/20260923_2356_card3_169.png"
       }
     }
   ]
