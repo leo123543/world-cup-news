@@ -1,47 +1,43 @@
 {
-  "generated_at": "2026-09-24T12:28:44.741110+08:00",
-  "generated_at_display": "Sep 24, 2026 · 12:28 PM HKT",
+  "generated_at": "2026-09-25T00:19:18.527457+08:00",
+  "generated_at_display": "Sep 25, 2026 · 12:19 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Giants QB Dart ruled out for 2026 season with knee injury",
-      "source": "Sky Sports",
-      "virality_score": 52,
-      "pub_ago": "4h ago",
+      "title": "Sandro Mazzola obituary",
+      "source": "The Guardian",
+      "virality_score": 64,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260924_1228_card1_916.png",
-        "169": "cards/20260924_1228_card1_169.png"
+        "916": "cards/20260925_0018_card1_916.png",
+        "169": "cards/20260925_0018_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Harry Kane admits England's World Cup 2026 exit 'hurt more than any other'",
+      "title": "Vinícius Júnior et al land in unlikely outpost of Townsville as Brazil reboot begins | Joey Lynch",
       "source": "The Guardian",
-      "virality_score": 49,
-      "pub_ago": "10h ago",
+      "virality_score": 63,
+      "pub_ago": "1h ago",
       "teams": [
-        "Argentina",
-        "England",
-        "Spain"
+        "Brazil"
       ],
       "files": {
-        "916": "cards/20260924_1228_card2_916.png",
-        "169": "cards/20260924_1228_card2_169.png"
+        "916": "cards/20260925_0018_card2_916.png",
+        "169": "cards/20260925_0018_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Ronaldo defiant over Portugal future as he targets 1,000 goals",
+      "title": "Fury vs Joshua: Both fighters to earn British record paydays",
       "source": "Sky Sports",
-      "virality_score": 43,
-      "pub_ago": "9h ago",
-      "teams": [
-        "Portugal"
-      ],
+      "virality_score": 57,
+      "pub_ago": "58m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260924_1228_card3_916.png",
-        "169": "cards/20260924_1228_card3_169.png"
+        "916": "cards/20260925_0018_card3_916.png",
+        "169": "cards/20260925_0018_card3_169.png"
       }
     }
   ]
