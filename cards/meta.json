@@ -1,43 +1,41 @@
 {
-  "generated_at": "2026-09-26T12:43:33.053453+08:00",
-  "generated_at_display": "Sep 26, 2026 · 12:43 PM HKT",
+  "generated_at": "2026-09-26T23:33:17.403729+08:00",
+  "generated_at_display": "Sep 26, 2026 · 11:33 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Scheffler stunned as International secure 5-0 session sweep over USA!",
+      "title": "Azerbaijan Grand Prix | Race Highlights",
       "source": "Sky Sports",
-      "virality_score": 49,
-      "pub_ago": "4h ago",
-      "teams": [
-        "USA"
-      ],
+      "virality_score": 60,
+      "pub_ago": "1h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260926_1243_card1_916.png",
-        "169": "cards/20260926_1243_card1_169.png"
+        "916": "cards/20260926_2332_card1_916.png",
+        "169": "cards/20260926_2332_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Rodri insists Manchester City 'deserved' success despite FFP guilty verdict",
-      "source": "The Guardian",
-      "virality_score": 42,
-      "pub_ago": "6h ago",
+      "title": "Off The Ball with Tam & Ray - listen now",
+      "source": "BBC Sport",
+      "virality_score": 58,
+      "pub_ago": "2m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260926_1243_card2_916.png",
-        "169": "cards/20260926_1243_card2_169.png"
+        "916": "cards/20260926_2332_card2_916.png",
+        "169": "cards/20260926_2332_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Rodri believes in Man City's 'innocence'",
-      "source": "BBC Sport",
-      "virality_score": 42,
-      "pub_ago": "6h ago",
+      "title": "Man City latest: Rodri reacts to reports around PL charges",
+      "source": "Sky Sports",
+      "virality_score": 58,
+      "pub_ago": "32m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260926_1243_card3_916.png",
-        "169": "cards/20260926_1243_card3_169.png"
+        "916": "cards/20260926_2332_card3_916.png",
+        "169": "cards/20260926_2332_card3_169.png"
       }
     }
   ]
