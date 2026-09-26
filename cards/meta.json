@@ -1,47 +1,43 @@
 {
-  "generated_at": "2026-09-26T00:19:36.765405+08:00",
-  "generated_at_display": "Sep 26, 2026 · 12:19 AM HKT",
+  "generated_at": "2026-09-26T12:43:33.053453+08:00",
+  "generated_at_display": "Sep 26, 2026 · 12:43 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Football Daily | Will Spain bring more pain for Tuchel's tired England?",
-      "source": "The Guardian",
-      "virality_score": 65,
-      "pub_ago": "2h ago",
+      "title": "Scheffler stunned as International secure 5-0 session sweep over USA!",
+      "source": "Sky Sports",
+      "virality_score": 49,
+      "pub_ago": "4h ago",
       "teams": [
-        "England",
-        "Spain"
+        "USA"
       ],
       "files": {
-        "916": "cards/20260926_0019_card1_916.png",
-        "169": "cards/20260926_0019_card1_169.png"
+        "916": "cards/20260926_1243_card1_916.png",
+        "169": "cards/20260926_1243_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Football Daily",
-      "source": "BBC Sport",
-      "virality_score": 63,
-      "pub_ago": "43m ago",
-      "teams": [
-        "England",
-        "Spain"
-      ],
+      "title": "Rodri insists Manchester City 'deserved' success despite FFP guilty verdict",
+      "source": "The Guardian",
+      "virality_score": 42,
+      "pub_ago": "6h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260926_0019_card2_916.png",
-        "169": "cards/20260926_0019_card2_169.png"
+        "916": "cards/20260926_1243_card2_916.png",
+        "169": "cards/20260926_1243_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Can anyone stop Littler? Have your say...",
-      "source": "Sky Sports",
-      "virality_score": 60,
-      "pub_ago": "1h ago",
+      "title": "Rodri believes in Man City's 'innocence'",
+      "source": "BBC Sport",
+      "virality_score": 42,
+      "pub_ago": "6h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260926_0019_card3_916.png",
-        "169": "cards/20260926_0019_card3_169.png"
+        "916": "cards/20260926_1243_card3_916.png",
+        "169": "cards/20260926_1243_card3_169.png"
       }
     }
   ]
