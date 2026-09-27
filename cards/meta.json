@@ -1,47 +1,48 @@
 {
-  "generated_at": "2026-09-27T13:04:36.868423+08:00",
-  "generated_at_display": "Sep 27, 2026 · 01:04 PM HKT",
+  "generated_at": "2026-09-28T00:13:06.624658+08:00",
+  "generated_at_display": "Sep 28, 2026 · 12:13 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Internationals eye Presidents Cup history as they take lead into singles",
+      "title": "Imperious Banton century propels England to Sri Lanka series victory",
       "source": "Sky Sports",
-      "virality_score": 49,
-      "pub_ago": "4h ago",
-      "teams": [],
+      "virality_score": 54,
+      "pub_ago": "12m ago",
+      "teams": [
+        "England"
+      ],
       "files": {
-        "916": "cards/20260927_1304_card1_916.png",
-        "169": "cards/20260927_1304_card1_169.png"
+        "916": "cards/20260928_0012_card1_916.png",
+        "169": "cards/20260928_0012_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "USA thrash Peru as teenage newcomers shine in first step toward 2030",
-      "source": "The Guardian",
-      "virality_score": 46,
-      "pub_ago": "6h ago",
-      "teams": [
-        "USA",
-        "Peru"
-      ],
-      "files": {
-        "916": "cards/20260927_1304_card2_916.png",
-        "169": "cards/20260927_1304_card2_169.png"
-      }
-    },
-    {
-      "rank": 3,
-      "title": "Keane disagrees with Gordon: There is a gap between Spain and England",
+      "title": "Why Tuchel's critics have been forced to stay quiet despite Spain loss",
       "source": "Sky Sports",
-      "virality_score": 46,
-      "pub_ago": "6h ago",
+      "virality_score": 53,
+      "pub_ago": "3h ago",
       "teams": [
         "England",
         "Spain"
       ],
       "files": {
-        "916": "cards/20260927_1304_card3_916.png",
-        "169": "cards/20260927_1304_card3_169.png"
+        "916": "cards/20260928_0012_card2_916.png",
+        "169": "cards/20260928_0012_card2_169.png"
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Young leads out USA as Internationals chase shock Presidents Cup win LIVE!",
+      "source": "Sky Sports",
+      "virality_score": 53,
+      "pub_ago": "12m ago",
+      "teams": [
+        "USA"
+      ],
+      "files": {
+        "916": "cards/20260928_0012_card3_916.png",
+        "169": "cards/20260928_0012_card3_169.png"
       }
     }
   ]
