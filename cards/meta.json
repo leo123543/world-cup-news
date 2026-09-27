@@ -1,41 +1,47 @@
 {
-  "generated_at": "2026-09-26T23:33:17.403729+08:00",
-  "generated_at_display": "Sep 26, 2026 · 11:33 PM HKT",
+  "generated_at": "2026-09-27T13:04:36.868423+08:00",
+  "generated_at_display": "Sep 27, 2026 · 01:04 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Azerbaijan Grand Prix | Race Highlights",
+      "title": "Internationals eye Presidents Cup history as they take lead into singles",
       "source": "Sky Sports",
-      "virality_score": 60,
-      "pub_ago": "1h ago",
+      "virality_score": 49,
+      "pub_ago": "4h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260926_2332_card1_916.png",
-        "169": "cards/20260926_2332_card1_169.png"
+        "916": "cards/20260927_1304_card1_916.png",
+        "169": "cards/20260927_1304_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Off The Ball with Tam & Ray - listen now",
-      "source": "BBC Sport",
-      "virality_score": 58,
-      "pub_ago": "2m ago",
-      "teams": [],
+      "title": "USA thrash Peru as teenage newcomers shine in first step toward 2030",
+      "source": "The Guardian",
+      "virality_score": 46,
+      "pub_ago": "6h ago",
+      "teams": [
+        "USA",
+        "Peru"
+      ],
       "files": {
-        "916": "cards/20260926_2332_card2_916.png",
-        "169": "cards/20260926_2332_card2_169.png"
+        "916": "cards/20260927_1304_card2_916.png",
+        "169": "cards/20260927_1304_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Man City latest: Rodri reacts to reports around PL charges",
+      "title": "Keane disagrees with Gordon: There is a gap between Spain and England",
       "source": "Sky Sports",
-      "virality_score": 58,
-      "pub_ago": "32m ago",
-      "teams": [],
+      "virality_score": 46,
+      "pub_ago": "6h ago",
+      "teams": [
+        "England",
+        "Spain"
+      ],
       "files": {
-        "916": "cards/20260926_2332_card3_916.png",
-        "169": "cards/20260926_2332_card3_169.png"
+        "916": "cards/20260927_1304_card3_916.png",
+        "169": "cards/20260927_1304_card3_169.png"
       }
     }
   ]
