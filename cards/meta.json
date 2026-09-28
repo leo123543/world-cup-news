@@ -1,48 +1,41 @@
 {
-  "generated_at": "2026-09-28T00:13:06.624658+08:00",
-  "generated_at_display": "Sep 28, 2026 · 12:13 AM HKT",
+  "generated_at": "2026-09-28T13:06:17.846817+08:00",
+  "generated_at_display": "Sep 28, 2026 · 01:06 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Imperious Banton century propels England to Sri Lanka series victory",
+      "title": "Vasseur responds after Horner's 'dream' Ferrari job comments",
       "source": "Sky Sports",
-      "virality_score": 54,
-      "pub_ago": "12m ago",
-      "teams": [
-        "England"
-      ],
+      "virality_score": 53,
+      "pub_ago": "5m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260928_0012_card1_916.png",
-        "169": "cards/20260928_0012_card1_169.png"
+        "916": "cards/20260928_1305_card1_916.png",
+        "169": "cards/20260928_1305_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Why Tuchel's critics have been forced to stay quiet despite Spain loss",
+      "title": "Trainer: Benn will never fight at welterweight again",
       "source": "Sky Sports",
       "virality_score": 53,
-      "pub_ago": "3h ago",
-      "teams": [
-        "England",
-        "Spain"
-      ],
+      "pub_ago": "5m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260928_0012_card2_916.png",
-        "169": "cards/20260928_0012_card2_169.png"
+        "916": "cards/20260928_1305_card2_916.png",
+        "169": "cards/20260928_1305_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Young leads out USA as Internationals chase shock Presidents Cup win LIVE!",
-      "source": "Sky Sports",
-      "virality_score": 53,
-      "pub_ago": "12m ago",
-      "teams": [
-        "USA"
-      ],
+      "title": "Barcelona monitor Chelsea's Estevao - Monday's gossip",
+      "source": "BBC Sport",
+      "virality_score": 39,
+      "pub_ago": "7h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260928_0012_card3_916.png",
-        "169": "cards/20260928_0012_card3_169.png"
+        "916": "cards/20260928_1305_card3_916.png",
+        "169": "cards/20260928_1305_card3_169.png"
       }
     }
   ]
