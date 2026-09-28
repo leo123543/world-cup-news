@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-09-28T13:06:17.846817+08:00",
-  "generated_at_display": "Sep 28, 2026 · 01:06 PM HKT",
+  "generated_at": "2026-09-29T03:07:03.782837+08:00",
+  "generated_at_display": "Sep 29, 2026 · 03:07 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Vasseur responds after Horner's 'dream' Ferrari job comments",
+      "title": "Giants trade for McCarthy after Dart injury",
       "source": "Sky Sports",
-      "virality_score": 53,
-      "pub_ago": "5m ago",
+      "virality_score": 62,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260928_1305_card1_916.png",
-        "169": "cards/20260928_1305_card1_169.png"
+        "916": "cards/20260929_0306_card1_916.png",
+        "169": "cards/20260929_0306_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Trainer: Benn will never fight at welterweight again",
-      "source": "Sky Sports",
-      "virality_score": 53,
-      "pub_ago": "5m ago",
+      "title": "Monday Night Club - Man City reaction",
+      "source": "BBC Sport",
+      "virality_score": 58,
+      "pub_ago": "6m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260928_1305_card2_916.png",
-        "169": "cards/20260928_1305_card2_169.png"
+        "916": "cards/20260929_0306_card2_916.png",
+        "169": "cards/20260929_0306_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Barcelona monitor Chelsea's Estevao - Monday's gossip",
-      "source": "BBC Sport",
-      "virality_score": 39,
-      "pub_ago": "7h ago",
+      "title": "Europe's top-flight clubs to get share of £185m from Club World Cup",
+      "source": "The Guardian",
+      "virality_score": 55,
+      "pub_ago": "3h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260928_1305_card3_916.png",
-        "169": "cards/20260928_1305_card3_169.png"
+        "916": "cards/20260929_0306_card3_916.png",
+        "169": "cards/20260929_0306_card3_169.png"
       }
     }
   ]
