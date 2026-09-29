@@ -1,43 +1,46 @@
 {
-  "generated_at": "2026-09-29T13:30:38.545394+08:00",
-  "generated_at_display": "Sep 29, 2026 · 01:30 PM HKT",
+  "generated_at": "2026-09-30T01:28:51.194200+08:00",
+  "generated_at_display": "Sep 30, 2026 · 01:28 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Whyte wants Fisher after injury hell - 'I fought Itauma with a broken foot!'",
+      "title": "Buttler: McCullum can go 'all in' on Cricket World Cup without Test role",
       "source": "Sky Sports",
-      "virality_score": 55,
-      "pub_ago": "30m ago",
-      "teams": [],
-      "files": {
-        "916": "cards/20260929_1330_card1_916.png",
-        "169": "cards/20260929_1330_card1_169.png"
-      }
-    },
-    {
-      "rank": 2,
-      "title": "Czech Republic ready for Wembley 30 years after Euro '96",
-      "source": "BBC Sport",
-      "virality_score": 54,
-      "pub_ago": "19m ago",
+      "virality_score": 58,
+      "pub_ago": "1h ago",
       "teams": [
         "England"
       ],
       "files": {
-        "916": "cards/20260929_1330_card2_916.png",
-        "169": "cards/20260929_1330_card2_169.png"
+        "916": "cards/20260930_0128_card1_916.png",
+        "169": "cards/20260930_0128_card1_169.png"
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Super League Grand Final 2026: Wakefield and Warrington get prepped",
+      "source": "Sky Sports",
+      "virality_score": 55,
+      "pub_ago": "3h ago",
+      "teams": [],
+      "files": {
+        "916": "cards/20260930_0128_card2_916.png",
+        "169": "cards/20260930_0128_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Infantino makes bigger cash pledge to Fifa members",
-      "source": "BBC Sport",
-      "virality_score": 47,
-      "pub_ago": "6h ago",
-      "teams": [],
+      "title": "USWNT roster: Ashley Sanchez earns the call for friendlies v Spain",
+      "source": "The Guardian",
+      "virality_score": 53,
+      "pub_ago": "28m ago",
+      "teams": [
+        "Spain",
+        "United States"
+      ],
       "files": {
-        "916": "cards/20260929_1330_card3_916.png",
-        "169": "cards/20260929_1330_card3_169.png"
+        "916": "cards/20260930_0128_card3_916.png",
+        "169": "cards/20260930_0128_card3_169.png"
       }
     }
   ]
