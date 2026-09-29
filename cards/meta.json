@@ -1,41 +1,43 @@
 {
-  "generated_at": "2026-09-29T03:07:03.782837+08:00",
-  "generated_at_display": "Sep 29, 2026 · 03:07 AM HKT",
+  "generated_at": "2026-09-29T13:30:38.545394+08:00",
+  "generated_at_display": "Sep 29, 2026 · 01:30 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Giants trade for McCarthy after Dart injury",
+      "title": "Whyte wants Fisher after injury hell - 'I fought Itauma with a broken foot!'",
       "source": "Sky Sports",
-      "virality_score": 62,
-      "pub_ago": "1h ago",
+      "virality_score": 55,
+      "pub_ago": "30m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260929_0306_card1_916.png",
-        "169": "cards/20260929_0306_card1_169.png"
+        "916": "cards/20260929_1330_card1_916.png",
+        "169": "cards/20260929_1330_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Monday Night Club - Man City reaction",
+      "title": "Czech Republic ready for Wembley 30 years after Euro '96",
       "source": "BBC Sport",
-      "virality_score": 58,
-      "pub_ago": "6m ago",
-      "teams": [],
+      "virality_score": 54,
+      "pub_ago": "19m ago",
+      "teams": [
+        "England"
+      ],
       "files": {
-        "916": "cards/20260929_0306_card2_916.png",
-        "169": "cards/20260929_0306_card2_169.png"
+        "916": "cards/20260929_1330_card2_916.png",
+        "169": "cards/20260929_1330_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Europe's top-flight clubs to get share of £185m from Club World Cup",
-      "source": "The Guardian",
-      "virality_score": 55,
-      "pub_ago": "3h ago",
+      "title": "Infantino makes bigger cash pledge to Fifa members",
+      "source": "BBC Sport",
+      "virality_score": 47,
+      "pub_ago": "6h ago",
       "teams": [],
       "files": {
-        "916": "cards/20260929_0306_card3_916.png",
-        "169": "cards/20260929_0306_card3_169.png"
+        "916": "cards/20260929_1330_card3_916.png",
+        "169": "cards/20260929_1330_card3_169.png"
       }
     }
   ]
