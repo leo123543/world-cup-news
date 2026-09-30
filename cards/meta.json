@@ -1,44 +1,45 @@
 {
-  "generated_at": "2026-09-30T13:18:28.646590+08:00",
-  "generated_at_display": "Sep 30, 2026 · 01:18 PM HKT",
+  "generated_at": "2026-10-01T01:26:12.459623+08:00",
+  "generated_at_display": "Oct 01, 2026 · 01:26 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Nations League roundup: Lamine Yamal sinks Croatia in Spain's World Cup homecoming",
-      "source": "The Guardian",
-      "virality_score": 53,
-      "pub_ago": "7h ago",
-      "teams": [
-        "Spain",
-        "Croatia"
-      ],
+      "title": "Burgess and Powell know weight of expectation for Warrington and Wakefield in Grand Final",
+      "source": "Sky Sports",
+      "virality_score": 67,
+      "pub_ago": "25m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260930_1318_card1_916.png",
-        "169": "cards/20260930_1318_card1_169.png"
+        "916": "cards/20261001_0125_card1_916.png",
+        "169": "cards/20261001_0125_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Macklin: Fury will try every trick in the book to get to AJ",
-      "source": "Sky Sports",
-      "virality_score": 52,
-      "pub_ago": "18m ago",
-      "teams": [],
+      "title": "What will new call-ups bring to Northern Ireland?",
+      "source": "BBC Sport",
+      "virality_score": 64,
+      "pub_ago": "1h ago",
+      "teams": [
+        "Portugal"
+      ],
       "files": {
-        "916": "cards/20260930_1318_card2_916.png",
-        "169": "cards/20260930_1318_card2_169.png"
+        "916": "cards/20261001_0125_card2_916.png",
+        "169": "cards/20261001_0125_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Wigan dominate awards! O'Neill named Man of Steel; Foubister claims women's title",
-      "source": "Sky Sports",
-      "virality_score": 37,
-      "pub_ago": "8h ago",
-      "teams": [],
+      "title": "Football Daily | The big story is of course … Scotland fans pining for another home run",
+      "source": "The Guardian",
+      "virality_score": 59,
+      "pub_ago": "2h ago",
+      "teams": [
+        "Scotland"
+      ],
       "files": {
-        "916": "cards/20260930_1318_card3_916.png",
-        "169": "cards/20260930_1318_card3_169.png"
+        "916": "cards/20261001_0125_card3_916.png",
+        "169": "cards/20261001_0125_card3_169.png"
       }
     }
   ]
