@@ -1,46 +1,44 @@
 {
-  "generated_at": "2026-09-30T01:28:51.194200+08:00",
-  "generated_at_display": "Sep 30, 2026 · 01:28 AM HKT",
+  "generated_at": "2026-09-30T13:18:28.646590+08:00",
+  "generated_at_display": "Sep 30, 2026 · 01:18 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Buttler: McCullum can go 'all in' on Cricket World Cup without Test role",
-      "source": "Sky Sports",
-      "virality_score": 58,
-      "pub_ago": "1h ago",
+      "title": "Nations League roundup: Lamine Yamal sinks Croatia in Spain's World Cup homecoming",
+      "source": "The Guardian",
+      "virality_score": 53,
+      "pub_ago": "7h ago",
       "teams": [
-        "England"
+        "Spain",
+        "Croatia"
       ],
       "files": {
-        "916": "cards/20260930_0128_card1_916.png",
-        "169": "cards/20260930_0128_card1_169.png"
+        "916": "cards/20260930_1318_card1_916.png",
+        "169": "cards/20260930_1318_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Super League Grand Final 2026: Wakefield and Warrington get prepped",
+      "title": "Macklin: Fury will try every trick in the book to get to AJ",
       "source": "Sky Sports",
-      "virality_score": 55,
-      "pub_ago": "3h ago",
+      "virality_score": 52,
+      "pub_ago": "18m ago",
       "teams": [],
       "files": {
-        "916": "cards/20260930_0128_card2_916.png",
-        "169": "cards/20260930_0128_card2_169.png"
+        "916": "cards/20260930_1318_card2_916.png",
+        "169": "cards/20260930_1318_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "USWNT roster: Ashley Sanchez earns the call for friendlies v Spain",
-      "source": "The Guardian",
-      "virality_score": 53,
-      "pub_ago": "28m ago",
-      "teams": [
-        "Spain",
-        "United States"
-      ],
+      "title": "Wigan dominate awards! O'Neill named Man of Steel; Foubister claims women's title",
+      "source": "Sky Sports",
+      "virality_score": 37,
+      "pub_ago": "8h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20260930_0128_card3_916.png",
-        "169": "cards/20260930_0128_card3_169.png"
+        "916": "cards/20260930_1318_card3_916.png",
+        "169": "cards/20260930_1318_card3_169.png"
       }
     }
   ]
