@@ -1,45 +1,47 @@
 {
-  "generated_at": "2026-10-01T13:33:46.775696+08:00",
-  "generated_at_display": "Oct 01, 2026 · 01:33 PM HKT",
+  "generated_at": "2026-10-02T01:54:11.574841+08:00",
+  "generated_at_display": "Oct 02, 2026 · 01:54 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Today on Sky Sports Racing: Havana Lightning and Blake's Monarch clash at Newcastle",
+      "title": "England avoid Australia and India in 2027 World Cup group stage",
       "source": "Sky Sports",
-      "virality_score": 51,
-      "pub_ago": "33m ago",
-      "teams": [],
+      "virality_score": 65,
+      "pub_ago": "53m ago",
+      "teams": [
+        "England",
+        "Australia"
+      ],
       "files": {
-        "916": "cards/20261001_1333_card1_916.png",
-        "169": "cards/20261001_1333_card1_169.png"
+        "916": "cards/20261002_0153_card1_916.png",
+        "169": "cards/20261002_0153_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Bahrain GP in Malaysia declared 'heat hazard'",
-      "source": "Sky Sports",
-      "virality_score": 51,
-      "pub_ago": "33m ago",
+      "title": "The Socceroos were unrecognisable against Brazil as a 'new golden generation' takes shape | Joey Lynch",
+      "source": "The Guardian",
+      "virality_score": 57,
+      "pub_ago": "2h ago",
       "teams": [
-        "Bahrain"
+        "Brazil",
+        "Australia"
       ],
       "files": {
-        "916": "cards/20261001_1333_card2_916.png",
-        "169": "cards/20261001_1333_card2_169.png"
+        "916": "cards/20261002_0153_card2_916.png",
+        "169": "cards/20261002_0153_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Somerset pair Overton and Luff win PCA awards",
-      "source": "Sky Sports",
-      "virality_score": 41,
-      "pub_ago": "7h ago",
-      "teams": [
-        "England"
-      ],
+      "title": "Jota set for Celtic return after 18-month absence - gossip",
+      "source": "BBC Sport",
+      "virality_score": 54,
+      "pub_ago": "23m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261001_1333_card3_916.png",
-        "169": "cards/20261001_1333_card3_169.png"
+        "916": "cards/20261002_0153_card3_916.png",
+        "169": "cards/20261002_0153_card3_169.png"
       }
     }
   ]
