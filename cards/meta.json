@@ -1,45 +1,45 @@
 {
-  "generated_at": "2026-10-01T01:26:12.459623+08:00",
-  "generated_at_display": "Oct 01, 2026 · 01:26 AM HKT",
+  "generated_at": "2026-10-01T13:33:46.775696+08:00",
+  "generated_at_display": "Oct 01, 2026 · 01:33 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Burgess and Powell know weight of expectation for Warrington and Wakefield in Grand Final",
+      "title": "Today on Sky Sports Racing: Havana Lightning and Blake's Monarch clash at Newcastle",
       "source": "Sky Sports",
-      "virality_score": 67,
-      "pub_ago": "25m ago",
+      "virality_score": 51,
+      "pub_ago": "33m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261001_0125_card1_916.png",
-        "169": "cards/20261001_0125_card1_169.png"
+        "916": "cards/20261001_1333_card1_916.png",
+        "169": "cards/20261001_1333_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "What will new call-ups bring to Northern Ireland?",
-      "source": "BBC Sport",
-      "virality_score": 64,
-      "pub_ago": "1h ago",
+      "title": "Bahrain GP in Malaysia declared 'heat hazard'",
+      "source": "Sky Sports",
+      "virality_score": 51,
+      "pub_ago": "33m ago",
       "teams": [
-        "Portugal"
+        "Bahrain"
       ],
       "files": {
-        "916": "cards/20261001_0125_card2_916.png",
-        "169": "cards/20261001_0125_card2_169.png"
+        "916": "cards/20261001_1333_card2_916.png",
+        "169": "cards/20261001_1333_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Football Daily | The big story is of course … Scotland fans pining for another home run",
-      "source": "The Guardian",
-      "virality_score": 59,
-      "pub_ago": "2h ago",
+      "title": "Somerset pair Overton and Luff win PCA awards",
+      "source": "Sky Sports",
+      "virality_score": 41,
+      "pub_ago": "7h ago",
       "teams": [
-        "Scotland"
+        "England"
       ],
       "files": {
-        "916": "cards/20261001_0125_card3_916.png",
-        "169": "cards/20261001_0125_card3_169.png"
+        "916": "cards/20261001_1333_card3_916.png",
+        "169": "cards/20261001_1333_card3_169.png"
       }
     }
   ]
