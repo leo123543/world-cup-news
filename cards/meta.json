@@ -1,47 +1,45 @@
 {
-  "generated_at": "2026-10-02T01:54:11.574841+08:00",
-  "generated_at_display": "Oct 02, 2026 · 01:54 AM HKT",
+  "generated_at": "2026-10-02T13:20:51.340824+08:00",
+  "generated_at_display": "Oct 02, 2026 · 01:20 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "England avoid Australia and India in 2027 World Cup group stage",
-      "source": "Sky Sports",
-      "virality_score": 65,
-      "pub_ago": "53m ago",
-      "teams": [
-        "England",
-        "Australia"
-      ],
+      "title": "Football Daily",
+      "source": "BBC Sport",
+      "virality_score": 54,
+      "pub_ago": "19m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261002_0153_card1_916.png",
-        "169": "cards/20261002_0153_card1_169.png"
+        "916": "cards/20261002_1320_card1_916.png",
+        "169": "cards/20261002_1320_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "The Socceroos were unrecognisable against Brazil as a 'new golden generation' takes shape | Joey Lynch",
-      "source": "The Guardian",
-      "virality_score": 57,
-      "pub_ago": "2h ago",
+      "title": "'Ominous?!' | Mercedes reveal major Malaysia upgrades",
+      "source": "Sky Sports",
+      "virality_score": 50,
+      "pub_ago": "54m ago",
       "teams": [
-        "Brazil",
-        "Australia"
+        "Bahrain"
       ],
       "files": {
-        "916": "cards/20261002_0153_card2_916.png",
-        "169": "cards/20261002_0153_card2_169.png"
+        "916": "cards/20261002_1320_card2_916.png",
+        "169": "cards/20261002_1320_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Jota set for Celtic return after 18-month absence - gossip",
-      "source": "BBC Sport",
-      "virality_score": 54,
-      "pub_ago": "23m ago",
-      "teams": [],
+      "title": "Bahrain GP: Verstappen fastest as Mercedes introduce big upgrades in first practice LIVE!",
+      "source": "Sky Sports",
+      "virality_score": 48,
+      "pub_ago": "27m ago",
+      "teams": [
+        "Bahrain"
+      ],
       "files": {
-        "916": "cards/20261002_0153_card3_916.png",
-        "169": "cards/20261002_0153_card3_169.png"
+        "916": "cards/20261002_1320_card3_916.png",
+        "169": "cards/20261002_1320_card3_169.png"
       }
     }
   ]
