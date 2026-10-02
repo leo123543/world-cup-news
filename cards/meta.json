@@ -1,45 +1,43 @@
 {
-  "generated_at": "2026-10-02T13:20:51.340824+08:00",
-  "generated_at_display": "Oct 02, 2026 · 01:20 PM HKT",
+  "generated_at": "2026-10-03T01:16:23.410377+08:00",
+  "generated_at_display": "Oct 03, 2026 · 01:16 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Football Daily",
+      "title": "How Gordon became one of England's main men",
       "source": "BBC Sport",
-      "virality_score": 54,
-      "pub_ago": "19m ago",
-      "teams": [],
+      "virality_score": 57,
+      "pub_ago": "4h ago",
+      "teams": [
+        "England"
+      ],
       "files": {
-        "916": "cards/20261002_1320_card1_916.png",
-        "169": "cards/20261002_1320_card1_169.png"
+        "916": "cards/20261003_0116_card1_916.png",
+        "169": "cards/20261003_0116_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "'Ominous?!' | Mercedes reveal major Malaysia upgrades",
-      "source": "Sky Sports",
-      "virality_score": 50,
-      "pub_ago": "54m ago",
-      "teams": [
-        "Bahrain"
-      ],
+      "title": "What can Peterborough fans expect from 'relentless' Savage?",
+      "source": "BBC Sport",
+      "virality_score": 54,
+      "pub_ago": "22m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261002_1320_card2_916.png",
-        "169": "cards/20261002_1320_card2_169.png"
+        "916": "cards/20261003_0116_card2_916.png",
+        "169": "cards/20261003_0116_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Bahrain GP: Verstappen fastest as Mercedes introduce big upgrades in first practice LIVE!",
+      "title": "Jordan handles Piers Morgan 'sledging' to move into contention",
       "source": "Sky Sports",
-      "virality_score": 48,
-      "pub_ago": "27m ago",
-      "teams": [
-        "Bahrain"
-      ],
+      "virality_score": 53,
+      "pub_ago": "14m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261002_1320_card3_916.png",
-        "169": "cards/20261002_1320_card3_169.png"
+        "916": "cards/20261003_0116_card3_916.png",
+        "169": "cards/20261003_0116_card3_169.png"
       }
     }
   ]
