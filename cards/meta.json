@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-10-03T01:16:23.410377+08:00",
-  "generated_at_display": "Oct 03, 2026 · 01:16 AM HKT",
+  "generated_at": "2026-10-03T13:03:39.263416+08:00",
+  "generated_at_display": "Oct 03, 2026 · 01:03 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "How Gordon became one of England's main men",
-      "source": "BBC Sport",
-      "virality_score": 57,
-      "pub_ago": "4h ago",
-      "teams": [
-        "England"
-      ],
+      "title": "Scandinavia seeks sixth Group 1 in Prix du Cadran",
+      "source": "Sky Sports",
+      "virality_score": 53,
+      "pub_ago": "3m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261003_0116_card1_916.png",
-        "169": "cards/20261003_0116_card1_169.png"
+        "916": "cards/20261003_1303_card1_916.png",
+        "169": "cards/20261003_1303_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "What can Peterborough fans expect from 'relentless' Savage?",
-      "source": "BBC Sport",
-      "virality_score": 54,
-      "pub_ago": "22m ago",
-      "teams": [],
+      "title": "Bahrain GP in Malaysia: Norris currently fastest in final practice LIVE!",
+      "source": "Sky Sports",
+      "virality_score": 53,
+      "pub_ago": "58m ago",
+      "teams": [
+        "Bahrain"
+      ],
       "files": {
-        "916": "cards/20261003_0116_card2_916.png",
-        "169": "cards/20261003_0116_card2_169.png"
+        "916": "cards/20261003_1303_card2_916.png",
+        "169": "cards/20261003_1303_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Jordan handles Piers Morgan 'sledging' to move into contention",
-      "source": "Sky Sports",
-      "virality_score": 53,
-      "pub_ago": "14m ago",
+      "title": "Chiesa eyes Liverpool exit - Saturday's gossip",
+      "source": "BBC Sport",
+      "virality_score": 39,
+      "pub_ago": "7h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261003_0116_card3_916.png",
-        "169": "cards/20261003_0116_card3_169.png"
+        "916": "cards/20261003_1303_card3_916.png",
+        "169": "cards/20261003_1303_card3_169.png"
       }
     }
   ]
