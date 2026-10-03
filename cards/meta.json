@@ -1,43 +1,45 @@
 {
-  "generated_at": "2026-10-03T13:03:39.263416+08:00",
-  "generated_at_display": "Oct 03, 2026 · 01:03 PM HKT",
+  "generated_at": "2026-10-03T23:34:40.915724+08:00",
+  "generated_at_display": "Oct 03, 2026 · 11:34 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Scandinavia seeks sixth Group 1 in Prix du Cadran",
-      "source": "Sky Sports",
-      "virality_score": 53,
-      "pub_ago": "3m ago",
+      "title": "Back-to-back wins for Man Utd as they see off Liverpool",
+      "source": "BBC Sport",
+      "virality_score": 54,
+      "pub_ago": "29m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261003_1303_card1_916.png",
-        "169": "cards/20261003_1303_card1_169.png"
+        "916": "cards/20261003_2334_card1_916.png",
+        "169": "cards/20261003_2334_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Bahrain GP in Malaysia: Norris currently fastest in final practice LIVE!",
-      "source": "Sky Sports",
-      "virality_score": 53,
-      "pub_ago": "58m ago",
+      "title": "Croatia v England: Nations League football - live",
+      "source": "The Guardian",
+      "virality_score": 51,
+      "pub_ago": "11m ago",
       "teams": [
-        "Bahrain"
+        "England",
+        "Spain",
+        "Croatia"
       ],
       "files": {
-        "916": "cards/20261003_1303_card2_916.png",
-        "169": "cards/20261003_1303_card2_169.png"
+        "916": "cards/20261003_2334_card2_916.png",
+        "169": "cards/20261003_2334_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Chiesa eyes Liverpool exit - Saturday's gossip",
-      "source": "BBC Sport",
-      "virality_score": 39,
-      "pub_ago": "7h ago",
+      "title": "Zigiotti Olme capitalises on Liverpool mistake to keep Manchester United moving up WSL",
+      "source": "The Guardian",
+      "virality_score": 51,
+      "pub_ago": "41m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261003_1303_card3_916.png",
-        "169": "cards/20261003_1303_card3_169.png"
+        "916": "cards/20261003_2334_card3_916.png",
+        "169": "cards/20261003_2334_card3_169.png"
       }
     }
   ]
