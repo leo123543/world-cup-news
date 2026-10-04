@@ -1,45 +1,48 @@
 {
-  "generated_at": "2026-10-03T23:34:40.915724+08:00",
-  "generated_at_display": "Oct 03, 2026 · 11:34 PM HKT",
+  "generated_at": "2026-10-04T13:36:12.073363+08:00",
+  "generated_at_display": "Oct 04, 2026 · 01:36 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Back-to-back wins for Man Utd as they see off Liverpool",
-      "source": "BBC Sport",
-      "virality_score": 54,
-      "pub_ago": "29m ago",
-      "teams": [],
+      "title": "Bahrain GP: Verstappen-Hamilton front row for 8am start LIVE!",
+      "source": "Sky Sports",
+      "virality_score": 53,
+      "pub_ago": "11m ago",
+      "teams": [
+        "Bahrain"
+      ],
       "files": {
-        "916": "cards/20261003_2334_card1_916.png",
-        "169": "cards/20261003_2334_card1_169.png"
+        "916": "cards/20261004_1335_card1_916.png",
+        "169": "cards/20261004_1335_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Croatia v England: Nations League football - live",
-      "source": "The Guardian",
-      "virality_score": 51,
-      "pub_ago": "11m ago",
+      "title": "Wales aiming to prove they can thrive at top level",
+      "source": "BBC Sport",
+      "virality_score": 49,
+      "pub_ago": "1h ago",
       "teams": [
-        "England",
-        "Spain",
-        "Croatia"
+        "Denmark",
+        "Wales"
       ],
       "files": {
-        "916": "cards/20261003_2334_card2_916.png",
-        "169": "cards/20261003_2334_card2_169.png"
+        "916": "cards/20261004_1335_card2_916.png",
+        "169": "cards/20261004_1335_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Zigiotti Olme capitalises on Liverpool mistake to keep Manchester United moving up WSL",
+      "title": "Bellingham stands out for high-grade England but Uefa sends out wrong message on racism | Barney Ronay",
       "source": "The Guardian",
-      "virality_score": 51,
-      "pub_ago": "41m ago",
-      "teams": [],
+      "virality_score": 45,
+      "pub_ago": "9h ago",
+      "teams": [
+        "England"
+      ],
       "files": {
-        "916": "cards/20261003_2334_card3_916.png",
-        "169": "cards/20261003_2334_card3_169.png"
+        "916": "cards/20261004_1335_card3_916.png",
+        "169": "cards/20261004_1335_card3_169.png"
       }
     }
   ]
