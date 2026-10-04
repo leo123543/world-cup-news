@@ -1,48 +1,43 @@
 {
-  "generated_at": "2026-10-04T13:36:12.073363+08:00",
-  "generated_at_display": "Oct 04, 2026 · 01:36 PM HKT",
+  "generated_at": "2026-10-05T00:18:46.824468+08:00",
+  "generated_at_display": "Oct 05, 2026 · 12:18 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Bahrain GP: Verstappen-Hamilton front row for 8am start LIVE!",
+      "title": "Wakefield's 'red, white and blue army' roars them onto Grand Final history",
       "source": "Sky Sports",
-      "virality_score": 53,
-      "pub_ago": "11m ago",
-      "teams": [
-        "Bahrain"
-      ],
+      "virality_score": 67,
+      "pub_ago": "9m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261004_1335_card1_916.png",
-        "169": "cards/20261004_1335_card1_169.png"
+        "916": "cards/20261005_0018_card1_916.png",
+        "169": "cards/20261005_0018_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Wales aiming to prove they can thrive at top level",
+      "title": "'Promising start' or 'shocking' display? Tartan Army on Skopje win",
       "source": "BBC Sport",
-      "virality_score": 49,
+      "virality_score": 54,
       "pub_ago": "1h ago",
       "teams": [
-        "Denmark",
-        "Wales"
+        "Scotland"
       ],
       "files": {
-        "916": "cards/20261004_1335_card2_916.png",
-        "169": "cards/20261004_1335_card2_169.png"
+        "916": "cards/20261005_0018_card2_916.png",
+        "169": "cards/20261005_0018_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Bellingham stands out for high-grade England but Uefa sends out wrong message on racism | Barney Ronay",
-      "source": "The Guardian",
-      "virality_score": 45,
-      "pub_ago": "9h ago",
-      "teams": [
-        "England"
-      ],
+      "title": "Djokovic creates more history with epic Zverev win at China Open",
+      "source": "Sky Sports",
+      "virality_score": 54,
+      "pub_ago": "1h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261004_1335_card3_916.png",
-        "169": "cards/20261004_1335_card3_169.png"
+        "916": "cards/20261005_0018_card3_916.png",
+        "169": "cards/20261005_0018_card3_169.png"
       }
     }
   ]
