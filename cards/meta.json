@@ -1,43 +1,49 @@
 {
-  "generated_at": "2026-10-05T00:18:46.824468+08:00",
-  "generated_at_display": "Oct 05, 2026 · 12:18 AM HKT",
+  "generated_at": "2026-10-05T13:20:22.420603+08:00",
+  "generated_at_display": "Oct 05, 2026 · 01:20 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Wakefield's 'red, white and blue army' roars them onto Grand Final history",
-      "source": "Sky Sports",
-      "virality_score": 67,
-      "pub_ago": "9m ago",
-      "teams": [],
+      "title": "Let's stop doubting Thomas Tuchel: England are impressive and Euro 2028 is the target",
+      "source": "The Guardian",
+      "virality_score": 49,
+      "pub_ago": "8h ago",
+      "teams": [
+        "England",
+        "Croatia"
+      ],
       "files": {
-        "916": "cards/20261005_0018_card1_916.png",
-        "169": "cards/20261005_0018_card1_169.png"
+        "916": "cards/20261005_1320_card1_916.png",
+        "169": "cards/20261005_1320_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "'Promising start' or 'shocking' display? Tartan Army on Skopje win",
-      "source": "BBC Sport",
-      "virality_score": 54,
-      "pub_ago": "1h ago",
+      "title": "Nations League roundup: Haaland limps off in Norway's loss to Portugal",
+      "source": "The Guardian",
+      "virality_score": 47,
+      "pub_ago": "7h ago",
       "teams": [
-        "Scotland"
+        "Germany",
+        "Portugal"
       ],
       "files": {
-        "916": "cards/20261005_0018_card2_916.png",
-        "169": "cards/20261005_0018_card2_169.png"
+        "916": "cards/20261005_1320_card2_916.png",
+        "169": "cards/20261005_1320_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Djokovic creates more history with epic Zverev win at China Open",
-      "source": "Sky Sports",
-      "virality_score": 54,
-      "pub_ago": "1h ago",
-      "teams": [],
+      "title": "Portugal boss says door open for Ronaldo return",
+      "source": "BBC Sport",
+      "virality_score": 41,
+      "pub_ago": "7h ago",
+      "teams": [
+        "Portugal"
+      ],
       "files": {
-        "916": "cards/20261005_0018_card3_916.png",
-        "169": "cards/20261005_0018_card3_169.png"
+        "916": "cards/20261005_1320_card3_916.png",
+        "169": "cards/20261005_1320_card3_169.png"
       }
     }
   ]
