@@ -1,49 +1,43 @@
 {
-  "generated_at": "2026-10-05T13:20:22.420603+08:00",
-  "generated_at_display": "Oct 05, 2026 · 01:20 PM HKT",
+  "generated_at": "2026-10-06T04:11:06.307287+08:00",
+  "generated_at_display": "Oct 06, 2026 · 04:11 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Let's stop doubting Thomas Tuchel: England are impressive and Euro 2028 is the target",
-      "source": "The Guardian",
-      "virality_score": 49,
-      "pub_ago": "8h ago",
+      "title": "England's greatest international? Kane is now a serious contender",
+      "source": "BBC Sport",
+      "virality_score": 65,
+      "pub_ago": "1h ago",
       "teams": [
-        "England",
-        "Croatia"
+        "England"
       ],
       "files": {
-        "916": "cards/20261005_1320_card1_916.png",
-        "169": "cards/20261005_1320_card1_169.png"
+        "916": "cards/20261006_0410_card1_916.png",
+        "169": "cards/20261006_0410_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Nations League roundup: Haaland limps off in Norway's loss to Portugal",
+      "title": "Police occupy Djibouti FA headquarters amid attempt to oust Fifa council member",
       "source": "The Guardian",
-      "virality_score": 47,
-      "pub_ago": "7h ago",
-      "teams": [
-        "Germany",
-        "Portugal"
-      ],
+      "virality_score": 58,
+      "pub_ago": "2h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261005_1320_card2_916.png",
-        "169": "cards/20261005_1320_card2_169.png"
+        "916": "cards/20261006_0410_card2_916.png",
+        "169": "cards/20261006_0410_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Portugal boss says door open for Ronaldo return",
-      "source": "BBC Sport",
-      "virality_score": 41,
-      "pub_ago": "7h ago",
-      "teams": [
-        "Portugal"
-      ],
+      "title": "Inside JJ Gabriel's Man Utd future and why he was in first-team squad photo",
+      "source": "Sky Sports",
+      "virality_score": 57,
+      "pub_ago": "2h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261005_1320_card3_916.png",
-        "169": "cards/20261005_1320_card3_169.png"
+        "916": "cards/20261006_0410_card3_916.png",
+        "169": "cards/20261006_0410_card3_169.png"
       }
     }
   ]
