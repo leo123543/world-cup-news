@@ -1,45 +1,43 @@
 {
-  "generated_at": "2026-10-06T14:03:53.281404+08:00",
-  "generated_at_display": "Oct 06, 2026 · 02:03 PM HKT",
+  "generated_at": "2026-10-07T01:46:14.597074+08:00",
+  "generated_at_display": "Oct 07, 2026 · 01:46 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Wales focus on Albania as Grainger reunion looms",
+      "title": "Davies' 'extra motivation' after Euros heartbreak",
       "source": "BBC Sport",
-      "virality_score": 66,
-      "pub_ago": "1h ago",
+      "virality_score": 70,
+      "pub_ago": "58m ago",
       "teams": [
         "Wales"
       ],
       "files": {
-        "916": "cards/20261006_1403_card1_916.png",
-        "169": "cards/20261006_1403_card1_169.png"
+        "916": "cards/20261007_0145_card1_916.png",
+        "169": "cards/20261007_0145_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Owner, businessman & player: Messi has big plans as a golden era ends",
+      "title": "Kamara might miss QPR's next game over Finland row",
       "source": "BBC Sport",
-      "virality_score": 64,
-      "pub_ago": "23m ago",
-      "teams": [
-        "Argentina"
-      ],
+      "virality_score": 61,
+      "pub_ago": "2h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261006_1403_card2_916.png",
-        "169": "cards/20261006_1403_card2_169.png"
+        "916": "cards/20261007_0145_card2_916.png",
+        "169": "cards/20261007_0145_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Who am I? Guess Premier League star No 78",
+      "title": "What's it like to be the World Cup final referee?",
       "source": "BBC Sport",
-      "virality_score": 54,
-      "pub_ago": "13m ago",
+      "virality_score": 59,
+      "pub_ago": "4h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261006_1403_card3_916.png",
-        "169": "cards/20261006_1403_card3_169.png"
+        "916": "cards/20261007_0145_card3_916.png",
+        "169": "cards/20261007_0145_card3_169.png"
       }
     }
   ]
