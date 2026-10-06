@@ -1,43 +1,45 @@
 {
-  "generated_at": "2026-10-06T04:11:06.307287+08:00",
-  "generated_at_display": "Oct 06, 2026 · 04:11 AM HKT",
+  "generated_at": "2026-10-06T14:03:53.281404+08:00",
+  "generated_at_display": "Oct 06, 2026 · 02:03 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "England's greatest international? Kane is now a serious contender",
+      "title": "Wales focus on Albania as Grainger reunion looms",
       "source": "BBC Sport",
-      "virality_score": 65,
+      "virality_score": 66,
       "pub_ago": "1h ago",
       "teams": [
-        "England"
+        "Wales"
       ],
       "files": {
-        "916": "cards/20261006_0410_card1_916.png",
-        "169": "cards/20261006_0410_card1_169.png"
+        "916": "cards/20261006_1403_card1_916.png",
+        "169": "cards/20261006_1403_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Police occupy Djibouti FA headquarters amid attempt to oust Fifa council member",
-      "source": "The Guardian",
-      "virality_score": 58,
-      "pub_ago": "2h ago",
-      "teams": [],
+      "title": "Owner, businessman & player: Messi has big plans as a golden era ends",
+      "source": "BBC Sport",
+      "virality_score": 64,
+      "pub_ago": "23m ago",
+      "teams": [
+        "Argentina"
+      ],
       "files": {
-        "916": "cards/20261006_0410_card2_916.png",
-        "169": "cards/20261006_0410_card2_169.png"
+        "916": "cards/20261006_1403_card2_916.png",
+        "169": "cards/20261006_1403_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Inside JJ Gabriel's Man Utd future and why he was in first-team squad photo",
-      "source": "Sky Sports",
-      "virality_score": 57,
-      "pub_ago": "2h ago",
+      "title": "Who am I? Guess Premier League star No 78",
+      "source": "BBC Sport",
+      "virality_score": 54,
+      "pub_ago": "13m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261006_0410_card3_916.png",
-        "169": "cards/20261006_0410_card3_169.png"
+        "916": "cards/20261006_1403_card3_916.png",
+        "169": "cards/20261006_1403_card3_169.png"
       }
     }
   ]
