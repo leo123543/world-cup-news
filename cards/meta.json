@@ -1,45 +1,45 @@
 {
-  "generated_at": "2026-10-07T13:39:01.129132+08:00",
-  "generated_at_display": "Oct 07, 2026 · 01:39 PM HKT",
+  "generated_at": "2026-10-08T02:18:34.145503+08:00",
+  "generated_at_display": "Oct 08, 2026 · 02:18 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Watch: Every Messi World Cup goal for Argentina",
-      "source": "BBC Sport",
-      "virality_score": 80,
-      "pub_ago": "13m ago",
+      "title": "Lionel Messi's Argentina career turned football into a sacred mystery | Marcela Mora y Araujo",
+      "source": "The Guardian",
+      "virality_score": 73,
+      "pub_ago": "1h ago",
       "teams": [
         "Argentina"
       ],
       "files": {
-        "916": "cards/20261007_1338_card1_916.png",
-        "169": "cards/20261007_1338_card1_169.png"
+        "916": "cards/20261008_0218_card1_916.png",
+        "169": "cards/20261008_0218_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Gassiev: Fury-AJ title decision 'strange', calls for winner next",
+      "title": "Why Sprint in Singapore adds new twist to F1's toughest race",
       "source": "Sky Sports",
-      "virality_score": 53,
-      "pub_ago": "38m ago",
+      "virality_score": 64,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261007_1338_card2_916.png",
-        "169": "cards/20261007_1338_card2_169.png"
+        "916": "cards/20261008_0218_card2_916.png",
+        "169": "cards/20261008_0218_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Lionel Messi bids a tearful farewell to Argentina after 3-0 win over Benin",
-      "source": "The Guardian",
-      "virality_score": 52,
+      "title": "Do England already have their Kane replacement - or is he yet to emerge?",
+      "source": "BBC Sport",
+      "virality_score": 63,
       "pub_ago": "2h ago",
       "teams": [
-        "Argentina"
+        "England"
       ],
       "files": {
-        "916": "cards/20261007_1338_card3_916.png",
-        "169": "cards/20261007_1338_card3_169.png"
+        "916": "cards/20261008_0218_card3_916.png",
+        "169": "cards/20261008_0218_card3_169.png"
       }
     }
   ]
