@@ -1,43 +1,45 @@
 {
-  "generated_at": "2026-10-07T01:46:14.597074+08:00",
-  "generated_at_display": "Oct 07, 2026 · 01:46 AM HKT",
+  "generated_at": "2026-10-07T13:39:01.129132+08:00",
+  "generated_at_display": "Oct 07, 2026 · 01:39 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Davies' 'extra motivation' after Euros heartbreak",
+      "title": "Watch: Every Messi World Cup goal for Argentina",
       "source": "BBC Sport",
-      "virality_score": 70,
-      "pub_ago": "58m ago",
+      "virality_score": 80,
+      "pub_ago": "13m ago",
       "teams": [
-        "Wales"
+        "Argentina"
       ],
       "files": {
-        "916": "cards/20261007_0145_card1_916.png",
-        "169": "cards/20261007_0145_card1_169.png"
+        "916": "cards/20261007_1338_card1_916.png",
+        "169": "cards/20261007_1338_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Kamara might miss QPR's next game over Finland row",
-      "source": "BBC Sport",
-      "virality_score": 61,
-      "pub_ago": "2h ago",
+      "title": "Gassiev: Fury-AJ title decision 'strange', calls for winner next",
+      "source": "Sky Sports",
+      "virality_score": 53,
+      "pub_ago": "38m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261007_0145_card2_916.png",
-        "169": "cards/20261007_0145_card2_169.png"
+        "916": "cards/20261007_1338_card2_916.png",
+        "169": "cards/20261007_1338_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "What's it like to be the World Cup final referee?",
-      "source": "BBC Sport",
-      "virality_score": 59,
-      "pub_ago": "4h ago",
-      "teams": [],
+      "title": "Lionel Messi bids a tearful farewell to Argentina after 3-0 win over Benin",
+      "source": "The Guardian",
+      "virality_score": 52,
+      "pub_ago": "2h ago",
+      "teams": [
+        "Argentina"
+      ],
       "files": {
-        "916": "cards/20261007_0145_card3_916.png",
-        "169": "cards/20261007_0145_card3_169.png"
+        "916": "cards/20261007_1338_card3_916.png",
+        "169": "cards/20261007_1338_card3_169.png"
       }
     }
   ]
