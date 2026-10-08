@@ -1,45 +1,41 @@
 {
-  "generated_at": "2026-10-08T02:18:34.145503+08:00",
-  "generated_at_display": "Oct 08, 2026 · 02:18 AM HKT",
+  "generated_at": "2026-10-08T13:47:04.464230+08:00",
+  "generated_at_display": "Oct 08, 2026 · 01:47 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Lionel Messi's Argentina career turned football into a sacred mystery | Marcela Mora y Araujo",
-      "source": "The Guardian",
-      "virality_score": 73,
-      "pub_ago": "1h ago",
-      "teams": [
-        "Argentina"
-      ],
+      "title": "Inside the £1-an-hour official football shirt factories",
+      "source": "BBC Sport",
+      "virality_score": 54,
+      "pub_ago": "26m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261008_0218_card1_916.png",
-        "169": "cards/20261008_0218_card1_169.png"
+        "916": "cards/20261008_1346_card1_916.png",
+        "169": "cards/20261008_1346_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Why Sprint in Singapore adds new twist to F1's toughest race",
+      "title": "Brilliant Star and Alla Stella face off in Beckford Stakes",
       "source": "Sky Sports",
-      "virality_score": 64,
-      "pub_ago": "1h ago",
+      "virality_score": 51,
+      "pub_ago": "46m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261008_0218_card2_916.png",
-        "169": "cards/20261008_0218_card2_169.png"
+        "916": "cards/20261008_1346_card2_916.png",
+        "169": "cards/20261008_1346_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Do England already have their Kane replacement - or is he yet to emerge?",
-      "source": "BBC Sport",
-      "virality_score": 63,
-      "pub_ago": "2h ago",
-      "teams": [
-        "England"
-      ],
+      "title": "'Sandpapergate' Q&A: The 2018 ball-tampering scandal explained",
+      "source": "Sky Sports",
+      "virality_score": 51,
+      "pub_ago": "46m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261008_0218_card3_916.png",
-        "169": "cards/20261008_0218_card3_169.png"
+        "916": "cards/20261008_1346_card3_916.png",
+        "169": "cards/20261008_1346_card3_169.png"
       }
     }
   ]
