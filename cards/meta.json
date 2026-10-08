@@ -1,41 +1,48 @@
 {
-  "generated_at": "2026-10-08T13:47:04.464230+08:00",
-  "generated_at_display": "Oct 08, 2026 · 01:47 PM HKT",
+  "generated_at": "2026-10-09T02:18:50.056832+08:00",
+  "generated_at_display": "Oct 09, 2026 · 02:18 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Inside the £1-an-hour official football shirt factories",
-      "source": "BBC Sport",
-      "virality_score": 54,
-      "pub_ago": "26m ago",
-      "teams": [],
+      "title": "How England snub could boost Toone's World Cup chances",
+      "source": "Sky Sports",
+      "virality_score": 67,
+      "pub_ago": "20m ago",
+      "teams": [
+        "Brazil",
+        "England"
+      ],
       "files": {
-        "916": "cards/20261008_1346_card1_916.png",
-        "169": "cards/20261008_1346_card1_169.png"
+        "916": "cards/20261009_0218_card1_916.png",
+        "169": "cards/20261009_0218_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Brilliant Star and Alla Stella face off in Beckford Stakes",
-      "source": "Sky Sports",
-      "virality_score": 51,
-      "pub_ago": "46m ago",
-      "teams": [],
+      "title": "Wales target clean sheet in World Cup play-off first leg",
+      "source": "BBC Sport",
+      "virality_score": 64,
+      "pub_ago": "3h ago",
+      "teams": [
+        "Wales"
+      ],
       "files": {
-        "916": "cards/20261008_1346_card2_916.png",
-        "169": "cards/20261008_1346_card2_169.png"
+        "916": "cards/20261009_0218_card2_916.png",
+        "169": "cards/20261009_0218_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "'Sandpapergate' Q&A: The 2018 ball-tampering scandal explained",
-      "source": "Sky Sports",
-      "virality_score": 51,
-      "pub_ago": "46m ago",
-      "teams": [],
+      "title": "Wiegman praises Toone's attitude after late Lionesses recall for Greece playoff",
+      "source": "The Guardian",
+      "virality_score": 61,
+      "pub_ago": "1h ago",
+      "teams": [
+        "England"
+      ],
       "files": {
-        "916": "cards/20261008_1346_card3_916.png",
-        "169": "cards/20261008_1346_card3_169.png"
+        "916": "cards/20261009_0218_card3_916.png",
+        "169": "cards/20261009_0218_card3_169.png"
       }
     }
   ]
