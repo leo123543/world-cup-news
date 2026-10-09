@@ -1,48 +1,41 @@
 {
-  "generated_at": "2026-10-09T02:18:50.056832+08:00",
-  "generated_at_display": "Oct 09, 2026 · 02:18 AM HKT",
+  "generated_at": "2026-10-09T13:52:06.866437+08:00",
+  "generated_at_display": "Oct 09, 2026 · 01:52 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "How England snub could boost Toone's World Cup chances",
-      "source": "Sky Sports",
-      "virality_score": 67,
-      "pub_ago": "20m ago",
-      "teams": [
-        "Brazil",
-        "England"
-      ],
+      "title": "Maresca will be demanding a siege mentality from Man City - Pulis",
+      "source": "BBC Sport",
+      "virality_score": 54,
+      "pub_ago": "26m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261009_0218_card1_916.png",
-        "169": "cards/20261009_0218_card1_169.png"
+        "916": "cards/20261009_1351_card1_916.png",
+        "169": "cards/20261009_1351_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Wales target clean sheet in World Cup play-off first leg",
+      "title": "Who am I? Plus today's other quizzes",
       "source": "BBC Sport",
-      "virality_score": 64,
-      "pub_ago": "3h ago",
-      "teams": [
-        "Wales"
-      ],
+      "virality_score": 54,
+      "pub_ago": "16m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261009_0218_card2_916.png",
-        "169": "cards/20261009_0218_card2_169.png"
+        "916": "cards/20261009_1351_card2_916.png",
+        "169": "cards/20261009_1351_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Wiegman praises Toone's attitude after late Lionesses recall for Greece playoff",
-      "source": "The Guardian",
-      "virality_score": 61,
-      "pub_ago": "1h ago",
-      "teams": [
-        "England"
-      ],
+      "title": "Nuno on West Ham's bright start and being back in the Championship",
+      "source": "Sky Sports",
+      "virality_score": 50,
+      "pub_ago": "51m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261009_0218_card3_916.png",
-        "169": "cards/20261009_0218_card3_169.png"
+        "916": "cards/20261009_1351_card3_916.png",
+        "169": "cards/20261009_1351_card3_169.png"
       }
     }
   ]
