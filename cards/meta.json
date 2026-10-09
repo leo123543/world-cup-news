@@ -1,41 +1,43 @@
 {
-  "generated_at": "2026-10-09T13:52:06.866437+08:00",
-  "generated_at_display": "Oct 09, 2026 · 01:52 PM HKT",
+  "generated_at": "2026-10-10T01:52:01.218935+08:00",
+  "generated_at_display": "Oct 10, 2026 · 01:52 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Maresca will be demanding a siege mentality from Man City - Pulis",
-      "source": "BBC Sport",
-      "virality_score": 54,
-      "pub_ago": "26m ago",
-      "teams": [],
+      "title": "Greece v England: Women's World Cup playoff semi-final, first leg - live",
+      "source": "The Guardian",
+      "virality_score": 73,
+      "pub_ago": "13m ago",
+      "teams": [
+        "England"
+      ],
       "files": {
-        "916": "cards/20261009_1351_card1_916.png",
-        "169": "cards/20261009_1351_card1_169.png"
+        "916": "cards/20261010_0151_card1_916.png",
+        "169": "cards/20261010_0151_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Who am I? Plus today's other quizzes",
+      "title": "Will anyone stop re-election of Infantino as Fifa president?",
       "source": "BBC Sport",
-      "virality_score": 54,
-      "pub_ago": "16m ago",
+      "virality_score": 65,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261009_1351_card2_916.png",
-        "169": "cards/20261009_1351_card2_169.png"
+        "916": "cards/20261010_0151_card2_916.png",
+        "169": "cards/20261010_0151_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Nuno on West Ham's bright start and being back in the Championship",
+      "title": "Singapore Grand Prix - Sprint Qualifying highlights",
       "source": "Sky Sports",
-      "virality_score": 50,
-      "pub_ago": "51m ago",
+      "virality_score": 55,
+      "pub_ago": "2h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261009_1351_card3_916.png",
-        "169": "cards/20261009_1351_card3_169.png"
+        "916": "cards/20261010_0151_card3_916.png",
+        "169": "cards/20261010_0151_card3_169.png"
       }
     }
   ]
