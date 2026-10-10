@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-10-10T01:52:01.218935+08:00",
-  "generated_at_display": "Oct 10, 2026 · 01:52 AM HKT",
+  "generated_at": "2026-10-10T13:34:29.291427+08:00",
+  "generated_at_display": "Oct 10, 2026 · 01:34 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Greece v England: Women's World Cup playoff semi-final, first leg - live",
-      "source": "The Guardian",
-      "virality_score": 73,
-      "pub_ago": "13m ago",
-      "teams": [
-        "England"
-      ],
+      "title": "Who am I? Plus today's other quizzes",
+      "source": "BBC Sport",
+      "virality_score": 55,
+      "pub_ago": "5m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261010_0151_card1_916.png",
-        "169": "cards/20261010_0151_card1_169.png"
+        "916": "cards/20261010_1334_card1_916.png",
+        "169": "cards/20261010_1334_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Will anyone stop re-election of Infantino as Fifa president?",
+      "title": "Time to rise? Ranking European football's sleeping giants",
       "source": "BBC Sport",
-      "virality_score": 65,
-      "pub_ago": "1h ago",
+      "virality_score": 54,
+      "pub_ago": "19m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261010_0151_card2_916.png",
-        "169": "cards/20261010_0151_card2_169.png"
+        "916": "cards/20261010_1334_card2_916.png",
+        "169": "cards/20261010_1334_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Singapore Grand Prix - Sprint Qualifying highlights",
-      "source": "Sky Sports",
-      "virality_score": 55,
-      "pub_ago": "2h ago",
-      "teams": [],
+      "title": "NI World Cup hopes gone from 'improbable to impossible'",
+      "source": "BBC Sport",
+      "virality_score": 44,
+      "pub_ago": "8h ago",
+      "teams": [
+        "Portugal"
+      ],
       "files": {
-        "916": "cards/20261010_0151_card3_916.png",
-        "169": "cards/20261010_0151_card3_169.png"
+        "916": "cards/20261010_1334_card3_916.png",
+        "169": "cards/20261010_1334_card3_169.png"
       }
     }
   ]
