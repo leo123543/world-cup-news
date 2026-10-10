@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-10-10T13:34:29.291427+08:00",
-  "generated_at_display": "Oct 10, 2026 · 01:34 PM HKT",
+  "generated_at": "2026-10-11T00:47:44.436532+08:00",
+  "generated_at_display": "Oct 11, 2026 · 12:47 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Who am I? Plus today's other quizzes",
+      "title": "Manager ins and outs - 2026-27",
       "source": "BBC Sport",
-      "virality_score": 55,
-      "pub_ago": "5m ago",
+      "virality_score": 66,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261010_1334_card1_916.png",
-        "169": "cards/20261010_1334_card1_169.png"
+        "916": "cards/20261011_0047_card1_916.png",
+        "169": "cards/20261011_0047_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Time to rise? Ranking European football's sleeping giants",
-      "source": "BBC Sport",
-      "virality_score": 54,
-      "pub_ago": "19m ago",
-      "teams": [],
-      "files": {
-        "916": "cards/20261010_1334_card2_916.png",
-        "169": "cards/20261010_1334_card2_169.png"
-      }
-    },
-    {
-      "rank": 3,
-      "title": "NI World Cup hopes gone from 'improbable to impossible'",
-      "source": "BBC Sport",
-      "virality_score": 44,
-      "pub_ago": "8h ago",
+      "title": "Ronaldo provisionally suspended by Portugal FA after walkout",
+      "source": "Sky Sports",
+      "virality_score": 62,
+      "pub_ago": "32m ago",
       "teams": [
         "Portugal"
       ],
       "files": {
-        "916": "cards/20261010_1334_card3_916.png",
-        "169": "cards/20261010_1334_card3_169.png"
+        "916": "cards/20261011_0047_card2_916.png",
+        "169": "cards/20261011_0047_card2_169.png"
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Aston Villa's wait for home win goes on after Ajer hits back for Brentford",
+      "source": "The Guardian",
+      "virality_score": 60,
+      "pub_ago": "37m ago",
+      "teams": [],
+      "files": {
+        "916": "cards/20261011_0047_card3_916.png",
+        "169": "cards/20261011_0047_card3_169.png"
       }
     }
   ]
