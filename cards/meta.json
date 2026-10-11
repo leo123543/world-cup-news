@@ -1,41 +1,43 @@
 {
-  "generated_at": "2026-10-11T13:30:27.261342+08:00",
-  "generated_at_display": "Oct 11, 2026 · 01:30 PM HKT",
+  "generated_at": "2026-10-12T01:12:47.328101+08:00",
+  "generated_at_display": "Oct 12, 2026 · 01:12 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Papers: Wenger urged to stand for FIFA presidency",
-      "source": "Sky Sports",
-      "virality_score": 42,
-      "pub_ago": "6h ago",
-      "teams": [],
+      "title": "Hughes focused on Albania before World Cup dream",
+      "source": "BBC Sport",
+      "virality_score": 66,
+      "pub_ago": "1h ago",
+      "teams": [
+        "Wales"
+      ],
       "files": {
-        "916": "cards/20261011_1330_card1_916.png",
-        "169": "cards/20261011_1330_card1_169.png"
+        "916": "cards/20261012_0112_card1_916.png",
+        "169": "cards/20261012_0112_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "'I kissed Rodrigo and said thanks' - De Zerbi 'liked' Spurs red card",
+      "title": "Jota comeback helps Celtic lift gloom in strong response",
       "source": "BBC Sport",
-      "virality_score": 41,
-      "pub_ago": "8h ago",
+      "virality_score": 58,
+      "pub_ago": "17m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261011_1330_card2_916.png",
-        "169": "cards/20261011_1330_card2_169.png"
+        "916": "cards/20261012_0112_card2_916.png",
+        "169": "cards/20261012_0112_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Vinicius Jr sent off in Real win as Gordon scores first Barcelona goal",
+      "title": "Exeter hold on against Newcastle as Sale extend Harlequins woes",
       "source": "Sky Sports",
-      "virality_score": 38,
-      "pub_ago": "7h ago",
+      "virality_score": 53,
+      "pub_ago": "2m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261011_1330_card3_916.png",
-        "169": "cards/20261011_1330_card3_169.png"
+        "916": "cards/20261012_0112_card3_916.png",
+        "169": "cards/20261012_0112_card3_169.png"
       }
     }
   ]
