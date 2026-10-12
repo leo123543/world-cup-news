@@ -1,43 +1,41 @@
 {
-  "generated_at": "2026-10-12T01:12:47.328101+08:00",
-  "generated_at_display": "Oct 12, 2026 · 01:12 AM HKT",
+  "generated_at": "2026-10-12T13:40:50.383936+08:00",
+  "generated_at_display": "Oct 12, 2026 · 01:40 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Hughes focused on Albania before World Cup dream",
+      "title": "Who am I? Plus today's other quizzes",
       "source": "BBC Sport",
-      "virality_score": 66,
-      "pub_ago": "1h ago",
-      "teams": [
-        "Wales"
-      ],
+      "virality_score": 55,
+      "pub_ago": "2m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261012_0112_card1_916.png",
-        "169": "cards/20261012_0112_card1_169.png"
+        "916": "cards/20261012_1340_card1_916.png",
+        "169": "cards/20261012_1340_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Jota comeback helps Celtic lift gloom in strong response",
-      "source": "BBC Sport",
-      "virality_score": 58,
-      "pub_ago": "17m ago",
+      "title": "Greaves ends Women's Series season with record-breaking win",
+      "source": "Sky Sports",
+      "virality_score": 45,
+      "pub_ago": "7h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261012_0112_card2_916.png",
-        "169": "cards/20261012_0112_card2_169.png"
+        "916": "cards/20261012_1340_card2_916.png",
+        "169": "cards/20261012_1340_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Exeter hold on against Newcastle as Sale extend Harlequins woes",
-      "source": "Sky Sports",
-      "virality_score": 53,
-      "pub_ago": "2m ago",
+      "title": "'Call it a day with VAR' - Rooney on Palace's controversial goal",
+      "source": "BBC Sport",
+      "virality_score": 39,
+      "pub_ago": "6h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261012_0112_card3_916.png",
-        "169": "cards/20261012_0112_card3_169.png"
+        "916": "cards/20261012_1340_card3_916.png",
+        "169": "cards/20261012_1340_card3_169.png"
       }
     }
   ]
