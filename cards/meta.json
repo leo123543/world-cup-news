@@ -1,47 +1,47 @@
 {
-  "generated_at": "2026-10-13T04:45:25.859190+08:00",
-  "generated_at_display": "Oct 13, 2026 · 04:45 AM HKT",
+  "generated_at": "2026-10-13T14:37:19.618132+08:00",
+  "generated_at_display": "Oct 13, 2026 · 02:37 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Wales wary but eye record run in World Cup bid",
-      "source": "BBC Sport",
-      "virality_score": 63,
-      "pub_ago": "5h ago",
+      "title": "Smith insists England have a winner's mentality despite underdog status",
+      "source": "Sky Sports",
+      "virality_score": 69,
+      "pub_ago": "36m ago",
       "teams": [
-        "Wales"
+        "England",
+        "Australia"
       ],
       "files": {
-        "916": "cards/20261013_0445_card1_916.png",
-        "169": "cards/20261013_0445_card1_169.png"
+        "916": "cards/20261013_1436_card1_916.png",
+        "169": "cards/20261013_1436_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Do Lionesses lack ruthlessness in front of goal?",
+      "title": "Is Man Utd's Fernandes issue a symptom or reason for their form?",
       "source": "BBC Sport",
-      "virality_score": 58,
-      "pub_ago": "3h ago",
-      "teams": [
-        "England"
-      ],
+      "virality_score": 52,
+      "pub_ago": "49m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261013_0445_card2_916.png",
-        "169": "cards/20261013_0445_card2_169.png"
+        "916": "cards/20261013_1436_card2_916.png",
+        "169": "cards/20261013_1436_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Carroll thanks public for support over sexual assault",
+      "title": "Wales given play-off history lesson before Albania second leg",
       "source": "BBC Sport",
-      "virality_score": 54,
-      "pub_ago": "20m ago",
+      "virality_score": 51,
+      "pub_ago": "3h ago",
       "teams": [
-        "England"
+        "Brazil",
+        "Wales"
       ],
       "files": {
-        "916": "cards/20261013_0445_card3_916.png",
-        "169": "cards/20261013_0445_card3_169.png"
+        "916": "cards/20261013_1436_card3_916.png",
+        "169": "cards/20261013_1436_card3_169.png"
       }
     }
   ]
