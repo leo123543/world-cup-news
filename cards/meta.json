@@ -1,47 +1,45 @@
 {
-  "generated_at": "2026-10-13T14:37:19.618132+08:00",
-  "generated_at_display": "Oct 13, 2026 · 02:37 PM HKT",
+  "generated_at": "2026-10-14T02:46:54.624371+08:00",
+  "generated_at_display": "Oct 14, 2026 · 02:46 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Smith insists England have a winner's mentality despite underdog status",
-      "source": "Sky Sports",
-      "virality_score": 69,
-      "pub_ago": "36m ago",
+      "title": "England v Greece: Women's World Cup qualifying playoff, second leg - live",
+      "source": "The Guardian",
+      "virality_score": 68,
+      "pub_ago": "7m ago",
       "teams": [
-        "England",
-        "Australia"
+        "England"
       ],
       "files": {
-        "916": "cards/20261013_1436_card1_916.png",
-        "169": "cards/20261013_1436_card1_169.png"
+        "916": "cards/20261014_0246_card1_916.png",
+        "169": "cards/20261014_0246_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Is Man Utd's Fernandes issue a symptom or reason for their form?",
+      "title": "Netflix secures 2030 World Cup TV rights in Spain",
       "source": "BBC Sport",
-      "virality_score": 52,
-      "pub_ago": "49m ago",
-      "teams": [],
+      "virality_score": 57,
+      "pub_ago": "3h ago",
+      "teams": [
+        "Spain"
+      ],
       "files": {
-        "916": "cards/20261013_1436_card2_916.png",
-        "169": "cards/20261013_1436_card2_169.png"
+        "916": "cards/20261014_0246_card2_916.png",
+        "169": "cards/20261014_0246_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Wales given play-off history lesson before Albania second leg",
-      "source": "BBC Sport",
-      "virality_score": 51,
-      "pub_ago": "3h ago",
-      "teams": [
-        "Brazil",
-        "Wales"
-      ],
+      "title": "Arsenal v Lille: Champions League - live",
+      "source": "The Guardian",
+      "virality_score": 54,
+      "pub_ago": "12m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261013_1436_card3_916.png",
-        "169": "cards/20261013_1436_card3_169.png"
+        "916": "cards/20261014_0246_card3_916.png",
+        "169": "cards/20261014_0246_card3_169.png"
       }
     }
   ]
