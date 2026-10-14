@@ -1,45 +1,47 @@
 {
-  "generated_at": "2026-10-14T02:46:54.624371+08:00",
-  "generated_at_display": "Oct 14, 2026 · 02:46 AM HKT",
+  "generated_at": "2026-10-14T12:38:07.547633+08:00",
+  "generated_at_display": "Oct 14, 2026 · 12:38 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "England v Greece: Women's World Cup qualifying playoff, second leg - live",
-      "source": "The Guardian",
-      "virality_score": 68,
-      "pub_ago": "7m ago",
+      "title": "Republic of Ireland to 'lock in' for World Cup dream",
+      "source": "BBC Sport",
+      "virality_score": 50,
+      "pub_ago": "6h ago",
       "teams": [
-        "England"
+        "Poland"
       ],
       "files": {
-        "916": "cards/20261014_0246_card1_916.png",
-        "169": "cards/20261014_0246_card1_169.png"
+        "916": "cards/20261014_1237_card1_916.png",
+        "169": "cards/20261014_1237_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Netflix secures 2030 World Cup TV rights in Spain",
+      "title": "Pressure on Norway in play-off final - Wilkinson",
       "source": "BBC Sport",
-      "virality_score": 57,
-      "pub_ago": "3h ago",
+      "virality_score": 49,
+      "pub_ago": "7h ago",
       "teams": [
-        "Spain"
+        "Wales"
       ],
       "files": {
-        "916": "cards/20261014_0246_card2_916.png",
-        "169": "cards/20261014_0246_card2_169.png"
+        "916": "cards/20261014_1237_card2_916.png",
+        "169": "cards/20261014_1237_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Arsenal v Lille: Champions League - live",
-      "source": "The Guardian",
-      "virality_score": 54,
-      "pub_ago": "12m ago",
-      "teams": [],
+      "title": "Watch: Scotland beat Czechs to set up Sweden play-off",
+      "source": "BBC Sport",
+      "virality_score": 47,
+      "pub_ago": "8h ago",
+      "teams": [
+        "Scotland"
+      ],
       "files": {
-        "916": "cards/20261014_0246_card3_916.png",
-        "169": "cards/20261014_0246_card3_169.png"
+        "916": "cards/20261014_1237_card3_916.png",
+        "169": "cards/20261014_1237_card3_169.png"
       }
     }
   ]
