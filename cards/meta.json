@@ -1,47 +1,45 @@
 {
-  "generated_at": "2026-10-14T12:38:07.547633+08:00",
-  "generated_at_display": "Oct 14, 2026 · 12:38 PM HKT",
+  "generated_at": "2026-10-15T00:21:06.157383+08:00",
+  "generated_at_display": "Oct 15, 2026 · 12:21 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Republic of Ireland to 'lock in' for World Cup dream",
+      "title": "Fifa to offer extra £2.6bn for football development",
       "source": "BBC Sport",
-      "virality_score": 50,
-      "pub_ago": "6h ago",
-      "teams": [
-        "Poland"
-      ],
+      "virality_score": 69,
+      "pub_ago": "20m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261014_1237_card1_916.png",
-        "169": "cards/20261014_1237_card1_169.png"
+        "916": "cards/20261015_0020_card1_916.png",
+        "169": "cards/20261015_0020_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Pressure on Norway in play-off final - Wilkinson",
-      "source": "BBC Sport",
-      "virality_score": 49,
-      "pub_ago": "7h ago",
+      "title": "England rocked by injury on eve of World Cup",
+      "source": "Sky Sports",
+      "virality_score": 61,
+      "pub_ago": "1h ago",
       "teams": [
-        "Wales"
+        "England"
       ],
       "files": {
-        "916": "cards/20261014_1237_card2_916.png",
-        "169": "cards/20261014_1237_card2_169.png"
+        "916": "cards/20261015_0020_card2_916.png",
+        "169": "cards/20261015_0020_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Watch: Scotland beat Czechs to set up Sweden play-off",
+      "title": "Big scorelines, one-sided games - are Women's World Cup play-offs working?",
       "source": "BBC Sport",
-      "virality_score": 47,
-      "pub_ago": "8h ago",
+      "virality_score": 60,
+      "pub_ago": "2h ago",
       "teams": [
-        "Scotland"
+        "England"
       ],
       "files": {
-        "916": "cards/20261014_1237_card3_916.png",
-        "169": "cards/20261014_1237_card3_169.png"
+        "916": "cards/20261015_0020_card3_916.png",
+        "169": "cards/20261015_0020_card3_169.png"
       }
     }
   ]
