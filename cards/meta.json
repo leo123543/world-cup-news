@@ -1,41 +1,43 @@
 {
-  "generated_at": "2026-10-15T12:20:50.150154+08:00",
-  "generated_at_display": "Oct 15, 2026 · 12:20 PM HKT",
+  "generated_at": "2026-10-16T00:09:05.930126+08:00",
+  "generated_at_display": "Oct 16, 2026 · 12:09 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "'Shameless' - Mourinho critical of Vinicius Jr ban timing",
-      "source": "BBC Sport",
-      "virality_score": 48,
-      "pub_ago": "5h ago",
-      "teams": [],
+      "title": "Spain bid for 2035 Rugby World Cup - could Nou Camp or Bernabeu host final?",
+      "source": "Sky Sports",
+      "virality_score": 66,
+      "pub_ago": "38m ago",
+      "teams": [
+        "Spain"
+      ],
       "files": {
-        "916": "cards/20261015_1220_card1_916.png",
-        "169": "cards/20261015_1220_card1_169.png"
+        "916": "cards/20261016_0008_card1_916.png",
+        "169": "cards/20261016_0008_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
-      "source": "BBC Sport",
-      "virality_score": 48,
-      "pub_ago": "3h ago",
+      "title": "Under-pressure Infantino apologises for World Cup sell-off plan",
+      "source": "Sky Sports",
+      "virality_score": 65,
+      "pub_ago": "8m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261015_1220_card2_916.png",
-        "169": "cards/20261015_1220_card2_169.png"
+        "916": "cards/20261016_0008_card2_916.png",
+        "169": "cards/20261016_0008_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Vinicius Jr to miss El Clasico after hair pull red card",
-      "source": "Sky Sports",
-      "virality_score": 45,
-      "pub_ago": "5h ago",
+      "title": "Infantino apologises to Fifa Council - but told he is still not fit to lead",
+      "source": "BBC Sport",
+      "virality_score": 65,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261015_1220_card3_916.png",
-        "169": "cards/20261015_1220_card3_169.png"
+        "916": "cards/20261016_0008_card3_916.png",
+        "169": "cards/20261016_0008_card3_169.png"
       }
     }
   ]
