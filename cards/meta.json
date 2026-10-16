@@ -1,43 +1,41 @@
 {
-  "generated_at": "2026-10-16T00:09:05.930126+08:00",
-  "generated_at_display": "Oct 16, 2026 · 12:09 AM HKT",
+  "generated_at": "2026-10-16T12:16:11.299763+08:00",
+  "generated_at_display": "Oct 16, 2026 · 12:16 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Spain bid for 2035 Rugby World Cup - could Nou Camp or Bernabeu host final?",
-      "source": "Sky Sports",
-      "virality_score": 66,
-      "pub_ago": "38m ago",
-      "teams": [
-        "Spain"
-      ],
+      "title": "O'Neill defiant in defeat but Celtic's 'flat-track bullies' fail another big test",
+      "source": "BBC Sport",
+      "virality_score": 39,
+      "pub_ago": "5h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261016_0008_card1_916.png",
-        "169": "cards/20261016_0008_card1_169.png"
+        "916": "cards/20261016_1215_card1_916.png",
+        "169": "cards/20261016_1215_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Under-pressure Infantino apologises for World Cup sell-off plan",
+      "title": "Papers: Conte tells Man Utd he's ready to take over if Carrick sacked",
       "source": "Sky Sports",
-      "virality_score": 65,
-      "pub_ago": "8m ago",
+      "virality_score": 38,
+      "pub_ago": "4h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261016_0008_card2_916.png",
-        "169": "cards/20261016_0008_card2_169.png"
+        "916": "cards/20261016_1215_card2_916.png",
+        "169": "cards/20261016_1215_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Infantino apologises to Fifa Council - but told he is still not fit to lead",
+      "title": "Minus 17 to European dreams as Bournemouth fairytale continues",
       "source": "BBC Sport",
-      "virality_score": 65,
-      "pub_ago": "1h ago",
+      "virality_score": 37,
+      "pub_ago": "5h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261016_0008_card3_916.png",
-        "169": "cards/20261016_0008_card3_169.png"
+        "916": "cards/20261016_1215_card3_916.png",
+        "169": "cards/20261016_1215_card3_169.png"
       }
     }
   ]
