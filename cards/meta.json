@@ -1,41 +1,43 @@
 {
-  "generated_at": "2026-10-17T12:06:40.429951+08:00",
-  "generated_at_display": "Oct 17, 2026 · 12:06 PM HKT",
+  "generated_at": "2026-10-17T22:49:07.751279+08:00",
+  "generated_at_display": "Oct 17, 2026 · 10:49 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Bellingham agrees new Real deal - Saturday's gossip",
+      "title": "All done deals in September & October 2026",
       "source": "BBC Sport",
-      "virality_score": 45,
-      "pub_ago": "6h ago",
+      "virality_score": 64,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261017_1206_card1_916.png",
-        "169": "cards/20261017_1206_card1_169.png"
+        "916": "cards/20261017_2248_card1_916.png",
+        "169": "cards/20261017_2248_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Gloucester claim thrilling draw against Champions Cup holders Bordeaux",
-      "source": "Sky Sports",
-      "virality_score": 37,
-      "pub_ago": "5h ago",
+      "title": "Everton did not play well - Moyes",
+      "source": "BBC Sport",
+      "virality_score": 56,
+      "pub_ago": "5m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261017_1206_card2_916.png",
-        "169": "cards/20261017_1206_card2_169.png"
+        "916": "cards/20261017_2248_card2_916.png",
+        "169": "cards/20261017_2248_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Ranking the Premier League's all-time greatest super subs",
-      "source": "BBC Sport",
-      "virality_score": 32,
-      "pub_ago": "6h ago",
-      "teams": [],
+      "title": "England thumped by Tonga in World Cup opener",
+      "source": "Sky Sports",
+      "virality_score": 56,
+      "pub_ago": "2h ago",
+      "teams": [
+        "England"
+      ],
       "files": {
-        "916": "cards/20261017_1206_card3_916.png",
-        "169": "cards/20261017_1206_card3_169.png"
+        "916": "cards/20261017_2248_card3_916.png",
+        "169": "cards/20261017_2248_card3_169.png"
       }
     }
   ]
