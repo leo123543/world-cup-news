@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-10-18T23:14:32.960397+08:00",
-  "generated_at_display": "Oct 18, 2026 · 11:14 PM HKT",
+  "generated_at": "2026-10-19T12:23:35.999132+08:00",
+  "generated_at_display": "Oct 19, 2026 · 12:23 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Man Utd held by Leeds as winless run continues",
-      "source": "Sky Sports",
-      "virality_score": 54,
-      "pub_ago": "14m ago",
+      "title": "Mbappe scores twice as Real Madrid beat Sevilla",
+      "source": "BBC Sport",
+      "virality_score": 43,
+      "pub_ago": "6h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261018_2314_card1_916.png",
-        "169": "cards/20261018_2314_card1_169.png"
+        "916": "cards/20261019_1223_card1_916.png",
+        "169": "cards/20261019_1223_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Brighton score five in Palace dismantling as Gomez nets wondergoal",
-      "source": "Sky Sports",
-      "virality_score": 54,
-      "pub_ago": "14m ago",
+      "title": "'Why not?' - are 'breathtaking' Brighton in title race?",
+      "source": "BBC Sport",
+      "virality_score": 38,
+      "pub_ago": "5h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261018_2314_card2_916.png",
-        "169": "cards/20261018_2314_card2_169.png"
+        "916": "cards/20261019_1223_card2_916.png",
+        "169": "cards/20261019_1223_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Calvert-Lewin denies Man Utd - who rated highest?",
+      "title": "Football Daily",
       "source": "BBC Sport",
-      "virality_score": 54,
-      "pub_ago": "18m ago",
+      "virality_score": 35,
+      "pub_ago": "5h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261018_2314_card3_916.png",
-        "169": "cards/20261018_2314_card3_169.png"
+        "916": "cards/20261019_1223_card3_916.png",
+        "169": "cards/20261019_1223_card3_169.png"
       }
     }
   ]
