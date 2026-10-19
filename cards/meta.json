@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-10-19T12:23:35.999132+08:00",
-  "generated_at_display": "Oct 19, 2026 · 12:23 PM HKT",
+  "generated_at": "2026-10-20T02:10:27.319965+08:00",
+  "generated_at_display": "Oct 20, 2026 · 02:10 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Mbappe scores twice as Real Madrid beat Sevilla",
+      "title": "Uefa gives Infantino two-week deadline to release key documents",
       "source": "BBC Sport",
-      "virality_score": 43,
-      "pub_ago": "6h ago",
+      "virality_score": 69,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261019_1223_card1_916.png",
-        "169": "cards/20261019_1223_card1_169.png"
+        "916": "cards/20261020_0210_card1_916.png",
+        "169": "cards/20261020_0210_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "'Why not?' - are 'breathtaking' Brighton in title race?",
-      "source": "BBC Sport",
-      "virality_score": 38,
-      "pub_ago": "5h ago",
+      "title": "Will that do? Lamine Yamal conjures another magical spell as Barça pass first test | Sid Lowe",
+      "source": "The Guardian",
+      "virality_score": 60,
+      "pub_ago": "40m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261019_1223_card2_916.png",
-        "169": "cards/20261019_1223_card2_169.png"
+        "916": "cards/20261020_0210_card2_916.png",
+        "169": "cards/20261020_0210_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Football Daily",
+      "title": "All the goals from the Women's Super League - matchweek six",
       "source": "BBC Sport",
-      "virality_score": 35,
-      "pub_ago": "5h ago",
+      "virality_score": 56,
+      "pub_ago": "4h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261019_1223_card3_916.png",
-        "169": "cards/20261019_1223_card3_169.png"
+        "916": "cards/20261020_0210_card3_916.png",
+        "169": "cards/20261020_0210_card3_169.png"
       }
     }
   ]
