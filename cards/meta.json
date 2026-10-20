@@ -1,44 +1,45 @@
 {
-  "generated_at": "2026-10-20T12:34:18.432971+08:00",
-  "generated_at_display": "Oct 20, 2026 · 12:34 PM HKT",
+  "generated_at": "2026-10-21T00:12:00.542223+08:00",
+  "generated_at_display": "Oct 21, 2026 · 12:12 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Cristiano Ronaldo receives 30-day suspension and £215 fine over Portugal walkout",
+      "title": "US under-17 women beat Samoa 17-0 for biggest win in World Cup history",
       "source": "The Guardian",
-      "virality_score": 50,
-      "pub_ago": "7h ago",
+      "virality_score": 77,
+      "pub_ago": "56m ago",
       "teams": [
-        "Portugal",
-        "Egypt"
+        "United States"
       ],
       "files": {
-        "916": "cards/20261020_1233_card1_916.png",
-        "169": "cards/20261020_1233_card1_169.png"
+        "916": "cards/20261021_0011_card1_916.png",
+        "169": "cards/20261021_0011_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Ronaldo given 30-day suspension and £215 fine by Portuguese FA",
-      "source": "BBC Sport",
-      "virality_score": 42,
-      "pub_ago": "6h ago",
-      "teams": [],
+      "title": "Stembridge appointed new England netball head coach",
+      "source": "Sky Sports",
+      "virality_score": 61,
+      "pub_ago": "1h ago",
+      "teams": [
+        "England"
+      ],
       "files": {
-        "916": "cards/20261020_1233_card2_916.png",
-        "169": "cards/20261020_1233_card2_169.png"
+        "916": "cards/20261021_0011_card2_916.png",
+        "169": "cards/20261021_0011_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Uefa gives Infantino two-week deadline to release key documents",
-      "source": "BBC Sport",
-      "virality_score": 39,
-      "pub_ago": "10h ago",
+      "title": "Webb backs Botman decision despite pundits' calls for red card",
+      "source": "Sky Sports",
+      "virality_score": 56,
+      "pub_ago": "11m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261020_1233_card3_916.png",
-        "169": "cards/20261020_1233_card3_169.png"
+        "916": "cards/20261021_0011_card3_916.png",
+        "169": "cards/20261021_0011_card3_169.png"
       }
     }
   ]
