@@ -1,41 +1,44 @@
 {
-  "generated_at": "2026-10-20T02:10:27.319965+08:00",
-  "generated_at_display": "Oct 20, 2026 · 02:10 AM HKT",
+  "generated_at": "2026-10-20T12:34:18.432971+08:00",
+  "generated_at_display": "Oct 20, 2026 · 12:34 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Uefa gives Infantino two-week deadline to release key documents",
-      "source": "BBC Sport",
-      "virality_score": 69,
-      "pub_ago": "1h ago",
-      "teams": [],
+      "title": "Cristiano Ronaldo receives 30-day suspension and £215 fine over Portugal walkout",
+      "source": "The Guardian",
+      "virality_score": 50,
+      "pub_ago": "7h ago",
+      "teams": [
+        "Portugal",
+        "Egypt"
+      ],
       "files": {
-        "916": "cards/20261020_0210_card1_916.png",
-        "169": "cards/20261020_0210_card1_169.png"
+        "916": "cards/20261020_1233_card1_916.png",
+        "169": "cards/20261020_1233_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Will that do? Lamine Yamal conjures another magical spell as Barça pass first test | Sid Lowe",
-      "source": "The Guardian",
-      "virality_score": 60,
-      "pub_ago": "40m ago",
+      "title": "Ronaldo given 30-day suspension and £215 fine by Portuguese FA",
+      "source": "BBC Sport",
+      "virality_score": 42,
+      "pub_ago": "6h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261020_0210_card2_916.png",
-        "169": "cards/20261020_0210_card2_169.png"
+        "916": "cards/20261020_1233_card2_916.png",
+        "169": "cards/20261020_1233_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "All the goals from the Women's Super League - matchweek six",
+      "title": "Uefa gives Infantino two-week deadline to release key documents",
       "source": "BBC Sport",
-      "virality_score": 56,
-      "pub_ago": "4h ago",
+      "virality_score": 39,
+      "pub_ago": "10h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261020_0210_card3_916.png",
-        "169": "cards/20261020_0210_card3_169.png"
+        "916": "cards/20261020_1233_card3_916.png",
+        "169": "cards/20261020_1233_card3_169.png"
       }
     }
   ]
