@@ -1,41 +1,44 @@
 {
-  "generated_at": "2026-10-21T12:26:26.208373+08:00",
-  "generated_at_display": "Oct 21, 2026 · 12:26 PM HKT",
+  "generated_at": "2026-10-22T00:27:52.510776+08:00",
+  "generated_at_display": "Oct 22, 2026 · 12:27 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "No Haaland, no problem - can Foden be Man City's alternative goalscorer?",
-      "source": "BBC Sport",
-      "virality_score": 47,
-      "pub_ago": "5h ago",
-      "teams": [],
+      "title": "England 'not thinking about points difference' against France",
+      "source": "Sky Sports",
+      "virality_score": 63,
+      "pub_ago": "29m ago",
+      "teams": [
+        "France",
+        "England"
+      ],
       "files": {
-        "916": "cards/20261021_1226_card1_916.png",
-        "169": "cards/20261021_1226_card1_169.png"
+        "916": "cards/20261022_0027_card1_916.png",
+        "169": "cards/20261022_0027_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "No jeopardy but loads of fun - Champions League sets new goals record",
-      "source": "BBC Sport",
-      "virality_score": 42,
-      "pub_ago": "5h ago",
+      "title": "'A complete threat': Rio Ngumoha's electric display excites Van Dijk and Liverpool",
+      "source": "The Guardian",
+      "virality_score": 54,
+      "pub_ago": "2h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261021_1226_card2_916.png",
-        "169": "cards/20261021_1226_card2_169.png"
+        "916": "cards/20261022_0027_card2_916.png",
+        "169": "cards/20261022_0027_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Liverpool, Man City & PSG win on record-breaking night",
+      "title": "Georgia and Dundee legend Nemsadze dies aged 54",
       "source": "BBC Sport",
-      "virality_score": 40,
-      "pub_ago": "6h ago",
+      "virality_score": 54,
+      "pub_ago": "26m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261021_1226_card3_916.png",
-        "169": "cards/20261021_1226_card3_169.png"
+        "916": "cards/20261022_0027_card3_916.png",
+        "169": "cards/20261022_0027_card3_169.png"
       }
     }
   ]
