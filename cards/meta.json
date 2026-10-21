@@ -1,45 +1,41 @@
 {
-  "generated_at": "2026-10-21T00:12:00.542223+08:00",
-  "generated_at_display": "Oct 21, 2026 · 12:12 AM HKT",
+  "generated_at": "2026-10-21T12:26:26.208373+08:00",
+  "generated_at_display": "Oct 21, 2026 · 12:26 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "US under-17 women beat Samoa 17-0 for biggest win in World Cup history",
-      "source": "The Guardian",
-      "virality_score": 77,
-      "pub_ago": "56m ago",
-      "teams": [
-        "United States"
-      ],
+      "title": "No Haaland, no problem - can Foden be Man City's alternative goalscorer?",
+      "source": "BBC Sport",
+      "virality_score": 47,
+      "pub_ago": "5h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261021_0011_card1_916.png",
-        "169": "cards/20261021_0011_card1_169.png"
+        "916": "cards/20261021_1226_card1_916.png",
+        "169": "cards/20261021_1226_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Stembridge appointed new England netball head coach",
-      "source": "Sky Sports",
-      "virality_score": 61,
-      "pub_ago": "1h ago",
-      "teams": [
-        "England"
-      ],
+      "title": "No jeopardy but loads of fun - Champions League sets new goals record",
+      "source": "BBC Sport",
+      "virality_score": 42,
+      "pub_ago": "5h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261021_0011_card2_916.png",
-        "169": "cards/20261021_0011_card2_169.png"
+        "916": "cards/20261021_1226_card2_916.png",
+        "169": "cards/20261021_1226_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Webb backs Botman decision despite pundits' calls for red card",
-      "source": "Sky Sports",
-      "virality_score": 56,
-      "pub_ago": "11m ago",
+      "title": "Liverpool, Man City & PSG win on record-breaking night",
+      "source": "BBC Sport",
+      "virality_score": 40,
+      "pub_ago": "6h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261021_0011_card3_916.png",
-        "169": "cards/20261021_0011_card3_169.png"
+        "916": "cards/20261021_1226_card3_916.png",
+        "169": "cards/20261021_1226_card3_169.png"
       }
     }
   ]
