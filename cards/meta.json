@@ -1,44 +1,45 @@
 {
-  "generated_at": "2026-10-22T00:27:52.510776+08:00",
-  "generated_at_display": "Oct 22, 2026 · 12:27 AM HKT",
+  "generated_at": "2026-10-22T12:25:06.228730+08:00",
+  "generated_at_display": "Oct 22, 2026 · 12:25 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "England 'not thinking about points difference' against France",
-      "source": "Sky Sports",
-      "virality_score": 63,
-      "pub_ago": "29m ago",
-      "teams": [
-        "France",
-        "England"
-      ],
+      "title": "Saka injury 'does not look good' - how will Arsenal cope?",
+      "source": "BBC Sport",
+      "virality_score": 51,
+      "pub_ago": "5h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261022_0027_card1_916.png",
-        "169": "cards/20261022_0027_card1_169.png"
+        "916": "cards/20261022_1224_card1_916.png",
+        "169": "cards/20261022_1224_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "'A complete threat': Rio Ngumoha's electric display excites Van Dijk and Liverpool",
-      "source": "The Guardian",
-      "virality_score": 54,
-      "pub_ago": "2h ago",
-      "teams": [],
+      "title": "Goal, assist... goal-kick - Kane underlines Ballon d'Or credentials",
+      "source": "BBC Sport",
+      "virality_score": 50,
+      "pub_ago": "5h ago",
+      "teams": [
+        "England"
+      ],
       "files": {
-        "916": "cards/20261022_0027_card2_916.png",
-        "169": "cards/20261022_0027_card2_169.png"
+        "916": "cards/20261022_1224_card2_916.png",
+        "169": "cards/20261022_1224_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Georgia and Dundee legend Nemsadze dies aged 54",
+      "title": "Is it 'phenomenal' Kane's year to lift the Ballon d'Or?",
       "source": "BBC Sport",
-      "virality_score": 54,
-      "pub_ago": "26m ago",
-      "teams": [],
+      "virality_score": 46,
+      "pub_ago": "5h ago",
+      "teams": [
+        "England"
+      ],
       "files": {
-        "916": "cards/20261022_0027_card3_916.png",
-        "169": "cards/20261022_0027_card3_169.png"
+        "916": "cards/20261022_1224_card3_916.png",
+        "169": "cards/20261022_1224_card3_169.png"
       }
     }
   ]
