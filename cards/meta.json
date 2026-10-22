@@ -1,45 +1,41 @@
 {
-  "generated_at": "2026-10-22T12:25:06.228730+08:00",
-  "generated_at_display": "Oct 22, 2026 · 12:25 PM HKT",
+  "generated_at": "2026-10-23T00:28:58.174179+08:00",
+  "generated_at_display": "Oct 23, 2026 · 12:28 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Saka injury 'does not look good' - how will Arsenal cope?",
+      "title": "What are Real's attacking options during Vinicius Jr ban?",
       "source": "BBC Sport",
-      "virality_score": 51,
-      "pub_ago": "5h ago",
+      "virality_score": 65,
+      "pub_ago": "55m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261022_1224_card1_916.png",
-        "169": "cards/20261022_1224_card1_169.png"
+        "916": "cards/20261023_0028_card1_916.png",
+        "169": "cards/20261023_0028_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Goal, assist... goal-kick - Kane underlines Ballon d'Or credentials",
-      "source": "BBC Sport",
-      "virality_score": 50,
-      "pub_ago": "5h ago",
-      "teams": [
-        "England"
-      ],
+      "title": "Trump's Fifa peace prize was a sham. A reimagined award can still have meaning | Leander Schaerlaeckens",
+      "source": "The Guardian",
+      "virality_score": 64,
+      "pub_ago": "57m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261022_1224_card2_916.png",
-        "169": "cards/20261022_1224_card2_169.png"
+        "916": "cards/20261023_0028_card2_916.png",
+        "169": "cards/20261023_0028_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Is it 'phenomenal' Kane's year to lift the Ballon d'Or?",
+      "title": "Fernandes to remain Man Utd captain despite outburst",
       "source": "BBC Sport",
-      "virality_score": 46,
-      "pub_ago": "5h ago",
-      "teams": [
-        "England"
-      ],
+      "virality_score": 55,
+      "pub_ago": "9m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261022_1224_card3_916.png",
-        "169": "cards/20261022_1224_card3_169.png"
+        "916": "cards/20261023_0028_card3_916.png",
+        "169": "cards/20261023_0028_card3_169.png"
       }
     }
   ]
