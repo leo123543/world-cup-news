@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-10-23T12:31:28.612265+08:00",
-  "generated_at_display": "Oct 23, 2026 · 12:31 PM HKT",
+  "generated_at": "2026-10-24T00:17:16.155736+08:00",
+  "generated_at_display": "Oct 24, 2026 · 12:17 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Norris: 'Incredible' Antonelli two levels above Russell all season",
-      "source": "Sky Sports",
-      "virality_score": 40,
-      "pub_ago": "4h ago",
+      "title": "Arsenal fear Saka could be out for two months",
+      "source": "BBC Sport",
+      "virality_score": 61,
+      "pub_ago": "2h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261023_1231_card1_916.png",
-        "169": "cards/20261023_1231_card1_169.png"
+        "916": "cards/20261024_0016_card1_916.png",
+        "169": "cards/20261024_0016_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Verstappen criticises 'unacceptable' COTA surface amid concerns over injury",
-      "source": "Sky Sports",
-      "virality_score": 38,
-      "pub_ago": "4h ago",
+      "title": "Arteta concerned over Saka's durability as forward faces possible six-week absence",
+      "source": "The Guardian",
+      "virality_score": 57,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261023_1231_card2_916.png",
-        "169": "cards/20261023_1231_card2_169.png"
+        "916": "cards/20261024_0016_card2_916.png",
+        "169": "cards/20261024_0016_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "'Night they'll never forget!' - Bournemouth breeze past European giants AC Milan",
-      "source": "Sky Sports",
-      "virality_score": 38,
-      "pub_ago": "5h ago",
+      "title": "Premiership preview: Form strikers in focus and will Rangers respond?",
+      "source": "BBC Sport",
+      "virality_score": 53,
+      "pub_ago": "36m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261023_1231_card3_916.png",
-        "169": "cards/20261023_1231_card3_169.png"
+        "916": "cards/20261024_0016_card3_916.png",
+        "169": "cards/20261024_0016_card3_169.png"
       }
     }
   ]
