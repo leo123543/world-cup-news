@@ -1,41 +1,46 @@
 {
-  "generated_at": "2026-10-24T12:20:24.258363+08:00",
-  "generated_at_display": "Oct 24, 2026 · 12:20 PM HKT",
+  "generated_at": "2026-10-24T23:15:09.915752+08:00",
+  "generated_at_display": "Oct 24, 2026 · 11:15 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Arteta concerned over Saka's durability as forward faces possible six-week absence",
-      "source": "The Guardian",
-      "virality_score": 39,
-      "pub_ago": "6h ago",
-      "teams": [],
+      "title": "'It's harsh' - was Arsenal's winning penalty a controversial decision?",
+      "source": "BBC Sport",
+      "virality_score": 60,
+      "pub_ago": "11m ago",
+      "teams": [
+        "England"
+      ],
       "files": {
-        "916": "cards/20261024_1220_card1_916.png",
-        "169": "cards/20261024_1220_card1_169.png"
+        "916": "cards/20261024_2314_card1_916.png",
+        "169": "cards/20261024_2314_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "'It doesn't make sense' - Glasner confused after Diop avoids red card",
-      "source": "BBC Sport",
-      "virality_score": 39,
-      "pub_ago": "6h ago",
-      "teams": [],
+      "title": "England suffer 15-try defeat against rampant Australia",
+      "source": "Sky Sports",
+      "virality_score": 58,
+      "pub_ago": "4h ago",
+      "teams": [
+        "England",
+        "Australia"
+      ],
       "files": {
-        "916": "cards/20261024_1220_card2_916.png",
-        "169": "cards/20261024_1220_card2_169.png"
+        "916": "cards/20261024_2314_card2_916.png",
+        "169": "cards/20261024_2314_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Borussia M'gladbach finally get first win after five-goal thriller",
+      "title": "Arsenal fight back to beat Tottenham and ease pressure on Slegers",
       "source": "BBC Sport",
-      "virality_score": 37,
-      "pub_ago": "6h ago",
+      "virality_score": 58,
+      "pub_ago": "54m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261024_1220_card3_916.png",
-        "169": "cards/20261024_1220_card3_169.png"
+        "916": "cards/20261024_2314_card3_916.png",
+        "169": "cards/20261024_2314_card3_169.png"
       }
     }
   ]
