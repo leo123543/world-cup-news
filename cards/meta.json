@@ -1,46 +1,43 @@
 {
-  "generated_at": "2026-10-24T23:15:09.915752+08:00",
-  "generated_at_display": "Oct 24, 2026 · 11:15 PM HKT",
+  "generated_at": "2026-10-25T12:24:09.292878+08:00",
+  "generated_at_display": "Oct 25, 2026 · 12:24 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "'It's harsh' - was Arsenal's winning penalty a controversial decision?",
-      "source": "BBC Sport",
-      "virality_score": 60,
-      "pub_ago": "11m ago",
-      "teams": [
-        "England"
-      ],
+      "title": "'Dream come true!' - Britain's Palmowski becomes 2026 F1 Academy champion",
+      "source": "Sky Sports",
+      "virality_score": 54,
+      "pub_ago": "3h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261024_2314_card1_916.png",
-        "169": "cards/20261024_2314_card1_169.png"
+        "916": "cards/20261025_1223_card1_916.png",
+        "169": "cards/20261025_1223_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "England suffer 15-try defeat against rampant Australia",
+      "title": "'Not realistic' - Can Wolff's assessment of Antonelli's title chance be trusted?",
       "source": "Sky Sports",
-      "virality_score": 58,
-      "pub_ago": "4h ago",
+      "virality_score": 54,
+      "pub_ago": "3h ago",
       "teams": [
-        "England",
-        "Australia"
+        "United States"
       ],
       "files": {
-        "916": "cards/20261024_2314_card2_916.png",
-        "169": "cards/20261024_2314_card2_169.png"
+        "916": "cards/20261025_1223_card2_916.png",
+        "169": "cards/20261025_1223_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Arsenal fight back to beat Tottenham and ease pressure on Slegers",
+      "title": "Should Palmer have been sent off earlier than he was?",
       "source": "BBC Sport",
-      "virality_score": 58,
-      "pub_ago": "54m ago",
+      "virality_score": 40,
+      "pub_ago": "5h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261024_2314_card3_916.png",
-        "169": "cards/20261024_2314_card3_169.png"
+        "916": "cards/20261025_1223_card3_916.png",
+        "169": "cards/20261025_1223_card3_169.png"
       }
     }
   ]
