@@ -1,43 +1,44 @@
 {
-  "generated_at": "2026-10-25T12:24:09.292878+08:00",
-  "generated_at_display": "Oct 25, 2026 · 12:24 PM HKT",
+  "generated_at": "2026-10-25T23:25:06.266496+08:00",
+  "generated_at_display": "Oct 25, 2026 · 11:25 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "'Dream come true!' - Britain's Palmowski becomes 2026 F1 Academy champion",
+      "title": "Phatlum wins Hero Women's Indian Open for the fourth time",
       "source": "Sky Sports",
-      "virality_score": 54,
-      "pub_ago": "3h ago",
+      "virality_score": 66,
+      "pub_ago": "29m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261025_1223_card1_916.png",
-        "169": "cards/20261025_1223_card1_169.png"
+        "916": "cards/20261025_2324_card1_916.png",
+        "169": "cards/20261025_2324_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "'Not realistic' - Can Wolff's assessment of Antonelli's title chance be trusted?",
-      "source": "Sky Sports",
-      "virality_score": 54,
+      "title": "England win cerebral palsy World Cup for first time",
+      "source": "BBC Sport",
+      "virality_score": 63,
       "pub_ago": "3h ago",
       "teams": [
+        "England",
         "United States"
       ],
       "files": {
-        "916": "cards/20261025_1223_card2_916.png",
-        "169": "cards/20261025_1223_card2_169.png"
+        "916": "cards/20261025_2324_card2_916.png",
+        "169": "cards/20261025_2324_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Should Palmer have been sent off earlier than he was?",
+      "title": "Johnston felt something again, says O'Neill",
       "source": "BBC Sport",
-      "virality_score": 40,
-      "pub_ago": "5h ago",
+      "virality_score": 53,
+      "pub_ago": "39m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261025_1223_card3_916.png",
-        "169": "cards/20261025_1223_card3_169.png"
+        "916": "cards/20261025_2324_card3_916.png",
+        "169": "cards/20261025_2324_card3_169.png"
       }
     }
   ]
