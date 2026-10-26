@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-10-26T12:27:14.369412+08:00",
-  "generated_at_display": "Oct 26, 2026 · 12:27 PM HKT",
+  "generated_at": "2026-10-27T02:16:09.363256+08:00",
+  "generated_at_display": "Oct 27, 2026 · 02:16 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Mourinho keeps Clasico midas touch 13 years on as La Liga heats up",
+      "title": "Ballon d'Or website blunder causes confusion",
       "source": "BBC Sport",
-      "virality_score": 53,
-      "pub_ago": "4h ago",
+      "virality_score": 65,
+      "pub_ago": "5m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261026_1226_card1_916.png",
-        "169": "cards/20261026_1226_card1_169.png"
+        "916": "cards/20261027_0215_card1_916.png",
+        "169": "cards/20261027_0215_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "United States Grand Prix | Race highlights",
-      "source": "Sky Sports",
-      "virality_score": 45,
-      "pub_ago": "6h ago",
+      "title": "England-Republic of Ireland U15 World Cup game ends over alleged racism",
+      "source": "BBC Sport",
+      "virality_score": 65,
+      "pub_ago": "1h ago",
       "teams": [
-        "United States"
+        "England"
       ],
       "files": {
-        "916": "cards/20261026_1226_card2_916.png",
-        "169": "cards/20261026_1226_card2_169.png"
+        "916": "cards/20261027_0215_card2_916.png",
+        "169": "cards/20261027_0215_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Man City's perfect start over after draw at rivals Man Utd",
+      "title": "Celtic & Rangers wait for stadium closures ruling",
       "source": "BBC Sport",
-      "virality_score": 45,
-      "pub_ago": "4h ago",
+      "virality_score": 52,
+      "pub_ago": "59m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261026_1226_card3_916.png",
-        "169": "cards/20261026_1226_card3_169.png"
+        "916": "cards/20261027_0215_card3_916.png",
+        "169": "cards/20261027_0215_card3_169.png"
       }
     }
   ]
