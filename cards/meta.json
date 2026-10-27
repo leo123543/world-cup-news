@@ -1,45 +1,43 @@
 {
-  "generated_at": "2026-10-27T12:46:19.712689+08:00",
-  "generated_at_display": "Oct 27, 2026 · 12:46 PM HKT",
+  "generated_at": "2026-10-28T01:26:49.312306+08:00",
+  "generated_at_display": "Oct 28, 2026 · 01:26 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Harry Kane claims men's Ballon d'Or to end England's 25-year wait for winner",
+      "title": "Football Daily | Harry Kane completes his arc from Orient loanee to Ballon d'Or winner",
       "source": "The Guardian",
-      "virality_score": 60,
-      "pub_ago": "5h ago",
-      "teams": [
-        "England"
-      ],
+      "virality_score": 63,
+      "pub_ago": "1h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261027_1245_card1_916.png",
-        "169": "cards/20261027_1245_card1_169.png"
+        "916": "cards/20261028_0126_card1_916.png",
+        "169": "cards/20261028_0126_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Ballon d'Or winner Kane's best Bundesliga goals",
+      "title": "FAW boss renews call for Infantino to step down",
       "source": "BBC Sport",
-      "virality_score": 52,
-      "pub_ago": "9h ago",
+      "virality_score": 63,
+      "pub_ago": "2h ago",
       "teams": [
-        "England"
+        "Wales"
       ],
       "files": {
-        "916": "cards/20261027_1245_card2_916.png",
-        "169": "cards/20261027_1245_card2_169.png"
+        "916": "cards/20261028_0126_card2_916.png",
+        "169": "cards/20261028_0126_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Kane prematurely announced as Ballon d'Or winner - but he wasn't only one",
+      "title": "How Kane's Ballon d'Or win could boost the Bundesliga",
       "source": "BBC Sport",
-      "virality_score": 50,
-      "pub_ago": "5h ago",
+      "virality_score": 57,
+      "pub_ago": "3h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261027_1245_card3_916.png",
-        "169": "cards/20261027_1245_card3_169.png"
+        "916": "cards/20261028_0126_card3_916.png",
+        "169": "cards/20261028_0126_card3_169.png"
       }
     }
   ]
