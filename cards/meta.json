@@ -1,43 +1,45 @@
 {
-  "generated_at": "2026-10-27T02:16:09.363256+08:00",
-  "generated_at_display": "Oct 27, 2026 · 02:16 AM HKT",
+  "generated_at": "2026-10-27T12:46:19.712689+08:00",
+  "generated_at_display": "Oct 27, 2026 · 12:46 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Ballon d'Or website blunder causes confusion",
-      "source": "BBC Sport",
-      "virality_score": 65,
-      "pub_ago": "5m ago",
-      "teams": [],
-      "files": {
-        "916": "cards/20261027_0215_card1_916.png",
-        "169": "cards/20261027_0215_card1_169.png"
-      }
-    },
-    {
-      "rank": 2,
-      "title": "England-Republic of Ireland U15 World Cup game ends over alleged racism",
-      "source": "BBC Sport",
-      "virality_score": 65,
-      "pub_ago": "1h ago",
+      "title": "Harry Kane claims men's Ballon d'Or to end England's 25-year wait for winner",
+      "source": "The Guardian",
+      "virality_score": 60,
+      "pub_ago": "5h ago",
       "teams": [
         "England"
       ],
       "files": {
-        "916": "cards/20261027_0215_card2_916.png",
-        "169": "cards/20261027_0215_card2_169.png"
+        "916": "cards/20261027_1245_card1_916.png",
+        "169": "cards/20261027_1245_card1_169.png"
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Ballon d'Or winner Kane's best Bundesliga goals",
+      "source": "BBC Sport",
+      "virality_score": 52,
+      "pub_ago": "9h ago",
+      "teams": [
+        "England"
+      ],
+      "files": {
+        "916": "cards/20261027_1245_card2_916.png",
+        "169": "cards/20261027_1245_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Celtic & Rangers wait for stadium closures ruling",
+      "title": "Kane prematurely announced as Ballon d'Or winner - but he wasn't only one",
       "source": "BBC Sport",
-      "virality_score": 52,
-      "pub_ago": "59m ago",
+      "virality_score": 50,
+      "pub_ago": "5h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261027_0215_card3_916.png",
-        "169": "cards/20261027_0215_card3_169.png"
+        "916": "cards/20261027_1245_card3_916.png",
+        "169": "cards/20261027_1245_card3_169.png"
       }
     }
   ]
