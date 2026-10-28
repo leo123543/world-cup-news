@@ -1,43 +1,41 @@
 {
-  "generated_at": "2026-10-28T01:26:49.312306+08:00",
-  "generated_at_display": "Oct 28, 2026 · 01:26 AM HKT",
+  "generated_at": "2026-10-28T13:20:36.895121+08:00",
+  "generated_at_display": "Oct 28, 2026 · 01:20 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Football Daily | Harry Kane completes his arc from Orient loanee to Ballon d'Or winner",
-      "source": "The Guardian",
-      "virality_score": 63,
-      "pub_ago": "1h ago",
+      "title": "Dowman sees red as Arsenal dumped out, but did Arteta go too far?",
+      "source": "BBC Sport",
+      "virality_score": 50,
+      "pub_ago": "4h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261028_0126_card1_916.png",
-        "169": "cards/20261028_0126_card1_169.png"
+        "916": "cards/20261028_1320_card1_916.png",
+        "169": "cards/20261028_1320_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "FAW boss renews call for Infantino to step down",
+      "title": "'Biggest night in the club's history' for fearless Fleetwood",
       "source": "BBC Sport",
-      "virality_score": 63,
-      "pub_ago": "2h ago",
-      "teams": [
-        "Wales"
-      ],
+      "virality_score": 45,
+      "pub_ago": "4h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261028_0126_card2_916.png",
-        "169": "cards/20261028_0126_card2_169.png"
+        "916": "cards/20261028_1320_card2_916.png",
+        "169": "cards/20261028_1320_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "How Kane's Ballon d'Or win could boost the Bundesliga",
+      "title": "Where does Fleetwood beating Arsenal rank in biggest cup upsets?",
       "source": "BBC Sport",
-      "virality_score": 57,
-      "pub_ago": "3h ago",
+      "virality_score": 40,
+      "pub_ago": "5h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261028_0126_card3_916.png",
-        "169": "cards/20261028_0126_card3_169.png"
+        "916": "cards/20261028_1320_card3_916.png",
+        "169": "cards/20261028_1320_card3_169.png"
       }
     }
   ]
