@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-10-29T01:48:25.522733+08:00",
-  "generated_at_display": "Oct 29, 2026 · 01:48 AM HKT",
+  "generated_at": "2026-10-29T13:31:21.112748+08:00",
+  "generated_at_display": "Oct 29, 2026 · 01:31 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Hero Haughey's 'surreal moment' after Arsenal shock",
-      "source": "BBC Sport",
-      "virality_score": 69,
-      "pub_ago": "57m ago",
+      "title": "European football: Bayern ease to Cup victory after Kompany leaves hospital",
+      "source": "The Guardian",
+      "virality_score": 45,
+      "pub_ago": "5h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261029_0148_card1_916.png",
-        "169": "cards/20261029_0148_card1_169.png"
+        "916": "cards/20261029_1331_card1_916.png",
+        "169": "cards/20261029_1331_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "When is the EFL Cup quarter-final draw?",
+      "title": "'Stutter' penalty back in the spotlight after Barco miss costs Chelsea",
       "source": "BBC Sport",
-      "virality_score": 57,
-      "pub_ago": "38m ago",
+      "virality_score": 42,
+      "pub_ago": "5h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261029_0148_card2_916.png",
-        "169": "cards/20261029_0148_card2_169.png"
+        "916": "cards/20261029_1331_card2_916.png",
+        "169": "cards/20261029_1331_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "All Spanish cup matches suspended after Madrid train collision",
+      "title": "Sancho rejects Getafe - Thursday's gossip",
       "source": "BBC Sport",
-      "virality_score": 55,
-      "pub_ago": "4h ago",
+      "virality_score": 39,
+      "pub_ago": "7h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261029_0148_card3_916.png",
-        "169": "cards/20261029_0148_card3_169.png"
+        "916": "cards/20261029_1331_card3_916.png",
+        "169": "cards/20261029_1331_card3_169.png"
       }
     }
   ]
