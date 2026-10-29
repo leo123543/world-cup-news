@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-10-29T13:31:21.112748+08:00",
-  "generated_at_display": "Oct 29, 2026 · 01:31 PM HKT",
+  "generated_at": "2026-10-30T01:55:23.626601+08:00",
+  "generated_at_display": "Oct 30, 2026 · 01:55 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "European football: Bayern ease to Cup victory after Kompany leaves hospital",
-      "source": "The Guardian",
-      "virality_score": 45,
-      "pub_ago": "5h ago",
+      "title": "Euro Leagues",
+      "source": "BBC Sport",
+      "virality_score": 60,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261029_1331_card1_916.png",
-        "169": "cards/20261029_1331_card1_169.png"
+        "916": "cards/20261030_0155_card1_916.png",
+        "169": "cards/20261030_0155_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "'Stutter' penalty back in the spotlight after Barco miss costs Chelsea",
+      "title": "Scottish football could pave way for 3pm TV blackout to end",
       "source": "BBC Sport",
-      "virality_score": 42,
-      "pub_ago": "5h ago",
+      "virality_score": 54,
+      "pub_ago": "11m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261029_1331_card2_916.png",
-        "169": "cards/20261029_1331_card2_169.png"
+        "916": "cards/20261030_0155_card2_916.png",
+        "169": "cards/20261030_0155_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Sancho rejects Getafe - Thursday's gossip",
+      "title": "Dowman to miss three matches after appeal rejected",
       "source": "BBC Sport",
-      "virality_score": 39,
-      "pub_ago": "7h ago",
+      "virality_score": 53,
+      "pub_ago": "35m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261029_1331_card3_916.png",
-        "169": "cards/20261029_1331_card3_169.png"
+        "916": "cards/20261030_0155_card3_916.png",
+        "169": "cards/20261030_0155_card3_169.png"
       }
     }
   ]
