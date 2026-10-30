@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-10-30T13:31:20.816648+08:00",
-  "generated_at_display": "Oct 30, 2026 · 01:31 PM HKT",
+  "generated_at": "2026-10-31T01:37:40.132466+08:00",
+  "generated_at_display": "Oct 31, 2026 · 01:37 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Russell: 2026 F1 season won't break me",
+      "title": "Wilkin: Rugby League World Cup format 'fundamentally flawed'",
       "source": "Sky Sports",
-      "virality_score": 41,
-      "pub_ago": "7h ago",
+      "virality_score": 58,
+      "pub_ago": "2h ago",
       "teams": [
-        "Mexico"
+        "England"
       ],
       "files": {
-        "916": "cards/20261030_1331_card1_916.png",
-        "169": "cards/20261030_1331_card1_169.png"
+        "916": "cards/20261031_0137_card1_916.png",
+        "169": "cards/20261031_0137_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Ronaldo scores perfect hat-trick!",
-      "source": "Sky Sports",
-      "virality_score": 36,
-      "pub_ago": "8h ago",
+      "title": "Fears Chelsea's Lacroix could be out until January",
+      "source": "BBC Sport",
+      "virality_score": 54,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261030_1331_card2_916.png",
-        "169": "cards/20261030_1331_card2_169.png"
+        "916": "cards/20261031_0137_card2_916.png",
+        "169": "cards/20261031_0137_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Premier League: 10 things to look out for this weekend",
+      "title": "Iraola tempers Liverpool title talk, Maresca says Donnarumma is droppable, and more - football live",
       "source": "The Guardian",
-      "virality_score": 34,
-      "pub_ago": "5h ago",
+      "virality_score": 54,
+      "pub_ago": "18m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261030_1331_card3_916.png",
-        "169": "cards/20261030_1331_card3_169.png"
+        "916": "cards/20261031_0137_card3_916.png",
+        "169": "cards/20261031_0137_card3_169.png"
       }
     }
   ]
