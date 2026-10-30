@@ -1,41 +1,43 @@
 {
-  "generated_at": "2026-10-30T01:55:23.626601+08:00",
-  "generated_at_display": "Oct 30, 2026 · 01:55 AM HKT",
+  "generated_at": "2026-10-30T13:31:20.816648+08:00",
+  "generated_at_display": "Oct 30, 2026 · 01:31 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Euro Leagues",
-      "source": "BBC Sport",
-      "virality_score": 60,
-      "pub_ago": "1h ago",
-      "teams": [],
+      "title": "Russell: 2026 F1 season won't break me",
+      "source": "Sky Sports",
+      "virality_score": 41,
+      "pub_ago": "7h ago",
+      "teams": [
+        "Mexico"
+      ],
       "files": {
-        "916": "cards/20261030_0155_card1_916.png",
-        "169": "cards/20261030_0155_card1_169.png"
+        "916": "cards/20261030_1331_card1_916.png",
+        "169": "cards/20261030_1331_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Scottish football could pave way for 3pm TV blackout to end",
-      "source": "BBC Sport",
-      "virality_score": 54,
-      "pub_ago": "11m ago",
+      "title": "Ronaldo scores perfect hat-trick!",
+      "source": "Sky Sports",
+      "virality_score": 36,
+      "pub_ago": "8h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261030_0155_card2_916.png",
-        "169": "cards/20261030_0155_card2_169.png"
+        "916": "cards/20261030_1331_card2_916.png",
+        "169": "cards/20261030_1331_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Dowman to miss three matches after appeal rejected",
-      "source": "BBC Sport",
-      "virality_score": 53,
-      "pub_ago": "35m ago",
+      "title": "Premier League: 10 things to look out for this weekend",
+      "source": "The Guardian",
+      "virality_score": 34,
+      "pub_ago": "5h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261030_0155_card3_916.png",
-        "169": "cards/20261030_0155_card3_169.png"
+        "916": "cards/20261030_1331_card3_916.png",
+        "169": "cards/20261030_1331_card3_169.png"
       }
     }
   ]
