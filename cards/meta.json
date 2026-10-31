@@ -1,43 +1,41 @@
 {
-  "generated_at": "2026-10-31T13:17:08.610699+08:00",
-  "generated_at_display": "Oct 31, 2026 · 01:17 PM HKT",
+  "generated_at": "2026-11-01T00:41:13.847271+08:00",
+  "generated_at_display": "Nov 01, 2026 · 12:41 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Hadjar summoned to stewards for alleged 'misconduct' paddock incident",
-      "source": "Sky Sports",
-      "virality_score": 44,
+      "title": "Kane beat Mbappe to Ballon d'Or by just 28 points",
+      "source": "BBC Sport",
+      "virality_score": 61,
       "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261031_1316_card1_916.png",
-        "169": "cards/20261031_1316_card1_169.png"
+        "916": "cards/20261101_0040_card1_916.png",
+        "169": "cards/20261101_0040_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Verstappen, Lawson receive grid penalties after 'unacceptable' practice collision",
+      "title": "Bayern Munich vs Dortmund team news as Kane starts LIVE!",
       "source": "Sky Sports",
-      "virality_score": 43,
-      "pub_ago": "2h ago",
-      "teams": [
-        "Mexico"
-      ],
+      "virality_score": 59,
+      "pub_ago": "25m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261031_1316_card2_916.png",
-        "169": "cards/20261031_1316_card2_169.png"
+        "916": "cards/20261101_0040_card2_916.png",
+        "169": "cards/20261101_0040_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Can Robinson work Hampden magic against McInnes' Rangers?",
+      "title": "Returning Estevao brings X-factor to strikerless Chelsea",
       "source": "BBC Sport",
-      "virality_score": 39,
-      "pub_ago": "7h ago",
+      "virality_score": 55,
+      "pub_ago": "6m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261031_1316_card3_916.png",
-        "169": "cards/20261031_1316_card3_169.png"
+        "916": "cards/20261101_0040_card3_916.png",
+        "169": "cards/20261101_0040_card3_169.png"
       }
     }
   ]
