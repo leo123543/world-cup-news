@@ -1,43 +1,41 @@
 {
-  "generated_at": "2026-11-01T13:46:15.640861+08:00",
-  "generated_at_display": "Nov 01, 2026 · 01:46 PM HKT",
+  "generated_at": "2026-11-02T01:31:26.679257+08:00",
+  "generated_at_display": "Nov 02, 2026 · 01:31 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Kane misses Bayern penalty before late Dortmund goal earns draw",
-      "source": "BBC Sport",
-      "virality_score": 48,
-      "pub_ago": "6h ago",
+      "title": "Scottish roundup: Falkirk shock Celtic; Hibernian beat Hearts in semi-final",
+      "source": "The Guardian",
+      "virality_score": 63,
+      "pub_ago": "2m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261101_1345_card1_916.png",
-        "169": "cards/20261101_1345_card1_169.png"
+        "916": "cards/20261102_0131_card1_916.png",
+        "169": "cards/20261102_0131_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "European football: Kane misses penalty as Dortmund share spoils in Der Klassiker",
-      "source": "The Guardian",
-      "virality_score": 44,
-      "pub_ago": "7h ago",
+      "title": "Chelsea put six past Charlton to top WSL table",
+      "source": "BBC Sport",
+      "virality_score": 55,
+      "pub_ago": "20m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261101_1345_card2_916.png",
-        "169": "cards/20261101_1345_card2_169.png"
+        "916": "cards/20261102_0131_card2_916.png",
+        "169": "cards/20261102_0131_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Mexico City Grand Prix - Qualifying Highlights",
-      "source": "Sky Sports",
-      "virality_score": 40,
-      "pub_ago": "7h ago",
-      "teams": [
-        "Mexico"
-      ],
+      "title": "Retired Sheff Utd legend Sharp signs for Rushden",
+      "source": "BBC Sport",
+      "virality_score": 53,
+      "pub_ago": "39m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261101_1345_card3_916.png",
-        "169": "cards/20261101_1345_card3_169.png"
+        "916": "cards/20261102_0131_card3_916.png",
+        "169": "cards/20261102_0131_card3_169.png"
       }
     }
   ]
