@@ -1,41 +1,43 @@
 {
-  "generated_at": "2026-11-01T00:41:13.847271+08:00",
-  "generated_at_display": "Nov 01, 2026 · 12:41 AM HKT",
+  "generated_at": "2026-11-01T13:46:15.640861+08:00",
+  "generated_at_display": "Nov 01, 2026 · 01:46 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Kane beat Mbappe to Ballon d'Or by just 28 points",
+      "title": "Kane misses Bayern penalty before late Dortmund goal earns draw",
       "source": "BBC Sport",
-      "virality_score": 61,
-      "pub_ago": "1h ago",
+      "virality_score": 48,
+      "pub_ago": "6h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261101_0040_card1_916.png",
-        "169": "cards/20261101_0040_card1_169.png"
+        "916": "cards/20261101_1345_card1_916.png",
+        "169": "cards/20261101_1345_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Bayern Munich vs Dortmund team news as Kane starts LIVE!",
-      "source": "Sky Sports",
-      "virality_score": 59,
-      "pub_ago": "25m ago",
+      "title": "European football: Kane misses penalty as Dortmund share spoils in Der Klassiker",
+      "source": "The Guardian",
+      "virality_score": 44,
+      "pub_ago": "7h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261101_0040_card2_916.png",
-        "169": "cards/20261101_0040_card2_169.png"
+        "916": "cards/20261101_1345_card2_916.png",
+        "169": "cards/20261101_1345_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Returning Estevao brings X-factor to strikerless Chelsea",
-      "source": "BBC Sport",
-      "virality_score": 55,
-      "pub_ago": "6m ago",
-      "teams": [],
+      "title": "Mexico City Grand Prix - Qualifying Highlights",
+      "source": "Sky Sports",
+      "virality_score": 40,
+      "pub_ago": "7h ago",
+      "teams": [
+        "Mexico"
+      ],
       "files": {
-        "916": "cards/20261101_0040_card3_916.png",
-        "169": "cards/20261101_0040_card3_169.png"
+        "916": "cards/20261101_1345_card3_916.png",
+        "169": "cards/20261101_1345_card3_169.png"
       }
     }
   ]
