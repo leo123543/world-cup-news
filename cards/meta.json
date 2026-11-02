@@ -1,41 +1,45 @@
 {
-  "generated_at": "2026-11-02T01:31:26.679257+08:00",
-  "generated_at_display": "Nov 02, 2026 · 01:31 AM HKT",
+  "generated_at": "2026-11-02T13:44:06.339020+08:00",
+  "generated_at_display": "Nov 02, 2026 · 01:44 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Scottish roundup: Falkirk shock Celtic; Hibernian beat Hearts in semi-final",
+      "title": "European football: Mbappé penalty helps Real Madrid stroll to sixth straight win",
       "source": "The Guardian",
-      "virality_score": 63,
-      "pub_ago": "2m ago",
+      "virality_score": 45,
+      "pub_ago": "5h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261102_0131_card1_916.png",
-        "169": "cards/20261102_0131_card1_169.png"
+        "916": "cards/20261102_1343_card1_916.png",
+        "169": "cards/20261102_1343_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Chelsea put six past Charlton to top WSL table",
-      "source": "BBC Sport",
-      "virality_score": 55,
-      "pub_ago": "20m ago",
-      "teams": [],
+      "title": "Antonelli: I couldn't see through my tears on title-clinching lap",
+      "source": "Sky Sports",
+      "virality_score": 44,
+      "pub_ago": "2h ago",
+      "teams": [
+        "Mexico"
+      ],
       "files": {
-        "916": "cards/20261102_0131_card2_916.png",
-        "169": "cards/20261102_0131_card2_169.png"
+        "916": "cards/20261102_1343_card2_916.png",
+        "169": "cards/20261102_1343_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Retired Sheff Utd legend Sharp signs for Rushden",
-      "source": "BBC Sport",
-      "virality_score": 53,
-      "pub_ago": "39m ago",
-      "teams": [],
+      "title": "Wolff: Russell 'distraught' after watching Antonelli seal title",
+      "source": "Sky Sports",
+      "virality_score": 41,
+      "pub_ago": "2h ago",
+      "teams": [
+        "Mexico"
+      ],
       "files": {
-        "916": "cards/20261102_0131_card3_916.png",
-        "169": "cards/20261102_0131_card3_169.png"
+        "916": "cards/20261102_1343_card3_916.png",
+        "169": "cards/20261102_1343_card3_169.png"
       }
     }
   ]
