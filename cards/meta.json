@@ -1,45 +1,46 @@
 {
-  "generated_at": "2026-11-02T13:44:06.339020+08:00",
-  "generated_at_display": "Nov 02, 2026 · 01:44 PM HKT",
+  "generated_at": "2026-11-03T05:17:26.051824+08:00",
+  "generated_at_display": "Nov 03, 2026 · 05:17 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "European football: Mbappé penalty helps Real Madrid stroll to sixth straight win",
-      "source": "The Guardian",
-      "virality_score": 45,
-      "pub_ago": "5h ago",
+      "title": "Fifa to share confidential World Cup sell-off plan documents",
+      "source": "BBC Sport",
+      "virality_score": 67,
+      "pub_ago": "53m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261102_1343_card1_916.png",
-        "169": "cards/20261102_1343_card1_169.png"
+        "916": "cards/20261103_0517_card1_916.png",
+        "169": "cards/20261103_0517_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Antonelli: I couldn't see through my tears on title-clinching lap",
+      "title": "Edwards: Borthwick turned down my offer to work with England",
       "source": "Sky Sports",
-      "virality_score": 44,
-      "pub_ago": "2h ago",
+      "virality_score": 54,
+      "pub_ago": "3h ago",
       "teams": [
-        "Mexico"
+        "England",
+        "Australia"
       ],
       "files": {
-        "916": "cards/20261102_1343_card2_916.png",
-        "169": "cards/20261102_1343_card2_169.png"
+        "916": "cards/20261103_0517_card2_916.png",
+        "169": "cards/20261103_0517_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Wolff: Russell 'distraught' after watching Antonelli seal title",
+      "title": "England to host South Africa live on Sky Sports in Netball World Cup prep",
       "source": "Sky Sports",
-      "virality_score": 41,
-      "pub_ago": "2h ago",
+      "virality_score": 54,
+      "pub_ago": "3h ago",
       "teams": [
-        "Mexico"
+        "England"
       ],
       "files": {
-        "916": "cards/20261102_1343_card3_916.png",
-        "169": "cards/20261102_1343_card3_169.png"
+        "916": "cards/20261103_0517_card3_916.png",
+        "169": "cards/20261103_0517_card3_169.png"
       }
     }
   ]
