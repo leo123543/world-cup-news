@@ -1,43 +1,41 @@
 {
-  "generated_at": "2026-11-03T14:24:53.305365+08:00",
-  "generated_at_display": "Nov 03, 2026 · 02:24 PM HKT",
+  "generated_at": "2026-11-04T03:00:18.791008+08:00",
+  "generated_at_display": "Nov 04, 2026 · 03:00 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Who am I? Plus today's other quizzes",
-      "source": "BBC Sport",
-      "virality_score": 54,
-      "pub_ago": "12m ago",
+      "title": "Lamine Yamal starts for Barcelona vs Aston Villa LIVE!",
+      "source": "Sky Sports",
+      "virality_score": 58,
+      "pub_ago": "29m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261103_1424_card1_916.png",
-        "169": "cards/20261103_1424_card1_169.png"
+        "916": "cards/20261104_0259_card1_916.png",
+        "169": "cards/20261104_0259_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Hamilton calls for 'serious talks' at Ferrari after Leclerc incident",
-      "source": "Sky Sports",
-      "virality_score": 49,
-      "pub_ago": "24m ago",
-      "teams": [
-        "Mexico"
-      ],
+      "title": "Parkinson eyes Wrexham response after honest talks",
+      "source": "BBC Sport",
+      "virality_score": 54,
+      "pub_ago": "31m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261103_1424_card2_916.png",
-        "169": "cards/20261103_1424_card2_169.png"
+        "916": "cards/20261104_0259_card2_916.png",
+        "169": "cards/20261104_0259_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Fifa to share documents on World Cup sell-off plans with council members",
-      "source": "The Guardian",
-      "virality_score": 40,
-      "pub_ago": "8h ago",
+      "title": "Kenny's background 'not that important' to O'Neill",
+      "source": "BBC Sport",
+      "virality_score": 53,
+      "pub_ago": "33m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261103_1424_card3_916.png",
-        "169": "cards/20261103_1424_card3_169.png"
+        "916": "cards/20261104_0259_card3_916.png",
+        "169": "cards/20261104_0259_card3_169.png"
       }
     }
   ]
