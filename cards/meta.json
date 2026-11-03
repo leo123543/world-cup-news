@@ -1,46 +1,43 @@
 {
-  "generated_at": "2026-11-03T05:17:26.051824+08:00",
-  "generated_at_display": "Nov 03, 2026 · 05:17 AM HKT",
+  "generated_at": "2026-11-03T14:24:53.305365+08:00",
+  "generated_at_display": "Nov 03, 2026 · 02:24 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Fifa to share confidential World Cup sell-off plan documents",
+      "title": "Who am I? Plus today's other quizzes",
       "source": "BBC Sport",
-      "virality_score": 67,
-      "pub_ago": "53m ago",
+      "virality_score": 54,
+      "pub_ago": "12m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261103_0517_card1_916.png",
-        "169": "cards/20261103_0517_card1_169.png"
+        "916": "cards/20261103_1424_card1_916.png",
+        "169": "cards/20261103_1424_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Edwards: Borthwick turned down my offer to work with England",
+      "title": "Hamilton calls for 'serious talks' at Ferrari after Leclerc incident",
       "source": "Sky Sports",
-      "virality_score": 54,
-      "pub_ago": "3h ago",
+      "virality_score": 49,
+      "pub_ago": "24m ago",
       "teams": [
-        "England",
-        "Australia"
+        "Mexico"
       ],
       "files": {
-        "916": "cards/20261103_0517_card2_916.png",
-        "169": "cards/20261103_0517_card2_169.png"
+        "916": "cards/20261103_1424_card2_916.png",
+        "169": "cards/20261103_1424_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "England to host South Africa live on Sky Sports in Netball World Cup prep",
-      "source": "Sky Sports",
-      "virality_score": 54,
-      "pub_ago": "3h ago",
-      "teams": [
-        "England"
-      ],
+      "title": "Fifa to share documents on World Cup sell-off plans with council members",
+      "source": "The Guardian",
+      "virality_score": 40,
+      "pub_ago": "8h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261103_0517_card3_916.png",
-        "169": "cards/20261103_0517_card3_169.png"
+        "916": "cards/20261103_1424_card3_916.png",
+        "169": "cards/20261103_1424_card3_169.png"
       }
     }
   ]
