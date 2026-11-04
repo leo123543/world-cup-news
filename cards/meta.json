@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-11-04T03:00:18.791008+08:00",
-  "generated_at_display": "Nov 04, 2026 · 03:00 AM HKT",
+  "generated_at": "2026-11-04T13:58:34.375357+08:00",
+  "generated_at_display": "Nov 04, 2026 · 01:58 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Lamine Yamal starts for Barcelona vs Aston Villa LIVE!",
-      "source": "Sky Sports",
-      "virality_score": 58,
-      "pub_ago": "29m ago",
+      "title": "A half-time speech, a retaken penalty - and a win to save Carrick's job?",
+      "source": "BBC Sport",
+      "virality_score": 40,
+      "pub_ago": "5h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261104_0259_card1_916.png",
-        "169": "cards/20261104_0259_card1_169.png"
+        "916": "cards/20261104_1358_card1_916.png",
+        "169": "cards/20261104_1358_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Parkinson eyes Wrexham response after honest talks",
+      "title": "Fernandes critical of media 'lies' about Carrick relationship",
       "source": "BBC Sport",
-      "virality_score": 54,
-      "pub_ago": "31m ago",
+      "virality_score": 38,
+      "pub_ago": "5h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261104_0259_card2_916.png",
-        "169": "cards/20261104_0259_card2_169.png"
+        "916": "cards/20261104_1358_card2_916.png",
+        "169": "cards/20261104_1358_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Kenny's background 'not that important' to O'Neill",
-      "source": "BBC Sport",
-      "virality_score": 53,
-      "pub_ago": "33m ago",
+      "title": "Lennart Karl steals in behind Atlético Madrid to inspire Bayern Munich win",
+      "source": "The Guardian",
+      "virality_score": 37,
+      "pub_ago": "7h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261104_0259_card3_916.png",
-        "169": "cards/20261104_0259_card3_169.png"
+        "916": "cards/20261104_1358_card3_916.png",
+        "169": "cards/20261104_1358_card3_169.png"
       }
     }
   ]
