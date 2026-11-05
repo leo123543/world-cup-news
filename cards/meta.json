@@ -1,43 +1,45 @@
 {
-  "generated_at": "2026-11-05T14:22:58.859061+08:00",
-  "generated_at_display": "Nov 05, 2026 · 02:22 PM HKT",
+  "generated_at": "2026-11-06T03:29:29.294437+08:00",
+  "generated_at_display": "Nov 06, 2026 · 03:29 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Norris unsure if Brazil upgrades will improve 'horrible' McLaren car",
+      "title": "Palmer to return? Mainoo recall? Tuchel's England squad dilemmas",
       "source": "Sky Sports",
-      "virality_score": 49,
-      "pub_ago": "22m ago",
+      "virality_score": 56,
+      "pub_ago": "3h ago",
       "teams": [
-        "Brazil"
+        "England"
       ],
       "files": {
-        "916": "cards/20261105_1422_card1_916.png",
-        "169": "cards/20261105_1422_card1_169.png"
+        "916": "cards/20261106_0329_card1_916.png",
+        "169": "cards/20261106_0329_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Billam-Smith vs Usyk? 'Maybe if he beats Benavidez and I beat Opetaia!'",
-      "source": "Sky Sports",
-      "virality_score": 49,
-      "pub_ago": "22m ago",
+      "title": "Football Daily",
+      "source": "BBC Sport",
+      "virality_score": 55,
+      "pub_ago": "2h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261105_1422_card2_916.png",
-        "169": "cards/20261105_1422_card2_169.png"
+        "916": "cards/20261106_0329_card2_916.png",
+        "169": "cards/20261106_0329_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Haaland scores winner as Man City beat Leipzig",
+      "title": "England check on Palmer - what are Tuchel's other big choices?",
       "source": "BBC Sport",
-      "virality_score": 41,
-      "pub_ago": "8h ago",
-      "teams": [],
+      "virality_score": 53,
+      "pub_ago": "29m ago",
+      "teams": [
+        "England"
+      ],
       "files": {
-        "916": "cards/20261105_1422_card3_916.png",
-        "169": "cards/20261105_1422_card3_169.png"
+        "916": "cards/20261106_0329_card3_916.png",
+        "169": "cards/20261106_0329_card3_169.png"
       }
     }
   ]
