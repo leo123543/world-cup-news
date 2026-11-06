@@ -1,45 +1,41 @@
 {
-  "generated_at": "2026-11-06T03:29:29.294437+08:00",
-  "generated_at_display": "Nov 06, 2026 · 03:29 AM HKT",
+  "generated_at": "2026-11-06T14:17:11.137073+08:00",
+  "generated_at_display": "Nov 06, 2026 · 02:17 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Palmer to return? Mainoo recall? Tuchel's England squad dilemmas",
-      "source": "Sky Sports",
-      "virality_score": 56,
-      "pub_ago": "3h ago",
-      "teams": [
-        "England"
-      ],
+      "title": "Who am I? Plus today's other quizzes",
+      "source": "BBC Sport",
+      "virality_score": 55,
+      "pub_ago": "3m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261106_0329_card1_916.png",
-        "169": "cards/20261106_0329_card1_169.png"
+        "916": "cards/20261106_1416_card1_916.png",
+        "169": "cards/20261106_1416_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Football Daily",
-      "source": "BBC Sport",
-      "virality_score": 55,
-      "pub_ago": "2h ago",
+      "title": "Zhang to hit opening tee shot in Women's TGL history",
+      "source": "Sky Sports",
+      "virality_score": 49,
+      "pub_ago": "16m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261106_0329_card2_916.png",
-        "169": "cards/20261106_0329_card2_169.png"
+        "916": "cards/20261106_1416_card2_916.png",
+        "169": "cards/20261106_1416_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "England check on Palmer - what are Tuchel's other big choices?",
-      "source": "BBC Sport",
-      "virality_score": 53,
-      "pub_ago": "29m ago",
-      "teams": [
-        "England"
-      ],
+      "title": "A new era for women's golf! What is the WTGL and how will it work?",
+      "source": "Sky Sports",
+      "virality_score": 49,
+      "pub_ago": "16m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261106_0329_card3_916.png",
-        "169": "cards/20261106_0329_card3_169.png"
+        "916": "cards/20261106_1416_card3_916.png",
+        "169": "cards/20261106_1416_card3_169.png"
       }
     }
   ]
