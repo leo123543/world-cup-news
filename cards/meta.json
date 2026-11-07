@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-11-07T02:49:40.856853+08:00",
-  "generated_at_display": "Nov 07, 2026 · 02:49 AM HKT",
+  "generated_at": "2026-11-07T13:44:08.262640+08:00",
+  "generated_at_display": "Nov 07, 2026 · 01:44 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "James out for minimum of five games - Bompastor",
+      "title": "England 'disappointment' fuels Dewsbury-Hall's Everton heroics",
       "source": "BBC Sport",
-      "virality_score": 63,
-      "pub_ago": "2h ago",
+      "virality_score": 42,
+      "pub_ago": "5h ago",
       "teams": [
         "England"
       ],
       "files": {
-        "916": "cards/20261107_0249_card1_916.png",
-        "169": "cards/20261107_0249_card1_169.png"
+        "916": "cards/20261107_1343_card1_916.png",
+        "169": "cards/20261107_1343_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "The Fifa hopeful hoping to take Infantino down with 'samurai spirit'",
+      "title": "Lampard feels hair pull should have led to Coventry penalty",
       "source": "BBC Sport",
-      "virality_score": 58,
-      "pub_ago": "3h ago",
+      "virality_score": 38,
+      "pub_ago": "6h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261107_0249_card2_916.png",
-        "169": "cards/20261107_0249_card2_169.png"
+        "916": "cards/20261107_1343_card2_916.png",
+        "169": "cards/20261107_1343_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Everton v Coventry City: Premier League - live",
-      "source": "The Guardian",
-      "virality_score": 52,
-      "pub_ago": "18m ago",
+      "title": "Bristol Rovers shock Cambridge United to reach round two",
+      "source": "BBC Sport",
+      "virality_score": 38,
+      "pub_ago": "6h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261107_0249_card3_916.png",
-        "169": "cards/20261107_0249_card3_169.png"
+        "916": "cards/20261107_1343_card3_916.png",
+        "169": "cards/20261107_1343_card3_169.png"
       }
     }
   ]
