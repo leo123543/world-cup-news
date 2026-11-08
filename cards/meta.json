@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-11-08T01:18:14.798705+08:00",
-  "generated_at_display": "Nov 08, 2026 · 01:18 AM HKT",
+  "generated_at": "2026-11-08T13:46:43.868099+08:00",
+  "generated_at_display": "Nov 08, 2026 · 01:46 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Muniz rescues late point for Fulham against Newcastle after Murphy stunner",
-      "source": "The Guardian",
-      "virality_score": 63,
-      "pub_ago": "16m ago",
+      "title": "Arsenal should have been awarded penalty against Hull - Cann",
+      "source": "BBC Sport",
+      "virality_score": 39,
+      "pub_ago": "5h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261108_0117_card1_916.png",
-        "169": "cards/20261108_0117_card1_169.png"
+        "916": "cards/20261108_1346_card1_916.png",
+        "169": "cards/20261108_1346_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Fulham deny Newcastle boss Jaissle of pressure-relieving victory",
-      "source": "Sky Sports",
-      "virality_score": 61,
-      "pub_ago": "17m ago",
+      "title": "Was Leeds' Bogle lucky to escape red card?",
+      "source": "BBC Sport",
+      "virality_score": 39,
+      "pub_ago": "5h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261108_0117_card2_916.png",
-        "169": "cards/20261108_0117_card2_169.png"
+        "916": "cards/20261108_1346_card2_916.png",
+        "169": "cards/20261108_1346_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Goal caps eye-catching Odegaard display - player ratings for Arsenal v Hull",
+      "title": "'The worst conditions in my 35-year career' - commentating in the FA Cup fog",
       "source": "BBC Sport",
-      "virality_score": 55,
-      "pub_ago": "17m ago",
+      "virality_score": 37,
+      "pub_ago": "5h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261108_0117_card3_916.png",
-        "169": "cards/20261108_0117_card3_169.png"
+        "916": "cards/20261108_1346_card3_916.png",
+        "169": "cards/20261108_1346_card3_169.png"
       }
     }
   ]
