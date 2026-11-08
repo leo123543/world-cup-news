@@ -1,41 +1,43 @@
 {
-  "generated_at": "2026-11-08T13:46:43.868099+08:00",
-  "generated_at_display": "Nov 08, 2026 · 01:46 PM HKT",
+  "generated_at": "2026-11-09T01:29:18.025600+08:00",
+  "generated_at_display": "Nov 09, 2026 · 01:29 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Arsenal should have been awarded penalty against Hull - Cann",
+      "title": "Brobbey wins Colwill battle - player ratings for Sunderland's win over Chelsea",
       "source": "BBC Sport",
-      "virality_score": 39,
-      "pub_ago": "5h ago",
+      "virality_score": 54,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261108_1346_card1_916.png",
-        "169": "cards/20261108_1346_card1_169.png"
+        "916": "cards/20261109_0128_card1_916.png",
+        "169": "cards/20261109_0128_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Was Leeds' Bogle lucky to escape red card?",
-      "source": "BBC Sport",
-      "virality_score": 39,
-      "pub_ago": "5h ago",
-      "teams": [],
+      "title": "WSL roundup: Crystal Palace deny Charlton first point, London City stay third",
+      "source": "The Guardian",
+      "virality_score": 53,
+      "pub_ago": "18m ago",
+      "teams": [
+        "England"
+      ],
       "files": {
-        "916": "cards/20261108_1346_card2_916.png",
-        "169": "cards/20261108_1346_card2_169.png"
+        "916": "cards/20261109_0128_card2_916.png",
+        "169": "cards/20261109_0128_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "'The worst conditions in my 35-year career' - commentating in the FA Cup fog",
+      "title": "Fan injured after falling through hole in stand",
       "source": "BBC Sport",
-      "virality_score": 37,
-      "pub_ago": "5h ago",
+      "virality_score": 53,
+      "pub_ago": "35m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261108_1346_card3_916.png",
-        "169": "cards/20261108_1346_card3_169.png"
+        "916": "cards/20261109_0128_card3_916.png",
+        "169": "cards/20261109_0128_card3_169.png"
       }
     }
   ]
