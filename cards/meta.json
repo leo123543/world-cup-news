@@ -1,44 +1,46 @@
 {
-  "generated_at": "2026-11-09T13:56:05.367409+08:00",
-  "generated_at_display": "Nov 09, 2026 · 01:56 PM HKT",
+  "generated_at": "2026-11-10T05:50:51.327392+08:00",
+  "generated_at_display": "Nov 10, 2026 · 05:50 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Australia drop Labuschagne for New Zealand Test series",
-      "source": "Sky Sports",
-      "virality_score": 42,
-      "pub_ago": "2h ago",
+      "title": "Kane and Bellingham air strong views in England World Cup review",
+      "source": "BBC Sport",
+      "virality_score": 73,
+      "pub_ago": "4h ago",
       "teams": [
-        "Australia",
-        "New Zealand"
+        "Argentina",
+        "England"
       ],
       "files": {
-        "916": "cards/20261109_1355_card1_916.png",
-        "169": "cards/20261109_1355_card1_169.png"
+        "916": "cards/20261110_0550_card1_916.png",
+        "169": "cards/20261110_0550_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "'Not many sports teams have done it' - Wolff 'proud' of Mercedes turnaround",
-      "source": "Sky Sports",
-      "virality_score": 40,
-      "pub_ago": "7h ago",
-      "teams": [],
+      "title": "Football Daily",
+      "source": "BBC Sport",
+      "virality_score": 57,
+      "pub_ago": "17m ago",
+      "teams": [
+        "England"
+      ],
       "files": {
-        "916": "cards/20261109_1355_card2_916.png",
-        "169": "cards/20261109_1355_card2_169.png"
+        "916": "cards/20261110_0550_card2_916.png",
+        "169": "cards/20261110_0550_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Oldham Athletic shock Sheffield Wednesday with extra-time winner",
-      "source": "BBC Sport",
-      "virality_score": 37,
-      "pub_ago": "7h ago",
+      "title": "NWSL playoffs scheduling snafu: Washington Spirit keep Audi Field; Gotham move to Icahn",
+      "source": "The Guardian",
+      "virality_score": 55,
+      "pub_ago": "58m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261109_1355_card3_916.png",
-        "169": "cards/20261109_1355_card3_169.png"
+        "916": "cards/20261110_0550_card3_916.png",
+        "169": "cards/20261110_0550_card3_169.png"
       }
     }
   ]
