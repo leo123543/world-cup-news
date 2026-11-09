@@ -1,43 +1,44 @@
 {
-  "generated_at": "2026-11-09T01:29:18.025600+08:00",
-  "generated_at_display": "Nov 09, 2026 · 01:29 AM HKT",
+  "generated_at": "2026-11-09T13:56:05.367409+08:00",
+  "generated_at_display": "Nov 09, 2026 · 01:56 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Brobbey wins Colwill battle - player ratings for Sunderland's win over Chelsea",
-      "source": "BBC Sport",
-      "virality_score": 54,
-      "pub_ago": "1h ago",
-      "teams": [],
+      "title": "Australia drop Labuschagne for New Zealand Test series",
+      "source": "Sky Sports",
+      "virality_score": 42,
+      "pub_ago": "2h ago",
+      "teams": [
+        "Australia",
+        "New Zealand"
+      ],
       "files": {
-        "916": "cards/20261109_0128_card1_916.png",
-        "169": "cards/20261109_0128_card1_169.png"
+        "916": "cards/20261109_1355_card1_916.png",
+        "169": "cards/20261109_1355_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "WSL roundup: Crystal Palace deny Charlton first point, London City stay third",
-      "source": "The Guardian",
-      "virality_score": 53,
-      "pub_ago": "18m ago",
-      "teams": [
-        "England"
-      ],
+      "title": "'Not many sports teams have done it' - Wolff 'proud' of Mercedes turnaround",
+      "source": "Sky Sports",
+      "virality_score": 40,
+      "pub_ago": "7h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261109_0128_card2_916.png",
-        "169": "cards/20261109_0128_card2_169.png"
+        "916": "cards/20261109_1355_card2_916.png",
+        "169": "cards/20261109_1355_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Fan injured after falling through hole in stand",
+      "title": "Oldham Athletic shock Sheffield Wednesday with extra-time winner",
       "source": "BBC Sport",
-      "virality_score": 53,
-      "pub_ago": "35m ago",
+      "virality_score": 37,
+      "pub_ago": "7h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261109_0128_card3_916.png",
-        "169": "cards/20261109_0128_card3_169.png"
+        "916": "cards/20261109_1355_card3_916.png",
+        "169": "cards/20261109_1355_card3_169.png"
       }
     }
   ]
