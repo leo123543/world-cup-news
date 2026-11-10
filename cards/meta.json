@@ -1,46 +1,41 @@
 {
-  "generated_at": "2026-11-10T05:50:51.327392+08:00",
-  "generated_at_display": "Nov 10, 2026 · 05:50 AM HKT",
+  "generated_at": "2026-11-10T15:03:17.073396+08:00",
+  "generated_at_display": "Nov 10, 2026 · 03:03 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Kane and Bellingham air strong views in England World Cup review",
+      "title": "Cast your vote for BBC Women's Footballer of the Year 2026",
       "source": "BBC Sport",
-      "virality_score": 73,
-      "pub_ago": "4h ago",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
+      "virality_score": 68,
+      "pub_ago": "38m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261110_0550_card1_916.png",
-        "169": "cards/20261110_0550_card1_169.png"
+        "916": "cards/20261110_1502_card1_916.png",
+        "169": "cards/20261110_1502_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Football Daily",
-      "source": "BBC Sport",
-      "virality_score": 57,
-      "pub_ago": "17m ago",
-      "teams": [
-        "England"
-      ],
+      "title": "Grand Slam of Darts 2026: Schedule, new format, players, prize money, past winners",
+      "source": "Sky Sports",
+      "virality_score": 67,
+      "pub_ago": "2m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261110_0550_card2_916.png",
-        "169": "cards/20261110_0550_card2_169.png"
+        "916": "cards/20261110_1502_card2_916.png",
+        "169": "cards/20261110_1502_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "NWSL playoffs scheduling snafu: Washington Spirit keep Audi Field; Gotham move to Icahn",
-      "source": "The Guardian",
-      "virality_score": 55,
-      "pub_ago": "58m ago",
+      "title": "Historic winners & 50-yard screamers - best goals from FA Cup first round",
+      "source": "BBC Sport",
+      "virality_score": 60,
+      "pub_ago": "27m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261110_0550_card3_916.png",
-        "169": "cards/20261110_0550_card3_169.png"
+        "916": "cards/20261110_1502_card3_916.png",
+        "169": "cards/20261110_1502_card3_169.png"
       }
     }
   ]
