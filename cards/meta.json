@@ -1,41 +1,45 @@
 {
-  "generated_at": "2026-11-10T15:03:17.073396+08:00",
-  "generated_at_display": "Nov 10, 2026 · 03:03 PM HKT",
+  "generated_at": "2026-11-11T03:11:31.555653+08:00",
+  "generated_at_display": "Nov 11, 2026 · 03:11 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Cast your vote for BBC Women's Footballer of the Year 2026",
+      "title": "McTominay reveals heart treatment at World Cup",
       "source": "BBC Sport",
-      "virality_score": 68,
-      "pub_ago": "38m ago",
-      "teams": [],
+      "virality_score": 62,
+      "pub_ago": "2h ago",
+      "teams": [
+        "Scotland"
+      ],
       "files": {
-        "916": "cards/20261110_1502_card1_916.png",
-        "169": "cards/20261110_1502_card1_169.png"
+        "916": "cards/20261111_0311_card1_916.png",
+        "169": "cards/20261111_0311_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Grand Slam of Darts 2026: Schedule, new format, players, prize money, past winners",
+      "title": "Reynolds: Fearless Love can lead Packers to Super Bowl",
       "source": "Sky Sports",
-      "virality_score": 67,
-      "pub_ago": "2m ago",
+      "virality_score": 58,
+      "pub_ago": "2h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261110_1502_card2_916.png",
-        "169": "cards/20261110_1502_card2_169.png"
+        "916": "cards/20261111_0311_card2_916.png",
+        "169": "cards/20261111_0311_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Historic winners & 50-yard screamers - best goals from FA Cup first round",
-      "source": "BBC Sport",
-      "virality_score": 60,
-      "pub_ago": "27m ago",
-      "teams": [],
+      "title": "McTominay had heart 'shocked' two days before Scotland's World Cup opener",
+      "source": "Sky Sports",
+      "virality_score": 58,
+      "pub_ago": "3h ago",
+      "teams": [
+        "Scotland"
+      ],
       "files": {
-        "916": "cards/20261110_1502_card3_916.png",
-        "169": "cards/20261110_1502_card3_169.png"
+        "916": "cards/20261111_0311_card3_916.png",
+        "169": "cards/20261111_0311_card3_169.png"
       }
     }
   ]
