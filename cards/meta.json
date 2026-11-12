@@ -1,45 +1,46 @@
 {
-  "generated_at": "2026-11-12T14:57:05.924268+08:00",
-  "generated_at_display": "Nov 12, 2026 · 02:57 PM HKT",
+  "generated_at": "2026-11-13T03:26:19.171982+08:00",
+  "generated_at_display": "Nov 13, 2026 · 03:26 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Kane's top 10 England moments - which was your favourite?",
+      "title": "SFA in talks with Boston officials over biannual friendly match",
       "source": "BBC Sport",
       "virality_score": 67,
-      "pub_ago": "31m ago",
-      "teams": [
-        "England"
-      ],
+      "pub_ago": "50m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261112_1456_card1_916.png",
-        "169": "cards/20261112_1456_card1_169.png"
+        "916": "cards/20261113_0325_card1_916.png",
+        "169": "cards/20261113_0325_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Wales' James warns of Norwegian revenge in Oslo",
-      "source": "BBC Sport",
-      "virality_score": 57,
-      "pub_ago": "2h ago",
+      "title": "Archive, 1990: Peter Shilton wins 125th and final cap of record-breaking England career",
+      "source": "The Guardian",
+      "virality_score": 67,
+      "pub_ago": "5h ago",
       "teams": [
-        "Wales"
+        "England",
+        "Croatia"
       ],
       "files": {
-        "916": "cards/20261112_1456_card2_916.png",
-        "169": "cards/20261112_1456_card2_169.png"
+        "916": "cards/20261113_0325_card2_916.png",
+        "169": "cards/20261113_0325_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "How 'Barca way' continues despite big-name exits",
-      "source": "BBC Sport",
-      "virality_score": 54,
-      "pub_ago": "15m ago",
-      "teams": [],
+      "title": "Harry Kane wins record 126th England cap, pulling clear of Peter Shilton",
+      "source": "The Guardian",
+      "virality_score": 64,
+      "pub_ago": "50m ago",
+      "teams": [
+        "England"
+      ],
       "files": {
-        "916": "cards/20261112_1456_card3_916.png",
-        "169": "cards/20261112_1456_card3_169.png"
+        "916": "cards/20261113_0325_card3_916.png",
+        "169": "cards/20261113_0325_card3_169.png"
       }
     }
   ]
