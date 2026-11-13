@@ -1,46 +1,43 @@
 {
-  "generated_at": "2026-11-13T14:27:22.070112+08:00",
-  "generated_at_display": "Nov 13, 2026 · 02:27 PM HKT",
+  "generated_at": "2026-11-14T03:04:41.539975+08:00",
+  "generated_at_display": "Nov 14, 2026 · 03:04 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Las Vegas GP: UK schedule and how to watch on Sky Sports",
-      "source": "Sky Sports",
-      "virality_score": 63,
-      "pub_ago": "27m ago",
-      "teams": [],
+      "title": "Scotland v North Macedonia: Nations League - live",
+      "source": "The Guardian",
+      "virality_score": 67,
+      "pub_ago": "4m ago",
+      "teams": [
+        "Scotland"
+      ],
       "files": {
-        "916": "cards/20261113_1427_card1_916.png",
-        "169": "cards/20261113_1427_card1_169.png"
+        "916": "cards/20261114_0304_card1_916.png",
+        "169": "cards/20261114_0304_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "England and Ireland's points battle, the return of Jones and France's Springboks clash",
-      "source": "Sky Sports",
-      "virality_score": 51,
-      "pub_ago": "27m ago",
-      "teams": [
-        "France",
-        "England"
-      ],
+      "title": "All done deals from September-November 2026",
+      "source": "BBC Sport",
+      "virality_score": 64,
+      "pub_ago": "1h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261113_1427_card2_916.png",
-        "169": "cards/20261113_1427_card2_169.png"
+        "916": "cards/20261114_0304_card2_916.png",
+        "169": "cards/20261114_0304_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "It's Happy Harry Kane day as England's finest seizes his moment in style | Barney Ronay",
+      "title": "Rugby League World Cup finals, ATP and WTA tennis, plus WSL - follow with us",
       "source": "The Guardian",
-      "virality_score": 46,
-      "pub_ago": "6h ago",
-      "teams": [
-        "England"
-      ],
+      "virality_score": 62,
+      "pub_ago": "2h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261113_1427_card3_916.png",
-        "169": "cards/20261113_1427_card3_169.png"
+        "916": "cards/20261114_0304_card3_916.png",
+        "169": "cards/20261114_0304_card3_169.png"
       }
     }
   ]
