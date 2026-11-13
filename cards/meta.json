@@ -1,46 +1,46 @@
 {
-  "generated_at": "2026-11-13T03:26:19.171982+08:00",
-  "generated_at_display": "Nov 13, 2026 · 03:26 AM HKT",
+  "generated_at": "2026-11-13T14:27:22.070112+08:00",
+  "generated_at_display": "Nov 13, 2026 · 02:27 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "SFA in talks with Boston officials over biannual friendly match",
-      "source": "BBC Sport",
-      "virality_score": 67,
-      "pub_ago": "50m ago",
+      "title": "Las Vegas GP: UK schedule and how to watch on Sky Sports",
+      "source": "Sky Sports",
+      "virality_score": 63,
+      "pub_ago": "27m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261113_0325_card1_916.png",
-        "169": "cards/20261113_0325_card1_169.png"
+        "916": "cards/20261113_1427_card1_916.png",
+        "169": "cards/20261113_1427_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Archive, 1990: Peter Shilton wins 125th and final cap of record-breaking England career",
-      "source": "The Guardian",
-      "virality_score": 67,
-      "pub_ago": "5h ago",
+      "title": "England and Ireland's points battle, the return of Jones and France's Springboks clash",
+      "source": "Sky Sports",
+      "virality_score": 51,
+      "pub_ago": "27m ago",
       "teams": [
-        "England",
-        "Croatia"
+        "France",
+        "England"
       ],
       "files": {
-        "916": "cards/20261113_0325_card2_916.png",
-        "169": "cards/20261113_0325_card2_169.png"
+        "916": "cards/20261113_1427_card2_916.png",
+        "169": "cards/20261113_1427_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Harry Kane wins record 126th England cap, pulling clear of Peter Shilton",
+      "title": "It's Happy Harry Kane day as England's finest seizes his moment in style | Barney Ronay",
       "source": "The Guardian",
-      "virality_score": 64,
-      "pub_ago": "50m ago",
+      "virality_score": 46,
+      "pub_ago": "6h ago",
       "teams": [
         "England"
       ],
       "files": {
-        "916": "cards/20261113_0325_card3_916.png",
-        "169": "cards/20261113_0325_card3_169.png"
+        "916": "cards/20261113_1427_card3_916.png",
+        "169": "cards/20261113_1427_card3_169.png"
       }
     }
   ]
