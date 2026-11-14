@@ -1,46 +1,41 @@
 {
-  "generated_at": "2026-11-14T14:00:26.904718+08:00",
-  "generated_at_display": "Nov 14, 2026 · 02:00 PM HKT",
+  "generated_at": "2026-11-15T01:34:03.683404+08:00",
+  "generated_at_display": "Nov 15, 2026 · 01:34 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers",
-      "source": "BBC Sport",
-      "virality_score": 40,
-      "pub_ago": "7h ago",
-      "teams": [
-        "Nigeria",
-        "Egypt"
-      ],
+      "title": "A new No 1? How to stop Lamine Yamal? Tuchel's selection issues",
+      "source": "Sky Sports",
+      "virality_score": 55,
+      "pub_ago": "1h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261114_1400_card1_916.png",
-        "169": "cards/20261114_1400_card1_169.png"
+        "916": "cards/20261115_0133_card1_916.png",
+        "169": "cards/20261115_0133_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "WTA Finals: Svitolina defeats Sabalenka to reach semi-finals",
-      "source": "Sky Sports",
-      "virality_score": 36,
-      "pub_ago": "6h ago",
+      "title": "Tenerife boss says Owono's 12-match ban 'feels light'",
+      "source": "BBC Sport",
+      "virality_score": 52,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261114_1400_card2_916.png",
-        "169": "cards/20261114_1400_card2_169.png"
+        "916": "cards/20261115_0133_card2_916.png",
+        "169": "cards/20261115_0133_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "'If that penalty is given against you, you're furious'",
+      "title": "'I just play where the manager tells me to play!' - Walsh",
       "source": "BBC Sport",
-      "virality_score": 33,
-      "pub_ago": "7h ago",
-      "teams": [
-        "Scotland"
-      ],
+      "virality_score": 51,
+      "pub_ago": "1h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261114_1400_card3_916.png",
-        "169": "cards/20261114_1400_card3_169.png"
+        "916": "cards/20261115_0133_card3_916.png",
+        "169": "cards/20261115_0133_card3_169.png"
       }
     }
   ]
