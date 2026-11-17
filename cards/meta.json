@@ -1,44 +1,45 @@
 {
-  "generated_at": "2026-11-17T15:41:08.217676+08:00",
-  "generated_at_display": "Nov 17, 2026 · 03:41 PM HKT",
+  "generated_at": "2026-11-18T04:21:30.612225+08:00",
+  "generated_at_display": "Nov 18, 2026 · 04:21 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Fifa accused of climate 'record of failure' due to Aramco deal and tournament expansion",
+      "title": "Sloppy Socceroos given a reality check as Jordan dominate in friendly win",
       "source": "The Guardian",
-      "virality_score": 65,
+      "virality_score": 67,
       "pub_ago": "1h ago",
-      "teams": [],
+      "teams": [
+        "Australia"
+      ],
       "files": {
-        "916": "cards/20261117_1540_card1_916.png",
-        "169": "cards/20261117_1540_card1_169.png"
+        "916": "cards/20261118_0421_card1_916.png",
+        "169": "cards/20261118_0421_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Ronaldo, Maradona, Baggio - what happened to the World XI?",
-      "source": "BBC Sport",
-      "virality_score": 64,
-      "pub_ago": "18m ago",
+      "title": "'The game is in danger': PFA head Maheta Molango on Fifa, Infantino and football's future",
+      "source": "The Guardian",
+      "virality_score": 66,
+      "pub_ago": "20m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261117_1540_card2_916.png",
-        "169": "cards/20261117_1540_card2_169.png"
+        "916": "cards/20261118_0421_card2_916.png",
+        "169": "cards/20261118_0421_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Life after Ronaldo - Portugal face post-Bale Wales",
-      "source": "BBC Sport",
-      "virality_score": 55,
+      "title": "Scholes ruled out for season with injury",
+      "source": "Sky Sports",
+      "virality_score": 61,
       "pub_ago": "2h ago",
       "teams": [
-        "Portugal",
-        "Wales"
+        "England"
       ],
       "files": {
-        "916": "cards/20261117_1540_card3_916.png",
-        "169": "cards/20261117_1540_card3_169.png"
+        "916": "cards/20261118_0421_card3_916.png",
+        "169": "cards/20261118_0421_card3_169.png"
       }
     }
   ]
