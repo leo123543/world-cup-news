@@ -1,41 +1,43 @@
 {
-  "generated_at": "2026-11-18T15:02:52.263891+08:00",
-  "generated_at_display": "Nov 18, 2026 · 03:02 PM HKT",
+  "generated_at": "2026-11-19T03:51:34.072158+08:00",
+  "generated_at_display": "Nov 19, 2026 · 03:51 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "The 3pm football blackout: outdated or still relevant in 2026?",
-      "source": "BBC Sport",
-      "virality_score": 71,
-      "pub_ago": "35m ago",
-      "teams": [],
+      "title": "USWNT squad: Emma Hayes names veteran group for Concacaf championship and World Cup qualifier",
+      "source": "The Guardian",
+      "virality_score": 57,
+      "pub_ago": "3h ago",
+      "teams": [
+        "Brazil"
+      ],
       "files": {
-        "916": "cards/20261118_1502_card1_916.png",
-        "169": "cards/20261118_1502_card1_169.png"
+        "916": "cards/20261119_0351_card1_916.png",
+        "169": "cards/20261119_0351_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "What's still to play for in 2026 as F1 hits Vegas?",
-      "source": "Sky Sports",
-      "virality_score": 65,
-      "pub_ago": "1h ago",
+      "title": "From kit boy to manager at 28 - Dumbarton appoint Fellowes",
+      "source": "BBC Sport",
+      "virality_score": 53,
+      "pub_ago": "42m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261118_1502_card2_916.png",
-        "169": "cards/20261118_1502_card2_169.png"
+        "916": "cards/20261119_0351_card2_916.png",
+        "169": "cards/20261119_0351_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Who am I? Plus today's other quizzes",
-      "source": "BBC Sport",
-      "virality_score": 55,
-      "pub_ago": "6m ago",
+      "title": "Chelsea v Paris Saint-Germain: Women's Champions League - live",
+      "source": "The Guardian",
+      "virality_score": 52,
+      "pub_ago": "15m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261118_1502_card3_916.png",
-        "169": "cards/20261118_1502_card3_169.png"
+        "916": "cards/20261119_0351_card3_916.png",
+        "169": "cards/20261119_0351_card3_169.png"
       }
     }
   ]
