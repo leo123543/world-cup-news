@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-11-19T15:05:55.855498+08:00",
-  "generated_at_display": "Nov 19, 2026 · 03:05 PM HKT",
+  "generated_at": "2026-11-20T03:51:41.693496+08:00",
+  "generated_at_display": "Nov 20, 2026 · 03:51 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Vote for the first BBC Men's Footballer of the Year",
-      "source": "BBC Sport",
-      "virality_score": 63,
-      "pub_ago": "35m ago",
+      "title": "Summer signings join Lionel Messi among MLS's top earners: Takeaways from the league's salary release",
+      "source": "The Guardian",
+      "virality_score": 71,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261119_1505_card1_916.png",
-        "169": "cards/20261119_1505_card1_169.png"
+        "916": "cards/20261120_0351_card1_916.png",
+        "169": "cards/20261120_0351_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "'Best I've seen live': Watch as player scores 'special' goal",
+      "title": "All done deals from September-November 2026",
       "source": "BBC Sport",
-      "virality_score": 51,
+      "virality_score": 64,
       "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261119_1505_card2_916.png",
-        "169": "cards/20261119_1505_card2_169.png"
+        "916": "cards/20261120_0351_card2_916.png",
+        "169": "cards/20261120_0351_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "F1 drivers back return of 'very cool' V8 engines in the future",
-      "source": "Sky Sports",
-      "virality_score": 48,
-      "pub_ago": "35m ago",
+      "title": "Manager ins and outs - 2026-27",
+      "source": "BBC Sport",
+      "virality_score": 60,
+      "pub_ago": "3h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261119_1505_card3_916.png",
-        "169": "cards/20261119_1505_card3_169.png"
+        "916": "cards/20261120_0351_card3_916.png",
+        "169": "cards/20261120_0351_card3_169.png"
       }
     }
   ]
