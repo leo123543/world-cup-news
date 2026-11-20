@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-11-20T14:56:25.563238+08:00",
-  "generated_at_display": "Nov 20, 2026 · 02:56 PM HKT",
+  "generated_at": "2026-11-21T03:31:52.754106+08:00",
+  "generated_at_display": "Nov 21, 2026 · 03:31 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Loneliness & mood swings - what's it like to miss a season through injury?",
-      "source": "BBC Sport",
-      "virality_score": 71,
-      "pub_ago": "42m ago",
+      "title": "NWSL final tickets top $350 in 'perfect storm' even after fall from $755 peak",
+      "source": "The Guardian",
+      "virality_score": 54,
+      "pub_ago": "25m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261120_1456_card1_916.png",
-        "169": "cards/20261120_1456_card1_169.png"
+        "916": "cards/20261121_0331_card1_916.png",
+        "169": "cards/20261121_0331_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Who am I? Plus today's other quizzes",
+      "title": "Sarr focused on Palace return after Liverpool interest",
       "source": "BBC Sport",
-      "virality_score": 54,
-      "pub_ago": "12m ago",
+      "virality_score": 52,
+      "pub_ago": "49m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261120_1456_card2_916.png",
-        "169": "cards/20261120_1456_card2_169.png"
+        "916": "cards/20261121_0331_card2_916.png",
+        "169": "cards/20261121_0331_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Antonelli hit with grid penalty for Las Vegas GP",
-      "source": "Sky Sports",
-      "virality_score": 50,
-      "pub_ago": "56m ago",
+      "title": "Tom Brady in talks over buying Chelsea stake after Birmingham City exit",
+      "source": "The Guardian",
+      "virality_score": 51,
+      "pub_ago": "4h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261120_1456_card3_916.png",
-        "169": "cards/20261120_1456_card3_169.png"
+        "916": "cards/20261121_0331_card3_916.png",
+        "169": "cards/20261121_0331_card3_169.png"
       }
     }
   ]
