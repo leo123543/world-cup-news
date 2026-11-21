@@ -1,41 +1,44 @@
 {
-  "generated_at": "2026-11-21T03:31:52.754106+08:00",
-  "generated_at_display": "Nov 21, 2026 · 03:31 AM HKT",
+  "generated_at": "2026-11-21T14:51:26.146075+08:00",
+  "generated_at_display": "Nov 21, 2026 · 02:51 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "NWSL final tickets top $350 in 'perfect storm' even after fall from $755 peak",
-      "source": "The Guardian",
-      "virality_score": 54,
-      "pub_ago": "25m ago",
+      "title": "Las Vegas Grand Prix - Qualifying Highlights",
+      "source": "Sky Sports",
+      "virality_score": 59,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261121_0331_card1_916.png",
-        "169": "cards/20261121_0331_card1_169.png"
+        "916": "cards/20261121_1451_card1_916.png",
+        "169": "cards/20261121_1451_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Sarr focused on Palace return after Liverpool interest",
+      "title": "Jeers, injuries and doubters - White's journey back to the top",
       "source": "BBC Sport",
-      "virality_score": 52,
-      "pub_ago": "49m ago",
-      "teams": [],
+      "virality_score": 56,
+      "pub_ago": "33m ago",
+      "teams": [
+        "England",
+        "Spain"
+      ],
       "files": {
-        "916": "cards/20261121_0331_card2_916.png",
-        "169": "cards/20261121_0331_card2_169.png"
+        "916": "cards/20261121_1451_card2_916.png",
+        "169": "cards/20261121_1451_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Tom Brady in talks over buying Chelsea stake after Birmingham City exit",
-      "source": "The Guardian",
-      "virality_score": 51,
-      "pub_ago": "4h ago",
+      "title": "Van Gerwen 'preparing for the worst' as he faces Sykes in Grand Slam quarters",
+      "source": "Sky Sports",
+      "virality_score": 50,
+      "pub_ago": "51m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261121_0331_card3_916.png",
-        "169": "cards/20261121_0331_card3_169.png"
+        "916": "cards/20261121_1451_card3_916.png",
+        "169": "cards/20261121_1451_card3_169.png"
       }
     }
   ]
