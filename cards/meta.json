@@ -1,44 +1,41 @@
 {
-  "generated_at": "2026-11-21T14:51:26.146075+08:00",
-  "generated_at_display": "Nov 21, 2026 · 02:51 PM HKT",
+  "generated_at": "2026-11-22T02:34:48.330505+08:00",
+  "generated_at_display": "Nov 22, 2026 · 02:34 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Las Vegas Grand Prix - Qualifying Highlights",
-      "source": "Sky Sports",
-      "virality_score": 59,
-      "pub_ago": "1h ago",
+      "title": "European football: Noslin's double helps Lazio extend Serie A lead; Nmecha sends Dortmund top",
+      "source": "The Guardian",
+      "virality_score": 62,
+      "pub_ago": "47m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261121_1451_card1_916.png",
-        "169": "cards/20261121_1451_card1_169.png"
+        "916": "cards/20261122_0234_card1_916.png",
+        "169": "cards/20261122_0234_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Jeers, injuries and doubters - White's journey back to the top",
+      "title": "'Officials can't use common sense' - was Rogers handball correct?",
       "source": "BBC Sport",
-      "virality_score": 56,
-      "pub_ago": "33m ago",
-      "teams": [
-        "England",
-        "Spain"
-      ],
+      "virality_score": 58,
+      "pub_ago": "4m ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261121_1451_card2_916.png",
-        "169": "cards/20261121_1451_card2_169.png"
+        "916": "cards/20261122_0234_card2_916.png",
+        "169": "cards/20261122_0234_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Van Gerwen 'preparing for the worst' as he faces Sykes in Grand Slam quarters",
-      "source": "Sky Sports",
-      "virality_score": 50,
-      "pub_ago": "51m ago",
+      "title": "Teenage ace Williams-Barnett puts Tottenham on path to win over Ipswich",
+      "source": "The Guardian",
+      "virality_score": 57,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261121_1451_card3_916.png",
-        "169": "cards/20261121_1451_card3_169.png"
+        "916": "cards/20261122_0234_card3_916.png",
+        "169": "cards/20261122_0234_card3_169.png"
       }
     }
   ]
