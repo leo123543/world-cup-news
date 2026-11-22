@@ -1,41 +1,43 @@
 {
-  "generated_at": "2026-11-22T02:34:48.330505+08:00",
-  "generated_at_display": "Nov 22, 2026 · 02:34 AM HKT",
+  "generated_at": "2026-11-22T14:24:37.034447+08:00",
+  "generated_at_display": "Nov 22, 2026 · 02:24 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "European football: Noslin's double helps Lazio extend Serie A lead; Nmecha sends Dortmund top",
-      "source": "The Guardian",
-      "virality_score": 62,
-      "pub_ago": "47m ago",
+      "title": "Las Vegas Grand Prix - Race highlights",
+      "source": "Sky Sports",
+      "virality_score": 63,
+      "pub_ago": "42m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261122_0234_card1_916.png",
-        "169": "cards/20261122_0234_card1_169.png"
+        "916": "cards/20261122_1424_card1_916.png",
+        "169": "cards/20261122_1424_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "'Officials can't use common sense' - was Rogers handball correct?",
-      "source": "BBC Sport",
-      "virality_score": 58,
-      "pub_ago": "4m ago",
+      "title": "Verstappen wins wild Las Vegas GP as Ferraris collide again",
+      "source": "Sky Sports",
+      "virality_score": 48,
+      "pub_ago": "44m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261122_0234_card2_916.png",
-        "169": "cards/20261122_0234_card2_169.png"
+        "916": "cards/20261122_1424_card2_916.png",
+        "169": "cards/20261122_1424_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Teenage ace Williams-Barnett puts Tottenham on path to win over Ipswich",
+      "title": "Kansas City Current stun Washington Spirit to win NWSL Championship - as it happened",
       "source": "The Guardian",
-      "virality_score": 57,
-      "pub_ago": "1h ago",
-      "teams": [],
+      "virality_score": 44,
+      "pub_ago": "2h ago",
+      "teams": [
+        "Brazil"
+      ],
       "files": {
-        "916": "cards/20261122_0234_card3_916.png",
-        "169": "cards/20261122_0234_card3_169.png"
+        "916": "cards/20261122_1424_card3_916.png",
+        "169": "cards/20261122_1424_card3_169.png"
       }
     }
   ]
