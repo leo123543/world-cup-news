@@ -1,43 +1,41 @@
 {
-  "generated_at": "2026-11-22T14:24:37.034447+08:00",
-  "generated_at_display": "Nov 22, 2026 · 02:24 PM HKT",
+  "generated_at": "2026-11-23T02:56:41.899409+08:00",
+  "generated_at_display": "Nov 23, 2026 · 02:56 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Las Vegas Grand Prix - Race highlights",
-      "source": "Sky Sports",
-      "virality_score": 63,
-      "pub_ago": "42m ago",
+      "title": "European football: Barcelona roar back from two goals down to sink Villarreal",
+      "source": "The Guardian",
+      "virality_score": 59,
+      "pub_ago": "2h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261122_1424_card1_916.png",
-        "169": "cards/20261122_1424_card1_169.png"
+        "916": "cards/20261123_0256_card1_916.png",
+        "169": "cards/20261123_0256_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Verstappen wins wild Las Vegas GP as Ferraris collide again",
-      "source": "Sky Sports",
-      "virality_score": 48,
-      "pub_ago": "44m ago",
+      "title": "Man Utd score dramatic late winner to extend record run",
+      "source": "BBC Sport",
+      "virality_score": 59,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261122_1424_card2_916.png",
-        "169": "cards/20261122_1424_card2_169.png"
+        "916": "cards/20261123_0256_card2_916.png",
+        "169": "cards/20261123_0256_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Kansas City Current stun Washington Spirit to win NWSL Championship - as it happened",
-      "source": "The Guardian",
-      "virality_score": 44,
-      "pub_ago": "2h ago",
-      "teams": [
-        "Brazil"
-      ],
+      "title": "The red card that changed Liverpool-Man Utd: correct call?",
+      "source": "BBC Sport",
+      "virality_score": 55,
+      "pub_ago": "1h ago",
+      "teams": [],
       "files": {
-        "916": "cards/20261122_1424_card3_916.png",
-        "169": "cards/20261122_1424_card3_169.png"
+        "916": "cards/20261123_0256_card3_916.png",
+        "169": "cards/20261123_0256_card3_169.png"
       }
     }
   ]
