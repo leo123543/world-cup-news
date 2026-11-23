@@ -1,41 +1,43 @@
 {
-  "generated_at": "2026-11-23T02:56:41.899409+08:00",
-  "generated_at_display": "Nov 23, 2026 · 02:56 AM HKT",
+  "generated_at": "2026-11-23T15:14:55.364515+08:00",
+  "generated_at_display": "Nov 23, 2026 · 03:14 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "European football: Barcelona roar back from two goals down to sink Villarreal",
-      "source": "The Guardian",
-      "virality_score": 59,
-      "pub_ago": "2h ago",
-      "teams": [],
+      "title": "Qatar GP: UK schedule and how to watch on Sky Sports",
+      "source": "Sky Sports",
+      "virality_score": 61,
+      "pub_ago": "1h ago",
+      "teams": [
+        "Qatar"
+      ],
       "files": {
-        "916": "cards/20261123_0256_card1_916.png",
-        "169": "cards/20261123_0256_card1_169.png"
+        "916": "cards/20261123_1514_card1_916.png",
+        "169": "cards/20261123_1514_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Man Utd score dramatic late winner to extend record run",
+      "title": "Who am I? Plus today's other quizzes",
       "source": "BBC Sport",
-      "virality_score": 59,
-      "pub_ago": "1h ago",
+      "virality_score": 53,
+      "pub_ago": "43m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261123_0256_card2_916.png",
-        "169": "cards/20261123_0256_card2_169.png"
+        "916": "cards/20261123_1514_card2_916.png",
+        "169": "cards/20261123_1514_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "The red card that changed Liverpool-Man Utd: correct call?",
+      "title": "One of football's most-hyped 16-year-olds - what next for JJ Gabriel?",
       "source": "BBC Sport",
-      "virality_score": 55,
-      "pub_ago": "1h ago",
+      "virality_score": 52,
+      "pub_ago": "56m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261123_0256_card3_916.png",
-        "169": "cards/20261123_0256_card3_169.png"
+        "916": "cards/20261123_1514_card3_916.png",
+        "169": "cards/20261123_1514_card3_169.png"
       }
     }
   ]
