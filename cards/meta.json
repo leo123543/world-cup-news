@@ -1,43 +1,45 @@
 {
-  "generated_at": "2026-11-23T15:14:55.364515+08:00",
-  "generated_at_display": "Nov 23, 2026 · 03:14 PM HKT",
+  "generated_at": "2026-11-24T07:14:55.684811+08:00",
+  "generated_at_display": "Nov 24, 2026 · 07:14 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Qatar GP: UK schedule and how to watch on Sky Sports",
-      "source": "Sky Sports",
-      "virality_score": 61,
-      "pub_ago": "1h ago",
+      "title": "Hosting World Cup means decade of excitement - Weir",
+      "source": "BBC Sport",
+      "virality_score": 63,
+      "pub_ago": "2h ago",
       "teams": [
-        "Qatar"
+        "England",
+        "Wales",
+        "Scotland"
       ],
       "files": {
-        "916": "cards/20261123_1514_card1_916.png",
-        "169": "cards/20261123_1514_card1_169.png"
+        "916": "cards/20261124_0714_card1_916.png",
+        "169": "cards/20261124_0714_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Who am I? Plus today's other quizzes",
+      "title": "De Bruyne's feelings for Man City will 'never change'",
       "source": "BBC Sport",
-      "virality_score": 53,
-      "pub_ago": "43m ago",
+      "virality_score": 58,
+      "pub_ago": "2h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261123_1514_card2_916.png",
-        "169": "cards/20261123_1514_card2_169.png"
+        "916": "cards/20261124_0714_card2_916.png",
+        "169": "cards/20261124_0714_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "One of football's most-hyped 16-year-olds - what next for JJ Gabriel?",
+      "title": "Moyes questions Tarkowski red in Brentford loss",
       "source": "BBC Sport",
-      "virality_score": 52,
-      "pub_ago": "56m ago",
+      "virality_score": 57,
+      "pub_ago": "19m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261123_1514_card3_916.png",
-        "169": "cards/20261123_1514_card3_169.png"
+        "916": "cards/20261124_0714_card3_916.png",
+        "169": "cards/20261124_0714_card3_169.png"
       }
     }
   ]
