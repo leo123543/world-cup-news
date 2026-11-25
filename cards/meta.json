@@ -1,41 +1,43 @@
 {
-  "generated_at": "2026-11-25T05:51:19.137538+08:00",
-  "generated_at_display": "Nov 25, 2026 · 05:51 AM HKT",
+  "generated_at": "2026-11-25T16:09:28.572908+08:00",
+  "generated_at_display": "Nov 25, 2026 · 04:09 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "Pochettino leads Man Utd fury at Yoro red card ruling",
+      "title": "Celtic consider move for midfielder Ashour - gossip",
       "source": "BBC Sport",
-      "virality_score": 57,
-      "pub_ago": "23m ago",
-      "teams": [],
+      "virality_score": 54,
+      "pub_ago": "14m ago",
+      "teams": [
+        "Egypt"
+      ],
       "files": {
-        "916": "cards/20261125_0551_card1_916.png",
-        "169": "cards/20261125_0551_card1_169.png"
+        "916": "cards/20261125_1609_card1_916.png",
+        "169": "cards/20261125_1609_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Oxford beat Spurs U21s to seal EFL Trophy progress",
-      "source": "BBC Sport",
-      "virality_score": 56,
-      "pub_ago": "42m ago",
-      "teams": [],
-      "files": {
-        "916": "cards/20261125_0551_card2_916.png",
-        "169": "cards/20261125_0551_card2_169.png"
-      }
-    },
-    {
-      "rank": 3,
-      "title": "Bayern hold 'constructive' talks over Musiala's health",
+      "title": "Are Manchester United this season's Tottenham?",
       "source": "BBC Sport",
       "virality_score": 52,
       "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261125_0551_card3_916.png",
-        "169": "cards/20261125_0551_card3_169.png"
+        "916": "cards/20261125_1609_card2_916.png",
+        "169": "cards/20261125_1609_card2_169.png"
+      }
+    },
+    {
+      "rank": 3,
+      "title": "How to unearth young stars, the Bayern Munich way",
+      "source": "BBC Sport",
+      "virality_score": 52,
+      "pub_ago": "46m ago",
+      "teams": [],
+      "files": {
+        "916": "cards/20261125_1609_card3_916.png",
+        "169": "cards/20261125_1609_card3_169.png"
       }
     }
   ]
