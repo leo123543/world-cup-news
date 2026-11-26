@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-11-26T15:58:28.338099+08:00",
-  "generated_at_display": "Nov 26, 2026 · 03:58 PM HKT",
+  "generated_at": "2026-11-27T04:49:30.309083+08:00",
+  "generated_at_display": "Nov 27, 2026 · 04:49 AM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "What impact will tyre-limit rule have on Qatar GP?",
-      "source": "Sky Sports",
-      "virality_score": 58,
+      "title": "Carsley eyes Euros history with England U21s after draw",
+      "source": "BBC Sport",
+      "virality_score": 55,
       "pub_ago": "1h ago",
       "teams": [
-        "Qatar"
+        "England"
       ],
       "files": {
-        "916": "cards/20261126_1558_card1_916.png",
-        "169": "cards/20261126_1558_card1_169.png"
+        "916": "cards/20261127_0449_card1_916.png",
+        "169": "cards/20261127_0449_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Dundee United's Farrugia out until new year - gossip",
-      "source": "BBC Sport",
-      "virality_score": 57,
-      "pub_ago": "15m ago",
+      "title": "'Losing respect for him' - Pundits react to stunning Rodgers claims",
+      "source": "Sky Sports",
+      "virality_score": 53,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261126_1558_card2_916.png",
-        "169": "cards/20261126_1558_card2_169.png"
+        "916": "cards/20261127_0449_card2_916.png",
+        "169": "cards/20261127_0449_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Why KMI Panel frustrates referees too - and impacts their salary",
+      "title": "Referee being 'drunk' claims are 'entirely unfounded'",
       "source": "BBC Sport",
-      "virality_score": 53,
-      "pub_ago": "29m ago",
+      "virality_score": 50,
+      "pub_ago": "1h ago",
       "teams": [],
       "files": {
-        "916": "cards/20261126_1558_card3_916.png",
-        "169": "cards/20261126_1558_card3_169.png"
+        "916": "cards/20261127_0449_card3_916.png",
+        "169": "cards/20261127_0449_card3_169.png"
       }
     }
   ]
