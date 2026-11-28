@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-11-28T04:34:41.223256+08:00",
-  "generated_at_display": "Nov 28, 2026 · 04:34 AM HKT",
+  "generated_at": "2026-11-28T15:29:42.439260+08:00",
+  "generated_at_display": "Nov 28, 2026 · 03:29 PM HKT",
   "cards": [
     {
       "rank": 1,
-      "title": "'It's a WORLDIE!' - Igor Jesus shocks Chelsea with stunning volley",
-      "source": "Sky Sports",
-      "virality_score": 57,
+      "title": "Who am I? Plus today's other quizzes",
+      "source": "BBC Sport",
+      "virality_score": 54,
       "pub_ago": "24m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261128_0434_card1_916.png",
-        "169": "cards/20261128_0434_card1_169.png"
+        "916": "cards/20261128_1529_card1_916.png",
+        "169": "cards/20261128_1529_card1_169.png"
       }
     },
     {
       "rank": 2,
-      "title": "Don't sleep on the NFL 'uncs' - can they finally win a Super Bowl?",
-      "source": "Sky Sports",
-      "virality_score": 48,
-      "pub_ago": "1h ago",
+      "title": "'It doesn't come from me' - Eckert irked by Southampton's jibes at Boro",
+      "source": "BBC Sport",
+      "virality_score": 53,
+      "pub_ago": "35m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261128_0434_card2_916.png",
-        "169": "cards/20261128_0434_card2_169.png"
+        "916": "cards/20261128_1529_card2_916.png",
+        "169": "cards/20261128_1529_card2_169.png"
       }
     },
     {
       "rank": 3,
-      "title": "Antonelli: Pole battle will be close between me and Russell",
-      "source": "Sky Sports",
-      "virality_score": 48,
-      "pub_ago": "44m ago",
+      "title": "How a football team rebuilt after 19 players died in plane crash",
+      "source": "BBC Sport",
+      "virality_score": 52,
+      "pub_ago": "58m ago",
       "teams": [],
       "files": {
-        "916": "cards/20261128_0434_card3_916.png",
-        "169": "cards/20261128_0434_card3_169.png"
+        "916": "cards/20261128_1529_card3_916.png",
+        "169": "cards/20261128_1529_card3_169.png"
       }
     }
   ]
